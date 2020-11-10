@@ -1,0 +1,121 @@
+/* CVG HTML Data Main CSS Document */
+body,td,th {
+	font-family:"ºÚÌå";
+	line-height:105%;
+}
+body {
+	cursor: default;
+}
+.bgtrans {
+	filter:alpha(opacity=20);
+}
+.hilight1{
+	color:#cc3300;
+}
+.hilight2{
+	color:#0033cc;
+}
+/*------------------------*/
+.dateOri{
+	font-size:20px;
+	margin-top:5px;
+}
+.btnOri {
+	font-size:20px;
+	margin-top:5px;
+}
+.checkOri{
+	font-size:20px;
+	margin-top:4px;
+}
+.cmtbtnOri {
+	font-size:20px;
+	font-weight:normal;
+	padding-top:3px;
+}
+.cmtEvntOri{
+	font-size:14px;
+	line-height:100%;
+	padding-left:8px;
+}
+.commentOri{
+	line-height:120%;
+	font-size:18px;
+}
+.cmtoptOri{
+	margin-left:-10px;
+	font-size:16px;
+	color:white;
+	line-height:110%;
+}
+.hilight0Ori{
+	font-size:26px;
+	font-weight:bold;
+}
+.routebtnOri {
+	font-size:12px;
+	font-weight:normal;
+	margin-top:4px;
+}
+.headerCOri {
+	font-size:50px;
+	line-height:100%;
+}
+.headerEOri {
+	font-size:24px;
+	font-family:"Arial";
+	margin-top:-10px;
+	line-height:100%;
+}
+/*------------------------*/
+.dateScreen{
+	font-size:12px;
+	letter-spacing:0px;
+}
+.btnScreen {
+	font-size:12px;
+	margin-top:1px;
+}
+.checkScreen {
+	font-size:12px;
+	margin-top:1px;
+}
+.cmtbtnScreen {
+	font-size:12px;
+	font-weight:normal;
+	padding-top:3px;
+}
+.cmtEvntScreen{
+	font-size:8px;
+	line-height:100%;
+	padding-left:5px;
+}
+.commentScreen{
+	line-height:120%;
+	font-size:11px;
+}
+.cmtoptScreen{
+	font-size:11px;
+	color:white;
+	line-height:100%;
+	margin-left:-10px;
+}
+.hilight0Screen{
+	font-size:16px;
+	font-weight:bold;
+}
+.routebtnScreen {
+	font-size:9px;
+	font-weight:normal;
+	margin-top:-1px;
+}
+.headerCScreen {
+	font-size:30px;
+	line-height:100%;
+}
+.headerEScreen {
+	font-size:14px;
+	font-family:"Arial";
+	margin-top:-10px;
+	line-height:100%;
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta http-equiv="Page-Exit" CONTENT="progid:DXImageTransform.Microsoft.GradientWipe(Duration=0.5,GradientSize=0.5,wipestyle=0,motion=forward">
+<title>CVG HTML VERSION</title>
+<link type="text/css" rel="stylesheet" href="cvg.css">
+</head>
+<!--CVG HTML VER MAIN PAGE/Written By Ligueston@Kamikey-->
+<body onselectstart="return false;">
+<form id="jsform" action="#hkuclion" method="get" style="display:none; ">
+	<input id="jsfile" type="text" name="page" value="">
+	<input id="jssize" type="text" name="size" value="">
+	<input id="jslink" type="text" name="jslink" value="">
+</form>
+<input id="loadingStatus" type="text" size="16" style="display:block; border:0px;" readonly="true" value="脚本读取中...">
+<noscript>如果您禁止脚本运行,将不能看到此页面的内容</noscript>
+<button id="loadingStatusBtn" onClick="skipFileCheck()" style="display:none;">跳过文件缓存</button>
+</body>
+<script language="javascript" src="cvg.js"></script>
+<SCRIPT language="VBScript">
+Function bytes2BSTR(vIn)
+    strReturn = ""
+    For i = 1 To LenB(vIn)
+        ThisCharCode = AscB(MidB(vIn,i,1))
+        If ThisCharCode < &H80 Then
+            strReturn = strReturn & Chr(ThisCharCode)
+        Else
+            NextCharCode = AscB(MidB(vIn,i+1,1))
+            strReturn = strReturn & Chr(CLng(ThisCharCode) * &H100 + CInt(NextCharCode))
+            i = i + 1
+        End If
+    Next
+    bytes2BSTR = strReturn
+End Function
+</script>
+<script language="javascript" src="load.js"></script>
+<script language="javascript">
+	if(checkImg)checkPic();
+	else{
+		getObjectRef("loadingStatus").style.display="none";
+		showall();
+	}
+	rightClick();
+</script>
+</html>
