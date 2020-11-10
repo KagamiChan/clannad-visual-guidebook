@@ -66,6 +66,9 @@
 			y2->int/终止y坐标*/
 
 //Basic Function
+
+const documentWrite = html => $('body').append($(html))
+
 	function GetRequest()
 	{
 		var url = location.search; //获取url中"?"符后的字串
@@ -180,7 +183,7 @@
 	}
 	function addLink(name,linkname){
 		var obj = getObjectRef(name);
-		if(obj){ obj.appendChild(document.createElement("<a name=\""+linkname+"\">")); }
+		if(obj){ $(obj).append($("<a name=\""+linkname+"\"/>")); }
 	}
 
 //Basic Vaiable
@@ -478,7 +481,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 </tr>";
 		this.HTML+="</table>";
 		this.HTML+="</div>";
-		document.write(this.HTML);
+		documentWrite(this.HTML);
 
 		this.show=			function()			{show(this.ref+"Wrap");}
 		this.hide=			function()			{hide(this.ref+"Wrap");}
@@ -533,7 +536,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		}
 		this.HTML+="</table>";
 		this.HTML+="</div>";
-		document.write(this.HTML);
+		documentWrite(this.HTML);
 
 		this.show=			function()			{show(this.ref+"Wrap");}
 		this.hide=			function()			{hide(this.ref+"Wrap");}
@@ -582,7 +585,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		this.HTML+="<div id=\""+this.ref+"Wrap\" style=\"position:absolute; width:0px; left:"+this.leftx+"px; top:"+this.topy+"px; height:0px; z-index:"+this.zindex+"; overflow:visible; visibility:hidden;\"><div id=\""+this.ref+"Link\"></div>";
 		this.HTML+="<table id=\""+this.ref+"Table\" height="+this.height+" width="+this.width+" border=0 cellpadding=0 cellspacing=0 style=\""+getBgStr(this.bgsrc)+"\" ref=\""+this.ref+"\"><tr><td width="+this.width+" align=\"center\" valign=\"middle\"><div id=\""+this.ref+"Content\" class=\""+this.css+sizestr+"\">"+this.title+"</div></td></tr></table>";
 		this.HTML+="</div>";
-		document.write(this.HTML);
+		documentWrite(this.HTML);
 
 		this.show=			function()			{show(this.ref+"Wrap");}
 		this.hide=			function()			{hide(this.ref+"Wrap");}
@@ -810,7 +813,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		//if(bw.safari&&this.icon!="")this.HTML+="tempHeight+=40;";
 		this.HTML+="commentTop=commentTop+tempHeight+"+COMMENTSPACING+";";
 		this.HTML+="<\/script>";
-		document.write(this.HTML);
+		documentWrite(this.HTML);
 
 		this.show=			function()			{show(this.ref+"Wrap");}
 		this.hide=			function()			{hide(this.ref+"Wrap");}
@@ -884,7 +887,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		}
 		this.HTML+="</div>";
 
-		document.write(this.HTML);
+		documentWrite(this.HTML);
 
 		this.show=			function()			{show(this.ref+"Wrap");}
 		this.hide=			function()			{hide(this.ref+"Wrap");}
@@ -972,7 +975,11 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		this.HTML+="<tr><td height="+BORADFOOTERHEIGHT+" align=\"center\" style=\""+getBgStr(src_board_bottom)+"\" valign=\"middle\"></td></tr>";
 		this.HTML+="</table>";
 		this.HTML+="</div>";
-		document.write(this.HTML);
+
+
+
+
+		documentWrite(this.HTML);
 
 		this.show=			function()			{show(this.ref+"Wrap");}
 		this.hide=			function()			{hide(this.ref+"Wrap");}

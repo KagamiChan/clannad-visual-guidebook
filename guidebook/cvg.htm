@@ -1,11 +1,10 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-"http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
 <meta http-equiv="Page-Exit" CONTENT="progid:DXImageTransform.Microsoft.GradientWipe(Duration=0.5,GradientSize=0.5,wipestyle=0,motion=forward">
 <title>CVG HTML VERSION</title>
 <link type="text/css" rel="stylesheet" href="cvg.css">
+<script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
 </head>
 <!--CVG HTML VER MAIN PAGE/Written By Ligueston@Kamikey-->
 <body onselectstart="return false;">
@@ -37,11 +36,14 @@ End Function
 </script>
 <script language="javascript" src="load.js"></script>
 <script language="javascript">
-	if(checkImg)checkPic();
-	else{
-		getObjectRef("loadingStatus").style.display="none";
-		showall();
-	}
-	rightClick();
+
+    $(document).ready(() => {
+        setTimeout(() => {
+            showall();
+            getObjectRef("loadingStatus").style.display="none";
+        }, 100);
+        rightClick();
+    })
+
 </script>
 </html>
