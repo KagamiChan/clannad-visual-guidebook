@@ -1,50 +1,50 @@
 // CVG HTML Data Page55 Done By Ligueston 2008.4.19
-hdft["header"]=Header("nagisa","¹ÅºÓ ä¾/ĞÒ´å ¿¡·ò","Nagisa Furukawa / Toshio Yukimura","5ÔÂ11ÈÕ","May 11th");
+hdft["header"]=Header("nagisa","å¤æ²³ æ¸š/å¹¸æ‘ ä¿Šå¤«","Nagisa Furukawa / Toshio Yukimura","5æœˆ11æ—¥","May 11th");
 
 var yLevel=0;
 //----------
 box[0]=new Array();
 yLevel+=3;
-box[0][0]=Textbox_Date(x(3.5),y(yLevel),"5ÔÂ11ÈÕ","top");
+box[0][0]=Textbox_Date(x(3.5),y(yLevel),"5æœˆ11æ—¥","top");
 //----------
 box[1]=new Array();
 yLevel+=2;
-box[1][0]=Textbox_Selection(x(3.5),y(yLevel),"ÊÂ·¢ºóÇïÉúµÄ¶¯Ò¡");
+box[1][0]=Textbox_Selection(x(3.5),y(yLevel),"äº‹å‘åç§‹ç”Ÿçš„åŠ¨æ‘‡");
 line[line.length]=Link(box[1][0],box[0][0]);
 //----------
 box[2]=new Array();
 yLevel+=3;
-box[2][0]=Textbox_Option(x(2.5),y(yLevel),"ÄãÊÇ¸öºÜ°ôµÄ¸¸Ç×","l|ä¾");
+box[2][0]=Textbox_Option(x(2.5),y(yLevel),"ä½ æ˜¯ä¸ªå¾ˆæ£’çš„çˆ¶äº²","l|æ¸š");
 line[line.length]=Link(box[2][0],box[1][0]);
-box[2][1]=Textbox_Option(x(4.5),y(yLevel),"Äã×÷Îª¸¸Ç×ÕæÊÇÊ§Ö°","r|ä¾");
+box[2][1]=Textbox_Option(x(4.5),y(yLevel),"ä½ ä½œä¸ºçˆ¶äº²çœŸæ˜¯å¤±èŒ","r|æ¸š");
 line[line.length]=Link(box[2][1],box[1][0]);
 //----------
 box[3]=new Array();
 yLevel+=2;
-box[3][0]=Textbox_Selection(x(2.5),y(yLevel),"ÔÚÎèÌ¨ÉÏÖ¹²»×¡¿ŞÆüµÄä¾");
+box[3][0]=Textbox_Selection(x(2.5),y(yLevel),"åœ¨èˆå°ä¸Šæ­¢ä¸ä½å“­æ³£çš„æ¸š");
 line[line.length]=Link(box[3][0],box[2][0]);
 //----------
 box[4]=new Array();
 yLevel+=3;
-box[4][0]=Textbox_Option(x(1.5),y(yLevel),"ºôº°","l|ä¾");
+box[4][0]=Textbox_Option(x(1.5),y(yLevel),"å‘¼å–Š","l|æ¸š");
 line[line.length]=Link(box[4][0],box[3][0]);
-box[4][1]=Textbox_Option(x(3.5),y(yLevel),"³ÁÄ¬µØÅÔ¹Û","r|ä¾");
+box[4][1]=Textbox_Option(x(3.5),y(yLevel),"æ²‰é»˜åœ°æ—è§‚","r|æ¸š");
 line[line.length]=Link(box[4][1],box[3][0]);
 //----------
 box[5]=new Array();
 yLevel+=2;
-box[5][0]=Textbox_Option(x(1.5),y(yLevel),"»ÃÏëÊÀ½ç£¨Ê®£©");
+box[5][0]=Textbox_Option(x(1.5),y(yLevel),"å¹»æƒ³ä¸–ç•Œï¼ˆåï¼‰");
 line[line.length]=Link(box[5][0],box[4][0]);
 //----------
 box[6]=new Array();
 yLevel+=1;
-box[6][0]=Textbox_Quit(x(3.5),y(yLevel),"ä¾ BAD ENDING");
+box[6][0]=Textbox_Quit(x(3.5),y(yLevel),"æ¸š BAD ENDING");
 line[line.length]=Link(box[6][0],box[4][1]);
 line[line.length]=Link(box[6][0],box[2][1]);
 //----------
 box[7]=new Array();
 yLevel+=1;
-box[7][0]=Textbox_Quit(x(1.5),y(yLevel),"ä¾ GOOD ENDING");
+box[7][0]=Textbox_Quit(x(1.5),y(yLevel),"æ¸š GOOD ENDING");
 line[line.length]=Link(box[7][0],box[5][0]);
 
 hdft["footer"]=Footer(liny(1),55);

@@ -12,7 +12,7 @@ else{
 var src_logo_kami=sizestr+"/Misc/Misc_Logo_01"+appendix;
 var src_logo_keyfc=sizestr+"/Misc/Misc_Logo_02"+appendix;
 var src_logo_clnd=sizestr+"/Misc/Misc_Logo_03"+appendix;
-hdft["header"]=Header("public","Ä¿Â¼","Content","","");
+hdft["header"]=Header("public","ç›®å½•","Content","","");
 var yLevel=2;
 
 var moveBoard=Board(liny(11),liny(12));
@@ -22,260 +22,260 @@ tempFuncOut=function(){moveBoard.hide();}
 box[0]=new Array();
 yLevel+=3;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"12%\" align=\"left\">"+getImgStr(src_route_public,2*TITLEMARKSIZE/3,2*TITLEMARKSIZE/3)+"</td><td width=\"33%\" align=\"left\"><div class=\"menuL"+sizestr+"\" style=\"height:"+STRIPHEIGHT+"px; width:"+STRIPWIDTH+"px; "+getBgStr(src_strip_bg)+"\">¡¡Ê¹ÓÃÖ¸ÄÏ</div></td><td width=\"55%\" align=\"right\">"+getImgStr(src_footer_page[0],NUMBERWIDTH,NUMBERHEIGHT)+getImgStr(src_footer_page[1],NUMBERWIDTH,NUMBERHEIGHT)+"</td></tr>\
+<tr><td width=\"12%\" align=\"left\">"+getImgStr(src_route_public,2*TITLEMARKSIZE/3,2*TITLEMARKSIZE/3)+"</td><td width=\"33%\" align=\"left\"><div class=\"menuL"+sizestr+"\" style=\"height:"+STRIPHEIGHT+"px; width:"+STRIPWIDTH+"px; "+getBgStr(src_strip_bg)+"\">ã€€ä½¿ç”¨æŒ‡å—</div></td><td width=\"55%\" align=\"right\">"+getImgStr(src_footer_page[0],NUMBERWIDTH,NUMBERHEIGHT)+getImgStr(src_footer_page[1],NUMBERWIDTH,NUMBERHEIGHT)+"</td></tr>\
 </table>";
 box[0][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 board[board.length]=Board(liny(0.5),liny(2.5));
 box[0][0].addClick(function(){gotopage(1)});
-box[0][0].addTitle("µã»÷×ªµ½µÚ1Ò³");
+box[0][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬1é¡µ");
 //----------
 box[1]=new Array();
 yLevel+=4;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"12%\" align=\"left\">"+getImgStr(src_route_public,2*TITLEMARKSIZE/3,2*TITLEMARKSIZE/3)+"</td><td width=\"33%\" align=\"left\"><div class=\"menuL"+sizestr+"\" style=\"height:"+STRIPHEIGHT+"px; width:"+STRIPWIDTH+"px; "+getBgStr(src_strip_bg)+"\">¡¡¹«¹²ÏßÂ·</div></td><td width=\"55%\" align=\"right\">"+getImgStr(src_footer_page[0],NUMBERWIDTH,NUMBERHEIGHT)+getImgStr(src_footer_page[1],NUMBERWIDTH,NUMBERHEIGHT)+"</td></tr>\
+<tr><td width=\"12%\" align=\"left\">"+getImgStr(src_route_public,2*TITLEMARKSIZE/3,2*TITLEMARKSIZE/3)+"</td><td width=\"33%\" align=\"left\"><div class=\"menuL"+sizestr+"\" style=\"height:"+STRIPHEIGHT+"px; width:"+STRIPWIDTH+"px; "+getBgStr(src_strip_bg)+"\">ã€€å…¬å…±çº¿è·¯</div></td><td width=\"55%\" align=\"right\">"+getImgStr(src_footer_page[0],NUMBERWIDTH,NUMBERHEIGHT)+getImgStr(src_footer_page[1],NUMBERWIDTH,NUMBERHEIGHT)+"</td></tr>\
 </table>";
 box[1][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 board[board.length]=Board(liny(0.5),liny(2.5));
 box[1][0].addClick(function(){gotopage(1,"p1_header2")});
-box[1][0].addTitle("µã»÷×ªµ½µÚ1Ò³");
+box[1][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬1é¡µ");
 //----------
 box[2]=new Array();
 yLevel+=3;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_public,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">ĞÄÌø¡î¸ßÖĞ</span><span class=\"menuSE"+sizestr+"\">Heartbeat ¡î High School</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">24</td></tr>\
+<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_public,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">å¿ƒè·³â˜†é«˜ä¸­</span><span class=\"menuSE"+sizestr+"\">Heartbeat â˜† High School</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">24</td></tr>\
 </table>";
 box[2][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[2][0].addClick(function(){gotopage(24)});
-box[2][0].addTitle("µã»÷×ªµ½µÚ24Ò³");
+box[2][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬24é¡µ");
 box[2][0].addOver(tempFuncOver);
 box[2][0].addOut(tempFuncOut);
 //----------
 box[3]=new Array();
 yLevel+=2;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_public,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">´ºÔ­µÄÍæĞ¦</span><span class=\"menuSE"+sizestr+"\">Sunohara's Joke</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">25</td></tr>\
+<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_public,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">æ˜¥åŸçš„ç©ç¬‘</span><span class=\"menuSE"+sizestr+"\">Sunohara's Joke</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">25</td></tr>\
 </table>";
 box[3][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[3][0].addClick(function(){gotopage(25)});
-box[3][0].addTitle("µã»÷×ªµ½µÚ25Ò³");
+box[3][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬25é¡µ");
 box[3][0].addOver(tempFuncOver);
 box[3][0].addOut(tempFuncOut);
 //----------
 box[4]=new Array();
 yLevel+=3;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"12%\" align=\"left\">"+getImgStr(src_route_public,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"33%\" align=\"left\"><div class=\"menuL"+sizestr+"\" style=\"height:"+STRIPHEIGHT+"px; width:"+STRIPWIDTH+"px; "+getBgStr(src_strip_bg)+"\">¡¡½ÇÉ«ÏßÂ·</div></td><td width=\"55%\" align=\"right\">"+getImgStr(src_footer_page[2],NUMBERWIDTH,NUMBERHEIGHT)+getImgStr(src_footer_page[6],NUMBERWIDTH,NUMBERHEIGHT)+"</td></tr>\
+<tr><td width=\"12%\" align=\"left\">"+getImgStr(src_route_public,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"33%\" align=\"left\"><div class=\"menuL"+sizestr+"\" style=\"height:"+STRIPHEIGHT+"px; width:"+STRIPWIDTH+"px; "+getBgStr(src_strip_bg)+"\">ã€€è§’è‰²çº¿è·¯</div></td><td width=\"55%\" align=\"right\">"+getImgStr(src_footer_page[2],NUMBERWIDTH,NUMBERHEIGHT)+getImgStr(src_footer_page[6],NUMBERWIDTH,NUMBERHEIGHT)+"</td></tr>\
 </table>";
 box[4][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 board[board.length]=Board(liny(0.5),liny(2.5));
 box[4][0].addClick(function(){gotopage(26)});
-box[4][0].addTitle("µã»÷×ªµ½µÚ26Ò³");
+box[4][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬26é¡µ");
 //----------
 box[5]=new Array();
 yLevel+=3;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_misae,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">ÏàÀÖ ÃÀ×ôÖ¦</span><span class=\"menuSE"+sizestr+"\">Misae Sagara</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">26</td></tr>\
+<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_misae,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">ç›¸ä¹ ç¾ä½æ</span><span class=\"menuSE"+sizestr+"\">Misae Sagara</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">26</td></tr>\
 </table>";
 box[5][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[5][0].addClick(function(){gotopage(26)});
-box[5][0].addTitle("µã»÷×ªµ½µÚ26Ò³");
+box[5][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬26é¡µ");
 box[5][0].addOver(tempFuncOver);
 box[5][0].addOut(tempFuncOut);
 //----------
 box[6]=new Array();
 yLevel+=2;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_tomoyo,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">ÛàÉÏ ÖÇ´ú</span><span class=\"menuSE"+sizestr+"\">Tomoyo Sakagami</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">27</td></tr>\
+<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_tomoyo,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">å‚ä¸Š æ™ºä»£</span><span class=\"menuSE"+sizestr+"\">Tomoyo Sakagami</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">27</td></tr>\
 </table>";
 box[6][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[6][0].addClick(function(){gotopage(27)});
-box[6][0].addTitle("µã»÷×ªµ½µÚ27Ò³");
+box[6][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬27é¡µ");
 box[6][0].addOver(tempFuncOver);
 box[6][0].addOut(tempFuncOut);
 //----------
 box[7]=new Array();
 yLevel+=2;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"14%\" align=\"center\" height=\""+TITLEMARKSIZE/2+"\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\" style=\"color:gray;\">ÖÇ´ú64HIT</span><span class=\"menuSE"+sizestr+"\" style=\"color:gray;\">Tomoyo's 64Hit</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">30</td></tr>\
+<tr><td width=\"14%\" align=\"center\" height=\""+TITLEMARKSIZE/2+"\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\" style=\"color:gray;\">æ™ºä»£64HIT</span><span class=\"menuSE"+sizestr+"\" style=\"color:gray;\">Tomoyo's 64Hit</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">30</td></tr>\
 </table>";
 box[7][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[7][0].addClick(function(){gotopage(30)});
-box[7][0].addTitle("µã»÷×ªµ½µÚ30Ò³");
+box[7][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬30é¡µ");
 box[7][0].addOver(tempFuncOver);
 box[7][0].addOut(tempFuncOut);
 //----------
 box[8]=new Array();
 yLevel+=2;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_yukine,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">¹¬Ôó ÓĞ¼ÍÄş</span><span class=\"menuSE"+sizestr+"\">Yukine Miyazawa</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">31</td></tr>\
+<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_yukine,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">å®«æ³½ æœ‰çºªå®</span><span class=\"menuSE"+sizestr+"\">Yukine Miyazawa</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">31</td></tr>\
 </table>";
 box[8][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[8][0].addClick(function(){gotopage(31)});
-box[8][0].addTitle("µã»÷×ªµ½µÚ31Ò³");
+box[8][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬31é¡µ");
 box[8][0].addOver(tempFuncOver);
 box[8][0].addOut(tempFuncOut);
 //----------
 box[9]=new Array();
 yLevel+=2;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"14%\" align=\"center\" height=\""+TITLEMARKSIZE/2+"\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\" style=\"color:gray;\">ÓĞ¼ÍÄşµÄÖäÓï</span><span class=\"menuSE"+sizestr+"\" style=\"color:gray;\">Yukine's Spells</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">32</td></tr>\
+<tr><td width=\"14%\" align=\"center\" height=\""+TITLEMARKSIZE/2+"\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\" style=\"color:gray;\">æœ‰çºªå®çš„å’’è¯­</span><span class=\"menuSE"+sizestr+"\" style=\"color:gray;\">Yukine's Spells</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">32</td></tr>\
 </table>";
 box[9][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[9][0].addClick(function(){gotopage(32)});
-box[9][0].addTitle("µã»÷×ªµ½µÚ32Ò³");
+box[9][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬32é¡µ");
 box[9][0].addOver(tempFuncOver);
 box[9][0].addOut(tempFuncOut);
 //----------
 box[10]=new Array();
 yLevel+=2;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"14%\" align=\"center\" height=\""+TITLEMARKSIZE/2+"\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\" style=\"color:gray;\">ÌåÓı²Ö¿âÊÂ¼ş</span><span class=\"menuSE"+sizestr+"\" style=\"color:gray;\">Gym Warehouse Event</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">33</td></tr>\
+<tr><td width=\"14%\" align=\"center\" height=\""+TITLEMARKSIZE/2+"\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\" style=\"color:gray;\">ä½“è‚²ä»“åº“äº‹ä»¶</span><span class=\"menuSE"+sizestr+"\" style=\"color:gray;\">Gym Warehouse Event</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">33</td></tr>\
 </table>";
 box[10][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[10][0].addClick(function(){gotopage(33)});
-box[10][0].addTitle("µã»÷×ªµ½µÚ33Ò³");
+box[10][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬33é¡µ");
 box[10][0].addOver(tempFuncOver);
 box[10][0].addOut(tempFuncOut);
 //----------
 box[11]=new Array();
 yLevel+=2;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_fujibayashi,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">ÌÙÁÖ ĞÓ/ÌÙÁÖ é£</span><span class=\"menuSE"+sizestr+"\">Kyou Fujibayashi / Ryou Fujibayashi</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">34</td></tr>\
+<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_fujibayashi,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">è—¤æ— æ/è—¤æ— æ¤‹</span><span class=\"menuSE"+sizestr+"\">Kyou Fujibayashi / Ryou Fujibayashi</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">34</td></tr>\
 </table>";
 box[11][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[11][0].addClick(function(){gotopage(34)});
-box[11][0].addTitle("µã»÷×ªµ½µÚ34Ò³");
+box[11][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬34é¡µ");
 box[11][0].addOver(tempFuncOver);
 box[11][0].addOut(tempFuncOut);
 //----------
 box[12]=new Array();
 yLevel+=2;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_kappei,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">–° Ê¤Æ½</span><span class=\"menuSE"+sizestr+"\">Kappei Hiiragi</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">37</td></tr>\
+<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_kappei,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">æŸŠ èƒœå¹³</span><span class=\"menuSE"+sizestr+"\">Kappei Hiiragi</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">37</td></tr>\
 </table>";
 box[12][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[12][0].addClick(function(){gotopage(37)});
-box[12][0].addTitle("µã»÷×ªµ½µÚ37Ò³");
+box[12][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬37é¡µ");
 box[12][0].addOver(tempFuncOver);
 box[12][0].addOut(tempFuncOut);
 //----------
 box[13]=new Array();
 yLevel+=2;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_sunohara,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">´ºÔ­ ÑôÆ½/´ºÔ­ Ñ¿ÒÂ</span><span class=\"menuSE"+sizestr+"\">Youhei Sunohara / Mei Sunohara</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">38</td></tr>\
+<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_sunohara,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">æ˜¥åŸ é˜³å¹³/æ˜¥åŸ èŠ½è¡£</span><span class=\"menuSE"+sizestr+"\">Youhei Sunohara / Mei Sunohara</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">38</td></tr>\
 </table>";
 box[13][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[13][0].addClick(function(){gotopage(38)});
-box[13][0].addTitle("µã»÷×ªµ½µÚ38Ò³");
+box[13][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬38é¡µ");
 box[13][0].addOver(tempFuncOver);
 box[13][0].addOut(tempFuncOut);
 //----------
 box[14]=new Array();
 yLevel+=2;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"14%\" align=\"center\" height=\""+TITLEMARKSIZE/2+"\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\" style=\"color:gray;\">Î±Å®ÓÑÊÂ¼ş</span><span class=\"menuSE"+sizestr+"\" style=\"color:gray;\">Fake Girlfriend Event</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">39</td></tr>\
+<tr><td width=\"14%\" align=\"center\" height=\""+TITLEMARKSIZE/2+"\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\" style=\"color:gray;\">ä¼ªå¥³å‹äº‹ä»¶</span><span class=\"menuSE"+sizestr+"\" style=\"color:gray;\">Fake Girlfriend Event</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">39</td></tr>\
 </table>";
 box[14][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[14][0].addClick(function(){gotopage(39)});
-box[14][0].addTitle("µã»÷×ªµ½µÚ39Ò³");
+box[14][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬39é¡µ");
 box[14][0].addOver(tempFuncOver);
 box[14][0].addOut(tempFuncOut);
 //----------
 box[15]=new Array();
 yLevel+=2;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_kotomi,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">Ò»Ö®äş ÇÙÃÀ</span><span class=\"menuSE"+sizestr+"\">Kotomi Ichinose</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">40</td></tr>\
+<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_kotomi,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">ä¸€ä¹‹æ¿‘ ç´ç¾</span><span class=\"menuSE"+sizestr+"\">Kotomi Ichinose</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">40</td></tr>\
 </table>";
 box[15][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[15][0].addClick(function(){gotopage(40)});
-box[15][0].addTitle("µã»÷×ªµ½µÚ40Ò³");
+box[15][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬40é¡µ");
 box[15][0].addOver(tempFuncOver);
 box[15][0].addOut(tempFuncOut);
 //----------
 box[16]=new Array();
 yLevel+=2;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_fuuko,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">ÒÁ´µ ·ç×Ó</span><span class=\"menuSE"+sizestr+"\">Fuuko Ibuki</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">43</td></tr>\
+<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_fuuko,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">ä¼Šå¹ é£å­</span><span class=\"menuSE"+sizestr+"\">Fuuko Ibuki</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">43</td></tr>\
 </table>";
 box[16][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[16][0].addClick(function(){gotopage(43)});
-box[16][0].addTitle("µã»÷×ªµ½µÚ43Ò³");
+box[16][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬43é¡µ");
 box[16][0].addOver(tempFuncOver);
 box[16][0].addOut(tempFuncOut);
 //----------
 box[17]=new Array();
 yLevel+=2;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"14%\" align=\"center\" height=\""+TITLEMARKSIZE/2+"\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\" style=\"color:gray;\">ÌØ±ğÊÚ¿Î½ÌÊ¦ÍÆÑ¡</span><span class=\"menuSE"+sizestr+"\" style=\"color:gray;\">Election for Teacher of Special Class</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">47</td></tr>\
+<tr><td width=\"14%\" align=\"center\" height=\""+TITLEMARKSIZE/2+"\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\" style=\"color:gray;\">ç‰¹åˆ«æˆè¯¾æ•™å¸ˆæ¨é€‰</span><span class=\"menuSE"+sizestr+"\" style=\"color:gray;\">Election for Teacher of Special Class</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">47</td></tr>\
 </table>";
 box[17][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[17][0].addClick(function(){gotopage(47)});
-box[17][0].addTitle("µã»÷×ªµ½µÚ47Ò³");
+box[17][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬47é¡µ");
 box[17][0].addOver(tempFuncOver);
 box[17][0].addOut(tempFuncOut);
 //----------
 box[18]=new Array();
 yLevel+=2;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"14%\" align=\"center\" height=\""+TITLEMARKSIZE/2+"\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\" style=\"color:gray;\">·ç×Ó´óÊ¦</span><span class=\"menuSE"+sizestr+"\" style=\"color:gray;\">Fukko Master</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">48</td></tr>\
+<tr><td width=\"14%\" align=\"center\" height=\""+TITLEMARKSIZE/2+"\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\" style=\"color:gray;\">é£å­å¤§å¸ˆ</span><span class=\"menuSE"+sizestr+"\" style=\"color:gray;\">Fukko Master</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">48</td></tr>\
 </table>";
 box[18][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[18][0].addClick(function(){gotopage(48)});
-box[18][0].addTitle("µã»÷×ªµ½µÚ48Ò³");
+box[18][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬48é¡µ");
 box[18][0].addOver(tempFuncOver);
 box[18][0].addOut(tempFuncOut);
 //----------
 box[19]=new Array();
 yLevel+=2;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_nagisa,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">¹ÅºÓ ä¾/ĞÒ´å ¿¡·ò</span><span class=\"menuSE"+sizestr+"\">Nagisa Furukawa / Toshio Yukimura</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">51</td></tr>\
+<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_nagisa,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">å¤æ²³ æ¸š/å¹¸æ‘ ä¿Šå¤«</span><span class=\"menuSE"+sizestr+"\">Nagisa Furukawa / Toshio Yukimura</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">51</td></tr>\
 </table>";
 box[19][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[19][0].addClick(function(){gotopage(51)});
-box[19][0].addTitle("µã»÷×ªµ½µÚ51Ò³");
+box[19][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬51é¡µ");
 box[19][0].addOver(tempFuncOver);
 box[19][0].addOut(tempFuncOut);
 //----------
 box[20]=new Array();
 yLevel+=2;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"14%\" align=\"center\" height=\""+TITLEMARKSIZE/2+"\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\" style=\"color:gray;\">3¶Ô3ÀºÇòÈü</span><span class=\"menuSE"+sizestr+"\" style=\"color:gray;\">3 on 3 Basketball Match</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">56</td></tr>\
+<tr><td width=\"14%\" align=\"center\" height=\""+TITLEMARKSIZE/2+"\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\" style=\"color:gray;\">3å¯¹3ç¯®çƒèµ›</span><span class=\"menuSE"+sizestr+"\" style=\"color:gray;\">3 on 3 Basketball Match</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">56</td></tr>\
 </table>";
 box[20][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[20][0].addClick(function(){gotopage(56)});
-box[20][0].addTitle("µã»÷×ªµ½µÚ56Ò³");
+box[20][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬56é¡µ");
 box[20][0].addOver(tempFuncOver);
 box[20][0].addOut(tempFuncOut);
 //----------
 box[21]=new Array();
 yLevel+=2;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_gunfight,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">Ç¹Õ½ÓÎÏ·/ÒµÓà°ôÇò</span><span class=\"menuSE"+sizestr+"\">Gunfight Game / Amateur Baseball</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">59</td></tr>\
+<tr><td width=\"12%\" align=\"center\">"+getImgStr(src_route_gunfight,TITLEMARKSIZE/2,TITLEMARKSIZE/2)+"</td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\">æªæˆ˜æ¸¸æˆ/ä¸šä½™æ£’çƒ</span><span class=\"menuSE"+sizestr+"\">Gunfight Game / Amateur Baseball</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">59</td></tr>\
 </table>";
 box[21][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[21][0].addClick(function(){gotopage(59)});
-box[21][0].addTitle("µã»÷×ªµ½µÚ59Ò³");
+box[21][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬59é¡µ");
 box[21][0].addOver(tempFuncOver);
 box[21][0].addOut(tempFuncOut);
 //----------
 box[22]=new Array();
 yLevel+=3;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"12%\" align=\"left\">"+getImgStr(src_route_public,2*TITLEMARKSIZE/3,2*TITLEMARKSIZE/3)+"</td><td width=\"33%\" align=\"left\"><div class=\"menuL"+sizestr+"\" style=\"height:"+STRIPHEIGHT+"px; width:"+STRIPWIDTH+"px; "+getBgStr(src_strip_bg)+"\">¡¡AFTER STORY</div></td><td width=\"55%\" align=\"right\">"+getImgStr(src_footer_page[6],NUMBERWIDTH,NUMBERHEIGHT)+getImgStr(src_footer_page[2],NUMBERWIDTH,NUMBERHEIGHT)+"</td></tr>\
+<tr><td width=\"12%\" align=\"left\">"+getImgStr(src_route_public,2*TITLEMARKSIZE/3,2*TITLEMARKSIZE/3)+"</td><td width=\"33%\" align=\"left\"><div class=\"menuL"+sizestr+"\" style=\"height:"+STRIPHEIGHT+"px; width:"+STRIPWIDTH+"px; "+getBgStr(src_strip_bg)+"\">ã€€AFTER STORY</div></td><td width=\"55%\" align=\"right\">"+getImgStr(src_footer_page[6],NUMBERWIDTH,NUMBERHEIGHT)+getImgStr(src_footer_page[2],NUMBERWIDTH,NUMBERHEIGHT)+"</td></tr>\
 </table>";
 box[22][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 board[board.length]=Board(liny(0.5),liny(2.5));
 box[22][0].addClick(function(){gotopage(62)});
-box[22][0].addTitle("µã»÷×ªµ½µÚ62Ò³");
+box[22][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬62é¡µ");
 //----------
 box[23]=new Array();
 yLevel+=3;
 tempString="<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\">\
-<tr><td width=\"14%\" align=\"center\" height=\""+TITLEMARKSIZE/2+"\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\" style=\"color:gray;\">±ÏÒµµäÀñ</span><span class=\"menuSE"+sizestr+"\" style=\"color:gray;\">Graduation Ceremony</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">68</td></tr>\
+<tr><td width=\"14%\" align=\"center\" height=\""+TITLEMARKSIZE/2+"\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSC"+sizestr+"\" style=\"color:gray;\">æ¯•ä¸šå…¸ç¤¼</span><span class=\"menuSE"+sizestr+"\" style=\"color:gray;\">Graduation Ceremony</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuN"+sizestr+"\">68</td></tr>\
 </table>";
 box[23][0]=new ButtonBase(x(0),y(yLevel),"text",tempString,"btn",HEADERWIDTH-YSCALE);
 box[23][0].addClick(function(){gotopage(68)});
-box[23][0].addTitle("µã»÷×ªµ½µÚ68Ò³");
+box[23][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬68é¡µ");
 box[23][0].addOver(tempFuncOver);
 box[23][0].addOut(tempFuncOut);
 //----------
@@ -325,42 +325,42 @@ tempString="\
 <tr><td width=\""+COPYRIGHTWIDTH+"\" height=\""+TITLELOGOHEIGHT+"\" align=\"center\">"+getImgStr(src_copyright_title,TITLELOGOWIDTH,TITLELOGOHEIGHT)+"</td></tr>\
 <tr><td>\
 	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\""+COPYRIGHTPADDINGHEIGHT+"\"></td></tr></table>\
-	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">³õ°æ·¢ĞĞ</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\">2008Äê4ÔÂ14ÈÕ</td></tr></table>\
+	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">åˆç‰ˆå‘è¡Œ</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\">2008å¹´4æœˆ14æ—¥</td></tr></table>\
 	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\""+COPYRIGHTPADDINGHEIGHT+"\"></td></tr></table>\
-	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">²ß¡¡¡¡»®</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\">»¶¡¤ÏèÑæ{(Kamikey)}</td></tr></table>\
+	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">ç­–ã€€ã€€åˆ’</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\">æ¬¢Â·ç¿”ç„°{(Kamikey)}</td></tr></table>\
 	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\""+COPYRIGHTPADDINGHEIGHT+"\"></td></tr></table>\
-	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">Ô­¡¡¡¡¸å</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\">{Roc-Dark(KeyFC/Kamikey)}</td></tr></table>\
+	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">åŸã€€ã€€ç¨¿</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\">{Roc-Dark(KeyFC/Kamikey)}</td></tr></table>\
 	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\""+COPYRIGHTPADDINGHEIGHT+"\"></td></tr></table>\
-	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">½¨¡¡¡¡¹¹</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\">{Nagao Kagetora(Kamikey)}</td></tr></table>\
+	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">å»ºã€€ã€€æ„</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\">{Nagao Kagetora(Kamikey)}</td></tr></table>\
 	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\""+COPYRIGHTPADDINGHEIGHT+"\"></td></tr></table>\
-	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">Ê×Ï¯²âÊÔ</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\">{Roc-Dark(KeyFC/Kamikey)}</td></tr></table>\
+	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">é¦–å¸­æµ‹è¯•</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\">{Roc-Dark(KeyFC/Kamikey)}</td></tr></table>\
 	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\""+COPYRIGHTPADDINGHEIGHT+"\"></td></tr></table>\
-	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">²â¡¡¡¡ÊÔ</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\">{goodbest(KeyFC/Kamikey)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">{zero4(KeyFC/Kamikey)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">¹ÛÁå¤ÎÊ¹Ä§{(Kamikey)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">Çà¿ÕÏÂ¤Î»Õh{(Kamikey)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">×ÆÑÛµÄ¿¨Á_ÌØ{(Kamikey)}</td></tr></table>\
+	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">æµ‹ã€€ã€€è¯•</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\">{goodbest(KeyFC/Kamikey)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">{zero4(KeyFC/Kamikey)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">è§‚é“ƒã®ä½¿é­”{(Kamikey)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">é’ç©ºä¸‹ã®ä¼èª¬{(Kamikey)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">ç¼çœ¼çš„å¡ç¾…ç‰¹{(Kamikey)}</td></tr></table>\
 	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\""+COPYRIGHTPADDINGHEIGHT+"\"></td></tr></table>\
-	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">Ğ£¡¡¡¡¶Ô</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\">{Ligueston(Kamikey)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">{Nagao Kagetora(Kamikey)}</td></tr></table>\
+	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">æ ¡ã€€ã€€å¯¹</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\">{Ligueston(Kamikey)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">{Nagao Kagetora(Kamikey)}</td></tr></table>\
 	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\""+COPYRIGHTPADDINGHEIGHT+"\"></td></tr></table>\
-	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">Æ½ÃæÉè¼Æ</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\">{Nagao Kagetora(Kamikey)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">{Roc-Dark(KeyFC/Kamikey)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">»¶¡¤ÏèÑæ{(Kamikey)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">×ÆÑÛµÄ¿¨Á_ÌØ{(Kamikey)}</td></tr></table>\
+	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">å¹³é¢è®¾è®¡</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\">{Nagao Kagetora(Kamikey)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">{Roc-Dark(KeyFC/Kamikey)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">æ¬¢Â·ç¿”ç„°{(Kamikey)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">ç¼çœ¼çš„å¡ç¾…ç‰¹{(Kamikey)}</td></tr></table>\
 	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\""+COPYRIGHTPADDINGHEIGHT+"\"></td></tr></table>\
-	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">ÍøÒ³Éè¼Æ</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\">{Ligueston(Kamikey)}</td></tr></table><table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\""+COPYRIGHTPADDINGHEIGHT+"\"></td></tr></table><table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">ÖÆ¡¡¡¡×÷</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" rowspan=\"3\" align=\"left\">"+getImgStr(src_logo_kami,COPYRIGHTLOGOWIDTH1,COPYRIGHTLOGOHEIGHT)+"</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT/2+"\"></td><td></td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">Éñ´´¹¤³Ì×é / Éñ´´Ö÷Ìâ¹İ</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\"><a target=\"_blank\" href=\"http://www.kamikey.com\">{http://www.kamikey.com}</a></td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" rowspan=\"3\" align=\"left\">"+getImgStr(src_logo_keyfc,COPYRIGHTLOGOWIDTH2,COPYRIGHTLOGOHEIGHT)+"</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT/2+"\"></td><td></td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">{Key Fans Club(KFC)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\"><a target=\"_blank\" href=\"http://www.keyfc.net/bbs\">{http://www.keyfc.net/bbs}</a></td></tr></table>\
+	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">ç½‘é¡µè®¾è®¡</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\">{Ligueston(Kamikey)}</td></tr></table><table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\""+COPYRIGHTPADDINGHEIGHT+"\"></td></tr></table><table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">åˆ¶ã€€ã€€ä½œ</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" rowspan=\"3\" align=\"left\">"+getImgStr(src_logo_kami,COPYRIGHTLOGOWIDTH1,COPYRIGHTLOGOHEIGHT)+"</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT/2+"\"></td><td></td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">ç¥åˆ›å·¥ç¨‹ç»„ / ç¥åˆ›ä¸»é¢˜é¦†</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\"><a target=\"_blank\" href=\"http://www.kamikey.com\">{http://www.kamikey.com}</a></td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" rowspan=\"3\" align=\"left\">"+getImgStr(src_logo_keyfc,COPYRIGHTLOGOWIDTH2,COPYRIGHTLOGOHEIGHT)+"</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT/2+"\"></td><td></td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">{Key Fans Club(KFC)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\"><a target=\"_blank\" href=\"http://www.keyfc.net/bbs\">{http://www.keyfc.net/bbs}</a></td></tr></table>\
 	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\""+COPYRIGHTPADDINGHEIGHT+"\"></td></tr></table>\
-	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">·­Òë¹©¸å</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" rowspan=\"3\" align=\"left\">"+getImgStr(src_logo_clnd,COPYRIGHTLOGOWIDTH2,COPYRIGHTLOGOHEIGHT)+"</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT/2+"\"></td><td></td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">{Clannad}ÖĞÎÄ»¯{ / Key Fans Club(KFC)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\"><a target=\"_blank\" href=\"http://www.keyfc.net/project/cclannad\">{http://www.keyfc.net/project/cclannad}</a></td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td></td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">¹âÛà¸ßĞ£ÖĞÎÄ²¿ / °Ù¶ÈÌù°É{CLANNAD}°É</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\"><a target=\"_blank\" href=\"http://tieba.baidu.com/clannad\">{http://tieba.baidu.com/clannad}</a></td></tr></table>\
+	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">ç¿»è¯‘ä¾›ç¨¿</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" rowspan=\"3\" align=\"left\">"+getImgStr(src_logo_clnd,COPYRIGHTLOGOWIDTH2,COPYRIGHTLOGOHEIGHT)+"</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT/2+"\"></td><td></td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">{Clannad}ä¸­æ–‡åŒ–{ / Key Fans Club(KFC)}</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\"><a target=\"_blank\" href=\"http://www.keyfc.net/project/cclannad\">{http://www.keyfc.net/project/cclannad}</a></td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td></td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\">å…‰å‚é«˜æ ¡ä¸­æ–‡éƒ¨ / ç™¾åº¦è´´å§{CLANNAD}å§</td></tr><tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\"></td><td></td><td class=\"menuItemCont"+sizestr+"\"><a target=\"_blank\" href=\"http://tieba.baidu.com/clannad\">{http://tieba.baidu.com/clannad}</a></td></tr></table>\
 	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\""+COPYRIGHTPADDINGHEIGHT+"\"></td></tr></table>\
-	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH*0.97+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">°æÈ¨ÉêÃ÷</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\" style=\"visibility:hidden\"></td></tr>\
+	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH*0.97+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">ç‰ˆæƒç”³æ˜</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\" style=\"visibility:hidden\"></td></tr>\
 <tr><td height=\""+COPYRIGHTMONJIHEIGHT/2+"\" colspan=\"3\"></td></tr>\
 <tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\" colspan=\"3\" class=\"menuItemCont"+sizestr+"\" align=\"left\">\
-<p style=\"line-height:120%\">±¾×÷Æ·ÊÊÓÃµÄ{CLANNAD} <font face=\"Î¢ÈíÑÅºÚ,MS Gothic\">-¥¯¥é¥Ê¥É-</font>ÊÇÈÕ±¾{Visual Art's / Key}¹«Ë¾µÄ×÷Æ·¡£<br>{CLANNAD} <font face=\"Î¢ÈíÑÅºÚ,MS Gothic\">-¥¯¥é¥Ê¥É-</font><br>{Copyright &copy; 2004~2007 Visual Art's / Key. All Rights Reserved.}<br><a target=\"_blank\" href=\"http://key.visualarts.gr.jp/\">{http://key.visualarts.gr.jp/}</a></p>\
-<p style=\"line-height:120%\">±¾×÷Æ·ÖÆ×÷¿ª·¢¹ı³ÌÖĞÊ¹ÓÃÈí¼ş{RLdev}ÊÇ{H&aelig;leth}µÄ×÷Æ·¡£<br>{RLdev}<br>{Copyright &copy; 2006 H&aelig;leth}.<br><a target=\"_blank\" href=\"http://www.haeleth.net/\">{http://www.haeleth.net/}</a></p>\
-<p style=\"line-height:120%\">±¾×÷Æ·ÖÆ×÷Õß¼°°æÈ¨ËùÓĞÕßÎªÉñ´´¹¤³Ì×é{(Researching Center of KamiKey)}¡£<br>{CLANNAD Visual Guidebook} <font face=\"Î¢ÈíÑÅºÚ,MS Gothic\">-¥¯¥é¥Ê¥É- ¥Ó¥¸¥å¥¢¥ë ¥¬¥¤¥É¥Ö¥Ã¥¯</font><br>{Copyright &copy; 2008 Researching Center of KamiKey.}<br><a target=\"_blank\" href=\"http://www.KamiKey.com/\">{http://www.KamiKey.com/}</a></p>\
-<p style=\"line-height:120%\">±¾×÷Æ·ÊÜÖø×÷È¨·¨±£»¤¡£Î´¾­Éñ´´¹¤×÷×éÔÊĞí£¬²»µÃËæÒâ¸´ÖÆ¡¢×ªÔØ£¬²»µÃÒÔÉú²ú¹¤×÷×é»òÕßÆäËû¸öÈËÒÔ¼°ÍÅÌåµÄÃûÒåĞŞ¸Ä¡¢·¢²¼»òÕßÄ±È¡ÉÌÒµÀûÒæ¡£<br>Éñ´´¹¤×÷×é±£Áô¶Ô±¾×÷Æ·µÄ×îÖÕ½âÊÍÈ¨¡£</p>\
+<p style=\"line-height:120%\">æœ¬ä½œå“é€‚ç”¨çš„{CLANNAD} <font face=\"å¾®è½¯é›…é»‘,MS Gothic\">-ã‚¯ãƒ©ãƒŠãƒ‰-</font>æ˜¯æ—¥æœ¬{Visual Art's / Key}å…¬å¸çš„ä½œå“ã€‚<br>{CLANNAD} <font face=\"å¾®è½¯é›…é»‘,MS Gothic\">-ã‚¯ãƒ©ãƒŠãƒ‰-</font><br>{Copyright &copy; 2004~2007 Visual Art's / Key. All Rights Reserved.}<br><a target=\"_blank\" href=\"http://key.visualarts.gr.jp/\">{http://key.visualarts.gr.jp/}</a></p>\
+<p style=\"line-height:120%\">æœ¬ä½œå“åˆ¶ä½œå¼€å‘è¿‡ç¨‹ä¸­ä½¿ç”¨è½¯ä»¶{RLdev}æ˜¯{H&aelig;leth}çš„ä½œå“ã€‚<br>{RLdev}<br>{Copyright &copy; 2006 H&aelig;leth}.<br><a target=\"_blank\" href=\"http://www.haeleth.net/\">{http://www.haeleth.net/}</a></p>\
+<p style=\"line-height:120%\">æœ¬ä½œå“åˆ¶ä½œè€…åŠç‰ˆæƒæ‰€æœ‰è€…ä¸ºç¥åˆ›å·¥ç¨‹ç»„{(Researching Center of KamiKey)}ã€‚<br>{CLANNAD Visual Guidebook} <font face=\"å¾®è½¯é›…é»‘,MS Gothic\">-ã‚¯ãƒ©ãƒŠãƒ‰- ãƒ“ã‚¸ãƒ¥ã‚¢ãƒ« ã‚¬ã‚¤ãƒ‰ãƒ–ãƒƒã‚¯</font><br>{Copyright &copy; 2008 Researching Center of KamiKey.}<br><a target=\"_blank\" href=\"http://www.KamiKey.com/\">{http://www.KamiKey.com/}</a></p>\
+<p style=\"line-height:120%\">æœ¬ä½œå“å—è‘—ä½œæƒæ³•ä¿æŠ¤ã€‚æœªç»ç¥åˆ›å·¥ä½œç»„å…è®¸ï¼Œä¸å¾—éšæ„å¤åˆ¶ã€è½¬è½½ï¼Œä¸å¾—ä»¥ç”Ÿäº§å·¥ä½œç»„æˆ–è€…å…¶ä»–ä¸ªäººä»¥åŠå›¢ä½“çš„åä¹‰ä¿®æ”¹ã€å‘å¸ƒæˆ–è€…è°‹å–å•†ä¸šåˆ©ç›Šã€‚<br>ç¥åˆ›å·¥ä½œç»„ä¿ç•™å¯¹æœ¬ä½œå“çš„æœ€ç»ˆè§£é‡Šæƒã€‚</p>\
 </td></tr>\
 	  </table>\
 	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\""+COPYRIGHTPADDINGHEIGHT+"\"></td></tr></table>\
-	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">ÁªÏµÎÒÃÇ</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\" style=\"visibility:hidden\"></td></tr>\
+	  <table width=\""+COPYRIGHTWIDTH+"\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\""+COPYRIGHTITEMNAMEWIDTH+"\" height=\""+COPYRIGHTMONJIHEIGHT+"\" style=\""+getBgStr(src_copyright_bg)+"\" class=\"menuItemName"+sizestr+"\">è”ç³»æˆ‘ä»¬</td><td width=\""+COPYRIGHTPADDINGWIDTH+"\"></td><td width=\""+COPYRIGHTITEMCONTWIDTH+"\" class=\"menuItemCont"+sizestr+"\" style=\"visibility:hidden\"></td></tr>\
 <tr><td height=\""+COPYRIGHTMONJIHEIGHT/2+"\" colspan=\"3\"></td></tr>\
 <tr><td height=\""+COPYRIGHTMONJIHEIGHT+"\" colspan=\"3\" class=\"menuItemCont"+sizestr+"\" align=\"left\">\
-<p style=\"line-height:120%\">±¾×÷Æ·Ïà¹ØÒÉÎÊ½â´ğ£¬Òâ¼û¼°½¨ÒéµÄÊÜÀí£¬Çë·ÃÎÊÒÔÏÂÍøÒ³£º<br><a target=\"_blank\" href=\"http://www.kamikey.com/viewthread.php?tid=604\">{http://www.kamikey.com/viewthread.php?tid=604}</a><br><a target=\"_blank\" href=\"http://www.keyfc.net/bbs/showtopic-24990.aspx\">{http://www.keyfc.net/bbs/showtopic-24990.aspx}</a></p>\
-<p style=\"line-height:120%\">»òÕß·¢ËÍµç×ÓÓÊ¼şÖÁ£º<br>{moerurd@gmail.com}<br>{moerurd@hotmail.com}</p>\
-<p style=\"line-height:120%\">Éñ´´¹¤×÷×é¸ĞĞ»ÄúµÄ¹Ø×¢ÓëÖ§³Ö£¡</p>\
+<p style=\"line-height:120%\">æœ¬ä½œå“ç›¸å…³ç–‘é—®è§£ç­”ï¼Œæ„è§åŠå»ºè®®çš„å—ç†ï¼Œè¯·è®¿é—®ä»¥ä¸‹ç½‘é¡µï¼š<br><a target=\"_blank\" href=\"http://www.kamikey.com/viewthread.php?tid=604\">{http://www.kamikey.com/viewthread.php?tid=604}</a><br><a target=\"_blank\" href=\"http://www.keyfc.net/bbs/showtopic-24990.aspx\">{http://www.keyfc.net/bbs/showtopic-24990.aspx}</a></p>\
+<p style=\"line-height:120%\">æˆ–è€…å‘é€ç”µå­é‚®ä»¶è‡³ï¼š<br>{moerurd@gmail.com}<br>{moerurd@hotmail.com}</p>\
+<p style=\"line-height:120%\">ç¥åˆ›å·¥ä½œç»„æ„Ÿè°¢æ‚¨çš„å…³æ³¨ä¸æ”¯æŒï¼</p>\
 </td></tr>\
 	  </table>\
 </td></tr>\

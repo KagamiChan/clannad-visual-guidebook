@@ -1,79 +1,79 @@
 // CVG Main Script \Written By Ligueston@Kamikey
 
 //Version Info
-	/*v1.0	04.14	‘ˆº”CommentµƒEventIllustration*/
-	/*v1.05	04.17	‘ˆº”∞ÎÃı ˙œﬂµƒaddClick∑Ω∑®*/
-	/*v1.1	04.17	‘ˆº”Blink∑Ω∑®*/
-	/*v1.11	04.21	–ﬁ∏ƒ±ÍÃ‚*/
-	/*v1.2  04.24	÷ß≥÷∂‘IE6µƒÕ∏√˜png*/
+	/*v1.0	04.14	Â¢ûÂä†CommentÁöÑEventIllustration*/
+	/*v1.05	04.17	Â¢ûÂä†ÂçäÊù°Á´ñÁ∫øÁöÑaddClickÊñπÊ≥ï*/
+	/*v1.1	04.17	Â¢ûÂä†BlinkÊñπÊ≥ï*/
+	/*v1.11	04.21	‰øÆÊîπÊ†áÈ¢ò*/
+	/*v1.2  04.24	ÊîØÊåÅÂØπIE6ÁöÑÈÄèÊòépng*/
 
-//∫Ø ˝Àµ√˜
+//ÂáΩÊï∞ËØ¥Êòé
 	/*function Point(x,y)
-		…˙≥…≤¢«“∑µªÿ“ª∏ˆµ„.”√”⁄Link∫Ø ˝.
-			x->int/x◊¯±Í
-			y->int/y◊¯±Í
+		ÁîüÊàêÂπ∂‰∏îËøîÂõû‰∏Ä‰∏™ÁÇπ.Áî®‰∫éLinkÂáΩÊï∞.
+			x->int/xÂùêÊ†á
+			y->int/yÂùêÊ†á
 	function Header(route,routeC,routeE,dateC,dateE)
-		…˙≥…≤¢«“∑µªÿ±ÍÕ∑.
-			route->str/±ÍÕ∑÷∏œÚµƒ¬∑œﬂÕº∆¨,ø…”√¡–±Ì"public"|"misae"|"tomoyo"|"yukine"|"fujibayashi"|"kappei"|"sunohara"|"kotomi"|"fuuko"|"nagisa"|"gunfight"
-			routeC->str/±ÍÕ∑¬∑œﬂ÷–Œƒƒ⁄»›
-			routeE->str/±ÍÕ∑¬∑œﬂ”¢Œƒƒ⁄»›
-			dateC->str/±ÍÕ∑»’∆⁄÷–Œƒƒ⁄»›
-			dateE->str/±ÍÕ∑»’∆⁄”¢Œƒƒ⁄»›
+		ÁîüÊàêÂπ∂‰∏îËøîÂõûÊ†áÂ§¥.
+			route->str/Ê†áÂ§¥ÊåáÂêëÁöÑË∑ØÁ∫øÂõæÁâá,ÂèØÁî®ÂàóË°®"public"|"misae"|"tomoyo"|"yukine"|"fujibayashi"|"kappei"|"sunohara"|"kotomi"|"fuuko"|"nagisa"|"gunfight"
+			routeC->str/Ê†áÂ§¥Ë∑ØÁ∫ø‰∏≠ÊñáÂÜÖÂÆπ
+			routeE->str/Ê†áÂ§¥Ë∑ØÁ∫øËã±ÊñáÂÜÖÂÆπ
+			dateC->str/Ê†áÂ§¥Êó•Êúü‰∏≠ÊñáÂÜÖÂÆπ
+			dateE->str/Ê†áÂ§¥Êó•ÊúüËã±ÊñáÂÜÖÂÆπ
 	function Footer(height,page)
-		…˙≥…≤¢∑µªÿ”“±ﬂ¿∏
-			height->int/∏ﬂ∂»
-			page->int/“≥ ˝
+		ÁîüÊàêÂπ∂ËøîÂõûÂè≥ËæπÊ†è
+			height->int/È´òÂ∫¶
+			page->int/È°µÊï∞
 	function Textbox_Condition(x,y,text,route)
 	function Textbox_Option(x,y,text,route)
 	function Textbox_Selection(x,y,text,route)
 	function Textbox_Jump(x,y,text,route)
 	function Textbox_Block(x,y,text,route)
 	function Textbox_Quit(x,y,text,route)
-		…˙≥…≤¢«“∑µªÿœ‡”¶µƒ∞¥≈•
-			x->int/x◊¯±Í,“ª∞„ π”√x()∫Ø ˝»∑∂®
-			y->int/y◊¯±Í,“ª∞„ π”√y()∫Ø ˝»∑∂®
-			text->str/∞¥≈•÷–œ‘ æŒƒ◊÷
-			route->str/Ω«±Í,∏Ò Ω"[∑ΩœÚ]|[øÿ÷∆—˘ Ω][Œƒ◊÷]|[øÿ÷∆—˘ Ω][Œƒ◊÷]|...",∑ΩœÚø…Œ™"r"ªÚ"l","l" ±øÿ÷∆—˘ ΩŒ™ø’ ±¬Ã…´,Œ™"-" ±∫Ï…´,"r" ±œ‡∑¥.øÿ÷∆—˘ ΩŒ™"+" ±∂ºŒ™¿∂…´...æŸ¿˝"l|«Ÿ√¿|-∑Á◊”|+Œ¥¥•∑¢"
+		ÁîüÊàêÂπ∂‰∏îËøîÂõûÁõ∏Â∫îÁöÑÊåâÈíÆ
+			x->int/xÂùêÊ†á,‰∏ÄËà¨‰ΩøÁî®x()ÂáΩÊï∞Á°ÆÂÆö
+			y->int/yÂùêÊ†á,‰∏ÄËà¨‰ΩøÁî®y()ÂáΩÊï∞Á°ÆÂÆö
+			text->str/ÊåâÈíÆ‰∏≠ÊòæÁ§∫ÊñáÂ≠ó
+			route->str/ËßíÊ†á,Ê†ºÂºè"[ÊñπÂêë]|[ÊéßÂà∂Ê†∑Âºè][ÊñáÂ≠ó]|[ÊéßÂà∂Ê†∑Âºè][ÊñáÂ≠ó]|...",ÊñπÂêëÂèØ‰∏∫"r"Êàñ"l","l"Êó∂ÊéßÂà∂Ê†∑Âºè‰∏∫Á©∫Êó∂ÁªøËâ≤,‰∏∫"-"Êó∂Á∫¢Ëâ≤,"r"Êó∂Áõ∏Âèç.ÊéßÂà∂Ê†∑Âºè‰∏∫"+"Êó∂ÈÉΩ‰∏∫ËìùËâ≤...‰∏æ‰æã"l|Áê¥Áæé|-È£éÂ≠ê|+Êú™Ëß¶Âèë"
 	function Textbox_Date(x,y,text,type)
-		…˙≥…≤¢«“∑µªÿœ‡”¶µƒ»’∆⁄∞¥≈•
-			x->int/x◊¯±Í,“ª∞„ π”√x()∫Ø ˝»∑∂®
-			y->int/y◊¯±Í,“ª∞„ π”√y()∫Ø ˝»∑∂®
-			text->str/∞¥≈•÷–œ‘ æŒƒ◊÷
-			type->str/‘⁄…œ√Ê ±…Ë÷√Œ™"top",“‘–ﬁ’˝Œª÷√,‘⁄œ¬ ±ø…“‘¡Ùø’
+		ÁîüÊàêÂπ∂‰∏îËøîÂõûÁõ∏Â∫îÁöÑÊó•ÊúüÊåâÈíÆ
+			x->int/xÂùêÊ†á,‰∏ÄËà¨‰ΩøÁî®x()ÂáΩÊï∞Á°ÆÂÆö
+			y->int/yÂùêÊ†á,‰∏ÄËà¨‰ΩøÁî®y()ÂáΩÊï∞Á°ÆÂÆö
+			text->str/ÊåâÈíÆ‰∏≠ÊòæÁ§∫ÊñáÂ≠ó
+			type->str/Âú®‰∏äÈù¢Êó∂ËÆæÁΩÆ‰∏∫"top",‰ª•‰øÆÊ≠£‰ΩçÁΩÆ,Âú®‰∏ãÊó∂ÂèØ‰ª•ÁïôÁ©∫
 	function Textbox_Condition_C(x,y,text,number,Summery,Select,Caution,Option,Events,EventIllu,Title,yAdjust,route)
 	function Textbox_Option_C(x,y,text,number,Summery,Select,Caution,Option,Events,EventIllu,Title,yAdjust,route)
 	function Textbox_Selection_C(x,y,text,number,Summery,Select,Caution,Option,Events,EventIllu,Title,yAdjust,route)
-		…˙≥…≤¢«“∑µªÿœ‡”¶¥¯◊¢ Õµƒ∞¥≈•
-			x->int/x◊¯±Í,“ª∞„ π”√x()∫Ø ˝»∑∂®
-			y->int/y◊¯±Í,“ª∞„ π”√y()∫Ø ˝»∑∂®
-			text->str/∞¥≈•÷–œ‘ æŒƒ◊÷
-			number->str/◊¢ ÕÀ˜“˝∫≈
-			Summery->str/◊‹Ω·––,∂‘”¶[A]
-			Select->str/◊¢ Õ––,“≤æÕ «—’…´…‘…Óµƒƒ«––,∂‘”¶[B],∂‘”⁄¿∂…´∏ﬂ¡¡«Î”√"{"∫Õ"}"ª∑»∆,∫Ï…´∏ﬂ¡¡«Î”√"["∫Õ"]"ª∑»∆
-			Caution->str/Ã· æ––,“≤æÕ «”–Ãæ∫≈±Í÷æµƒƒ«––,∂‘”¶[C].
-			Option->str/—°œÓ––,—˘ Ω"[øÿ÷∆—˘ Ω][Œƒ◊÷]|..."◊Ó∂‡»˝∏ˆ,øÿ÷∆—˘ ΩŒ™"+" ±º˝Õ∑œÚ”“,"-" ±œÚœ¬
-			Events->str/ ¬º˛––,—˘ Ω"[ ¬º˛1]...[ ¬º˛8]",¿∂…´µƒÕº±Í«Î”√"1",ª“…´”√"0"...æŸ¿˝"01001100"
-			EventIllu->str/ ¬º˛∏Ωº”Àµ√˜
-			Title->str/∏±±ÍÃ‚,»Áπ˚Œ™ø’µƒª∞ π”√textƒ⁄»›,∑Ò‘Ú”√¥À¥¶µƒ
-			yAdjust->int/◊¢ Õ¿∏y◊¯±Í∆´“∆
-			route->str/Õ¨∆’Õ®∞¥≈•µƒroute
+		ÁîüÊàêÂπ∂‰∏îËøîÂõûÁõ∏Â∫îÂ∏¶Ê≥®ÈáäÁöÑÊåâÈíÆ
+			x->int/xÂùêÊ†á,‰∏ÄËà¨‰ΩøÁî®x()ÂáΩÊï∞Á°ÆÂÆö
+			y->int/yÂùêÊ†á,‰∏ÄËà¨‰ΩøÁî®y()ÂáΩÊï∞Á°ÆÂÆö
+			text->str/ÊåâÈíÆ‰∏≠ÊòæÁ§∫ÊñáÂ≠ó
+			number->str/Ê≥®ÈáäÁ¥¢ÂºïÂè∑
+			Summery->str/ÊÄªÁªìË°å,ÂØπÂ∫î[A]
+			Select->str/Ê≥®ÈáäË°å,‰πüÂ∞±ÊòØÈ¢úËâ≤Á®çÊ∑±ÁöÑÈÇ£Ë°å,ÂØπÂ∫î[B],ÂØπ‰∫éËìùËâ≤È´ò‰∫ÆËØ∑Áî®"{"Âíå"}"ÁéØÁªï,Á∫¢Ëâ≤È´ò‰∫ÆËØ∑Áî®"["Âíå"]"ÁéØÁªï
+			Caution->str/ÊèêÁ§∫Ë°å,‰πüÂ∞±ÊòØÊúâÂèπÂè∑Ê†áÂøóÁöÑÈÇ£Ë°å,ÂØπÂ∫î[C].
+			Option->str/ÈÄâÈ°πË°å,Ê†∑Âºè"[ÊéßÂà∂Ê†∑Âºè][ÊñáÂ≠ó]|..."ÊúÄÂ§ö‰∏â‰∏™,ÊéßÂà∂Ê†∑Âºè‰∏∫"+"Êó∂ÁÆ≠Â§¥ÂêëÂè≥,"-"Êó∂Âêë‰∏ã
+			Events->str/‰∫ã‰ª∂Ë°å,Ê†∑Âºè"[‰∫ã‰ª∂1]...[‰∫ã‰ª∂8]",ËìùËâ≤ÁöÑÂõæÊ†áËØ∑Áî®"1",ÁÅ∞Ëâ≤Áî®"0"...‰∏æ‰æã"01001100"
+			EventIllu->str/‰∫ã‰ª∂ÈôÑÂä†ËØ¥Êòé
+			Title->str/ÂâØÊ†áÈ¢ò,Â¶ÇÊûú‰∏∫Á©∫ÁöÑËØù‰ΩøÁî®textÂÜÖÂÆπ,Âê¶ÂàôÁî®Ê≠§Â§ÑÁöÑ
+			yAdjust->int/Ê≥®ÈáäÊ†èyÂùêÊ†áÂÅèÁßª
+			route->str/ÂêåÊôÆÈÄöÊåâÈíÆÁöÑroute
 	function Link()
-		…˙≥…≤¢«“∑µªÿ¡¨œﬂ
-			≤Œ ˝µ⁄“ª∏ˆ∫Õ◊Ó∫Û“ª∏ˆø…“‘Œ™∞¥≈•∂‘œÛ,∆‰”‡µƒ±ÿ–ÎŒ™µ„∂‘œÛ.Œª÷√‘⁄«∞µƒ≤Œ ˝µƒy◊¯±Í≤ªµ√–°”⁄‘⁄Œª÷√‘⁄∫Ûµƒ.
+		ÁîüÊàêÂπ∂‰∏îËøîÂõûËøûÁ∫ø
+			ÂèÇÊï∞Á¨¨‰∏Ä‰∏™ÂíåÊúÄÂêé‰∏Ä‰∏™ÂèØ‰ª•‰∏∫ÊåâÈíÆÂØπË±°,ÂÖ∂‰ΩôÁöÑÂøÖÈ°ª‰∏∫ÁÇπÂØπË±°.‰ΩçÁΩÆÂú®ÂâçÁöÑÂèÇÊï∞ÁöÑyÂùêÊ†á‰∏çÂæóÂ∞è‰∫éÂú®‰ΩçÁΩÆÂú®ÂêéÁöÑ.
 	function Board(y,y2)
-		…˙≥…≤¢∑µªÿ“ª∏ˆµ◊∞Â
-			y->int/∆ ºy◊¯±Í
-			y2->int/÷’÷πy◊¯±Í*/
+		ÁîüÊàêÂπ∂ËøîÂõû‰∏Ä‰∏™Â∫ïÊùø
+			y->int/Ëµ∑ÂßãyÂùêÊ†á
+			y2->int/ÁªàÊ≠¢yÂùêÊ†á*/
 
 //Basic Function
 	function GetRequest()
 	{
-		var url = location.search; //ªÒ»°url÷–"?"∑˚∫Ûµƒ◊÷¥Æ
+		var url = location.search; //Ëé∑Âèñurl‰∏≠"?"Á¨¶ÂêéÁöÑÂ≠ó‰∏≤
 		var theRequest = new Object();
-		if(url.indexOf("?") != -1){ 
+		if(url.indexOf("?") != -1){
 			var str = url.substr(1);
 			strs = str.split("&");
-			for(var i = 0; i < strs.length; i ++){ 
+			for(var i = 0; i < strs.length; i ++){
 				theRequest[strs[i].split("=")[0]]=unescape(strs[i].split("=")[1]);
 			}
 		}
@@ -89,112 +89,112 @@
 		return false;
 	}
 	function setScrollLeft(left){// Copied from http://hi.baidu.com/elseif/blog/item/1b55f17ecc38c73a0dd7da65.html with Modification
-		if (typeof window.pageXOffset != 'undefined') { 
-			window.pageXOffset=left; 
-		} 
-		else if (typeof document.compatMode != 'undefined' && document.compatMode != 'BackCompat') { 
-			document.documentElement.scrollLeft=left; 
-		} 
-		else if (typeof document.body != 'undefined') { 
-			document.body.scrollLeft=left; 
+		if (typeof window.pageXOffset != 'undefined') {
+			window.pageXOffset=left;
+		}
+		else if (typeof document.compatMode != 'undefined' && document.compatMode != 'BackCompat') {
+			document.documentElement.scrollLeft=left;
+		}
+		else if (typeof document.body != 'undefined') {
+			document.body.scrollLeft=left;
 		}
 	}
-	
+
 	function lib_bwcheck(){ //Browsercheck (needed)
 		this.ver=navigator.appVersion;
 		this.agent=navigator.userAgent;
 		this.opera5=this.agent.indexOf("Opera 5")>-1;
-		this.ie7=(this.ver.indexOf("MSIE 7")>-1 && !this.opera5)?1:0; 
-		this.ie6=(this.ver.indexOf("MSIE 6")>-1 && !this.opera5)?1:0; 
+		this.ie7=(this.ver.indexOf("MSIE 7")>-1 && !this.opera5)?1:0;
+		this.ie6=(this.ver.indexOf("MSIE 6")>-1 && !this.opera5)?1:0;
 		this.safari=navigator.userAgent.indexOf("Safari")>-1;
 		return this;
 	}
 	var bw=new lib_bwcheck();
-	
-	var objArr=new Array(); //∂‘œÛ“˝”√¥Ê¥¢ ˝◊È,√˚◊÷“˝”√
-	
-	function getObjectRef(name) { //’’id»°∂‘œÛ
+
+	var objArr=new Array(); //ÂØπË±°ÂºïÁî®Â≠òÂÇ®Êï∞ÁªÑ,ÂêçÂ≠óÂºïÁî®
+
+	function getObjectRef(name) { //ÁÖßidÂèñÂØπË±°
 	  if(document.getElementById) return document.getElementById(name);
 	  else if(document.all) return document.all[name];
 	  else return null;
 	}
-	function show(name){ //œ‘ æ∂‘œÛif hidden
+	function show(name){ //ÊòæÁ§∫ÂØπË±°if hidden
 		var obj = getObjectRef(name);
 		if(obj){
 			if(blockshow)obj.style.display = "block";
 			else obj.style.visibility = "visible";
 		}
 	}
-	function hide(name){ //“˛≤ÿ∂‘œÛif visible
+	function hide(name){ //ÈöêËóèÂØπË±°if visible
 		var obj = getObjectRef(name);
 		if(obj){
 			if(blockshow)obj.style.display = "none";
 			else obj.style.visibility = "hidden";
 		}
 	}
-	function moveMeTo(name,x,y){ //“∆∂Ø∂‘œÛif possible
+	function moveMeTo(name,x,y){ //ÁßªÂä®ÂØπË±°if possible
 		var obj = getObjectRef(name);
 		if(obj){ obj.style.top = parseInt(y); obj.style.left = parseInt(x); }
 	}
-	function moveMeBy(name,x,y){ //“∆∂Ø∂‘œÛif possible
+	function moveMeBy(name,x,y){ //ÁßªÂä®ÂØπË±°if possible
 		var obj = getObjectRef(name);
 		if(obj){ obj.style.top = parseInt(obj.style.top)+parseInt(y); obj.style.left=parseInt(obj.style.left)+parseInt(x); }
 	}
-	function addMouseClick(name,func){ //∏¯∂‘œÛ‘ˆº”onclick ¬º˛
+	function addMouseClick(name,func){ //ÁªôÂØπË±°Â¢ûÂä†onclick‰∫ã‰ª∂
 		var obj = getObjectRef(name);
 		var ret=obj.onclick;
 		if(obj){ obj.onclick=func; obj.style.cursor="hand";}
 		return ret;
 	}
-	function remMouseClick(name){ //…æ»•∂‘œÛonclick ¬º˛
+	function remMouseClick(name){ //Âà†ÂéªÂØπË±°onclick‰∫ã‰ª∂
 		var obj = getObjectRef(name);
 		if(obj){ obj.onclick=null; obj.style.cursor="";}
 	}
-	function addMouseOver(name,func){ //∏¯∂‘œÛ‘ˆº”onmouseover ¬º˛
+	function addMouseOver(name,func){ //ÁªôÂØπË±°Â¢ûÂä†onmouseover‰∫ã‰ª∂
 		var obj = getObjectRef(name);
 		var ret=obj.onmouseover;
 		if(obj){ obj.onmouseover=func; }
 		return ret;
 	}
-	function remMouseOver(name){ //…æ»•∂‘œÛonmouseover ¬º˛
+	function remMouseOver(name){ //Âà†ÂéªÂØπË±°onmouseover‰∫ã‰ª∂
 		var obj = getObjectRef(name);
 		if(obj){ obj.onmouseover=null; }
 	}
-	function addMouseOut(name,func){ //∏¯∂‘œÛ‘ˆº”onmouseover ¬º˛
+	function addMouseOut(name,func){ //ÁªôÂØπË±°Â¢ûÂä†onmouseover‰∫ã‰ª∂
 		var obj = getObjectRef(name);
 		var ret=obj.onmouseout;
 		if(obj){ obj.onmouseout=func; }
 		return ret;
 	}
-	function remMouseOut(name){ //…æ»•∂‘œÛonmouseover ¬º˛
+	function remMouseOut(name){ //Âà†ÂéªÂØπË±°onmouseover‰∫ã‰ª∂
 		var obj = getObjectRef(name);
 		if(obj){ obj.onmouseout=null; }
 	}
 	function addTitle(name,title){
-		var obj = getObjectRef(name);	
+		var obj = getObjectRef(name);
 		if(obj){ obj.title=title; }
 	}
 	function remTitle(name){
-		var obj = getObjectRef(name);	
+		var obj = getObjectRef(name);
 		if(obj){ obj.title=""; }
 	}
 	function addLink(name,linkname){
-		var obj = getObjectRef(name);	
+		var obj = getObjectRef(name);
 		if(obj){ obj.appendChild(document.createElement("<a name=\""+linkname+"\">")); }
 	}
 
 //Basic Vaiable
-	var objCount=0; //∂‘œÛº∆ ˝
-	var commentTop=0; //∆¿¬€≤ø∑÷µ±«∞∏ﬂ∂»
-	var checkImg=false; //±Íº« «∑ÒΩ¯––Õº∆¨ª∫¥Ê
-	var appendix=bw.ie6&&false?".gif":".png"; //Õº∆¨∫Û◊∫
-	var sizeSet;//¥Û–°…Ë÷√
+	var objCount=0; //ÂØπË±°ËÆ°Êï∞
+	var commentTop=0; //ËØÑËÆ∫ÈÉ®ÂàÜÂΩìÂâçÈ´òÂ∫¶
+	var checkImg=false; //Ê†áËÆ∞ÊòØÂê¶ËøõË°åÂõæÁâáÁºìÂ≠ò
+	var appendix=bw.ie6&&false?".gif":".png"; //ÂõæÁâáÂêéÁºÄ
+	var sizeSet;//Â§ßÂ∞èËÆæÁΩÆ
 	sizeSet=GetRequest()["size"];
 	if(isNaN(sizeSet))sizeSet=0;
 	else sizeSet=parseInt(sizeSet);
 	var lineRecord=new Array();
 	var rqst=GetRequest();
-	
+
 	var box=new Array();
 	var line=new Array();
 	var comment=new Array();
@@ -202,19 +202,19 @@
 	var board=new Array();
 	var blockshow=false;
 	var hdft=new Array();
-	
+
 	var COMMENTBGZINDEX=5;
 	var BOARDZINDEX=5;
 	var LINEZINDEX=6;
 	var COMMENTZINDEX=7;
 	var BUTTONZINDEX=8;
 	var CHECKZINDEX=9;
-	
+
 	if(sizeSet==0){
 		sizestr="Ori";
 		outersize=6;
 		var BGREPEATHEIGHT=30;
-	
+
 		var BUTTONWRAPWIDTH=400;
 		var BUTTONWIDTH=350+2*outersize;
 		var BUTTONHEIGHT=30+2*outersize;
@@ -224,15 +224,15 @@
 		var TEXTHEIGHT=30;
 		var DATEWIDTH=100+2*outersize;
 		var DATEHEIGHT=45+2*outersize;
-	
+
 		var BUBBLEOFFSETHEIGHT=-25;
 		var BUBBLESPACING=3;
 		var BUBBLEOFFSETHEIGHT2=7;
-	
+
 		var HEADERHEIGHT=130;
 		var HEADERWIDTH=1600;
 		var TITLEMARKSIZE=100;
-	
+
 		var COMMENTBGWIDTH=825;
 		var COMMENTBGTOPHEIGHT=200;
 		var COMMENTBGBOTTOMHEIGHT=100;
@@ -240,7 +240,7 @@
 		var COMMENTBGMARGINTOP=40;
 		var COMMENTBGLEFT=HEADERWIDTH-25;
 		var COMMENTMARKSIZE=40;
-	
+
 		var COMMENTWIDTH=750;
 		var COMMENTLEFT=COMMENTBGLEFT+50;
 		var COMMENTSPACING=20;
@@ -251,7 +251,7 @@
 		var COMMENTEVENTWIDTH=405;
 		var COMMENTBARWIDTH=243;
 		var COMMENTBARHEIGHT=20;
-	
+
 		var LINESIZE=12;
 		var LINEBASEHEIGHT=30;
 		var LINEBASELENGTH=200;
@@ -260,14 +260,14 @@
 		var LINEOUTERSIZEADJUST=0;
 		var LINEVERTICALADJUST=3;
 		var LINEHORIZONALADJUST=3;
-		
+
 		var BOARDWIDTH=1600;
 		var BORADFOOTERHEIGHT=45;
 		var BOARDREAPETHEIGHT=10;
-		
+
 		var NUMBERWIDTH=40;
 		var NUMBERHEIGHT=60;
-		
+
 		var BasicX=25;
 		var XSCALE=200;
 		var BasicY=100;
@@ -277,7 +277,7 @@
 		sizestr="Screen";
 		outersize=4;
 		var BGREPEATHEIGHT=18;
-	
+
 		var BUTTONWRAPWIDTH=240;
 		var BUTTONWIDTH=210+2*outersize;
 		var BUTTONHEIGHT=18+2*outersize;
@@ -287,15 +287,15 @@
 		var TEXTHEIGHT=18;
 		var DATEWIDTH=60+2*outersize;
 		var DATEHEIGHT=27+2*outersize;
-	
+
 		var BUBBLEOFFSETHEIGHT=-15;
 		var BUBBLESPACING=2;
 		var BUBBLEOFFSETHEIGHT2=5;
-	
+
 		var HEADERHEIGHT=78;
 		var HEADERWIDTH=960;
 		var TITLEMARKSIZE=60;
-	
+
 		var COMMENTBGWIDTH=495;
 		var COMMENTBGTOPHEIGHT=120;
 		var COMMENTBGBOTTOMHEIGHT=60;
@@ -303,7 +303,7 @@
 		var COMMENTBGMARGINTOP=24;
 		var COMMENTBGLEFT=HEADERWIDTH-15;
 		var COMMENTMARKSIZE=24;
-	
+
 		var COMMENTWIDTH=450;
 		var COMMENTLEFT=COMMENTBGLEFT+30;
 		var COMMENTSPACING=12;
@@ -314,7 +314,7 @@
 		var COMMENTEVENTWIDTH=243;
 		var COMMENTBARWIDTH=146;
 		var COMMENTBARHEIGHT=12;
-	
+
 		var LINESIZE=7;
 		var LINEBASEHEIGHT=18;
 		var LINEBASELENGTH=120;
@@ -323,14 +323,14 @@
 		var LINEOUTERSIZEADJUST=-1;
 		var LINEVERTICALADJUST=2;
 		var LINEHORIZONALADJUST=3;
-		
+
 		var BOARDWIDTH=960;
 		var BORADFOOTERHEIGHT=27;
 		var BOARDREAPETHEIGHT=6;
-		
+
 		var NUMBERWIDTH=24;
 		var NUMBERHEIGHT=36;
-		
+
 		var BasicX=15;
 		var XSCALE=120;
 		var BasicY=60;
@@ -338,7 +338,7 @@
 	}
 
 //Image Source
-var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbox/","Board/","Number/","Misc/"); //Õº∆¨«∞◊∫Œƒº˛º–√˚
+var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbox/","Board/","Number/","Misc/"); //ÂõæÁâáÂâçÁºÄÊñá‰ª∂Â§πÂêç
 	var src_background=			sizestr+"/"+folder[0]+"Background_Pattern"		+appendix;
 
 	var src_Textbox_Block=		sizestr+"/"+folder[5]+"Textbox_Block"			+appendix;
@@ -423,7 +423,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 	var src_dot_v=				sizestr+"/"+folder[4]+"Line_1"						+appendix;
 	var src_dot_hv=				sizestr+"/"+folder[4]+"Line_2"						+appendix;
 	var src_dot_h=				sizestr+"/"+folder[4]+"Line_3"						+appendix;
-	
+
 	var src_board_top=			sizestr+"/"+folder[6]+"Board_Frame_Top"				+appendix;
 	var src_board_mid=			sizestr+"/"+folder[6]+"Board_Frame_Body"			+appendix;
 	var src_board_bottom=		sizestr+"/"+folder[6]+"Board_Frame_Bottom"			+appendix;
@@ -437,7 +437,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		this.topy=y;
 		this.toString=function(){return "("+this.leftx+","+this.topy+")";}
 	}
-	
+
 	//Header
 	function HeaderBase(x,y,route,routeC,routeE,dateC,dateE,titlecss,contentcss){
 		switch(route){
@@ -478,7 +478,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 </tr>";
 		this.HTML+="</table>";
 		this.HTML+="</div>";
-		document.write(this.HTML); 
+		document.write(this.HTML);
 
 		this.show=			function()			{show(this.ref+"Wrap");}
 		this.hide=			function()			{hide(this.ref+"Wrap");}
@@ -493,16 +493,16 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		this.addTitle=		function(title)	{addTitle(this.ref+"Wrap",title);}
 		this.remTitle=		function()			{remTitle(this.ref+"Wrap");}
 		this.addLink=		function(name)		{addLink(this.ref+"Link",name);}
-		
+
 		objArr[this.ref]=this;
 	}
-	
+
 	//Footer
 	function FooterBase(x,y,height,page){
 		this.leftx=x;
 		this.topy=y;
 		this.page=page;
-		document.title+=" °˙ Page"+page;
+		document.title+=" ‚Üí Page"+page;
 		this.HTML="";
 		this.zindex=COMMENTBGZINDEX;
 		this.times=Math.ceil((height-COMMENTBGTOPHEIGHT-COMMENTBGBOTTOMHEIGHT)/BGREPEATHEIGHT);
@@ -530,10 +530,10 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		this.HTML+="<table id=\""+this.ref+"Table\" width="+this.width+" border=0 cellpadding=0 cellspacing=0 ref=\""+this.ref+"\">";
 		for(i=0;i<times;i++){
 			this.HTML+="<tr><td height=\""+YSCALE+"\"><a name=\"yLeveL"+i+"\"></a></td></tr>";
-		}		
+		}
 		this.HTML+="</table>";
 		this.HTML+="</div>";
-		document.write(this.HTML); 
+		document.write(this.HTML);
 
 		this.show=			function()			{show(this.ref+"Wrap");}
 		this.hide=			function()			{hide(this.ref+"Wrap");}
@@ -550,7 +550,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 
 		objArr[this.ref]=this;
 	}
-	
+
 	//Button
 	function ButtonBase(x,y,type,text,css,adjustw){
 		this.leftx=x-outersize;
@@ -582,7 +582,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		this.HTML+="<div id=\""+this.ref+"Wrap\" style=\"position:absolute; width:0px; left:"+this.leftx+"px; top:"+this.topy+"px; height:0px; z-index:"+this.zindex+"; overflow:visible; visibility:hidden;\"><div id=\""+this.ref+"Link\"></div>";
 		this.HTML+="<table id=\""+this.ref+"Table\" height="+this.height+" width="+this.width+" border=0 cellpadding=0 cellspacing=0 style=\""+getBgStr(this.bgsrc)+"\" ref=\""+this.ref+"\"><tr><td width="+this.width+" align=\"center\" valign=\"middle\"><div id=\""+this.ref+"Content\" class=\""+this.css+sizestr+"\">"+this.title+"</div></td></tr></table>";
 		this.HTML+="</div>";
-		document.write(this.HTML); 
+		document.write(this.HTML);
 
 		this.show=			function()			{show(this.ref+"Wrap");}
 		this.hide=			function()			{hide(this.ref+"Wrap");}
@@ -600,7 +600,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 
 		objArr[this.ref]=this;
 	}
-	
+
 	//TextBox
 	function TextboxBase(x,y,type,text,route,css){
 		this.title=text;
@@ -616,7 +616,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		if(this.route!=null)this.route=this.route.split("|");
 
 		this.ref = "divTxtBtn" + objCount;
-		objCount++;		
+		objCount++;
 
 		this.btn=new ButtonBase(this.leftx,this.topy,this.type,this.title,this.css);
 		this.upcenter=this.btn.upcenter;
@@ -743,7 +743,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 
 		objArr[this.ref]=this;
 	}
-	
+
 	//Comment
 	function CommentBase(x,y,text,num,summary,hint,setsumei,option,icon,iconillu,titlecss,contentcss,optioncss,eventcss){
 		this.num=num;
@@ -810,7 +810,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		//if(bw.safari&&this.icon!="")this.HTML+="tempHeight+=40;";
 		this.HTML+="commentTop=commentTop+tempHeight+"+COMMENTSPACING+";";
 		this.HTML+="<\/script>";
-		document.write(this.HTML); 
+		document.write(this.HTML);
 
 		this.show=			function()			{show(this.ref+"Wrap");}
 		this.hide=			function()			{hide(this.ref+"Wrap");}
@@ -829,7 +829,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		objArr[this.ref]=this;
 		comment[comment.length]=this;
 	}
-	
+
 	//vmlLine
 	function vmlline(x,y,l,h){
 		this.width=LINESIZE;
@@ -884,7 +884,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		}
 		this.HTML+="</div>";
 
-		document.write(this.HTML); 
+		document.write(this.HTML);
 
 		this.show=			function()			{show(this.ref+"Wrap");}
 		this.hide=			function()			{hide(this.ref+"Wrap");}
@@ -894,10 +894,10 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		this.remClick=		function()			{if(this.type=="hv")remMouseClick(this.ref+"Face");}
 		this.addTitle=		function(title)	{if(this.type=="hv")addTitle(this.ref+"Wrap",title);}
 		this.remTitle=		function()			{if(this.type=="hv")remTitle(this.ref+"Wrap");}
-		
+
 		objArr[this.ref]=this;
 	}
-	
+
 	//LinkLine
 	function Linkline(){
 		this.ref="linkLine"+objCount;
@@ -905,16 +905,16 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		this.Points=new Array();
 		args=Linkline.arguments;
 		if(args[1]=="Ligueston")args=args[0];
-		
+
 		if(args[0].upcenter!=null)this.Points[this.Points.length]=args[0].upcenter;
 		else this.Points[this.Points.length]=args[0];
 		for(i=1;i<args.length-1;i++)this.Points[this.Points.length]=args[i];
 		if(args[args.length-1].lowercenter!=null)this.Points[this.Points.length]=args[args.length-1].lowercenter;
 		else this.Points[this.Points.length]=args[args.length-1];
 		this.Lines=new Array();
-		
+
 		for(j=0;j<this.Points.length-1;j++){
-			if(this.Points[j].leftx!=this.Points[j+1].leftx&&this.Points[j].topy!=this.Points[j+1].topy){		
+			if(this.Points[j].leftx!=this.Points[j+1].leftx&&this.Points[j].topy!=this.Points[j+1].topy){
 				this.Lines[this.Lines.length]=new vmlline(this.Points[j].leftx,this.Points[j].topy-LINEBASEHEIGHT-outersize+HALFDOTSIZE,0,LINEBASEHEIGHT);
 				this.Lines[this.Lines.length]=new vmlline(Math.min(this.Points[j].leftx,this.Points[j+1].leftx),this.Points[j].topy-LINEBASEHEIGHT-outersize+HALFDOTSIZE+LINEOUTERSIZEADJUST,Math.abs(this.Points[j].leftx-this.Points[j+1].leftx),0);
 				if(this.Points[j].topy-this.Points[j+1].topy>LINEBASEHEIGHT)this.Lines[this.Lines.length]=new vmlline(this.Points[j+1].leftx,this.Points[j+1].topy-HALFDOTSIZE,0,this.Points[j].topy-this.Points[j+1].topy-LINEBASEHEIGHT);
@@ -926,7 +926,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 				this.Lines[this.Lines.length]=new vmlline(Math.min(this.Points[j].leftx,this.Points[j+1].leftx),this.Points[j].topy-LINEHORIZONALADJUST,Math.abs(this.Points[j].leftx-this.Points[j+1].leftx),0);
 			}
 		}
-			
+
 		this.show=function(){
 			for(i=0;i<this.Lines.length;i++){
 				this.Lines[i].show();
@@ -950,7 +950,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		this.addTitle=		function(title)	{this.Lines[0].addTitle(title);}
 		this.remTitle=		function()			{this.Lines[0].remTitle();}
 	}
-	
+
 	//Board
 	function BoardBase(x,y,height){
 		this.leftx=x;
@@ -962,7 +962,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		this.ref = "divBoard" + objCount;
 		objCount++;
 		this.HTML="";
-		
+
 		this.HTML+="<div id=\""+this.ref+"Wrap\" style=\"position:absolute; width:0px; left:"+this.leftx+"px; top:"+this.topy+"px; height:0px; z-index:"+this.zindex+"; overflow:visible; visibility:hidden;\">";
 		this.HTML+="<table id=\""+this.ref+"Table\" width="+this.width+" border=0 cellpadding=0 cellspacing=0 ref=\""+this.ref+"\">";
 		this.HTML+="<tr><td height="+BORADFOOTERHEIGHT+" align=\"center\" style=\""+getBgStr(src_board_top)+"\" valign=\"middle\"></td></tr>";
@@ -972,7 +972,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		this.HTML+="<tr><td height="+BORADFOOTERHEIGHT+" align=\"center\" style=\""+getBgStr(src_board_bottom)+"\" valign=\"middle\"></td></tr>";
 		this.HTML+="</table>";
 		this.HTML+="</div>";
-		document.write(this.HTML); 
+		document.write(this.HTML);
 
 		this.show=			function()			{show(this.ref+"Wrap");}
 		this.hide=			function()			{hide(this.ref+"Wrap");}
@@ -987,7 +987,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		this.addTitle=		function(title)	{addTitle(this.ref+"Wrap",title);}
 		this.remTitle=		function()			{remTitle(this.ref+"Wrap");}
 
-		objArr[this.ref]=this;	
+		objArr[this.ref]=this;
 	}
 
 //Object Instant
@@ -999,7 +999,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		tempObj=new HeaderBase(0,0,route,routeC,routeE,dateC,dateE,"headerC","headerE");
 		return tempObj;
 	}
-	
+
 	function Textbox_Condition(x,y,text,route){
 		tempObj=new TextboxBase(x,y,"condition",text,route,"btn");
 		return tempObj;
@@ -1043,7 +1043,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		if(Summery==""&&Select==""&&Caution==""&&Option==""&&Events==""&&EventIllu==""&&Title=="")tempObj.init((new ButtonBase(x-(CHECKSIZE-2*outersize)/2,y,"ccheck",number,"check")),null);
 		else tempObj.init((new ButtonBase(x-(CHECKSIZE-2*outersize)/2,y,"ccheck",number,"check")),(new CommentBase(COMMENTLEFT,parseInt(y)-COMMENTBASESPACING+yAdjust,Title,number,Summery,Select,Caution,Option,Events,EventIllu,"cmtbtn","comment","cmtopt","cmtEvnt")));
 		tempObj.addNumClick(function(){if(!commentShown)rightClick();setScrollLeft(COMMENTLEFT)},true);
-		tempObj.numObj.addTitle("µ„ª˜◊™µΩ◊¢ Õ");
+		tempObj.numObj.addTitle("ÁÇπÂáªËΩ¨Âà∞Ê≥®Èáä");
 		return tempObj;
 	}
 	function Textbox_Option_C(x,y,text,number,Summery,Select,Caution,Option,Events,EventIllu,Title,yAdjust,route){
@@ -1053,7 +1053,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		if(Summery==""&&Select==""&&Caution==""&&Option==""&&Events==""&&EventIllu==""&&Title=="")tempObj.init((new ButtonBase(x-(CHECKSIZE-2*outersize)/2,y,"ccheck",number,"check")),null);
 		else tempObj.init((new ButtonBase(x-(CHECKSIZE-2*outersize)/2,y,"ccheck",number,"check")),(new CommentBase(COMMENTLEFT,parseInt(y)-COMMENTBASESPACING+yAdjust,Title,number,Summery,Select,Caution,Option,Events,EventIllu,"cmtbtn","comment","cmtopt","cmtEvnt")));
 		tempObj.addNumClick(function(){if(!commentShown)rightClick();setScrollLeft(COMMENTLEFT)},true);
-		tempObj.numObj.addTitle("µ„ª˜◊™µΩ◊¢ Õ");
+		tempObj.numObj.addTitle("ÁÇπÂáªËΩ¨Âà∞Ê≥®Èáä");
 		return tempObj;
 	}
 	function Textbox_Selection_C(x,y,text,number,Summery,Select,Caution,Option,Events,EventIllu,Title,yAdjust,route){
@@ -1063,16 +1063,16 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		if(Summery==""&&Select==""&&Caution==""&&Option==""&&Events==""&&EventIllu==""&&Title=="")tempObj.init((new ButtonBase(x-(CHECKSIZE-2*outersize)/2,y,"ccheck",number,"check")),null);
 		else tempObj.init((new ButtonBase(x-(CHECKSIZE-2*outersize)/2,y,"ccheck",number,"check")),(new CommentBase(COMMENTLEFT,parseInt(y)-COMMENTBASESPACING+yAdjust,Title,number,Summery,Select,Caution,Option,Events,EventIllu,"cmtbtn","comment","cmtopt","cmtEvnt")));
 		tempObj.addNumClick(function(){if(!commentShown)rightClick();setScrollLeft(COMMENTLEFT)},true);
-		tempObj.numObj.addTitle("µ„ª˜◊™µΩ◊¢ Õ");
+		tempObj.numObj.addTitle("ÁÇπÂáªËΩ¨Âà∞Ê≥®Èáä");
 		return tempObj;
 	}
-	
+
 	function Link(){
 		args=Link.arguments;
 		tempObj=new Linkline(args,"Ligueston");
 		return tempObj;
 	}
-	
+
 	function Board(y,y2){
 		tempObj=new BoardBase(0,y-BOARDREAPETHEIGHT*2.5-YSCALE/2,y2-y+BOARDREAPETHEIGHT*6);
 		return tempObj;
@@ -1086,10 +1086,10 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 	function liny(yy){return y(yLevel)+YSCALE*yy;}
 	function linx(xx){return x(xx+1)-(XSCALE*2-BUTTONWIDTH)/2-outersize;}
 	function getYlevel(y){return Math.floor((y-BasicY)/YSCALE);}
-	
+
 	//Image Check
 	function showall(){
-		if(rqst["jslink"]){			
+		if(rqst["jslink"]){
 			gotolink(rqst["jslink"]);
 		}
 		for(m=0;m<box.length;m++){
@@ -1107,7 +1107,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		if(hdft["footer"])hdft["footer"].show();
 		checkBlink();
 	}
-	
+
 	var pic_src=new Array(
 		src_background,
 		num0_s,num1_s,num1_s,num2_s,num3_s,num4_s,num5_s,num6_s,num7_s,num8_s,num9_s,
@@ -1139,7 +1139,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 	}
 	function updateLoadingProcess(i,n){
 		if(i==n){getObjectRef("loadingStatusBtn").style.display="none";getObjectRef("loadingStatus").style.display="none";return;}
-		getObjectRef("loadingStatus").value="’˝‘⁄ª∫¥ÊÕº∆¨:"+(i*100/n).toFixed(1)+"%";
+		getObjectRef("loadingStatus").value="Ê≠£Âú®ÁºìÂ≠òÂõæÁâá:"+(i*100/n).toFixed(1)+"%";
 		if(i==0){getObjectRef("loadingStatusBtn").style.display="block";getObjectRef("loadingStatus").style.display="block";return;}
 	}
 	function skipFileCheck(){
@@ -1148,7 +1148,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		getObjectRef("loadingStatusBtn").style.display="none";
 		showall();
 	}
-	
+
 	//Right Click
 	function rightClick(){
 		if(commentShown){
@@ -1172,9 +1172,9 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		selectPage=hdft["footer"].page;
 		setPage(selectPage,"jump");
 		return false;
-	}	
+	}
 	document.oncontextmenu=rightClick;
-	
+
 	//Select Page
 	var selectPage=-1;
 	function mouseWheel(pre){
@@ -1237,16 +1237,16 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 	}
 	function jumpPage(){
 		if(selectPage!=hdft["footer"].page){
-			if(confirm("»∑ µ“™Ã¯◊™µΩÀ˘—°µƒµ⁄"+selectPage+"“≥¬£ø")){
+			if(confirm("Á°ÆÂÆûË¶ÅË∑≥ËΩ¨Âà∞ÊâÄÈÄâÁöÑÁ¨¨"+selectPage+"È°µÂêóÔºü")){
 				setPage(selectPage,"jump");
 				gotopage(selectPage);
 			}
 			else{
 				selectPage=hdft["footer"].page;
-				setPage(selectPage,"jump");				
+				setPage(selectPage,"jump");
 			}
 		}
-	}	
+	}
 	function cancelWheel(type){
 		if(type)document.onmousewheel=function(){return false;}
 		else document.onmousewheel=null;
@@ -1255,7 +1255,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		if(type)document.oncontextmenu=function(){selectPage=hdft["footer"].page;setPage(selectPage,"jump");return false;}
 		else document.oncontextmenu=rightClick;
 	}
-	
+
 	//Blink
 	var BlinkStop=true;
 	var blinkObj;
@@ -1289,7 +1289,7 @@ var folder=new Array("Background/","Bubble/","Comment/","Title/","Line/","Textbo
 		}
 		blinkStart(tempObj);
 	}
-	
+
 	//String
 	function getBgStr(imgSrc){
 		if(bw.ie6)return "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop, src="+imgSrc+");"

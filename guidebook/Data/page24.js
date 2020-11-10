@@ -1,27 +1,27 @@
 // CVG HTML Data Page24 Done By Shakugan_No_Kaluote 2008.4.14
-hdft["header"]=Header("public","¹«¹²Â·Ïß","Public Route","ĞÄÌø¡î¸ßÖĞ","Heartbeat¡îHigh School");
+hdft["header"]=Header("public","å…¬å…±è·¯çº¿","Public Route","å¿ƒè·³â˜†é«˜ä¸­","Heartbeatâ˜†High School");
 
 var yLevel=0;
 
 //----------
 box[0]=new Array();
 yLevel+=3;
-box[0][0]=Textbox_Selection(x(0),y(yLevel),"ĞÄÌø¡î¸ßÖĞ");
+box[0][0]=Textbox_Selection(x(0),y(yLevel),"å¿ƒè·³â˜†é«˜ä¸­");
 box[0][0].addLink("p24_XTGZ");
 box[0][0].addClick(function(){gotopage(12,"p12_retXTGZ")});
-box[0][1]=Textbox_Selection(x(3),y(yLevel),"Ğ£ÃÅÇ°ÏàÓö");
+box[0][1]=Textbox_Selection(x(3),y(yLevel),"æ ¡é—¨å‰ç›¸é‡");
 line[line.length]=Link(Point(linx(3),liny(0)-LINEBASEHEIGHT/2),Point(linx(3),liny(0)-LINEBASEHEIGHT/2));
 //----------
 box[1]=new Array();
 yLevel+=3;
-box[1][0]=Textbox_Option(x(2),y(yLevel),"Ä¿ËÍËıÀëÈ¥");
+box[1][0]=Textbox_Option(x(2),y(yLevel),"ç›®é€å¥¹ç¦»å»");
 line[line.length]=Link(box[1][0],box[0][1]);
-box[1][1]=Textbox_Option(x(4),y(yLevel),"ÏòËı±í°×");
+box[1][1]=Textbox_Option(x(4),y(yLevel),"å‘å¥¹è¡¨ç™½");
 line[line.length]=Link(box[1][1],box[0][1]);
 //----------
 box[2]=new Array();
 yLevel+=2;
-box[2][0]=Textbox_Selection(x(2),y(yLevel),"Ê³ÌÃÀïÏàÓö");
+box[2][0]=Textbox_Selection(x(2),y(yLevel),"é£Ÿå ‚é‡Œç›¸é‡");
 line[line.length]=Link(box[2][0],box[1][0]);
 box[2][1]=Textbox_Quit(x(4),y(yLevel),"Game Over");
 box[2][1].addClick(function(){gotopage(12,"p12_retXTGZ")});
@@ -29,14 +29,14 @@ line[line.length]=Link(box[2][1],box[1][1]);
 //----------
 box[3]=new Array();
 yLevel+=3;
-box[3][0]=Textbox_Option(x(2),y(yLevel),"ÍµÍµ×¢ÊÓ×ÅËı");
+box[3][0]=Textbox_Option(x(2),y(yLevel),"å·å·æ³¨è§†ç€å¥¹");
 line[line.length]=Link(box[3][0],box[2][0]);
-box[3][1]=Textbox_Option(x(4),y(yLevel),"ÏòËı±í°×");
+box[3][1]=Textbox_Option(x(4),y(yLevel),"å‘å¥¹è¡¨ç™½");
 line[line.length]=Link(box[3][1],box[2][0]);
 //----------
 box[4]=new Array();
 yLevel+=2;
-box[4][0]=Textbox_Selection(x(2),y(yLevel),"·ÅÑ§Ê±ÏàÓö");
+box[4][0]=Textbox_Selection(x(2),y(yLevel),"æ”¾å­¦æ—¶ç›¸é‡");
 line[line.length]=Link(box[4][0],box[3][0]);
 box[4][1]=Textbox_Quit(x(4),y(yLevel),"Game Over");
 box[4][1].addClick(function(){gotopage(12,"p12_retXTGZ")});
@@ -44,14 +44,14 @@ line[line.length]=Link(box[4][1],box[3][1]);
 //----------
 box[5]=new Array();
 yLevel+=3;
-box[5][0]=Textbox_Option(x(2),y(yLevel),"ÏòËı±í°×");
+box[5][0]=Textbox_Option(x(2),y(yLevel),"å‘å¥¹è¡¨ç™½");
 line[line.length]=Link(box[5][0],box[4][0]);
-box[5][1]=Textbox_Option(x(4),y(yLevel),"Ä¿ËÍËıÀëÈ¥");
+box[5][1]=Textbox_Option(x(4),y(yLevel),"ç›®é€å¥¹ç¦»å»");
 line[line.length]=Link(box[5][1],box[4][0]);
 //----------
 box[6]=new Array();
 yLevel+=2;
-box[6][0]=Textbox_Selection(x(2),y(yLevel),"Ñ©Ò°µÄ¹¥»÷");
+box[6][0]=Textbox_Selection(x(2),y(yLevel),"é›ªé‡çš„æ”»å‡»");
 line[line.length]=Link(box[6][0],box[5][0]);
 box[6][1]=Textbox_Quit(x(4),y(yLevel),"Game Over");
 box[6][1].addClick(function(){gotopage(12,"p12_retXTGZ")});
@@ -59,14 +59,14 @@ line[line.length]=Link(box[6][1],box[5][1]);
 //----------
 box[7]=new Array();
 yLevel+=3;
-box[7][0]=Textbox_Option(x(2),y(yLevel),"ÕõÍÑËı");
+box[7][0]=Textbox_Option(x(2),y(yLevel),"æŒ£è„±å¥¹");
 line[line.length]=Link(box[7][0],box[6][0]);
-box[7][1]=Textbox_Option(x(4),y(yLevel),"Óµ±§Ëı");
+box[7][1]=Textbox_Option(x(4),y(yLevel),"æ‹¥æŠ±å¥¹");
 line[line.length]=Link(box[7][1],box[6][0]);
 //----------
 box[8]=new Array();
 yLevel+=2;
-box[8][0]=Textbox_Selection(x(2),y(yLevel),"Ê·µÙ·òµÇ³¡");
+box[8][0]=Textbox_Selection(x(2),y(yLevel),"å²è’‚å¤«ç™»åœº");
 line[line.length]=Link(box[8][0],box[7][0]);
 box[8][1]=Textbox_Quit(x(4),y(yLevel),"Game Over");
 box[8][1].addClick(function(){gotopage(12,"p12_retXTGZ")});
@@ -74,14 +74,14 @@ line[line.length]=Link(box[8][1],box[7][1]);
 //----------
 box[9]=new Array();
 yLevel+=3;
-box[9][0]=Textbox_Option(x(2),y(yLevel),"¸úÊ·µÙ·òÒ»Æğ×ß");
+box[9][0]=Textbox_Option(x(2),y(yLevel),"è·Ÿå²è’‚å¤«ä¸€èµ·èµ°");
 line[line.length]=Link(box[9][0],box[8][0]);
-box[9][1]=Textbox_Option(x(4),y(yLevel),"×Ô¼ºÒ»¸öÈË×ß");
+box[9][1]=Textbox_Option(x(4),y(yLevel),"è‡ªå·±ä¸€ä¸ªäººèµ°");
 line[line.length]=Link(box[9][1],box[8][0]);
 //----------
 box[10]=new Array();
 yLevel+=2;
-box[10][0]=Textbox_Selection(x(2),y(yLevel),"¹·ÆÆ´°¶øÈë");
+box[10][0]=Textbox_Selection(x(2),y(yLevel),"ç‹—ç ´çª—è€Œå…¥");
 line[line.length]=Link(box[10][0],box[9][0]);
 box[10][1]=Textbox_Quit(x(4),y(yLevel),"Game Over");
 box[10][1].addClick(function(){gotopage(12,"p12_retXTGZ")});
@@ -89,14 +89,14 @@ line[line.length]=Link(box[10][1],box[9][1]);
 //----------
 box[11]=new Array();
 yLevel+=3;
-box[11][0]=Textbox_Option(x(2),y(yLevel),"×Ô¼ºÇ××ÔÕ½¶·");
+box[11][0]=Textbox_Option(x(2),y(yLevel),"è‡ªå·±äº²è‡ªæˆ˜æ–—");
 line[line.length]=Link(box[11][0],box[10][0]);
-box[11][1]=Textbox_Option(x(4),y(yLevel),"ÕâÀï½»¸øÊ·µÙ·ò");
+box[11][1]=Textbox_Option(x(4),y(yLevel),"è¿™é‡Œäº¤ç»™å²è’‚å¤«");
 line[line.length]=Link(box[11][1],box[10][0]);
 //----------
 box[12]=new Array();
 yLevel+=2;
-box[12][0]=Textbox_Selection(x(2),y(yLevel),"Ñ°ÕÒÑªÇå");
+box[12][0]=Textbox_Selection(x(2),y(yLevel),"å¯»æ‰¾è¡€æ¸…");
 line[line.length]=Link(box[12][0],box[11][0]);
 box[12][1]=Textbox_Quit(x(4),y(yLevel),"Game Over");
 box[12][1].addClick(function(){gotopage(12,"p12_retXTGZ")});
@@ -104,28 +104,28 @@ line[line.length]=Link(box[12][1],box[11][1]);
 //----------
 box[13]=new Array();
 yLevel+=3;
-box[13][0]=Textbox_Option(x(0),y(yLevel),"´ò¿ª");
+box[13][0]=Textbox_Option(x(0),y(yLevel),"æ‰“å¼€");
 line[line.length]=Link(box[13][0],box[12][0]);
-box[13][1]=Textbox_Option(x(4),y(yLevel),"²»´ò¿ª");
+box[13][1]=Textbox_Option(x(4),y(yLevel),"ä¸æ‰“å¼€");
 line[line.length]=Link(box[13][1],box[12][0]);
 //----------
 box[14]=new Array();
 yLevel+=2;
-box[14][0]=Textbox_Selection(x(4),y(yLevel),"Èı²æ¿Ú");
+box[14][0]=Textbox_Selection(x(4),y(yLevel),"ä¸‰å‰å£");
 line[line.length]=Link(box[14][0],box[13][1]);
 //----------
 box[15]=new Array();
 yLevel+=3;
-box[15][0]=Textbox_Option(x(2),y(yLevel),"Ïò×ó×ß");
+box[15][0]=Textbox_Option(x(2),y(yLevel),"å‘å·¦èµ°");
 line[line.length]=Link(box[15][0],box[14][0]);
-box[15][1]=Textbox_Option(x(4),y(yLevel),"ÏòÇ°×ß");
+box[15][1]=Textbox_Option(x(4),y(yLevel),"å‘å‰èµ°");
 line[line.length]=Link(box[15][1],box[14][0]);
-box[15][2]=Textbox_Option(x(6),y(yLevel),"ÏòÓÒ×ß");
+box[15][2]=Textbox_Option(x(6),y(yLevel),"å‘å³èµ°");
 line[line.length]=Link(box[15][2],box[14][0]);
 //----------
 box[16]=new Array();
 yLevel+=2;
-box[16][0]=Textbox_Selection(x(0),y(yLevel),"Ê·µÙ·òÓµ±§");
+box[16][0]=Textbox_Selection(x(0),y(yLevel),"å²è’‚å¤«æ‹¥æŠ±");
 line[line.length]=Link(box[16][0],box[13][0]);
 box[16][1]=Textbox_Quit(x(2),y(yLevel),"The End");
 box[16][1].addClick(function(){gotopage(12,"p12_retXTGZ")});
@@ -140,14 +140,14 @@ line[line.length]=Link(box[17][0],box[15][2]);
 //----------
 box[18]=new Array();
 yLevel+=2;
-box[18][0]=Textbox_Option(x(0),y(yLevel),"ÕõÍÑËû");
+box[18][0]=Textbox_Option(x(0),y(yLevel),"æŒ£è„±ä»–");
 line[line.length]=Link(box[18][0],box[16][0]);
-box[18][1]=Textbox_Option(x(2),y(yLevel),"Óµ±§Ëû");
+box[18][1]=Textbox_Option(x(2),y(yLevel),"æ‹¥æŠ±ä»–");
 line[line.length]=Link(box[18][1],box[16][0]);
 //----------
 box[19]=new Array();
 yLevel+=2;
-box[19][0]=Textbox_Selection(x(0),y(yLevel),"Â¶Ë¿µÇ³¡");
+box[19][0]=Textbox_Selection(x(0),y(yLevel),"éœ²ä¸ç™»åœº");
 line[line.length]=Link(box[19][0],box[18][0]);
 box[19][1]=Textbox_Quit(x(2),y(yLevel),"Game Over");
 box[19][1].addClick(function(){gotopage(12,"p12_retXTGZ")});
@@ -155,14 +155,14 @@ line[line.length]=Link(box[19][1],box[18][1]);
 //----------
 box[20]=new Array();
 yLevel+=3;
-box[20][0]=Textbox_Option(x(0),y(yLevel),"ÕõÍÑËı");
+box[20][0]=Textbox_Option(x(0),y(yLevel),"æŒ£è„±å¥¹");
 line[line.length]=Link(box[20][0],box[19][0]);
-box[20][1]=Textbox_Option(x(2),y(yLevel),"Ò»ÆğĞĞ¶¯");
+box[20][1]=Textbox_Option(x(2),y(yLevel),"ä¸€èµ·è¡ŒåŠ¨");
 line[line.length]=Link(box[20][1],box[19][0]);
 //----------
 box[21]=new Array();
 yLevel+=2;
-box[21][0]=Textbox_Quit(x(0),y(yLevel),"·ÅÆúÔÄ¶Á£¬Ç¿ÖÆEscape");
+box[21][0]=Textbox_Quit(x(0),y(yLevel),"æ”¾å¼ƒé˜…è¯»ï¼Œå¼ºåˆ¶Escape");
 box[21][0].addClick(function(){gotopage(12,"p12_retXTGZ")});
 line[line.length]=Link(box[21][0],box[20][0]);
 box[21][1]=Textbox_Quit(x(2),y(yLevel),"Game Over");

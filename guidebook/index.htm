@@ -23,55 +23,55 @@ body {
 
 <body>
 <fieldset style="width:400px;">
-<legend>�������</legend>
-<a href="cvg.htm?size=0" target="cvgHTMLori">CVG HTML Ŀ¼ҳ(ԭʼ��С)</a><br />
-<a href="cvg.htm?size=1" target="cvgHTMLscreen">CVG HTML Ŀ¼ҳ(�ʺ�1024*768��С)</a><br />
-<a href="search.htm" target="cvgHTMLsearch">CVG HTML ����ҳ</a></fieldset>
+<legend>入口链接</legend>
+<a href="cvg.htm?size=0" target="cvgHTMLori">CVG HTML 目录页(原始大小)</a><br />
+<a href="cvg.htm?size=1" target="cvgHTMLscreen">CVG HTML 目录页(适合1024*768大小)</a><br />
+<a href="search.htm" target="cvgHTMLsearch">CVG HTML 搜索页</a></fieldset>
 <br><br><br>
 <fieldset style="width:640px;">
-<legend>˵��</legend>
-&diams;ĿǰCVG HTML����֤��IE5.5���ϵ�֧��,��������������ܻ��������.�����ǻ���Javscript�ű���,���������Javascript�ű�,�������ܿ���ҳ������<font color="#999999">(�ұ�֤����д�ű��в��������ĵ����к��Ľű�)</font><br>
-&diams;��ַ������˵��:<br>
+<legend>说明</legend>
+&diams;目前CVG HTML仅保证对IE5.5以上的支持,其他的浏览器可能会出现问题.由于是基于Javscript脚本的,如果您禁用Javascript脚本,您将不能看到页面内容<font color="#999999">(我保证在所写脚本中不含对您的电脑有害的脚本)</font><br>
+&diams;地址栏参数说明:<br>
 <blockquote style="margin-left:20px;margin-top:0px;margin-bottom:0px;border: 1px dashed #00CCFF;padding-left:5px;">
-	<font color="#0000FF">size</font>:ȡֵΪ0<font color="#999999">(��Ӧԭʼ��С)</font>,1<font color="#999999">(��Ӧ��Ӧ1024*768�Ĵ�С)</font><br>
-	<font color="#0000FF">page</font>:ȡֵΪ0~68,��ʾ��Ӧҳ������<br>
-	<font color="#FF0000">jslink</font>:ȡֵΪ�ַ���,ת����Ӧ��ê���<font color="#999999">(һ�㲻���ֶ�����)</font><br>
-	<font color="#FF0000">hilight</font>:ȡֵΪ�ַ���,��˸��ʾ��Ӧ��ͼ��<font color="#999999">(������ʱ�Զ�����)</font>
+	<font color="#0000FF">size</font>:取值为0<font color="#999999">(对应原始大小)</font>,1<font color="#999999">(对应适应1024*768的大小)</font><br>
+	<font color="#0000FF">page</font>:取值为0~68,显示相应页的内容<br>
+	<font color="#FF0000">jslink</font>:取值为字符串,转到相应的锚标记<font color="#999999">(一般不用手动输入)</font><br>
+	<font color="#FF0000">hilight</font>:取值为字符串,闪烁显示对应的图形<font color="#999999">(在搜索时自动生成)</font>
 </blockquote>
-&diams;ҳ�����ڵײ����ڡ��ײ��ӳ��ߡ������ǡ������¼������п�������,�������ȥ������,���ת����Ӧ����<br>
-&diams;�Ҳ����Ĭ�ϲ���ʾ,ֻ���ڵ��ע��ǰ����Ż��ߵ���Ҽ�ʱ�Ż���ʾ.����ʾ״̬��,�ٴε���Ҽ�������ȥ<br>
-&diams;���Ҳ�������Ͻ�ҳ����ʾ��,ת�������ֿɿ���ѡ��ҳ��,ѡ����Ϻ�˫����ȷ���Ƿ�Ҫת����Ӧ��ҳ��<br>
-&diams;��������߰��,�����Ȼ���ͼ��.���������ͼƬ����,Ҳ������������ͼƬ,�������С��13%�Ļ�,��ô������ѡ��ҳ��ʱ��ʾ��ѡҳ�����ٶȻ�Ƚ���
+&diams;页面内在底部日期、底部延长线、区块标记、特殊事件处设有快速链接,鼠标移上去呈手型,点击转到相应内容<br>
+&diams;右侧边栏默认不显示,只有在点击注释前的序号或者点击右键时才会显示.在显示状态下,再次点击右键可以隐去<br>
+&diams;在右侧边栏右上角页数显示区,转动鼠标滚轮可快速选择页数,选择完毕后双击会确认是否要转到相应的页面<br>
+&diams;如果是在线版的,会首先缓存图像.如果您缓存图片缓慢,也可以跳过缓存图片,但是如果小于13%的话,那么鼠标滚轮选择页数时显示所选页数的速度会比较慢
 <hr>
-&diams;����ҳ��Ҳ�ǻ���Javscript�ű���,���������Javascript�ű�,�������ܿ���ҳ������<font color="#999999">(���ذ�Ļ���Ҫ"Scripting.FileSystemObject"ActiveX�ؼ���֧��,����������Ļ�,��������ʹ�ô˹���)</font><br>
-&diams;����ҳ��������������ݰ�������ҳ����������,�Լ�ע����������<font color="#999999">(�����Ǽ򵥵��ַ�ƥ��)</font>.���Ǵ����ֺ���ĸ<font color="#999999">(ֻ�м�����������,end,good,bad,true,after,story)</font>����֧��.���ǿ���������ܵ��³���.<br>
-&diams;�����Ӧ�����������¿����ڴ�<font color="#999999">(����Ѿ������ͻ��ڿ����Ĵ����д�)</font>���,������˸��ʾ�����ؼ�������λ��<br>
+&diams;搜索页面也是基于Javscript脚本的,如果您禁用Javascript脚本,您将不能看到页面内容<font color="#999999">(本地版的还需要"Scripting.FileSystemObject"ActiveX控件的支持,如果不允许的话,您将不能使用此功能)</font><br>
+&diams;搜索页面可以搜索的内容包括内容页的文字内容,以及注释区的内容<font color="#999999">(仅仅是简单的字符匹配)</font>.但是纯数字和字母<font color="#999999">(只有几个单词例外,end,good,bad,true,after,story)</font>不予支持.如果强行搜索可能导致出错.<br>
+&diams;点击相应搜索结果后会新开窗口打开<font color="#999999">(如果已经开过就会在开过的窗口中打开)</font>结果,并用闪烁提示搜索关键字所在位置<br>
 <blockquote style="margin-left:20px;margin-top:0px;margin-bottom:0px;border: 1px dashed #00CCFF;padding-left:5px;">
-	����ҳ���Ĭ�ϵĴ�С���ʺ�1024*768��,�����Ҫ��ԭʼ��С��,���ֶ��ĵ�ַ���е�size=1Ϊsize=0.
+	搜索页结果默认的大小是适合1024*768的,如果需要看原始大小的,请手动改地址栏中的size=1为size=0.
 </blockquote>
-&diams;���߰������ҳ���������ǰ��ʼ������,���ڳ�ʼ����Ϻ���ʹ��.���ذ�Ļ��ڵ�һ��������ʼʱ��ʼ,���Ե�һ���������ܻ�ķ��Զ�һЩ��ʱ��
+&diams;在线版的搜索页面会在搜索前初始化数据,请在初始化完毕后再使用.本地版的会在第一次搜索开始时初始,所以第一次搜索可能会耗费稍多一些的时间
 <hr>
-<font color="#FF0000">�ر���ʾ:IE6�������µ�������Ⱦ�ϲ�,����ʹ��IE7,���Ի�ýϺõ�����Ч��</font>
+<font color="#FF0000">特别提示:IE6及其以下的字体渲染较差,建议使用IE7,可以获得较好的文字效果</font>
 </fieldset>
 <br><br><br>
 <fieldset style="width:400px;">
-<legend>��л</legend>
+<legend>感谢</legend>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td class="thx">Iker@Kamikey</td>
-    <td>�ṩͼƬ�Լ�ԭ����</td>
+    <td>提供图片以及原材料</td>
   </tr>
   <tr>
-    <td class="thx">���۵Ŀ��_��@Kamikey</td>
-    <td>����ҳ������</td>
+    <td class="thx">灼眼的卡羅特@Kamikey</td>
+    <td>数据页的制作</td>
   </tr>
   <tr>
     <td class="thx">goodbest@KeyFC/Kamikey</td>
-    <td>����ҳ������</td>
+    <td>数据页的制作</td>
   </tr>
   <tr>
-    <td class="thx">С��@�����У�ݾ粿</td>
-    <td>����ҳ������&amp;У��</td>
+    <td class="thx">小米@光坂高校演剧部</td>
+    <td>数据页的制作&amp;校对</td>
   </tr>
 </table>
 </fieldset>

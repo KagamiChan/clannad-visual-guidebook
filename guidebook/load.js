@@ -28,7 +28,7 @@ function $import(url){//Copied
 			if(window.execScript){// eval in global scope for IE
 				window.execScript(bytes2BSTR(xmlhttp.responseBody));
 			}
-			else{// 关键：用call来解决作用域问题 fo FF
+			else{// 鍏抽敭锛氱敤call鏉ヨВ鍐充綔鐢ㄥ煙闂 fo FF
 				eval.call(window, bytes2BSTR(xmlhttp.responseBody));
 			}
 		}

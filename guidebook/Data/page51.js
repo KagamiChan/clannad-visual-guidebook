@@ -1,28 +1,28 @@
 // CVG HTML Data Page51 Done By Shakugan_No_Kaluote 2008.4.20
-hdft["header"]=Header("nagisa","¹ÅºÓ ä¾/ĞÒ´å ¿¡·ò","Nagisa Furukawa / Toshio Yukimura","4ÔÂ26ÈÕ¡«4ÔÂ27ÈÕ","April 26th~April 27th");
+hdft["header"]=Header("nagisa","å¤æ²³ æ¸š/å¹¸æ‘ ä¿Šå¤«","Nagisa Furukawa / Toshio Yukimura","4æœˆ26æ—¥ï½4æœˆ27æ—¥","April 26th~April 27th");
 
 var yLevel=0;
 //----------
 box[0]=new Array();
 yLevel+=3;
-box[0][0]=Textbox_Date(x(3.5),y(yLevel),"4ÔÂ26ÈÕ","top");
+box[0][0]=Textbox_Date(x(3.5),y(yLevel),"4æœˆ26æ—¥","top");
 //----------
 box[1]=new Array();
 yLevel+=2;
 CmtSummery="";
 CmtSelect="";
 CmtCaution="";
-CmtOption="-È¥ÕÒÕÒ¿´";
+CmtOption="-å»æ‰¾æ‰¾çœ‹";
 CmtEvents="00100000";
-CmtEvntIru="·¼Ò°³ÉÎª3¶Ô3ÀºÇòÈü³ÉÔ±ºòÑ¡";
-box[1][0]=Textbox_Selection_C(x(3.5),y(yLevel),"ÌáÇ°Ñ°ÕÒ»ï°é","1",CmtSummery,CmtSelect,CmtCaution,CmtOption,CmtEvents,CmtEvntIru,"ÌáÇ°Ñ°ÕÒ»ï°é",0);
+CmtEvntIru="èŠ³é‡æˆä¸º3å¯¹3ç¯®çƒèµ›æˆå‘˜å€™é€‰";
+box[1][0]=Textbox_Selection_C(x(3.5),y(yLevel),"æå‰å¯»æ‰¾ä¼™ä¼´","1",CmtSummery,CmtSelect,CmtCaution,CmtOption,CmtEvents,CmtEvntIru,"æå‰å¯»æ‰¾ä¼™ä¼´",0);
 line[line.length]=Link(box[1][0],box[0][0]);
 //----------
 box[2]=new Array();
 yLevel+=3;
-box[2][0]=Textbox_Option(x(2.5),y(yLevel),"È¥ÕÒÕÒ¿´");
+box[2][0]=Textbox_Option(x(2.5),y(yLevel),"å»æ‰¾æ‰¾çœ‹");
 line[line.length]=Link(box[2][0],box[1][0]);
-box[2][1]=Textbox_Option(x(4.5),y(yLevel),"µÈµ½ĞÇÆÚÒ»");
+box[2][1]=Textbox_Option(x(4.5),y(yLevel),"ç­‰åˆ°æ˜ŸæœŸä¸€");
 line[line.length]=Link(box[2][1],box[1][0]);
 //----------
 box[3]=new Array();
@@ -30,31 +30,31 @@ yLevel+=2;
 CmtSummery="";
 CmtSelect="";
 CmtCaution="";
-CmtOption="-ÈÃĞÒ´å¼ÓÈë¶ÓÎé</div></td><td width=\""+(COMMENTBARWIDTH)+"\" height=\""+COMMENTBARHEIGHT+"\" valign=\"bottom\" align=\"center\"></td><td width=\""+(COMMENTBARWIDTH)+"\" height=\""+COMMENTBARHEIGHT+"\" valign=\"bottom\" align=\"center\"></td><td width=\""+(COMMENTBASESPACING)+"\"></td></tr></table></td></tr><tr><td background=\""+src_commentbase_base+"\"><table border=0 cellpadding=0 cellspacing=0 width=\""+COMMENTWIDTH+"\"><tr><td width=\""+(COMMENTBASESPACING)+"\"></td><td width=\""+(8*COMMENTBUTTONSIZE-COMMENTBASESPACING)+"\" height=\""+COMMENTBUTTONSIZE+"\" valign=\"bottom\" align=\"left\" class=\"comment"+sizestr+"\"><img src=\""+src_comment_mark_un[0]+"\" style=\"margin-right:0px;\"><img src=\""+src_comment_mark_un[1]+"\" style=\"margin-right:0px;\"><img src=\""+src_comment_mark_en[2]+"\" style=\"margin-right:0px;\"><img src=\""+src_comment_mark_un[3]+"\" style=\"margin-right:0px;\"><img src=\""+src_comment_mark_un[4]+"\" style=\"margin-right:0px;\"><img src=\""+src_comment_mark_un[5]+"\" style=\"margin-right:0px;\"><img src=\""+src_comment_mark_un[6]+"\" style=\"margin-right:0px;\"><img src=\""+src_comment_mark_un[7]+"\" style=\"margin-right:0px;\"></td><td width=\""+(COMMENTWIDTH-COMMENTBASESPACING-8*COMMENTBUTTONSIZE)+"\"><table border=0 cellpadding=0 cellspacing=0 height="+COMMENTEVENTHEIGHT+" background=\""+src_commentbase_event+"\"><tr><td height="+COMMENTEVENTHEIGHT+" valign=\"middle\" class=\"cmtEvnt"+sizestr+"\" width=\""+(COMMENTWIDTH-2*COMMENTBASESPACING-8*COMMENTBUTTONSIZE)+"\">·¼Ò°²ÎÓë3¶Ô3ÀºÇòÈü</td></tr></table></td><td width=\""+(COMMENTBASESPACING)+"\"></td></tr></table></td></tr><tr><td background=\""+src_commentbase_base+"\" height=\""+(COMMENTBASESPACING/2)+"\"></td></tr><tr><td background=\""+src_commentbase_base+"\"><table border=0 cellpadding=0 cellspacing=0 width=\""+COMMENTWIDTH+"\"><tr><td width=\""+(COMMENTBASESPACING)+"\"></td><td width=\""+(COMMENTBARWIDTH)+"\" height=\""+COMMENTBARHEIGHT+"\" background=\""+src_commentbase_option_B+"\" valign=\"bottom\" align=\"center\"><div class=\"cmtopt"+sizestr+"\">²»ÒªÈÃËû¼ÓÈë";
+CmtOption="-è®©å¹¸æ‘åŠ å…¥é˜Ÿä¼</div></td><td width=\""+(COMMENTBARWIDTH)+"\" height=\""+COMMENTBARHEIGHT+"\" valign=\"bottom\" align=\"center\"></td><td width=\""+(COMMENTBARWIDTH)+"\" height=\""+COMMENTBARHEIGHT+"\" valign=\"bottom\" align=\"center\"></td><td width=\""+(COMMENTBASESPACING)+"\"></td></tr></table></td></tr><tr><td background=\""+src_commentbase_base+"\"><table border=0 cellpadding=0 cellspacing=0 width=\""+COMMENTWIDTH+"\"><tr><td width=\""+(COMMENTBASESPACING)+"\"></td><td width=\""+(8*COMMENTBUTTONSIZE-COMMENTBASESPACING)+"\" height=\""+COMMENTBUTTONSIZE+"\" valign=\"bottom\" align=\"left\" class=\"comment"+sizestr+"\"><img src=\""+src_comment_mark_un[0]+"\" style=\"margin-right:0px;\"><img src=\""+src_comment_mark_un[1]+"\" style=\"margin-right:0px;\"><img src=\""+src_comment_mark_en[2]+"\" style=\"margin-right:0px;\"><img src=\""+src_comment_mark_un[3]+"\" style=\"margin-right:0px;\"><img src=\""+src_comment_mark_un[4]+"\" style=\"margin-right:0px;\"><img src=\""+src_comment_mark_un[5]+"\" style=\"margin-right:0px;\"><img src=\""+src_comment_mark_un[6]+"\" style=\"margin-right:0px;\"><img src=\""+src_comment_mark_un[7]+"\" style=\"margin-right:0px;\"></td><td width=\""+(COMMENTWIDTH-COMMENTBASESPACING-8*COMMENTBUTTONSIZE)+"\"><table border=0 cellpadding=0 cellspacing=0 height="+COMMENTEVENTHEIGHT+" background=\""+src_commentbase_event+"\"><tr><td height="+COMMENTEVENTHEIGHT+" valign=\"middle\" class=\"cmtEvnt"+sizestr+"\" width=\""+(COMMENTWIDTH-2*COMMENTBASESPACING-8*COMMENTBUTTONSIZE)+"\">èŠ³é‡å‚ä¸3å¯¹3ç¯®çƒèµ›</td></tr></table></td><td width=\""+(COMMENTBASESPACING)+"\"></td></tr></table></td></tr><tr><td background=\""+src_commentbase_base+"\" height=\""+(COMMENTBASESPACING/2)+"\"></td></tr><tr><td background=\""+src_commentbase_base+"\"><table border=0 cellpadding=0 cellspacing=0 width=\""+COMMENTWIDTH+"\"><tr><td width=\""+(COMMENTBASESPACING)+"\"></td><td width=\""+(COMMENTBARWIDTH)+"\" height=\""+COMMENTBARHEIGHT+"\" background=\""+src_commentbase_option_B+"\" valign=\"bottom\" align=\"center\"><div class=\"cmtopt"+sizestr+"\">ä¸è¦è®©ä»–åŠ å…¥";
 CmtEvents="00100000";
-CmtEvntIru="ÇïÉú¡¢ä¾ÓĞÌõ¼ş²ÎÓë3¶Ô3ÀºÇòÈü";
-box[3][0]=Textbox_Selection_C(x(2.5),y(yLevel),"ÔÚ×ßÀÈÓöµ½ĞÒ´å","2",CmtSummery,CmtSelect,CmtCaution,CmtOption,CmtEvents,CmtEvntIru,"ÔÚ×ßÀÈÓöµ½ĞÒ´å",0);
+CmtEvntIru="ç§‹ç”Ÿã€æ¸šæœ‰æ¡ä»¶å‚ä¸3å¯¹3ç¯®çƒèµ›";
+box[3][0]=Textbox_Selection_C(x(2.5),y(yLevel),"åœ¨èµ°å»Šé‡åˆ°å¹¸æ‘","2",CmtSummery,CmtSelect,CmtCaution,CmtOption,CmtEvents,CmtEvntIru,"åœ¨èµ°å»Šé‡åˆ°å¹¸æ‘",0);
 line[line.length]=Link(box[3][0],box[2][0]);
 //----------
 box[4]=new Array();
 yLevel+=3;
-box[4][0]=Textbox_Option(x(1.5),y(yLevel),"ÈÃĞÒ´å¼ÓÈë¶ÓÎé");
+box[4][0]=Textbox_Option(x(1.5),y(yLevel),"è®©å¹¸æ‘åŠ å…¥é˜Ÿä¼");
 line[line.length]=Link(box[4][0],box[3][0]);
-box[4][1]=Textbox_Option(x(3.5),y(yLevel),"²»ÒªËû¼ÓÈë");
+box[4][1]=Textbox_Option(x(3.5),y(yLevel),"ä¸è¦ä»–åŠ å…¥");
 line[line.length]=Link(box[4][1],box[3][0]);
 //----------
 box[5]=new Array();
 yLevel+=4;
-box[5][0]=Textbox_Condition(x(3.5),y(yLevel),"23ÈÕ£¬´ºÔ­µÄÃÃÃÃ´òÀ´µç»°");
+box[5][0]=Textbox_Condition(x(3.5),y(yLevel),"23æ—¥ï¼Œæ˜¥åŸçš„å¦¹å¦¹æ‰“æ¥ç”µè¯");
 line[line.length]=Link(box[5][0],Point(linx(2.5),liny(-1)),box[4][0]);
 line[line.length]=Link(box[5][0],Point(linx(2.5),liny(-1)),box[4][1]);
 line[line.length]=Link(box[5][0],box[2][1]);
 //----------
 box[6]=new Array();
 yLevel+=3;
-box[6][0]=Textbox_Selection(x(2.5),y(yLevel),"´ú´ºÔ­½ÓÌı");
+box[6][0]=Textbox_Selection(x(2.5),y(yLevel),"ä»£æ˜¥åŸæ¥å¬");
 line[line.length]=Link(box[6][0],box[5][0]);
-box[6][1]=Textbox_Selection(x(4.5),y(yLevel),"²»´úËû½ÓÌı","r|+Î´´¥·¢");
+box[6][1]=Textbox_Selection(x(4.5),y(yLevel),"ä¸ä»£ä»–æ¥å¬","r|+æœªè§¦å‘");
 line[line.length]=Link(box[6][1],box[5][0]);
 //----------
 box[7]=new Array();
@@ -62,40 +62,40 @@ yLevel+=2;
 CmtSummery="";
 CmtSelect="";
 CmtCaution="";
-CmtOption="-ºÃµÄ";
+CmtOption="-å¥½çš„";
 CmtEvents="00100001";
-CmtEvntIru="ÇïÉúÓĞÌõ¼ş²ÎÓë3¶Ô3ÀºÇòÈü£»Ñ¿ÒÂ¡¢ÃÀ×ôÖ¦²ÎÓë±ÏÒµµäÀñ£¨´ËÎªÃÀ×ôÖ¦²ÎÓë±ÏÒµµäÀñµÄÁíÒ»ÖÖÍ¾¾¶£¬Ò²ÊÇÊ×Ñ¡Í¾¾¶£©";
-box[7][0]=Textbox_Selection_C(x(2.5),y(yLevel),"Ç°À´Ì½Ç×µÄÑ¿ÒÂ","3",CmtSummery,CmtSelect,CmtCaution,CmtOption,CmtEvents,CmtEvntIru,"Ç°À´Ì½Ç×µÄÑ¿ÒÂ",0);
+CmtEvntIru="ç§‹ç”Ÿæœ‰æ¡ä»¶å‚ä¸3å¯¹3ç¯®çƒèµ›ï¼›èŠ½è¡£ã€ç¾ä½æå‚ä¸æ¯•ä¸šå…¸ç¤¼ï¼ˆæ­¤ä¸ºç¾ä½æå‚ä¸æ¯•ä¸šå…¸ç¤¼çš„å¦ä¸€ç§é€”å¾„ï¼Œä¹Ÿæ˜¯é¦–é€‰é€”å¾„ï¼‰";
+box[7][0]=Textbox_Selection_C(x(2.5),y(yLevel),"å‰æ¥æ¢äº²çš„èŠ½è¡£","3",CmtSummery,CmtSelect,CmtCaution,CmtOption,CmtEvents,CmtEvntIru,"å‰æ¥æ¢äº²çš„èŠ½è¡£",0);
 line[line.length]=Link(box[7][0],box[6][0]);
 //----------
 box[8]=new Array();
 yLevel+=3;
-box[8][0]=Textbox_Option(x(1.5),y(yLevel),"ºÃµÄ");
+box[8][0]=Textbox_Option(x(1.5),y(yLevel),"å¥½çš„");
 line[line.length]=Link(box[8][0],box[7][0]);
-box[8][1]=Textbox_Option(x(3.5),y(yLevel),"×Ô¼ºÒ»¸öÈËÈ¥°É");
+box[8][1]=Textbox_Option(x(3.5),y(yLevel),"è‡ªå·±ä¸€ä¸ªäººå»å§");
 line[line.length]=Link(box[8][1],box[7][0]);
 //----------
 box[9]=new Array();
 yLevel+=4;
-box[9][0]=Textbox_Date(x(3.5),y(yLevel),"4ÔÂ27ÈÕ","bottom");
+box[9][0]=Textbox_Date(x(3.5),y(yLevel),"4æœˆ27æ—¥","bottom");
 line[line.length]=Link(box[9][0],Point(linx(2.5),liny(-1)),box[8][0]);
 line[line.length]=Link(box[9][0],Point(linx(2.5),liny(-1)),box[8][1]);
 line[line.length]=Link(box[9][0],box[6][1]);
 //----------
 box[10]=new Array();
 yLevel+=5;
-box[10][0]=Textbox_Date(x(3),y(yLevel),"4ÔÂ27ÈÕ","top");
+box[10][0]=Textbox_Date(x(3),y(yLevel),"4æœˆ27æ—¥","top");
 //----------
 box[11]=new Array();
 yLevel+=2;
-box[11][0]=Textbox_Condition(x(3),y(yLevel),"26ÈÕ£¬Ç°À´Ì½Ç×µÄÑ¿ÒÂ");
+box[11][0]=Textbox_Condition(x(3),y(yLevel),"26æ—¥ï¼Œå‰æ¥æ¢äº²çš„èŠ½è¡£");
 line[line.length]=Link(box[11][0],box[10][0]);
 //----------
 box[12]=new Array();
 yLevel+=3;
-box[12][0]=Textbox_Selection(x(1),y(yLevel),"ºÃµÄ");
+box[12][0]=Textbox_Selection(x(1),y(yLevel),"å¥½çš„");
 line[line.length]=Link(box[12][0],box[11][0]);
-box[12][1]=Textbox_Selection(x(5),y(yLevel),"×Ô¼ºÒ»¸öÈËÈ¥°É","r|+Î´´¥·¢");
+box[12][1]=Textbox_Selection(x(5),y(yLevel),"è‡ªå·±ä¸€ä¸ªäººå»å§","r|+æœªè§¦å‘");
 line[line.length]=Link(box[12][1],box[11][0]);
 //----------
 box[13]=new Array();
@@ -103,40 +103,40 @@ yLevel+=2;
 CmtSummery="";
 CmtSelect="";
 CmtCaution="";
-CmtOption="-¿ÉÒÔ";
+CmtOption="-å¯ä»¥";
 CmtEvents="00000001";
-CmtEvntIru="¹«×ÓÓĞÌõ¼ş²ÎÓë±ÏÒµµäÀñ£¨´ËÎª¹«×Ó²ÎÓë±ÏÒµµäÀñµÄÁíÒ»ÖÖÍ¾¾¶£©";
-box[13][0]=Textbox_Selection_C(x(1),y(yLevel),"°ïÃ¦´òÀíµêÆÌ","1",CmtSummery,CmtSelect,CmtCaution,CmtOption,CmtEvents,CmtEvntIru,"°ïÃ¦´òÀíµêÆÌ",0);
+CmtEvntIru="å…¬å­æœ‰æ¡ä»¶å‚ä¸æ¯•ä¸šå…¸ç¤¼ï¼ˆæ­¤ä¸ºå…¬å­å‚ä¸æ¯•ä¸šå…¸ç¤¼çš„å¦ä¸€ç§é€”å¾„ï¼‰";
+box[13][0]=Textbox_Selection_C(x(1),y(yLevel),"å¸®å¿™æ‰“ç†åº—é“º","1",CmtSummery,CmtSelect,CmtCaution,CmtOption,CmtEvents,CmtEvntIru,"å¸®å¿™æ‰“ç†åº—é“º",0);
 line[line.length]=Link(box[13][0],box[12][0]);
-box[13][1]=Textbox_Selection(x(5),y(yLevel),"ÖÜÄ©µÄÃæ°üµê");
+box[13][1]=Textbox_Selection(x(5),y(yLevel),"å‘¨æœ«çš„é¢åŒ…åº—");
 line[line.length]=Link(box[13][1],box[12][1]);
 //----------
 box[14]=new Array();
 yLevel+=3;
-box[14][0]=Textbox_Option(x(0),y(yLevel),"¿ÉÒÔ");
+box[14][0]=Textbox_Option(x(0),y(yLevel),"å¯ä»¥");
 line[line.length]=Link(box[14][0],box[13][0]);
-box[14][1]=Textbox_Option(x(2),y(yLevel),"²»ºÃ");
+box[14][1]=Textbox_Option(x(2),y(yLevel),"ä¸å¥½");
 line[line.length]=Link(box[14][1],box[13][0]);
-box[14][2]=Textbox_Option(x(4),y(yLevel),"À´°ïÃ¦");
+box[14][2]=Textbox_Option(x(4),y(yLevel),"æ¥å¸®å¿™");
 line[line.length]=Link(box[14][2],box[13][1]);
-box[14][3]=Textbox_Option(x(6),y(yLevel),"À´ÂòÃæ°ü");
+box[14][3]=Textbox_Option(x(6),y(yLevel),"æ¥ä¹°é¢åŒ…");
 line[line.length]=Link(box[14][3],box[13][1]);
 //----------
 box[15]=new Array();
 yLevel+=2;
-box[15][0]=Textbox_Selection(x(4),y(yLevel),"½üÔÚÉí±ßµÄä¾");
+box[15][0]=Textbox_Selection(x(4),y(yLevel),"è¿‘åœ¨èº«è¾¹çš„æ¸š");
 line[line.length]=Link(box[15][0],box[14][2]);
 //----------
 box[16]=new Array();
 yLevel+=3;
-box[16][0]=Textbox_Option(x(3),y(yLevel),"±§×¡ä¾µÄ¼ç°ò");
+box[16][0]=Textbox_Option(x(3),y(yLevel),"æŠ±ä½æ¸šçš„è‚©è†€");
 line[line.length]=Link(box[16][0],box[15][0]);
-box[16][1]=Textbox_Option(x(5),y(yLevel),"¿ËÖÆ×Ô¼º");
+box[16][1]=Textbox_Option(x(5),y(yLevel),"å…‹åˆ¶è‡ªå·±");
 line[line.length]=Link(box[16][1],box[15][0]);
 //----------
 box[17]=new Array();
 yLevel+=5;
-box[17][0]=Textbox_Option(x(3),y(yLevel),"»ÃÏëÊÀ½ç£¨Æß£©");
+box[17][0]=Textbox_Option(x(3),y(yLevel),"å¹»æƒ³ä¸–ç•Œï¼ˆä¸ƒï¼‰");
 line[line.length]=Link(box[17][0],Point(linx(5),liny(-1)),Point(linx(4),liny(-2)),box[16][0]);
 line[line.length]=Link(box[17][0],Point(linx(5),liny(-1)),Point(linx(4),liny(-2)),box[16][1]);
 line[line.length]=Link(box[17][0],Point(linx(1),liny(-7)),box[14][0]);
@@ -145,8 +145,8 @@ line[line.length]=Link(box[17][0],Point(linx(5),liny(-1)),box[14][3]);
 //----------
 box[18]=new Array();
 yLevel+=2;
-box[18][0]=Textbox_Date(x(3),y(yLevel),"4ÔÂ28ÈÕ","bottom");
-box[18][0].addTitle("µã»÷×ªµ½µÚ52Ò³");
+box[18][0]=Textbox_Date(x(3),y(yLevel),"4æœˆ28æ—¥","bottom");
+box[18][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬52é¡µ");
 box[18][0].addClick(function(){gotopage(52)});
 line[line.length]=Link(box[18][0],box[17][0]);
 

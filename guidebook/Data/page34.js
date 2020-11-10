@@ -1,127 +1,127 @@
 // CVG HTML Data Page34 Done By goodbest 2008.4.17
-hdft["header"]=Header("fujibayashi","ÌÙÁÖ ĞÓ/ÌÙÁÖ é£","Kyou Fujibayashi/Ryou Fujibayashi","4ÔÂ25ÈÕ¡«5ÔÂ1ÈÕ","April 25th~May 1st");
+hdft["header"]=Header("fujibayashi","è—¤æ— æ/è—¤æ— æ¤‹","Kyou Fujibayashi/Ryou Fujibayashi","4æœˆ25æ—¥ï½5æœˆ1æ—¥","April 25th~May 1st");
 
 var yLevel=0;
 //----------
 box[0]=new Array();
 yLevel+=3;
-box[0][0]=Textbox_Date(x(3),y(yLevel),"4ÔÂ25ÈÕ","top");
+box[0][0]=Textbox_Date(x(3),y(yLevel),"4æœˆ25æ—¥","top");
 //----------
 box[1]=new Array();
 yLevel+=2;
-box[1][0]=Textbox_Selection(x(3),y(yLevel),"Ğ£ÃÅ¿ÚµÄÔ¼¶¨");
+box[1][0]=Textbox_Selection(x(3),y(yLevel),"æ ¡é—¨å£çš„çº¦å®š");
 line[line.length]=Link(box[1][0],box[0][0]);
 //----------
 box[2]=new Array();
 yLevel+=3;
-box[2][0]=Textbox_Option(x(3),y(yLevel),"ÀÏÀÏÊµÊµµØÈ¥Ğ£ÃÅ¿Ú","l|ĞÓ|é£");
+box[2][0]=Textbox_Option(x(3),y(yLevel),"è€è€å®å®åœ°å»æ ¡é—¨å£","l|æ|æ¤‹");
 line[line.length]=Link(box[2][0],box[1][0]);
-box[2][1]=Textbox_Option(x(5),y(yLevel),"ÕÒ¸öµØ·½ÏûÄ¥Ê±¼ä","r|ĞÓ|é£");
+box[2][1]=Textbox_Option(x(5),y(yLevel),"æ‰¾ä¸ªåœ°æ–¹æ¶ˆç£¨æ—¶é—´","r|æ|æ¤‹");
 line[line.length]=Link(box[2][1],box[1][0]);
 //----------
 box[3]=new Array();
 yLevel+=2;
-box[3][0]=Textbox_Selection(x(3),y(yLevel),"ÅóÒ²ºÍé£µÄ¹ØÏµ£¨Ò»£©");
+box[3][0]=Textbox_Selection(x(3),y(yLevel),"æœ‹ä¹Ÿå’Œæ¤‹çš„å…³ç³»ï¼ˆä¸€ï¼‰");
 line[line.length]=Link(box[3][0],box[2][0]);
-box[3][1]=Textbox_Quit(x(5),y(yLevel),"¹«¹² BAD ENDING");
+box[3][1]=Textbox_Quit(x(5),y(yLevel),"å…¬å…± BAD ENDING");
 line[line.length]=Link(box[3][1],box[2][1]);
 //----------
 box[4]=new Array();
 yLevel+=3;
-box[4][0]=Textbox_Option(x(1),y(yLevel),"ÅóÓÑ");
+box[4][0]=Textbox_Option(x(1),y(yLevel),"æœ‹å‹");
 line[line.length]=Link(box[4][0],box[3][0]);
-box[4][1]=Textbox_Option(x(3),y(yLevel),"ÁµÈË");
+box[4][1]=Textbox_Option(x(3),y(yLevel),"æ‹äºº");
 line[line.length]=Link(box[4][1],box[3][0]);
-box[4][2]=Textbox_Option(x(5),y(yLevel),"·ò¸¾");
+box[4][2]=Textbox_Option(x(5),y(yLevel),"å¤«å¦‡");
 line[line.length]=Link(box[4][2],box[3][0]);
 //----------
 box[5]=new Array();
 yLevel+=3;
-box[5][0]=Textbox_Date(x(3),y(yLevel),"4ÔÂ26ÈÕ","bottom");
+box[5][0]=Textbox_Date(x(3),y(yLevel),"4æœˆ26æ—¥","bottom");
 line[line.length]=Link(box[5][0],box[4][0]);
 line[line.length]=Link(box[5][0],box[4][1]);
 line[line.length]=Link(box[5][0],box[4][2]);
 //----------
 box[6]=new Array();
 yLevel+=5;
-box[6][0]=Textbox_Date(x(3),y(yLevel),"4ÔÂ26ÈÕ","top");
+box[6][0]=Textbox_Date(x(3),y(yLevel),"4æœˆ26æ—¥","top");
 //----------
 box[7]=new Array();
 yLevel+=2;
-box[7][0]=Textbox_Selection(x(3),y(yLevel),"Ãæ¶Ôé£µÄÖ÷¶¯¸æ°×");
+box[7][0]=Textbox_Selection(x(3),y(yLevel),"é¢å¯¹æ¤‹çš„ä¸»åŠ¨å‘Šç™½");
 line[line.length]=Link(box[7][0],box[6][0]);
 //----------
 box[8]=new Array();
 yLevel+=3;
-box[8][0]=Textbox_Option(x(2),y(yLevel),"Èç¹ûÕâÑùÒ²Ã»¹ØÏµµÄ»°...","l|ĞÓ|é£");
+box[8][0]=Textbox_Option(x(2),y(yLevel),"å¦‚æœè¿™æ ·ä¹Ÿæ²¡å…³ç³»çš„è¯...","l|æ|æ¤‹");
 line[line.length]=Link(box[8][0],box[7][0]);
-box[8][1]=Textbox_Option(x(4),y(yLevel),"ËùÒÔ½»ÍùµÄÊÂ»¹ÊÇ...","r|ĞÓ|é£");
+box[8][1]=Textbox_Option(x(4),y(yLevel),"æ‰€ä»¥äº¤å¾€çš„äº‹è¿˜æ˜¯...","r|æ|æ¤‹");
 line[line.length]=Link(box[8][1],box[7][0]);
 //----------
 box[9]=new Array();
 yLevel+=2;
-box[9][0]=Textbox_Date(x(2),y(yLevel),"4ÔÂ28ÈÕ","bottom");
+box[9][0]=Textbox_Date(x(2),y(yLevel),"4æœˆ28æ—¥","bottom");
 line[line.length]=Link(box[9][0],box[8][0]);
-box[9][1]=Textbox_Quit(x(4),y(yLevel),"¹«¹² BAD ENDING","bottom");
+box[9][1]=Textbox_Quit(x(4),y(yLevel),"å…¬å…± BAD ENDING","bottom");
 line[line.length]=Link(box[9][1],box[8][1]);
 //----------
 box[10]=new Array();
 yLevel+=5;
-box[10][0]=Textbox_Date(x(3),y(yLevel),"4ÔÂ28ÈÕ","top");
+box[10][0]=Textbox_Date(x(3),y(yLevel),"4æœˆ28æ—¥","top");
 //----------
 box[11]=new Array();
 yLevel+=2;
-box[11][0]=Textbox_Selection(x(3),y(yLevel),"Í¨Ñ§Â·ÉÏÅö¼ûÄµµ¤");
+box[11][0]=Textbox_Selection(x(3),y(yLevel),"é€šå­¦è·¯ä¸Šç¢°è§ç‰¡ä¸¹");
 line[line.length]=Link(box[11][0],box[10][0]);
 //----------
 box[12]=new Array();
 yLevel+=3;
-box[12][0]=Textbox_Option(x(1),y(yLevel),"¾ÍÕâÑùÀë¿ª");
+box[12][0]=Textbox_Option(x(1),y(yLevel),"å°±è¿™æ ·ç¦»å¼€");
 line[line.length]=Link(box[12][0],box[11][0]);
-box[12][1]=Textbox_Option(x(3),y(yLevel),"»¹ÊÇ±§µ½Ñ§Ğ£È¥°É");
+box[12][1]=Textbox_Option(x(3),y(yLevel),"è¿˜æ˜¯æŠ±åˆ°å­¦æ ¡å»å§");
 line[line.length]=Link(box[12][1],box[11][0]);
-box[12][2]=Textbox_Option(x(5),y(yLevel),"°ÑÕâµ±×÷±¯¾çÀ´Ñİ");
+box[12][2]=Textbox_Option(x(5),y(yLevel),"æŠŠè¿™å½“ä½œæ‚²å‰§æ¥æ¼”");
 line[line.length]=Link(box[12][2],box[11][0]);
 //----------
 box[13]=new Array();
 yLevel+=3;
-box[13][0]=Textbox_Selection(x(3),y(yLevel),"Ï²»¶Å®º¢µÄÀàĞÍ");
+box[13][0]=Textbox_Selection(x(3),y(yLevel),"å–œæ¬¢å¥³å­©çš„ç±»å‹");
 line[line.length]=Link(box[13][0],box[12][0]);
 line[line.length]=Link(box[13][0],box[12][1]);
 line[line.length]=Link(box[13][0],box[12][2]);
 //----------
 box[14]=new Array();
 yLevel+=3;
-box[14][0]=Textbox_Option(x(2),y(yLevel),"Ï²»¶³¤Í··¢","l|ĞÓ|-é£");
+box[14][0]=Textbox_Option(x(2),y(yLevel),"å–œæ¬¢é•¿å¤´å‘","l|æ|-æ¤‹");
 line[line.length]=Link(box[14][0],box[13][0]);
-box[14][1]=Textbox_Option(x(4),y(yLevel),"Ï²»¶¶ÌÍ··¢","r|-é£|ĞÓ");
+box[14][1]=Textbox_Option(x(4),y(yLevel),"å–œæ¬¢çŸ­å¤´å‘","r|-æ¤‹|æ");
 line[line.length]=Link(box[14][1],box[13][0]);
 //----------
 box[15]=new Array();
 yLevel+=3;
-box[15][0]=Textbox_Date(x(3),y(yLevel),"5ÔÂ1ÈÕ","bottom");
+box[15][0]=Textbox_Date(x(3),y(yLevel),"5æœˆ1æ—¥","bottom");
 line[line.length]=Link(box[15][0],box[14][0]);
 line[line.length]=Link(box[15][0],box[14][1]);
 //----------
 box[16]=new Array();
 yLevel+=5;
-box[16][0]=Textbox_Date(x(3),y(yLevel),"5ÔÂ1ÈÕ","top");
+box[16][0]=Textbox_Date(x(3),y(yLevel),"5æœˆ1æ—¥","top");
 //----------
 box[17]=new Array();
 yLevel+=2;
-box[17][0]=Textbox_Selection(x(3),y(yLevel),"é£×öµÄ±ãµ±");
+box[17][0]=Textbox_Selection(x(3),y(yLevel),"æ¤‹åšçš„ä¾¿å½“");
 line[line.length]=Link(box[17][0],box[16][0]);
 //----------
 box[18]=new Array();
 yLevel+=3;
-box[18][0]=Textbox_Option(x(2),y(yLevel),"ºÜºÃ³Ô°¡...");
+box[18][0]=Textbox_Option(x(2),y(yLevel),"å¾ˆå¥½åƒå•Š...");
 line[line.length]=Link(box[18][0],box[17][0]);
-box[18][1]=Textbox_Option(x(4),y(yLevel),"ºÜÄÑ³Ô°¡...");
+box[18][1]=Textbox_Option(x(4),y(yLevel),"å¾ˆéš¾åƒå•Š...");
 line[line.length]=Link(box[18][1],box[17][0]);
 //----------
 box[19]=new Array();
 yLevel+=3;
-box[19][0]=Textbox_Date(x(3),y(yLevel),"5ÔÂ3ÈÕ","bottom");
+box[19][0]=Textbox_Date(x(3),y(yLevel),"5æœˆ3æ—¥","bottom");
 line[line.length]=Link(box[19][0],box[18][0]);
 line[line.length]=Link(box[19][0],box[18][1]);
 

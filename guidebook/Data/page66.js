@@ -1,73 +1,73 @@
 // CVG HTML Data Page66 Done By kyrios 2008.4.17
-hdft["header"]=Header("nagisa","AFTER STORY","After Story","Í¬ÆÜÆª£¨Èı£©","Chapter of Conhabitation Life~Part 3");
+hdft["header"]=Header("nagisa","AFTER STORY","After Story","åŒæ –ç¯‡ï¼ˆä¸‰ï¼‰","Chapter of Conhabitation Life~Part 3");
 
 var yLevel=0;
 //----------
 box[0]=new Array();
 yLevel+=3;
-box[0][0]=Textbox_Condition(x(3.5),y(yLevel),"Í¬ÆÜÆª,¶Ô¸¸Ç×·´Ó³µÄ²»½â");
+box[0][0]=Textbox_Condition(x(3.5),y(yLevel),"åŒæ –ç¯‡,å¯¹çˆ¶äº²åæ˜ çš„ä¸è§£");
 line[line.length]=Link(Point(linx(3.5),liny(0)-LINEBASEHEIGHT/2),Point(linx(3.5),liny(0)-LINEBASEHEIGHT/2));
-line[line.length-1].addTitle("µã»÷×ª»ØÁùÊ®ÎåÒ³");
+line[line.length-1].addTitle("ç‚¹å‡»è½¬å›å…­åäº”é¡µ");
 line[line.length-1].addClick(function(){gotopage(65)});
 //----------
 box[1]=new Array();
 yLevel+=3;
-box[1][0]=Textbox_Selection(x(1.5),y(yLevel),"Å¹´òËû","l|+Î´´¥·¢");
+box[1][0]=Textbox_Selection(x(1.5),y(yLevel),"æ®´æ‰“ä»–","l|+æœªè§¦å‘");
 line[line.length]=Link(box[1][0],box[0][0]);
-box[1][1]=Textbox_Selection(x(3.5),y(yLevel),"ÈÌÄÍ");
+box[1][1]=Textbox_Selection(x(3.5),y(yLevel),"å¿è€");
 line[line.length]=Link(box[1][1],box[0][0]);
 //----------
 box[2]=new Array();
 yLevel+=2;
 box[2][0]=Textbox_Quit(x(1.5),y(yLevel),"AFTER STORY BAD ENDING");
 line[line.length]=Link(box[2][0],box[1][0]);
-box[2][1]=Textbox_Selection(x(3.5),y(yLevel),"ĞÂÄêÖĞÒÑ¾­³ÉÄêµÄä¾");
+box[2][1]=Textbox_Selection(x(3.5),y(yLevel),"æ–°å¹´ä¸­å·²ç»æˆå¹´çš„æ¸š");
 line[line.length]=Link(box[2][1],box[1][1]);
 //----------
 box[3]=new Array();
 yLevel+=3;
-box[3][0]=Textbox_Option(x(2.5),y(yLevel),"¿´¿´ÔÙËµ°É");
+box[3][0]=Textbox_Option(x(2.5),y(yLevel),"çœ‹çœ‹å†è¯´å§");
 line[line.length]=Link(box[3][0],box[2][1]);
-box[3][1]=Textbox_Option(x(4.5),y(yLevel),"ÊÇÊ±ºòÖÆÖ¹ÁË");
+box[3][1]=Textbox_Option(x(4.5),y(yLevel),"æ˜¯æ—¶å€™åˆ¶æ­¢äº†");
 line[line.length]=Link(box[3][1],box[2][1]);
 //----------
 box[4]=new Array();
 yLevel+=2;
-box[4][0]=Textbox_Selection(x(2.5),y(yLevel),"ÎŞ·¨¾ñÔñµÄÖÊÎÊ");
+box[4][0]=Textbox_Selection(x(2.5),y(yLevel),"æ— æ³•æŠ‰æ‹©çš„è´¨é—®");
 line[line.length]=Link(box[4][0],box[3][0]);
 //----------
 box[5]=new Array();
 yLevel+=3;
-box[5][0]=Textbox_Option(x(1.5),y(yLevel),"ÔÚÒâ");
+box[5][0]=Textbox_Option(x(1.5),y(yLevel),"åœ¨æ„");
 line[line.length]=Link(box[5][0],box[4][0]);
-box[5][1]=Textbox_Option(x(3.5),y(yLevel),"²»ÔÚÒâ");
+box[5][1]=Textbox_Option(x(3.5),y(yLevel),"ä¸åœ¨æ„");
 line[line.length]=Link(box[5][1],box[4][0]);
 //----------
 box[6]=new Array();
 yLevel+=4;
-box[6][0]=Textbox_Option(x(3.5),y(yLevel),"±ÏÒµµäÀñ");
+box[6][0]=Textbox_Option(x(3.5),y(yLevel),"æ¯•ä¸šå…¸ç¤¼");
 line[line.length]=Link(box[6][0],Point(linx(2.5),liny(-1)),box[5][0]);
 line[line.length]=Link(box[6][0],Point(linx(2.5),liny(-1)),box[5][1]);
 line[line.length]=Link(box[6][0],box[3][1]);
 //----------
 box[7]=new Array();
 yLevel+=2;
-box[7][0]=Textbox_Selection(x(3.5),y(yLevel),"¶Ô¸¶ÇïÉúµÄ¾À²ø");
+box[7][0]=Textbox_Selection(x(3.5),y(yLevel),"å¯¹ä»˜ç§‹ç”Ÿçš„çº ç¼ ");
 line[line.length]=Link(box[7][0],box[6][0]);
 //----------
 box[8]=new Array();
 yLevel+=3;
-box[8][0]=Textbox_Option(x(2.5),y(yLevel),"°ïÃ¦");
+box[8][0]=Textbox_Option(x(2.5),y(yLevel),"å¸®å¿™");
 line[line.length]=Link(box[8][0],box[7][0]);
-box[8][1]=Textbox_Option(x(4.5),y(yLevel),"ÌÓÅÜ");
+box[8][1]=Textbox_Option(x(4.5),y(yLevel),"é€ƒè·‘");
 line[line.length]=Link(box[8][1],box[7][0]);
 //----------
 box[9]=new Array();
 yLevel+=3;
-box[9][0]=Textbox_Date(x(3.5),y(yLevel),"µ®ÉúÆª","bottom");
+box[9][0]=Textbox_Date(x(3.5),y(yLevel),"è¯ç”Ÿç¯‡","bottom");
 line[line.length]=Link(box[9][0],box[8][0]);
 line[line.length]=Link(box[9][0],box[8][1]);
-box[9][0].addTitle("µã»÷×ªµ½µÚ67Ò³");
+box[9][0].addTitle("ç‚¹å‡»è½¬åˆ°ç¬¬67é¡µ");
 box[9][0].addClick(function(){gotopage(67)});
 
 hdft["footer"]=Footer(liny(1),(66));

@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>CVG HTMLËÑË÷</title>
+<title>CVG HTMLæœç´¢</title>
 <script language="javascript" src="fileopr.js"></script>
 <style type="text/css">
 <!--
 body {
-	font-family: "ËÎÌå";
+	font-family: "å®‹ä½“";
 	font-size: 14px;
 	color: #003300;
 	line-height:130%;
@@ -45,11 +45,11 @@ a.rsltLink:hover{
 <!--CVG HTML VER Search Page/Written By Ligueston@Kamikey-->
 <body>
 <center>
-<input id="str2427" size="16" value="ÇëÊäÈëËÑË÷ÄÚÈİ" class="inputDis" onfocus="if(this.value=='ÇëÊäÈëËÑË÷ÄÚÈİ'){this.className='';this.value='';}" onblur="if(this.value==''){this.className='inputDis';this.value='ÇëÊäÈëËÑË÷ÄÚÈİ';}"><button onclick="searchFor(str2427.value);" style="line-height:100%; padding-top:2px;">ËÑË÷</button><div style="width:20px;"></div>ÊÇ·ñÊ¹ÓÃÔ­Ê¼´óĞ¡<input type="checkbox" id="sizeT" />
-<noscript>Èç¹ûÄú½ûÖ¹Javascript»òScripting.FileSystemObject¿Ø¼ş,½«²»ÄÜÊ¹ÓÃ´ËÒ³ÃæµÄ¹¦ÄÜ</noscript>
-<div id="rsltDiv"><span style="color:#CCCCCC">½á¹ûÏÔÊ¾ÇøÓò</span></div></center>
+<input id="str2427" size="16" value="è¯·è¾“å…¥æœç´¢å†…å®¹" class="inputDis" onfocus="if(this.value=='è¯·è¾“å…¥æœç´¢å†…å®¹'){this.className='';this.value='';}" onblur="if(this.value==''){this.className='inputDis';this.value='è¯·è¾“å…¥æœç´¢å†…å®¹';}"><button onclick="searchFor(str2427.value);" style="line-height:100%; padding-top:2px;">æœç´¢</button><div style="width:20px;"></div>æ˜¯å¦ä½¿ç”¨åŸå§‹å¤§å°<input type="checkbox" id="sizeT" />
+<noscript>å¦‚æœæ‚¨ç¦æ­¢Javascriptæˆ–Scripting.FileSystemObjectæ§ä»¶,å°†ä¸èƒ½ä½¿ç”¨æ­¤é¡µé¢çš„åŠŸèƒ½</noscript>
+<div id="rsltDiv"><span style="color:#CCCCCC">ç»“æœæ˜¾ç¤ºåŒºåŸŸ</span></div></center>
 <script language="javascript" type="text/javascript" defer="defer">
-function getObjectRef(name) { //ÕÕidÈ¡¶ÔÏó
+function getObjectRef(name) { //ç…§idå–å¯¹è±¡
   if(document.getElementById) return document.getElementById(name);
   else if(document.all) return document.all[name];
   else return null;
@@ -107,8 +107,8 @@ function getObjectRef(name) { //ÕÕidÈ¡¶ÔÏó
 	}
 	function searchFor(str){
 		if(!checkStr(str))return;
-		if(!fso){getObjectRef("rsltDiv").innerHTML="±¾Ò³ÃæµÄ¹¦ÄÜĞèÒªScripting.FileSystemObject¿Ø¼ş,Èç¹ûÔÊĞíµÄ»°Çë<a href=\"#\" onclick=\"window.location.reload()\">Ë¢ĞÂ</a>ºóÔÊĞí.";return;}
-		if(str==""||str=="ÇëÊäÈëËÑË÷ÄÚÈİ"){alert("ÇëÊäÈëÄÚÈİ");return;}
+		if(!fso){getObjectRef("rsltDiv").innerHTML="æœ¬é¡µé¢çš„åŠŸèƒ½éœ€è¦Scripting.FileSystemObjectæ§ä»¶,å¦‚æœå…è®¸çš„è¯è¯·<a href=\"#\" onclick=\"window.location.reload()\">åˆ·æ–°</a>åå…è®¸.";return;}
+		if(str==""||str=="è¯·è¾“å…¥æœç´¢å†…å®¹"){alert("è¯·è¾“å…¥å†…å®¹");return;}
 		records=new Array();
 		if(!inited)initData();
 		for(SERACHFOR_i=1;SERACHFOR_i<datas.length;SERACHFOR_i++){
@@ -124,9 +124,9 @@ function getObjectRef(name) { //ÕÕidÈ¡¶ÔÏó
 					if(records[SERACHFOR_i].line==records[SERACHFOR_i-1].line)
 						continue;
 			}
-			if(records[SERACHFOR_i].text)rslt+="<tr><td class=\"rsltPage\">µÚ"+records[SERACHFOR_i].page+"Ò³</td><td class=\"rsltWord\"><a class=\"rsltLink\" target=\"searchRslt\" href=\""+openpage(records[SERACHFOR_i].page,(getObjectRef("sizeT").checked?0:1),records[SERACHFOR_i].hkuc1,records[SERACHFOR_i].hkuc2,(records[SERACHFOR_i].type=="comment"?"\'c\'":"\'b\'"),records[SERACHFOR_i].level)+"\">"+records[SERACHFOR_i].text+"</a></td></tr>\r\n";
+			if(records[SERACHFOR_i].text)rslt+="<tr><td class=\"rsltPage\">ç¬¬"+records[SERACHFOR_i].page+"é¡µ</td><td class=\"rsltWord\"><a class=\"rsltLink\" target=\"searchRslt\" href=\""+openpage(records[SERACHFOR_i].page,(getObjectRef("sizeT").checked?0:1),records[SERACHFOR_i].hkuc1,records[SERACHFOR_i].hkuc2,(records[SERACHFOR_i].type=="comment"?"\'c\'":"\'b\'"),records[SERACHFOR_i].level)+"\">"+records[SERACHFOR_i].text+"</a></td></tr>\r\n";
 		}
-		if(records.length<2)rslt+="<tr><td class=\"noRslt\">Ã»ÓĞÆ¥ÅäµÄ½á¹û</td></tr>\r\n";
+		if(records.length<2)rslt+="<tr><td class=\"noRslt\">æ²¡æœ‰åŒ¹é…çš„ç»“æœ</td></tr>\r\n";
 		rslt+="</table>";
 		getObjectRef("rsltDiv").innerHTML=(rslt);
 	}
@@ -162,7 +162,7 @@ function getObjectRef(name) { //ÕÕidÈ¡¶ÔÏó
 	function checkStr(str){
 		if(str.match(/^[\sa-zA-Z\d]+$/)){
 			if(!str.match(/end/i)&&!str.match(/good/i)&&!str.match(/bad/i)&&!str.match(/true/i)&&!str.match(/after/i)&&!str.match(/story/i)){
-				alert("ÉĞÎ´´ËÀà¹Ø¼ü×ÖËÑË÷");
+				alert("å°šæœªæ­¤ç±»å…³é”®å­—æœç´¢");
 				return false;
 			}
 		}
