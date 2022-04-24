@@ -70,16 +70,14 @@
 const documentWrite = (html) => $('body').append($(html))
 
 function GetRequest() {
-  const url = location.search //获取url中"?"符后的字串
-  const theRequest = new Object()
-  if (url.includes('?')) {
-    const str = url.substr(1)
-    strs = str.split('&')
-    for (let i = 0; i < strs.length; i++) {
-      theRequest[strs[i].split('=')[0]] = unescape(strs[i].split('=')[1])
-    }
+  const url = new URL(location.href)
+  const request = {}
+
+  for (const [key, value] of url.searchParams) {
+    request[key] = decodeURI(value)
   }
-  return theRequest
+
+  return request
 }
 function include_css(css_file) {
   //Copied from http://www.sloppy.cn/blog/article.asp?id=167 with Modification
