@@ -1,0 +1,1307 @@
+{
+  "box": [
+    [
+      {
+        "x": 725,
+        "y": 190,
+        "type": "condition",
+        "text": "上午，春原挑战智代（五回目）",
+        "route": "top",
+        "css": "btn",
+        "ref": "divTxtBtn1"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 280,
+        "type": "selection",
+        "text": "接受",
+        "css": "btn",
+        "ref": "divTxtBtn5"
+      },
+      {
+        "x": 925,
+        "y": 280,
+        "type": "selection",
+        "text": "拒绝",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn11"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "遇到困难的智代",
+        "css": "btn",
+        "ref": "divTxtBtn18",
+        "num": {
+          "x": 510,
+          "y": 340,
+          "type": "ccheck",
+          "text": "7",
+          "css": "check",
+          "ref": "divBtn20"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "",
+          "num": "7",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-帮忙",
+          "icon": "01000000",
+          "iconillu": "智代有条件参与有纪宁的咒语、体育仓库事件",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt21"
+        }
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 430,
+        "type": "option",
+        "text": "帮忙",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      },
+      {
+        "x": 725,
+        "y": 430,
+        "type": "option",
+        "text": "甩开她的手",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn31"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 550,
+        "type": "condition",
+        "text": "16日，古河重新创立话剧社",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 640,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 1025,
+        "y": 640,
+        "type": "selection",
+        "text": "让她一个人做",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn61"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 700,
+        "type": "selection",
+        "text": "假装学生进行提问",
+        "css": "btn",
+        "ref": "divTxtBtn69"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 790,
+        "type": "option",
+        "text": "会演怎样的话剧呢？",
+        "css": "btn",
+        "ref": "divTxtBtn73"
+      },
+      {
+        "x": 425,
+        "y": 790,
+        "type": "option",
+        "text": "海报上画的是什么东西？",
+        "css": "btn",
+        "ref": "divTxtBtn79"
+      },
+      {
+        "x": 825,
+        "y": 790,
+        "type": "option",
+        "text": "你喜欢哪种类型的男生？",
+        "css": "btn",
+        "ref": "divTxtBtn83"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 880,
+        "type": "condition",
+        "text": "中午，琴美的邀请和古河的约定",
+        "css": "btn",
+        "ref": "divTxtBtn89"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 970,
+        "type": "selection",
+        "text": "今天还和以前一样与渚一起吃",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn101"
+      },
+      {
+        "x": 625,
+        "y": 970,
+        "type": "selection",
+        "text": "在这里和琴美一起吃",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1030,
+        "type": "selection",
+        "text": "路上意外杀出个春原",
+        "css": "btn",
+        "ref": "divTxtBtn114"
+      },
+      {
+        "x": 1025,
+        "y": 1030,
+        "type": "condition",
+        "text": "15日和17日，向美佐枝搭话",
+        "css": "btn",
+        "ref": "divTxtBtn118",
+        "num": {
+          "x": 1010,
+          "y": 1030,
+          "type": "ccheck",
+          "text": "8",
+          "css": "check",
+          "ref": "divBtn120"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1020,
+          "text": "15日和17日，向美佐枝搭话",
+          "num": "8",
+          "summary": "",
+          "hint": "{15和17日，向美佐枝搭话}包括15日，在分支{宿舍走廊遇见美佐枝}选择[向她搭话]以及17日在分支{宿舍走廊遇见美佐枝}再选择[向她搭话]。两次选择都正确才满足条件。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt121"
+        }
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1120,
+        "type": "option",
+        "text": "和古河拉开距离走",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      },
+      {
+        "x": 425,
+        "y": 1120,
+        "type": "option",
+        "text": "拉着古河的手,快步跑掉",
+        "css": "btn",
+        "ref": "divTxtBtn130"
+      },
+      {
+        "x": 825,
+        "y": 1120,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn136"
+      },
+      {
+        "x": 1225,
+        "y": 1120,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn142"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "selection",
+        "text": "宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn148",
+        "num": {
+          "x": 810,
+          "y": 1180,
+          "type": "ccheck",
+          "text": "9",
+          "css": "check",
+          "ref": "divBtn150"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1170,
+          "text": "宿舍走廊遇见美佐枝",
+          "num": "9",
+          "summary": "来到宿舍楼的朋也找春原时又遇上了教训学生未果的美佐枝，她叹气着正准备离去。",
+          "hint": "这是得到美佐枝“光”的关键选择分支。选则[向她搭话]继续美佐枝线，如果已经完成过美佐枝线，选择这个选项才能在进入智代角色剧情后得到美佐枝的“光”。选择[目送她离去]，退出美佐枝线。",
+          "setsumei": "",
+          "option": "-向她搭话",
+          "icon": "01000000",
+          "iconillu": "美佐枝参与有纪宁的咒语",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt151"
+        }
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1270,
+        "type": "option",
+        "text": "向她搭话",
+        "route": "l|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn154"
+      },
+      {
+        "x": 1025,
+        "y": 1270,
+        "type": "option",
+        "text": "目送她离去",
+        "route": "r|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn161"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 1420,
+        "type": "date",
+        "text": "4月19日",
+        "css": "date",
+        "ref": "divBtn168"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 900,
+        "y": 175
+      },
+      {
+        "x": 900,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 190,
+        "type": "condition",
+        "text": "上午，春原挑战智代（五回目）",
+        "route": "top",
+        "css": "btn",
+        "ref": "divTxtBtn1"
+      },
+      {
+        "x": 525,
+        "y": 280,
+        "type": "selection",
+        "text": "接受",
+        "css": "btn",
+        "ref": "divTxtBtn5"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 190,
+        "type": "condition",
+        "text": "上午，春原挑战智代（五回目）",
+        "route": "top",
+        "css": "btn",
+        "ref": "divTxtBtn1"
+      },
+      {
+        "x": 925,
+        "y": 280,
+        "type": "selection",
+        "text": "拒绝",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn11"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 280,
+        "type": "selection",
+        "text": "接受",
+        "css": "btn",
+        "ref": "divTxtBtn5"
+      },
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "遇到困难的智代",
+        "css": "btn",
+        "ref": "divTxtBtn18",
+        "num": {
+          "x": 510,
+          "y": 340,
+          "type": "ccheck",
+          "text": "7",
+          "css": "check",
+          "ref": "divBtn20"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "",
+          "num": "7",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-帮忙",
+          "icon": "01000000",
+          "iconillu": "智代有条件参与有纪宁的咒语、体育仓库事件",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt21"
+        }
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "遇到困难的智代",
+        "css": "btn",
+        "ref": "divTxtBtn18",
+        "num": {
+          "x": 510,
+          "y": 340,
+          "type": "ccheck",
+          "text": "7",
+          "css": "check",
+          "ref": "divBtn20"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "",
+          "num": "7",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-帮忙",
+          "icon": "01000000",
+          "iconillu": "智代有条件参与有纪宁的咒语、体育仓库事件",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt21"
+        }
+      },
+      {
+        "x": 325,
+        "y": 430,
+        "type": "option",
+        "text": "帮忙",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "遇到困难的智代",
+        "css": "btn",
+        "ref": "divTxtBtn18",
+        "num": {
+          "x": 510,
+          "y": 340,
+          "type": "ccheck",
+          "text": "7",
+          "css": "check",
+          "ref": "divBtn20"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "",
+          "num": "7",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-帮忙",
+          "icon": "01000000",
+          "iconillu": "智代有条件参与有纪宁的咒语、体育仓库事件",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt21"
+        }
+      },
+      {
+        "x": 725,
+        "y": 430,
+        "type": "option",
+        "text": "甩开她的手",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn31"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 430,
+        "type": "option",
+        "text": "帮忙",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      },
+      {
+        "x": 700,
+        "y": 520
+      },
+      {
+        "x": 725,
+        "y": 550,
+        "type": "condition",
+        "text": "16日，古河重新创立话剧社",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 430,
+        "type": "option",
+        "text": "甩开她的手",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn31"
+      },
+      {
+        "x": 700,
+        "y": 520
+      },
+      {
+        "x": 725,
+        "y": 550,
+        "type": "condition",
+        "text": "16日，古河重新创立话剧社",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 280,
+        "type": "selection",
+        "text": "拒绝",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn11"
+      },
+      {
+        "x": 725,
+        "y": 550,
+        "type": "condition",
+        "text": "16日，古河重新创立话剧社",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 610
+      },
+      {
+        "x": 425,
+        "y": 640,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 610
+      },
+      {
+        "x": 1025,
+        "y": 640,
+        "type": "selection",
+        "text": "让她一个人做",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn61"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 550,
+        "type": "condition",
+        "text": "16日，古河重新创立话剧社",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 900,
+        "y": 610
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 640,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 425,
+        "y": 700,
+        "type": "selection",
+        "text": "假装学生进行提问",
+        "css": "btn",
+        "ref": "divTxtBtn69"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 700,
+        "type": "selection",
+        "text": "假装学生进行提问",
+        "css": "btn",
+        "ref": "divTxtBtn69"
+      },
+      {
+        "x": 25,
+        "y": 790,
+        "type": "option",
+        "text": "会演怎样的话剧呢？",
+        "css": "btn",
+        "ref": "divTxtBtn73"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 700,
+        "type": "selection",
+        "text": "假装学生进行提问",
+        "css": "btn",
+        "ref": "divTxtBtn69"
+      },
+      {
+        "x": 425,
+        "y": 790,
+        "type": "option",
+        "text": "海报上画的是什么东西？",
+        "css": "btn",
+        "ref": "divTxtBtn79"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 700,
+        "type": "selection",
+        "text": "假装学生进行提问",
+        "css": "btn",
+        "ref": "divTxtBtn69"
+      },
+      {
+        "x": 825,
+        "y": 790,
+        "type": "option",
+        "text": "你喜欢哪种类型的男生？",
+        "css": "btn",
+        "ref": "divTxtBtn83"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 790,
+        "type": "option",
+        "text": "会演怎样的话剧呢？",
+        "css": "btn",
+        "ref": "divTxtBtn73"
+      },
+      {
+        "x": 425,
+        "y": 880,
+        "type": "condition",
+        "text": "中午，琴美的邀请和古河的约定",
+        "css": "btn",
+        "ref": "divTxtBtn89"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 790,
+        "type": "option",
+        "text": "海报上画的是什么东西？",
+        "css": "btn",
+        "ref": "divTxtBtn79"
+      },
+      {
+        "x": 425,
+        "y": 880,
+        "type": "condition",
+        "text": "中午，琴美的邀请和古河的约定",
+        "css": "btn",
+        "ref": "divTxtBtn89"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 790,
+        "type": "option",
+        "text": "你喜欢哪种类型的男生？",
+        "css": "btn",
+        "ref": "divTxtBtn83"
+      },
+      {
+        "x": 425,
+        "y": 880,
+        "type": "condition",
+        "text": "中午，琴美的邀请和古河的约定",
+        "css": "btn",
+        "ref": "divTxtBtn89"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 880,
+        "type": "condition",
+        "text": "中午，琴美的邀请和古河的约定",
+        "css": "btn",
+        "ref": "divTxtBtn89"
+      },
+      {
+        "x": 225,
+        "y": 970,
+        "type": "selection",
+        "text": "今天还和以前一样与渚一起吃",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn101"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 880,
+        "type": "condition",
+        "text": "中午，琴美的邀请和古河的约定",
+        "css": "btn",
+        "ref": "divTxtBtn89"
+      },
+      {
+        "x": 625,
+        "y": 970,
+        "type": "selection",
+        "text": "在这里和琴美一起吃",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 970,
+        "type": "selection",
+        "text": "今天还和以前一样与渚一起吃",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn101"
+      },
+      {
+        "x": 225,
+        "y": 1030,
+        "type": "selection",
+        "text": "路上意外杀出个春原",
+        "css": "btn",
+        "ref": "divTxtBtn114"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 640,
+        "type": "selection",
+        "text": "让她一个人做",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn61"
+      },
+      {
+        "x": 1025,
+        "y": 1030,
+        "type": "condition",
+        "text": "15日和17日，向美佐枝搭话",
+        "css": "btn",
+        "ref": "divTxtBtn118",
+        "num": {
+          "x": 1010,
+          "y": 1030,
+          "type": "ccheck",
+          "text": "8",
+          "css": "check",
+          "ref": "divBtn120"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1020,
+          "text": "15日和17日，向美佐枝搭话",
+          "num": "8",
+          "summary": "",
+          "hint": "{15和17日，向美佐枝搭话}包括15日，在分支{宿舍走廊遇见美佐枝}选择[向她搭话]以及17日在分支{宿舍走廊遇见美佐枝}再选择[向她搭话]。两次选择都正确才满足条件。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt121"
+        }
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1030,
+        "type": "selection",
+        "text": "路上意外杀出个春原",
+        "css": "btn",
+        "ref": "divTxtBtn114"
+      },
+      {
+        "x": 25,
+        "y": 1120,
+        "type": "option",
+        "text": "和古河拉开距离走",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1030,
+        "type": "selection",
+        "text": "路上意外杀出个春原",
+        "css": "btn",
+        "ref": "divTxtBtn114"
+      },
+      {
+        "x": 425,
+        "y": 1120,
+        "type": "option",
+        "text": "拉着古河的手,快步跑掉",
+        "css": "btn",
+        "ref": "divTxtBtn130"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1030,
+        "type": "condition",
+        "text": "15日和17日，向美佐枝搭话",
+        "css": "btn",
+        "ref": "divTxtBtn118",
+        "num": {
+          "x": 1010,
+          "y": 1030,
+          "type": "ccheck",
+          "text": "8",
+          "css": "check",
+          "ref": "divBtn120"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1020,
+          "text": "15日和17日，向美佐枝搭话",
+          "num": "8",
+          "summary": "",
+          "hint": "{15和17日，向美佐枝搭话}包括15日，在分支{宿舍走廊遇见美佐枝}选择[向她搭话]以及17日在分支{宿舍走廊遇见美佐枝}再选择[向她搭话]。两次选择都正确才满足条件。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt121"
+        }
+      },
+      {
+        "x": 825,
+        "y": 1120,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn136"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1030,
+        "type": "condition",
+        "text": "15日和17日，向美佐枝搭话",
+        "css": "btn",
+        "ref": "divTxtBtn118",
+        "num": {
+          "x": 1010,
+          "y": 1030,
+          "type": "ccheck",
+          "text": "8",
+          "css": "check",
+          "ref": "divBtn120"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1020,
+          "text": "15日和17日，向美佐枝搭话",
+          "num": "8",
+          "summary": "",
+          "hint": "{15和17日，向美佐枝搭话}包括15日，在分支{宿舍走廊遇见美佐枝}选择[向她搭话]以及17日在分支{宿舍走廊遇见美佐枝}再选择[向她搭话]。两次选择都正确才满足条件。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt121"
+        }
+      },
+      {
+        "x": 1225,
+        "y": 1120,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn142"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1120,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn136"
+      },
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "selection",
+        "text": "宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn148",
+        "num": {
+          "x": 810,
+          "y": 1180,
+          "type": "ccheck",
+          "text": "9",
+          "css": "check",
+          "ref": "divBtn150"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1170,
+          "text": "宿舍走廊遇见美佐枝",
+          "num": "9",
+          "summary": "来到宿舍楼的朋也找春原时又遇上了教训学生未果的美佐枝，她叹气着正准备离去。",
+          "hint": "这是得到美佐枝“光”的关键选择分支。选则[向她搭话]继续美佐枝线，如果已经完成过美佐枝线，选择这个选项才能在进入智代角色剧情后得到美佐枝的“光”。选择[目送她离去]，退出美佐枝线。",
+          "setsumei": "",
+          "option": "-向她搭话",
+          "icon": "01000000",
+          "iconillu": "美佐枝参与有纪宁的咒语",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt151"
+        }
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "selection",
+        "text": "宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn148",
+        "num": {
+          "x": 810,
+          "y": 1180,
+          "type": "ccheck",
+          "text": "9",
+          "css": "check",
+          "ref": "divBtn150"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1170,
+          "text": "宿舍走廊遇见美佐枝",
+          "num": "9",
+          "summary": "来到宿舍楼的朋也找春原时又遇上了教训学生未果的美佐枝，她叹气着正准备离去。",
+          "hint": "这是得到美佐枝“光”的关键选择分支。选则[向她搭话]继续美佐枝线，如果已经完成过美佐枝线，选择这个选项才能在进入智代角色剧情后得到美佐枝的“光”。选择[目送她离去]，退出美佐枝线。",
+          "setsumei": "",
+          "option": "-向她搭话",
+          "icon": "01000000",
+          "iconillu": "美佐枝参与有纪宁的咒语",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt151"
+        }
+      },
+      {
+        "x": 625,
+        "y": 1270,
+        "type": "option",
+        "text": "向她搭话",
+        "route": "l|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn154"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "selection",
+        "text": "宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn148",
+        "num": {
+          "x": 810,
+          "y": 1180,
+          "type": "ccheck",
+          "text": "9",
+          "css": "check",
+          "ref": "divBtn150"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1170,
+          "text": "宿舍走廊遇见美佐枝",
+          "num": "9",
+          "summary": "来到宿舍楼的朋也找春原时又遇上了教训学生未果的美佐枝，她叹气着正准备离去。",
+          "hint": "这是得到美佐枝“光”的关键选择分支。选则[向她搭话]继续美佐枝线，如果已经完成过美佐枝线，选择这个选项才能在进入智代角色剧情后得到美佐枝的“光”。选择[目送她离去]，退出美佐枝线。",
+          "setsumei": "",
+          "option": "-向她搭话",
+          "icon": "01000000",
+          "iconillu": "美佐枝参与有纪宁的咒语",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt151"
+        }
+      },
+      {
+        "x": 1025,
+        "y": 1270,
+        "type": "option",
+        "text": "目送她离去",
+        "route": "r|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn161"
+      }
+    ],
+    [
+      {
+        "x": 900,
+        "y": 1390
+      },
+      {
+        "x": 850,
+        "y": 1420,
+        "type": "date",
+        "text": "4月19日",
+        "css": "date",
+        "ref": "divBtn168"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1120,
+        "type": "option",
+        "text": "和古河拉开距离走",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      },
+      {
+        "x": 400,
+        "y": 1210
+      },
+      {
+        "x": 600,
+        "y": 1240
+      },
+      {
+        "x": 1200,
+        "y": 1390
+      },
+      {
+        "x": 600,
+        "y": 1390
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1120,
+        "type": "option",
+        "text": "拉着古河的手,快步跑掉",
+        "css": "btn",
+        "ref": "divTxtBtn130"
+      },
+      {
+        "x": 400,
+        "y": 1210
+      },
+      {
+        "x": 600,
+        "y": 1240
+      },
+      {
+        "x": 1200,
+        "y": 1390
+      },
+      {
+        "x": 600,
+        "y": 1390
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 970,
+        "type": "selection",
+        "text": "在这里和琴美一起吃",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      },
+      {
+        "x": 600,
+        "y": 1240
+      },
+      {
+        "x": 1200,
+        "y": 1390
+      },
+      {
+        "x": 600,
+        "y": 1390
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1270,
+        "type": "option",
+        "text": "向她搭话",
+        "route": "l|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn154"
+      },
+      {
+        "x": 1000,
+        "y": 1360
+      },
+      {
+        "x": 1200,
+        "y": 1390
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1270,
+        "type": "option",
+        "text": "目送她离去",
+        "route": "r|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn161"
+      },
+      {
+        "x": 1000,
+        "y": 1360
+      },
+      {
+        "x": 1200,
+        "y": 1390
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1120,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn142"
+      },
+      {
+        "x": 1200,
+        "y": 1390
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 330,
+      "text": "",
+      "num": "7",
+      "summary": "",
+      "hint": "",
+      "setsumei": "",
+      "option": "-帮忙",
+      "icon": "01000000",
+      "iconillu": "智代有条件参与有纪宁的咒语、体育仓库事件",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt21"
+    },
+    {
+      "x": 1625,
+      "y": 1020,
+      "text": "15日和17日，向美佐枝搭话",
+      "num": "8",
+      "summary": "",
+      "hint": "{15和17日，向美佐枝搭话}包括15日，在分支{宿舍走廊遇见美佐枝}选择[向她搭话]以及17日在分支{宿舍走廊遇见美佐枝}再选择[向她搭话]。两次选择都正确才满足条件。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt121"
+    },
+    {
+      "x": 1625,
+      "y": 1170,
+      "text": "宿舍走廊遇见美佐枝",
+      "num": "9",
+      "summary": "来到宿舍楼的朋也找春原时又遇上了教训学生未果的美佐枝，她叹气着正准备离去。",
+      "hint": "这是得到美佐枝“光”的关键选择分支。选则[向她搭话]继续美佐枝线，如果已经完成过美佐枝线，选择这个选项才能在进入智代角色剧情后得到美佐枝的“光”。选择[目送她离去]，退出美佐枝线。",
+      "setsumei": "",
+      "option": "-向她搭话",
+      "icon": "01000000",
+      "iconillu": "美佐枝参与有纪宁的咒语",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt151"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "4月18日（二）",
+    "dateE": "April 18th~Part 2",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1450,
+    "page": 8,
+    "ref": "divFt209"
+  },
+  "board": []
+}

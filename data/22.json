@@ -1,0 +1,1297 @@
+{
+  "box": [
+    [
+      {
+        "x": 25,
+        "y": 190,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn1",
+        "link": "p22_B"
+      },
+      {
+        "x": 725,
+        "y": 190,
+        "type": "condition",
+        "text": "23日，杏抓朋也跟她出去谈话",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 280,
+        "type": "selection",
+        "text": "跟着去",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 925,
+        "y": 280,
+        "type": "selection",
+        "text": "逃跑",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn14"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "杏提出再帮忙做饭",
+        "css": "btn",
+        "ref": "divTxtBtn21",
+        "num": {
+          "x": 510,
+          "y": 340,
+          "type": "ccheck",
+          "text": "5",
+          "css": "check",
+          "ref": "divBtn23"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "杏提出再帮忙做饭",
+          "num": "5",
+          "summary": "在杏的鼓动下，朋也与椋在中庭享用了杏做的午餐。杏提出下次再为朋也做饭。",
+          "hint": "选择[真的？真的可以吗？]，则完全进入杏、椋线。藤林杏、藤林椋角色剧情攻略请参见P34～P36。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt24"
+        }
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 430,
+        "type": "option",
+        "text": "真的？真的可以吗？",
+        "route": "l|杏|椋|-芽衣|-有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn27"
+      },
+      {
+        "x": 725,
+        "y": 430,
+        "type": "option",
+        "text": "不，不用了",
+        "route": "r|-有纪宁|-芽衣|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn37"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 490,
+        "type": "condition",
+        "text": "杏、椋线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 520,
+        "type": "condition",
+        "text": "23日，春原的妹妹打来电话",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 610,
+        "type": "selection",
+        "text": "代春原接听",
+        "css": "btn",
+        "ref": "divTxtBtn55"
+      },
+      {
+        "x": 925,
+        "y": 610,
+        "type": "selection",
+        "text": "不代他接听",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn61"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 670,
+        "type": "selection",
+        "text": "应对芽衣的方案",
+        "css": "btn",
+        "ref": "divTxtBtn68",
+        "num": {
+          "x": 510,
+          "y": 670,
+          "type": "ccheck",
+          "text": "6",
+          "css": "check",
+          "ref": "divBtn70"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 660,
+          "text": "应对芽衣的方案",
+          "num": "6",
+          "summary": "昨晚与朋也在电话中的聊天让芽衣决定前来宿舍探望自己的哥哥。春原不想让妹妹看到自己颓废的样子。",
+          "hint": "选择[受理]，则完全进入春原兄妹线。春原阳平、春原芽衣角色剧情攻略请参见P38。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt71"
+        }
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 760,
+        "type": "option",
+        "text": "受理",
+        "route": "l|芽衣|-有纪宁|-胜平",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      },
+      {
+        "x": 725,
+        "y": 760,
+        "type": "option",
+        "text": "逃掉",
+        "route": "r|-有纪宁|-胜平|芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn83"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 820,
+        "type": "condition",
+        "text": "兄妹线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 850,
+        "type": "condition",
+        "text": "21日或22日，春原认识有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn96",
+        "num": {
+          "x": 710,
+          "y": 850,
+          "type": "ccheck",
+          "text": "7",
+          "css": "check",
+          "ref": "divBtn98"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 840,
+          "text": "21日或22日，春原认识有纪宁",
+          "num": "7",
+          "summary": "",
+          "hint": "{21日或22日，春原认识有纪宁}即在没有{进入渚、风子线}（具体请参见公共线路22日注释1）和{18日或19日，在资料室认识有纪宁}（具体请参见公共线路22日注释4）的前提下，如果在20日的分支{芳野寻求帮手}中选择[拒绝]或者未触发这个分支，则21日午后会触发一段没有分支的有纪宁的剧情，在此春原认识了有纪宁，并且22日午后可触发另一段有分支的有纪宁剧情。如果20日的分支中选择了[帮助]，并且在22日的分支{回答智代的询问}中选择[添麻烦了]或者未触发这个分支，那么21日春原认识有纪宁的剧情会延迟到22日发生，22日本来的剧情被替代（参考公共线路22日注释4）；如果在分支{回答智代的询问}中选择选择[不，不是这个意思]，则春原不会认识有纪宁。<br>只要触发了这段春原认识了有纪宁的剧情，就符合是的条件。（同公共线路23日注释3）<br>宫泽有纪宁角色剧情攻略请参见P31。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt99"
+        }
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 940,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn106"
+      },
+      {
+        "x": 925,
+        "y": 940,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn112"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1000,
+        "type": "condition",
+        "text": "22日，春原去见有纪宁，朋也陪同",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1090,
+        "type": "selection",
+        "text": "去",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn122"
+      },
+      {
+        "x": 725,
+        "y": 1090,
+        "type": "selection",
+        "text": "不去",
+        "css": "btn",
+        "ref": "divTxtBtn129"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1150,
+        "type": "condition",
+        "text": "有纪宁线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1180,
+        "type": "condition",
+        "text": "23日，无聊的午后时光",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1270,
+        "type": "selection",
+        "text": "转换下心情",
+        "css": "btn",
+        "ref": "divTxtBtn147"
+      },
+      {
+        "x": 925,
+        "y": 1270,
+        "type": "selection",
+        "text": "睡觉",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn153"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1330,
+        "type": "selection",
+        "text": "午后，走廊上又碰见风子",
+        "css": "btn",
+        "ref": "divTxtBtn160"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1420,
+        "type": "option",
+        "text": "叫住她",
+        "css": "btn",
+        "ref": "divTxtBtn164"
+      },
+      {
+        "x": 725,
+        "y": 1420,
+        "type": "option",
+        "text": "不管她",
+        "css": "btn",
+        "ref": "divTxtBtn170"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1480,
+        "type": "option",
+        "text": "风子大师（四）",
+        "css": "btn",
+        "ref": "divTxtBtn176",
+        "link": "p22_retKFMT4"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 900,
+        "y": 175
+      },
+      {
+        "x": 900,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 190,
+        "type": "condition",
+        "text": "23日，杏抓朋也跟她出去谈话",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 525,
+        "y": 280,
+        "type": "selection",
+        "text": "跟着去",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 190,
+        "type": "condition",
+        "text": "23日，杏抓朋也跟她出去谈话",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 925,
+        "y": 280,
+        "type": "selection",
+        "text": "逃跑",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn14"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 280,
+        "type": "selection",
+        "text": "跟着去",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "杏提出再帮忙做饭",
+        "css": "btn",
+        "ref": "divTxtBtn21",
+        "num": {
+          "x": 510,
+          "y": 340,
+          "type": "ccheck",
+          "text": "5",
+          "css": "check",
+          "ref": "divBtn23"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "杏提出再帮忙做饭",
+          "num": "5",
+          "summary": "在杏的鼓动下，朋也与椋在中庭享用了杏做的午餐。杏提出下次再为朋也做饭。",
+          "hint": "选择[真的？真的可以吗？]，则完全进入杏、椋线。藤林杏、藤林椋角色剧情攻略请参见P34～P36。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt24"
+        }
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "杏提出再帮忙做饭",
+        "css": "btn",
+        "ref": "divTxtBtn21",
+        "num": {
+          "x": 510,
+          "y": 340,
+          "type": "ccheck",
+          "text": "5",
+          "css": "check",
+          "ref": "divBtn23"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "杏提出再帮忙做饭",
+          "num": "5",
+          "summary": "在杏的鼓动下，朋也与椋在中庭享用了杏做的午餐。杏提出下次再为朋也做饭。",
+          "hint": "选择[真的？真的可以吗？]，则完全进入杏、椋线。藤林杏、藤林椋角色剧情攻略请参见P34～P36。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt24"
+        }
+      },
+      {
+        "x": 325,
+        "y": 430,
+        "type": "option",
+        "text": "真的？真的可以吗？",
+        "route": "l|杏|椋|-芽衣|-有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn27"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "杏提出再帮忙做饭",
+        "css": "btn",
+        "ref": "divTxtBtn21",
+        "num": {
+          "x": 510,
+          "y": 340,
+          "type": "ccheck",
+          "text": "5",
+          "css": "check",
+          "ref": "divBtn23"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "杏提出再帮忙做饭",
+          "num": "5",
+          "summary": "在杏的鼓动下，朋也与椋在中庭享用了杏做的午餐。杏提出下次再为朋也做饭。",
+          "hint": "选择[真的？真的可以吗？]，则完全进入杏、椋线。藤林杏、藤林椋角色剧情攻略请参见P34～P36。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt24"
+        }
+      },
+      {
+        "x": 725,
+        "y": 430,
+        "type": "option",
+        "text": "不，不用了",
+        "route": "r|-有纪宁|-芽衣|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn37"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 430,
+        "type": "option",
+        "text": "真的？真的可以吗？",
+        "route": "l|杏|椋|-芽衣|-有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn27"
+      },
+      {
+        "x": 325,
+        "y": 490,
+        "type": "condition",
+        "text": "杏、椋线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 430,
+        "type": "option",
+        "text": "不，不用了",
+        "route": "r|-有纪宁|-芽衣|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn37"
+      },
+      {
+        "x": 725,
+        "y": 520,
+        "type": "condition",
+        "text": "23日，春原的妹妹打来电话",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 520,
+        "type": "condition",
+        "text": "23日，春原的妹妹打来电话",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      },
+      {
+        "x": 525,
+        "y": 610,
+        "type": "selection",
+        "text": "代春原接听",
+        "css": "btn",
+        "ref": "divTxtBtn55"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 520,
+        "type": "condition",
+        "text": "23日，春原的妹妹打来电话",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      },
+      {
+        "x": 925,
+        "y": 610,
+        "type": "selection",
+        "text": "不代他接听",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn61"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 610,
+        "type": "selection",
+        "text": "代春原接听",
+        "css": "btn",
+        "ref": "divTxtBtn55"
+      },
+      {
+        "x": 525,
+        "y": 670,
+        "type": "selection",
+        "text": "应对芽衣的方案",
+        "css": "btn",
+        "ref": "divTxtBtn68",
+        "num": {
+          "x": 510,
+          "y": 670,
+          "type": "ccheck",
+          "text": "6",
+          "css": "check",
+          "ref": "divBtn70"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 660,
+          "text": "应对芽衣的方案",
+          "num": "6",
+          "summary": "昨晚与朋也在电话中的聊天让芽衣决定前来宿舍探望自己的哥哥。春原不想让妹妹看到自己颓废的样子。",
+          "hint": "选择[受理]，则完全进入春原兄妹线。春原阳平、春原芽衣角色剧情攻略请参见P38。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt71"
+        }
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 670,
+        "type": "selection",
+        "text": "应对芽衣的方案",
+        "css": "btn",
+        "ref": "divTxtBtn68",
+        "num": {
+          "x": 510,
+          "y": 670,
+          "type": "ccheck",
+          "text": "6",
+          "css": "check",
+          "ref": "divBtn70"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 660,
+          "text": "应对芽衣的方案",
+          "num": "6",
+          "summary": "昨晚与朋也在电话中的聊天让芽衣决定前来宿舍探望自己的哥哥。春原不想让妹妹看到自己颓废的样子。",
+          "hint": "选择[受理]，则完全进入春原兄妹线。春原阳平、春原芽衣角色剧情攻略请参见P38。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt71"
+        }
+      },
+      {
+        "x": 325,
+        "y": 760,
+        "type": "option",
+        "text": "受理",
+        "route": "l|芽衣|-有纪宁|-胜平",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 670,
+        "type": "selection",
+        "text": "应对芽衣的方案",
+        "css": "btn",
+        "ref": "divTxtBtn68",
+        "num": {
+          "x": 510,
+          "y": 670,
+          "type": "ccheck",
+          "text": "6",
+          "css": "check",
+          "ref": "divBtn70"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 660,
+          "text": "应对芽衣的方案",
+          "num": "6",
+          "summary": "昨晚与朋也在电话中的聊天让芽衣决定前来宿舍探望自己的哥哥。春原不想让妹妹看到自己颓废的样子。",
+          "hint": "选择[受理]，则完全进入春原兄妹线。春原阳平、春原芽衣角色剧情攻略请参见P38。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt71"
+        }
+      },
+      {
+        "x": 725,
+        "y": 760,
+        "type": "option",
+        "text": "逃掉",
+        "route": "r|-有纪宁|-胜平|芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn83"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 760,
+        "type": "option",
+        "text": "受理",
+        "route": "l|芽衣|-有纪宁|-胜平",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      },
+      {
+        "x": 325,
+        "y": 820,
+        "type": "condition",
+        "text": "兄妹线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 760,
+        "type": "option",
+        "text": "逃掉",
+        "route": "r|-有纪宁|-胜平|芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn83"
+      },
+      {
+        "x": 725,
+        "y": 850,
+        "type": "condition",
+        "text": "21日或22日，春原认识有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn96",
+        "num": {
+          "x": 710,
+          "y": 850,
+          "type": "ccheck",
+          "text": "7",
+          "css": "check",
+          "ref": "divBtn98"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 840,
+          "text": "21日或22日，春原认识有纪宁",
+          "num": "7",
+          "summary": "",
+          "hint": "{21日或22日，春原认识有纪宁}即在没有{进入渚、风子线}（具体请参见公共线路22日注释1）和{18日或19日，在资料室认识有纪宁}（具体请参见公共线路22日注释4）的前提下，如果在20日的分支{芳野寻求帮手}中选择[拒绝]或者未触发这个分支，则21日午后会触发一段没有分支的有纪宁的剧情，在此春原认识了有纪宁，并且22日午后可触发另一段有分支的有纪宁剧情。如果20日的分支中选择了[帮助]，并且在22日的分支{回答智代的询问}中选择[添麻烦了]或者未触发这个分支，那么21日春原认识有纪宁的剧情会延迟到22日发生，22日本来的剧情被替代（参考公共线路22日注释4）；如果在分支{回答智代的询问}中选择选择[不，不是这个意思]，则春原不会认识有纪宁。<br>只要触发了这段春原认识了有纪宁的剧情，就符合是的条件。（同公共线路23日注释3）<br>宫泽有纪宁角色剧情攻略请参见P31。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt99"
+        }
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 610,
+        "type": "selection",
+        "text": "不代他接听",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn61"
+      },
+      {
+        "x": 725,
+        "y": 850,
+        "type": "condition",
+        "text": "21日或22日，春原认识有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn96",
+        "num": {
+          "x": 710,
+          "y": 850,
+          "type": "ccheck",
+          "text": "7",
+          "css": "check",
+          "ref": "divBtn98"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 840,
+          "text": "21日或22日，春原认识有纪宁",
+          "num": "7",
+          "summary": "",
+          "hint": "{21日或22日，春原认识有纪宁}即在没有{进入渚、风子线}（具体请参见公共线路22日注释1）和{18日或19日，在资料室认识有纪宁}（具体请参见公共线路22日注释4）的前提下，如果在20日的分支{芳野寻求帮手}中选择[拒绝]或者未触发这个分支，则21日午后会触发一段没有分支的有纪宁的剧情，在此春原认识了有纪宁，并且22日午后可触发另一段有分支的有纪宁剧情。如果20日的分支中选择了[帮助]，并且在22日的分支{回答智代的询问}中选择[添麻烦了]或者未触发这个分支，那么21日春原认识有纪宁的剧情会延迟到22日发生，22日本来的剧情被替代（参考公共线路22日注释4）；如果在分支{回答智代的询问}中选择选择[不，不是这个意思]，则春原不会认识有纪宁。<br>只要触发了这段春原认识了有纪宁的剧情，就符合是的条件。（同公共线路23日注释3）<br>宫泽有纪宁角色剧情攻略请参见P31。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt99"
+        }
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 850,
+        "type": "condition",
+        "text": "21日或22日，春原认识有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn96",
+        "num": {
+          "x": 710,
+          "y": 850,
+          "type": "ccheck",
+          "text": "7",
+          "css": "check",
+          "ref": "divBtn98"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 840,
+          "text": "21日或22日，春原认识有纪宁",
+          "num": "7",
+          "summary": "",
+          "hint": "{21日或22日，春原认识有纪宁}即在没有{进入渚、风子线}（具体请参见公共线路22日注释1）和{18日或19日，在资料室认识有纪宁}（具体请参见公共线路22日注释4）的前提下，如果在20日的分支{芳野寻求帮手}中选择[拒绝]或者未触发这个分支，则21日午后会触发一段没有分支的有纪宁的剧情，在此春原认识了有纪宁，并且22日午后可触发另一段有分支的有纪宁剧情。如果20日的分支中选择了[帮助]，并且在22日的分支{回答智代的询问}中选择[添麻烦了]或者未触发这个分支，那么21日春原认识有纪宁的剧情会延迟到22日发生，22日本来的剧情被替代（参考公共线路22日注释4）；如果在分支{回答智代的询问}中选择选择[不，不是这个意思]，则春原不会认识有纪宁。<br>只要触发了这段春原认识了有纪宁的剧情，就符合是的条件。（同公共线路23日注释3）<br>宫泽有纪宁角色剧情攻略请参见P31。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt99"
+        }
+      },
+      {
+        "x": 525,
+        "y": 940,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn106"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 850,
+        "type": "condition",
+        "text": "21日或22日，春原认识有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn96",
+        "num": {
+          "x": 710,
+          "y": 850,
+          "type": "ccheck",
+          "text": "7",
+          "css": "check",
+          "ref": "divBtn98"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 840,
+          "text": "21日或22日，春原认识有纪宁",
+          "num": "7",
+          "summary": "",
+          "hint": "{21日或22日，春原认识有纪宁}即在没有{进入渚、风子线}（具体请参见公共线路22日注释1）和{18日或19日，在资料室认识有纪宁}（具体请参见公共线路22日注释4）的前提下，如果在20日的分支{芳野寻求帮手}中选择[拒绝]或者未触发这个分支，则21日午后会触发一段没有分支的有纪宁的剧情，在此春原认识了有纪宁，并且22日午后可触发另一段有分支的有纪宁剧情。如果20日的分支中选择了[帮助]，并且在22日的分支{回答智代的询问}中选择[添麻烦了]或者未触发这个分支，那么21日春原认识有纪宁的剧情会延迟到22日发生，22日本来的剧情被替代（参考公共线路22日注释4）；如果在分支{回答智代的询问}中选择选择[不，不是这个意思]，则春原不会认识有纪宁。<br>只要触发了这段春原认识了有纪宁的剧情，就符合是的条件。（同公共线路23日注释3）<br>宫泽有纪宁角色剧情攻略请参见P31。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt99"
+        }
+      },
+      {
+        "x": 925,
+        "y": 940,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn112"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 940,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn106"
+      },
+      {
+        "x": 525,
+        "y": 1000,
+        "type": "condition",
+        "text": "22日，春原去见有纪宁，朋也陪同",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1000,
+        "type": "condition",
+        "text": "22日，春原去见有纪宁，朋也陪同",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      },
+      {
+        "x": 325,
+        "y": 1090,
+        "type": "selection",
+        "text": "去",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn122"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1000,
+        "type": "condition",
+        "text": "22日，春原去见有纪宁，朋也陪同",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      },
+      {
+        "x": 725,
+        "y": 1090,
+        "type": "selection",
+        "text": "不去",
+        "css": "btn",
+        "ref": "divTxtBtn129"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1090,
+        "type": "selection",
+        "text": "去",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn122"
+      },
+      {
+        "x": 325,
+        "y": 1150,
+        "type": "condition",
+        "text": "有纪宁线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1090,
+        "type": "selection",
+        "text": "不去",
+        "css": "btn",
+        "ref": "divTxtBtn129"
+      },
+      {
+        "x": 725,
+        "y": 1180,
+        "type": "condition",
+        "text": "23日，无聊的午后时光",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 940,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn112"
+      },
+      {
+        "x": 725,
+        "y": 1180,
+        "type": "condition",
+        "text": "23日，无聊的午后时光",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1180,
+        "type": "condition",
+        "text": "23日，无聊的午后时光",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      },
+      {
+        "x": 525,
+        "y": 1270,
+        "type": "selection",
+        "text": "转换下心情",
+        "css": "btn",
+        "ref": "divTxtBtn147"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1180,
+        "type": "condition",
+        "text": "23日，无聊的午后时光",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      },
+      {
+        "x": 925,
+        "y": 1270,
+        "type": "selection",
+        "text": "睡觉",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn153"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1270,
+        "type": "selection",
+        "text": "转换下心情",
+        "css": "btn",
+        "ref": "divTxtBtn147"
+      },
+      {
+        "x": 525,
+        "y": 1330,
+        "type": "selection",
+        "text": "午后，走廊上又碰见风子",
+        "css": "btn",
+        "ref": "divTxtBtn160"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1330,
+        "type": "selection",
+        "text": "午后，走廊上又碰见风子",
+        "css": "btn",
+        "ref": "divTxtBtn160"
+      },
+      {
+        "x": 325,
+        "y": 1420,
+        "type": "option",
+        "text": "叫住她",
+        "css": "btn",
+        "ref": "divTxtBtn164"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1330,
+        "type": "selection",
+        "text": "午后，走廊上又碰见风子",
+        "css": "btn",
+        "ref": "divTxtBtn160"
+      },
+      {
+        "x": 725,
+        "y": 1420,
+        "type": "option",
+        "text": "不管她",
+        "css": "btn",
+        "ref": "divTxtBtn170"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1420,
+        "type": "option",
+        "text": "叫住她",
+        "css": "btn",
+        "ref": "divTxtBtn164"
+      },
+      {
+        "x": 325,
+        "y": 1480,
+        "type": "option",
+        "text": "风子大师（四）",
+        "css": "btn",
+        "ref": "divTxtBtn176",
+        "link": "p22_retKFMT4"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1480,
+        "type": "option",
+        "text": "风子大师（四）",
+        "css": "btn",
+        "ref": "divTxtBtn176",
+        "link": "p22_retKFMT4"
+      },
+      {
+        "x": 700,
+        "y": 1570
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1420,
+        "type": "option",
+        "text": "不管她",
+        "css": "btn",
+        "ref": "divTxtBtn170"
+      },
+      {
+        "x": 700,
+        "y": 1570
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 1270,
+        "type": "selection",
+        "text": "睡觉",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn153"
+      },
+      {
+        "x": 700,
+        "y": 1570
+      },
+      {
+        "x": 1100,
+        "y": 1570
+      }
+    ],
+    [
+      {
+        "x": 900,
+        "y": 1570
+      },
+      {
+        "x": 900,
+        "y": 1570
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 330,
+      "text": "杏提出再帮忙做饭",
+      "num": "5",
+      "summary": "在杏的鼓动下，朋也与椋在中庭享用了杏做的午餐。杏提出下次再为朋也做饭。",
+      "hint": "选择[真的？真的可以吗？]，则完全进入杏、椋线。藤林杏、藤林椋角色剧情攻略请参见P34～P36。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt24"
+    },
+    {
+      "x": 1625,
+      "y": 660,
+      "text": "应对芽衣的方案",
+      "num": "6",
+      "summary": "昨晚与朋也在电话中的聊天让芽衣决定前来宿舍探望自己的哥哥。春原不想让妹妹看到自己颓废的样子。",
+      "hint": "选择[受理]，则完全进入春原兄妹线。春原阳平、春原芽衣角色剧情攻略请参见P38。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt71"
+    },
+    {
+      "x": 1625,
+      "y": 840,
+      "text": "21日或22日，春原认识有纪宁",
+      "num": "7",
+      "summary": "",
+      "hint": "{21日或22日，春原认识有纪宁}即在没有{进入渚、风子线}（具体请参见公共线路22日注释1）和{18日或19日，在资料室认识有纪宁}（具体请参见公共线路22日注释4）的前提下，如果在20日的分支{芳野寻求帮手}中选择[拒绝]或者未触发这个分支，则21日午后会触发一段没有分支的有纪宁的剧情，在此春原认识了有纪宁，并且22日午后可触发另一段有分支的有纪宁剧情。如果20日的分支中选择了[帮助]，并且在22日的分支{回答智代的询问}中选择[添麻烦了]或者未触发这个分支，那么21日春原认识有纪宁的剧情会延迟到22日发生，22日本来的剧情被替代（参考公共线路22日注释4）；如果在分支{回答智代的询问}中选择选择[不，不是这个意思]，则春原不会认识有纪宁。<br>只要触发了这段春原认识了有纪宁的剧情，就符合是的条件。（同公共线路23日注释3）<br>宫泽有纪宁角色剧情攻略请参见P31。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt99"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "4月24日（二）",
+    "dateE": "April 24th~Part 2",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1600,
+    "page": 22,
+    "ref": "divFt193"
+  },
+  "board": [
+    {
+      "x": 0,
+      "y": 150,
+      "height": 1470
+    }
+  ]
+}

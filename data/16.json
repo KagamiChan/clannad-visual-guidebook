@@ -1,0 +1,1205 @@
+{
+  "box": [
+    [
+      {
+        "x": 25,
+        "y": 190,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn1",
+        "link": "p16_A"
+      },
+      {
+        "x": 625,
+        "y": 190,
+        "type": "condition",
+        "text": "17日，春园挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "selection",
+        "text": "跟着他去",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 825,
+        "y": 280,
+        "type": "selection",
+        "text": "不去管他",
+        "css": "btn",
+        "ref": "divTxtBtn14"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "坂道上遇到智代",
+        "css": "btn",
+        "ref": "divTxtBtn20",
+        "num": {
+          "x": 410,
+          "y": 340,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn22"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "坂道上遇到智代",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-和智代搭话",
+          "icon": "00000001",
+          "iconillu": "智代有条件参与毕业典礼",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt23"
+        }
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 430,
+        "type": "option",
+        "text": "和智代搭话",
+        "css": "btn",
+        "ref": "divTxtBtn26"
+      },
+      {
+        "x": 625,
+        "y": 430,
+        "type": "option",
+        "text": "装作没看见",
+        "css": "btn",
+        "ref": "divTxtBtn32"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 550,
+        "type": "selection",
+        "text": "春原加入演剧部，想象他的下场",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 640,
+        "type": "option",
+        "text": "斩杀",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 625,
+        "y": 640,
+        "type": "option",
+        "text": "偷窃",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      },
+      {
+        "x": 1025,
+        "y": 640,
+        "type": "option",
+        "text": "魔法",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 730,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 820,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn84"
+      },
+      {
+        "x": 825,
+        "y": 820,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn90"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 880,
+        "type": "selection",
+        "text": "演剧部聘请指导老师，咨询风子",
+        "css": "btn",
+        "ref": "divTxtBtn97"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 970,
+        "type": "option",
+        "text": "和风子商量一下",
+        "css": "btn",
+        "ref": "divTxtBtn101"
+      },
+      {
+        "x": 625,
+        "y": 970,
+        "type": "option",
+        "text": "当然不行啦",
+        "css": "btn",
+        "ref": "divTxtBtn107"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "selection",
+        "text": "咨询指导老师的问题",
+        "css": "btn",
+        "ref": "divTxtBtn113",
+        "num": {
+          "x": 610,
+          "y": 1090,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn115"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1080,
+          "text": "咨询指导老师的问题",
+          "num": "4",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-和藤林姐妹商量",
+          "icon": "00000001",
+          "iconillu": "杏、椋参与毕业典礼",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt116"
+        }
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1180,
+        "type": "option",
+        "text": "和藤林姐妹商量",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      },
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "option",
+        "text": "和班主任商量",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1270,
+        "type": "condition",
+        "text": "16日，杏没有迟到的原因",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1360,
+        "type": "selection",
+        "text": "试着追问下去",
+        "css": "btn",
+        "ref": "divTxtBtn155"
+      },
+      {
+        "x": 825,
+        "y": 1360,
+        "type": "selection",
+        "text": "没什么好介意的",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn161"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1420,
+        "type": "selection",
+        "text": "课前，牡丹的处理问题",
+        "css": "btn",
+        "ref": "divTxtBtn168"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1510,
+        "type": "option",
+        "text": "把牡丹丢还给杏",
+        "css": "btn",
+        "ref": "divTxtBtn172"
+      },
+      {
+        "x": 625,
+        "y": 1510,
+        "type": "option",
+        "text": "拿回去好了",
+        "css": "btn",
+        "ref": "divTxtBtn178"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 800,
+        "y": 175
+      },
+      {
+        "x": 800,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 190,
+        "type": "condition",
+        "text": "17日，春园挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 425,
+        "y": 280,
+        "type": "selection",
+        "text": "跟着他去",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 190,
+        "type": "condition",
+        "text": "17日，春园挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 825,
+        "y": 280,
+        "type": "selection",
+        "text": "不去管他",
+        "css": "btn",
+        "ref": "divTxtBtn14"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "selection",
+        "text": "跟着他去",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "坂道上遇到智代",
+        "css": "btn",
+        "ref": "divTxtBtn20",
+        "num": {
+          "x": 410,
+          "y": 340,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn22"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "坂道上遇到智代",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-和智代搭话",
+          "icon": "00000001",
+          "iconillu": "智代有条件参与毕业典礼",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt23"
+        }
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "坂道上遇到智代",
+        "css": "btn",
+        "ref": "divTxtBtn20",
+        "num": {
+          "x": 410,
+          "y": 340,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn22"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "坂道上遇到智代",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-和智代搭话",
+          "icon": "00000001",
+          "iconillu": "智代有条件参与毕业典礼",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt23"
+        }
+      },
+      {
+        "x": 225,
+        "y": 430,
+        "type": "option",
+        "text": "和智代搭话",
+        "css": "btn",
+        "ref": "divTxtBtn26"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "坂道上遇到智代",
+        "css": "btn",
+        "ref": "divTxtBtn20",
+        "num": {
+          "x": 410,
+          "y": 340,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn22"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "坂道上遇到智代",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-和智代搭话",
+          "icon": "00000001",
+          "iconillu": "智代有条件参与毕业典礼",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt23"
+        }
+      },
+      {
+        "x": 625,
+        "y": 430,
+        "type": "option",
+        "text": "装作没看见",
+        "css": "btn",
+        "ref": "divTxtBtn32"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 430,
+        "type": "option",
+        "text": "和智代搭话",
+        "css": "btn",
+        "ref": "divTxtBtn26"
+      },
+      {
+        "x": 600,
+        "y": 520
+      },
+      {
+        "x": 625,
+        "y": 550,
+        "type": "selection",
+        "text": "春原加入演剧部，想象他的下场",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 430,
+        "type": "option",
+        "text": "装作没看见",
+        "css": "btn",
+        "ref": "divTxtBtn32"
+      },
+      {
+        "x": 600,
+        "y": 520
+      },
+      {
+        "x": 625,
+        "y": 550,
+        "type": "selection",
+        "text": "春原加入演剧部，想象他的下场",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 280,
+        "type": "selection",
+        "text": "不去管他",
+        "css": "btn",
+        "ref": "divTxtBtn14"
+      },
+      {
+        "x": 625,
+        "y": 550,
+        "type": "selection",
+        "text": "春原加入演剧部，想象他的下场",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 550,
+        "type": "selection",
+        "text": "春原加入演剧部，想象他的下场",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 225,
+        "y": 640,
+        "type": "option",
+        "text": "斩杀",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 550,
+        "type": "selection",
+        "text": "春原加入演剧部，想象他的下场",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 625,
+        "y": 640,
+        "type": "option",
+        "text": "偷窃",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 550,
+        "type": "selection",
+        "text": "春原加入演剧部，想象他的下场",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 1025,
+        "y": 640,
+        "type": "option",
+        "text": "魔法",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 640,
+        "type": "option",
+        "text": "斩杀",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 625,
+        "y": 730,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 640,
+        "type": "option",
+        "text": "偷窃",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      },
+      {
+        "x": 625,
+        "y": 730,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 640,
+        "type": "option",
+        "text": "魔法",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      },
+      {
+        "x": 625,
+        "y": 730,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 730,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      },
+      {
+        "x": 425,
+        "y": 820,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn84"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 730,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      },
+      {
+        "x": 825,
+        "y": 820,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn90"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 820,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn84"
+      },
+      {
+        "x": 425,
+        "y": 880,
+        "type": "selection",
+        "text": "演剧部聘请指导老师，咨询风子",
+        "css": "btn",
+        "ref": "divTxtBtn97"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 880,
+        "type": "selection",
+        "text": "演剧部聘请指导老师，咨询风子",
+        "css": "btn",
+        "ref": "divTxtBtn97"
+      },
+      {
+        "x": 225,
+        "y": 970,
+        "type": "option",
+        "text": "和风子商量一下",
+        "css": "btn",
+        "ref": "divTxtBtn101"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 880,
+        "type": "selection",
+        "text": "演剧部聘请指导老师，咨询风子",
+        "css": "btn",
+        "ref": "divTxtBtn97"
+      },
+      {
+        "x": 625,
+        "y": 970,
+        "type": "option",
+        "text": "当然不行啦",
+        "css": "btn",
+        "ref": "divTxtBtn107"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 970,
+        "type": "option",
+        "text": "和风子商量一下",
+        "css": "btn",
+        "ref": "divTxtBtn101"
+      },
+      {
+        "x": 600,
+        "y": 1060
+      },
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "selection",
+        "text": "咨询指导老师的问题",
+        "css": "btn",
+        "ref": "divTxtBtn113",
+        "num": {
+          "x": 610,
+          "y": 1090,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn115"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1080,
+          "text": "咨询指导老师的问题",
+          "num": "4",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-和藤林姐妹商量",
+          "icon": "00000001",
+          "iconillu": "杏、椋参与毕业典礼",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt116"
+        }
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 970,
+        "type": "option",
+        "text": "当然不行啦",
+        "css": "btn",
+        "ref": "divTxtBtn107"
+      },
+      {
+        "x": 600,
+        "y": 1060
+      },
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "selection",
+        "text": "咨询指导老师的问题",
+        "css": "btn",
+        "ref": "divTxtBtn113",
+        "num": {
+          "x": 610,
+          "y": 1090,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn115"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1080,
+          "text": "咨询指导老师的问题",
+          "num": "4",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-和藤林姐妹商量",
+          "icon": "00000001",
+          "iconillu": "杏、椋参与毕业典礼",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt116"
+        }
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 820,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn90"
+      },
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "selection",
+        "text": "咨询指导老师的问题",
+        "css": "btn",
+        "ref": "divTxtBtn113",
+        "num": {
+          "x": 610,
+          "y": 1090,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn115"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1080,
+          "text": "咨询指导老师的问题",
+          "num": "4",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-和藤林姐妹商量",
+          "icon": "00000001",
+          "iconillu": "杏、椋参与毕业典礼",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt116"
+        }
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "selection",
+        "text": "咨询指导老师的问题",
+        "css": "btn",
+        "ref": "divTxtBtn113",
+        "num": {
+          "x": 610,
+          "y": 1090,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn115"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1080,
+          "text": "咨询指导老师的问题",
+          "num": "4",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-和藤林姐妹商量",
+          "icon": "00000001",
+          "iconillu": "杏、椋参与毕业典礼",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt116"
+        }
+      },
+      {
+        "x": 425,
+        "y": 1180,
+        "type": "option",
+        "text": "和藤林姐妹商量",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "selection",
+        "text": "咨询指导老师的问题",
+        "css": "btn",
+        "ref": "divTxtBtn113",
+        "num": {
+          "x": 610,
+          "y": 1090,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn115"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1080,
+          "text": "咨询指导老师的问题",
+          "num": "4",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-和藤林姐妹商量",
+          "icon": "00000001",
+          "iconillu": "杏、椋参与毕业典礼",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt116"
+        }
+      },
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "option",
+        "text": "和班主任商量",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1180,
+        "type": "option",
+        "text": "和藤林姐妹商量",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      },
+      {
+        "x": 625,
+        "y": 1270,
+        "type": "condition",
+        "text": "16日，杏没有迟到的原因",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "option",
+        "text": "和班主任商量",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      },
+      {
+        "x": 625,
+        "y": 1270,
+        "type": "condition",
+        "text": "16日，杏没有迟到的原因",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1270,
+        "type": "condition",
+        "text": "16日，杏没有迟到的原因",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      },
+      {
+        "x": 425,
+        "y": 1360,
+        "type": "selection",
+        "text": "试着追问下去",
+        "css": "btn",
+        "ref": "divTxtBtn155"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1270,
+        "type": "condition",
+        "text": "16日，杏没有迟到的原因",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      },
+      {
+        "x": 825,
+        "y": 1360,
+        "type": "selection",
+        "text": "没什么好介意的",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn161"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1360,
+        "type": "selection",
+        "text": "试着追问下去",
+        "css": "btn",
+        "ref": "divTxtBtn155"
+      },
+      {
+        "x": 425,
+        "y": 1420,
+        "type": "selection",
+        "text": "课前，牡丹的处理问题",
+        "css": "btn",
+        "ref": "divTxtBtn168"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1420,
+        "type": "selection",
+        "text": "课前，牡丹的处理问题",
+        "css": "btn",
+        "ref": "divTxtBtn168"
+      },
+      {
+        "x": 225,
+        "y": 1510,
+        "type": "option",
+        "text": "把牡丹丢还给杏",
+        "css": "btn",
+        "ref": "divTxtBtn172"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1420,
+        "type": "selection",
+        "text": "课前，牡丹的处理问题",
+        "css": "btn",
+        "ref": "divTxtBtn168"
+      },
+      {
+        "x": 625,
+        "y": 1510,
+        "type": "option",
+        "text": "拿回去好了",
+        "css": "btn",
+        "ref": "divTxtBtn178"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1510,
+        "type": "option",
+        "text": "把牡丹丢还给杏",
+        "css": "btn",
+        "ref": "divTxtBtn172"
+      },
+      {
+        "x": 600,
+        "y": 1600
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1510,
+        "type": "option",
+        "text": "拿回去好了",
+        "css": "btn",
+        "ref": "divTxtBtn178"
+      },
+      {
+        "x": 600,
+        "y": 1600
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1360,
+        "type": "selection",
+        "text": "没什么好介意的",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn161"
+      },
+      {
+        "x": 600,
+        "y": 1600
+      },
+      {
+        "x": 1000,
+        "y": 1600
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 1600
+      },
+      {
+        "x": 800,
+        "y": 1600
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 330,
+      "text": "坂道上遇到智代",
+      "num": "3",
+      "summary": "",
+      "hint": "",
+      "setsumei": "",
+      "option": "-和智代搭话",
+      "icon": "00000001",
+      "iconillu": "智代有条件参与毕业典礼",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt23"
+    },
+    {
+      "x": 1625,
+      "y": 1080,
+      "text": "咨询指导老师的问题",
+      "num": "4",
+      "summary": "",
+      "hint": "",
+      "setsumei": "",
+      "option": "-和藤林姐妹商量",
+      "icon": "00000001",
+      "iconillu": "杏、椋参与毕业典礼",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt116"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "4月22日（二）",
+    "dateE": "April 22nd~Part 2",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1540,
+    "page": 16,
+    "ref": "divFt197"
+  },
+  "board": [
+    {
+      "x": 0,
+      "y": 150,
+      "height": 1500
+    }
+  ]
+}

@@ -1,0 +1,1276 @@
+{
+  "box": [
+    [
+      {
+        "x": 950,
+        "y": 175,
+        "type": "date",
+        "text": "4月25日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 250,
+        "type": "condition",
+        "text": "24日，朋也面对哭泣的渚",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 340,
+        "type": "selection",
+        "text": "就这样注视着她",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "selection",
+        "text": "紧紧抱住她",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 400,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 490,
+        "type": "selection",
+        "text": "在看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      },
+      {
+        "x": 825,
+        "y": 490,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn29"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 550,
+        "type": "selection",
+        "text": "走廊中第N次遇到风子",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 640,
+        "type": "option",
+        "text": "叫住她",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      },
+      {
+        "x": 625,
+        "y": 640,
+        "type": "option",
+        "text": "暂时不管她",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 700,
+        "type": "option",
+        "text": "风子大师（五）",
+        "css": "btn",
+        "ref": "divTxtBtn52",
+        "link": "p23_retKFMT5"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 850,
+        "type": "selection",
+        "text": "幻想世界（六）",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 950,
+        "y": 910,
+        "type": "date",
+        "text": "4月26日",
+        "css": "date",
+        "ref": "divBtn84"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1015,
+        "type": "date",
+        "text": "4月26日",
+        "css": "date",
+        "ref": "divBtn87"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "condition",
+        "text": "24日，朋也面对哭泣的渚",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1180,
+        "type": "selection",
+        "text": "紧紧抱住她",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      },
+      {
+        "x": 1025,
+        "y": 1180,
+        "type": "selection",
+        "text": "就这样注视着她",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn98"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1240,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn105"
+      },
+      {
+        "x": 1025,
+        "y": 1240,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn109"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1330,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn113"
+      },
+      {
+        "x": 425,
+        "y": 1330,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn119"
+      },
+      {
+        "x": 825,
+        "y": 1330,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn126"
+      },
+      {
+        "x": 1225,
+        "y": 1330,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn132"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1390,
+        "type": "selection",
+        "text": "男生们关于幽灵的话题（一）",
+        "css": "btn",
+        "ref": "divTxtBtn139",
+        "num": {
+          "x": 10,
+          "y": 1390,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn141"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1380,
+          "text": "男生们关于幽灵的话题（一）",
+          "num": "1",
+          "summary": "朋也带着渚想要逃脱春原的纠缠，这时他在走廊里发现几个男生在远处看着他们这里。",
+          "hint": "选择[赶路要紧]，则完全进入渚线；选择[问问看他们]，则完全进入风子线，但不能达成风子TRUE ENDING。进入渚线后，可以选择攻略古河渚或者幸村俊夫。古河渚/幸村俊夫角色剧情攻略请参见P51～P55；伊吹风子角色剧情攻略请参见P43～P45。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt142"
+        }
+      },
+      {
+        "x": 425,
+        "y": 1390,
+        "type": "condition",
+        "text": "渚线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      },
+      {
+        "x": 825,
+        "y": 1390,
+        "type": "selection",
+        "text": "男生们关于幽灵的话题（二）",
+        "css": "btn",
+        "ref": "divTxtBtn149",
+        "num": {
+          "x": 810,
+          "y": 1390,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn151"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1380,
+          "text": "男生们关于幽灵的话题（二）",
+          "num": "2",
+          "summary": "放学后，朋也回家的途中，发现在走廊里有几个男生在远处看着这里。",
+          "hint": "若24日在分支{朋也面对哭泣的渚}选择[就这样注视着她]，满足18日在分支{独自雕刻的风子}选择了[再看一会儿]的条件，同样会出现这个场景，但剧情和选项均有变化。选择[问问看他们]，则可完全进入风子线，并有机会达成风子TRUE ENDING或者风子GOOD ENDING，否则进入渚BAD ENDING。伊吹风子角色剧情攻略请参见P43～P45。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt152"
+        }
+      },
+      {
+        "x": 1225,
+        "y": 1390,
+        "type": "condition",
+        "text": "渚 BAD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn155"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1480,
+        "type": "option",
+        "text": "问问看他们",
+        "route": "l|风子|-渚",
+        "css": "btn",
+        "ref": "divTxtBtn159"
+      },
+      {
+        "x": 425,
+        "y": 1480,
+        "type": "option",
+        "text": "赶路要紧",
+        "route": "r|-渚|风子",
+        "css": "btn",
+        "ref": "divTxtBtn165"
+      },
+      {
+        "x": 825,
+        "y": 1480,
+        "type": "option",
+        "text": "问问看他们",
+        "route": "l|风子",
+        "css": "btn",
+        "ref": "divTxtBtn173"
+      },
+      {
+        "x": 1225,
+        "y": 1480,
+        "type": "option",
+        "text": "不感兴趣",
+        "route": "r|风子",
+        "css": "btn",
+        "ref": "divTxtBtn178"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1540,
+        "type": "condition",
+        "text": "风子线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn185"
+      },
+      {
+        "x": 425,
+        "y": 1540,
+        "type": "condition",
+        "text": "渚线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn189"
+      },
+      {
+        "x": 825,
+        "y": 1540,
+        "type": "condition",
+        "text": "风子线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn193"
+      },
+      {
+        "x": 1225,
+        "y": 1540,
+        "type": "condition",
+        "text": "渚线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn197"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 950,
+        "y": 175,
+        "type": "date",
+        "text": "4月25日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 825,
+        "y": 250,
+        "type": "condition",
+        "text": "24日，朋也面对哭泣的渚",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 250,
+        "type": "condition",
+        "text": "24日，朋也面对哭泣的渚",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 625,
+        "y": 340,
+        "type": "selection",
+        "text": "就这样注视着她",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 250,
+        "type": "condition",
+        "text": "24日，朋也面对哭泣的渚",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "selection",
+        "text": "紧紧抱住她",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 340,
+        "type": "selection",
+        "text": "就这样注视着她",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 625,
+        "y": 400,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 400,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      },
+      {
+        "x": 425,
+        "y": 490,
+        "type": "selection",
+        "text": "在看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 400,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      },
+      {
+        "x": 825,
+        "y": 490,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn29"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 490,
+        "type": "selection",
+        "text": "在看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      },
+      {
+        "x": 425,
+        "y": 550,
+        "type": "selection",
+        "text": "走廊中第N次遇到风子",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 550,
+        "type": "selection",
+        "text": "走廊中第N次遇到风子",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      },
+      {
+        "x": 225,
+        "y": 640,
+        "type": "option",
+        "text": "叫住她",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 550,
+        "type": "selection",
+        "text": "走廊中第N次遇到风子",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      },
+      {
+        "x": 625,
+        "y": 640,
+        "type": "option",
+        "text": "暂时不管她",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 640,
+        "type": "option",
+        "text": "叫住她",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      },
+      {
+        "x": 225,
+        "y": 700,
+        "type": "option",
+        "text": "风子大师（五）",
+        "css": "btn",
+        "ref": "divTxtBtn52",
+        "link": "p23_retKFMT5"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 700,
+        "type": "option",
+        "text": "风子大师（五）",
+        "css": "btn",
+        "ref": "divTxtBtn52",
+        "link": "p23_retKFMT5"
+      },
+      {
+        "x": 600,
+        "y": 790
+      },
+      {
+        "x": 800,
+        "y": 820
+      },
+      {
+        "x": 825,
+        "y": 850,
+        "type": "selection",
+        "text": "幻想世界（六）",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 640,
+        "type": "option",
+        "text": "暂时不管她",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 600,
+        "y": 790
+      },
+      {
+        "x": 800,
+        "y": 820
+      },
+      {
+        "x": 825,
+        "y": 850,
+        "type": "selection",
+        "text": "幻想世界（六）",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 490,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn29"
+      },
+      {
+        "x": 800,
+        "y": 820
+      },
+      {
+        "x": 825,
+        "y": 850,
+        "type": "selection",
+        "text": "幻想世界（六）",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "selection",
+        "text": "紧紧抱住她",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      },
+      {
+        "x": 825,
+        "y": 850,
+        "type": "selection",
+        "text": "幻想世界（六）",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 850,
+        "type": "selection",
+        "text": "幻想世界（六）",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 950,
+        "y": 910,
+        "type": "date",
+        "text": "4月26日",
+        "css": "date",
+        "ref": "divBtn84"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1015,
+        "type": "date",
+        "text": "4月26日",
+        "css": "date",
+        "ref": "divBtn87"
+      },
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "condition",
+        "text": "24日，朋也面对哭泣的渚",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "condition",
+        "text": "24日，朋也面对哭泣的渚",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      },
+      {
+        "x": 225,
+        "y": 1180,
+        "type": "selection",
+        "text": "紧紧抱住她",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "condition",
+        "text": "24日，朋也面对哭泣的渚",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      },
+      {
+        "x": 1025,
+        "y": 1180,
+        "type": "selection",
+        "text": "就这样注视着她",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn98"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1180,
+        "type": "selection",
+        "text": "紧紧抱住她",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      },
+      {
+        "x": 225,
+        "y": 1240,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn105"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1180,
+        "type": "selection",
+        "text": "就这样注视着她",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn98"
+      },
+      {
+        "x": 1025,
+        "y": 1240,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn109"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1240,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn105"
+      },
+      {
+        "x": 25,
+        "y": 1330,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn113"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1240,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn105"
+      },
+      {
+        "x": 425,
+        "y": 1330,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn119"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1240,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn109"
+      },
+      {
+        "x": 825,
+        "y": 1330,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn126"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1240,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn109"
+      },
+      {
+        "x": 1225,
+        "y": 1330,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn132"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1330,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn113"
+      },
+      {
+        "x": 25,
+        "y": 1390,
+        "type": "selection",
+        "text": "男生们关于幽灵的话题（一）",
+        "css": "btn",
+        "ref": "divTxtBtn139",
+        "num": {
+          "x": 10,
+          "y": 1390,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn141"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1380,
+          "text": "男生们关于幽灵的话题（一）",
+          "num": "1",
+          "summary": "朋也带着渚想要逃脱春原的纠缠，这时他在走廊里发现几个男生在远处看着他们这里。",
+          "hint": "选择[赶路要紧]，则完全进入渚线；选择[问问看他们]，则完全进入风子线，但不能达成风子TRUE ENDING。进入渚线后，可以选择攻略古河渚或者幸村俊夫。古河渚/幸村俊夫角色剧情攻略请参见P51～P55；伊吹风子角色剧情攻略请参见P43～P45。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt142"
+        }
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1330,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn119"
+      },
+      {
+        "x": 425,
+        "y": 1390,
+        "type": "condition",
+        "text": "渚线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1330,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn126"
+      },
+      {
+        "x": 825,
+        "y": 1390,
+        "type": "selection",
+        "text": "男生们关于幽灵的话题（二）",
+        "css": "btn",
+        "ref": "divTxtBtn149",
+        "num": {
+          "x": 810,
+          "y": 1390,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn151"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1380,
+          "text": "男生们关于幽灵的话题（二）",
+          "num": "2",
+          "summary": "放学后，朋也回家的途中，发现在走廊里有几个男生在远处看着这里。",
+          "hint": "若24日在分支{朋也面对哭泣的渚}选择[就这样注视着她]，满足18日在分支{独自雕刻的风子}选择了[再看一会儿]的条件，同样会出现这个场景，但剧情和选项均有变化。选择[问问看他们]，则可完全进入风子线，并有机会达成风子TRUE ENDING或者风子GOOD ENDING，否则进入渚BAD ENDING。伊吹风子角色剧情攻略请参见P43～P45。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt152"
+        }
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1330,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn132"
+      },
+      {
+        "x": 1225,
+        "y": 1390,
+        "type": "condition",
+        "text": "渚 BAD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn155"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1390,
+        "type": "selection",
+        "text": "男生们关于幽灵的话题（一）",
+        "css": "btn",
+        "ref": "divTxtBtn139",
+        "num": {
+          "x": 10,
+          "y": 1390,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn141"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1380,
+          "text": "男生们关于幽灵的话题（一）",
+          "num": "1",
+          "summary": "朋也带着渚想要逃脱春原的纠缠，这时他在走廊里发现几个男生在远处看着他们这里。",
+          "hint": "选择[赶路要紧]，则完全进入渚线；选择[问问看他们]，则完全进入风子线，但不能达成风子TRUE ENDING。进入渚线后，可以选择攻略古河渚或者幸村俊夫。古河渚/幸村俊夫角色剧情攻略请参见P51～P55；伊吹风子角色剧情攻略请参见P43～P45。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt142"
+        }
+      },
+      {
+        "x": 25,
+        "y": 1480,
+        "type": "option",
+        "text": "问问看他们",
+        "route": "l|风子|-渚",
+        "css": "btn",
+        "ref": "divTxtBtn159"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1390,
+        "type": "selection",
+        "text": "男生们关于幽灵的话题（一）",
+        "css": "btn",
+        "ref": "divTxtBtn139",
+        "num": {
+          "x": 10,
+          "y": 1390,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn141"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1380,
+          "text": "男生们关于幽灵的话题（一）",
+          "num": "1",
+          "summary": "朋也带着渚想要逃脱春原的纠缠，这时他在走廊里发现几个男生在远处看着他们这里。",
+          "hint": "选择[赶路要紧]，则完全进入渚线；选择[问问看他们]，则完全进入风子线，但不能达成风子TRUE ENDING。进入渚线后，可以选择攻略古河渚或者幸村俊夫。古河渚/幸村俊夫角色剧情攻略请参见P51～P55；伊吹风子角色剧情攻略请参见P43～P45。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt142"
+        }
+      },
+      {
+        "x": 425,
+        "y": 1480,
+        "type": "option",
+        "text": "赶路要紧",
+        "route": "r|-渚|风子",
+        "css": "btn",
+        "ref": "divTxtBtn165"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1390,
+        "type": "selection",
+        "text": "男生们关于幽灵的话题（二）",
+        "css": "btn",
+        "ref": "divTxtBtn149",
+        "num": {
+          "x": 810,
+          "y": 1390,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn151"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1380,
+          "text": "男生们关于幽灵的话题（二）",
+          "num": "2",
+          "summary": "放学后，朋也回家的途中，发现在走廊里有几个男生在远处看着这里。",
+          "hint": "若24日在分支{朋也面对哭泣的渚}选择[就这样注视着她]，满足18日在分支{独自雕刻的风子}选择了[再看一会儿]的条件，同样会出现这个场景，但剧情和选项均有变化。选择[问问看他们]，则可完全进入风子线，并有机会达成风子TRUE ENDING或者风子GOOD ENDING，否则进入渚BAD ENDING。伊吹风子角色剧情攻略请参见P43～P45。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt152"
+        }
+      },
+      {
+        "x": 825,
+        "y": 1480,
+        "type": "option",
+        "text": "问问看他们",
+        "route": "l|风子",
+        "css": "btn",
+        "ref": "divTxtBtn173"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1390,
+        "type": "selection",
+        "text": "男生们关于幽灵的话题（二）",
+        "css": "btn",
+        "ref": "divTxtBtn149",
+        "num": {
+          "x": 810,
+          "y": 1390,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn151"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1380,
+          "text": "男生们关于幽灵的话题（二）",
+          "num": "2",
+          "summary": "放学后，朋也回家的途中，发现在走廊里有几个男生在远处看着这里。",
+          "hint": "若24日在分支{朋也面对哭泣的渚}选择[就这样注视着她]，满足18日在分支{独自雕刻的风子}选择了[再看一会儿]的条件，同样会出现这个场景，但剧情和选项均有变化。选择[问问看他们]，则可完全进入风子线，并有机会达成风子TRUE ENDING或者风子GOOD ENDING，否则进入渚BAD ENDING。伊吹风子角色剧情攻略请参见P43～P45。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt152"
+        }
+      },
+      {
+        "x": 1225,
+        "y": 1480,
+        "type": "option",
+        "text": "不感兴趣",
+        "route": "r|风子",
+        "css": "btn",
+        "ref": "divTxtBtn178"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1480,
+        "type": "option",
+        "text": "问问看他们",
+        "route": "l|风子|-渚",
+        "css": "btn",
+        "ref": "divTxtBtn159"
+      },
+      {
+        "x": 25,
+        "y": 1540,
+        "type": "condition",
+        "text": "风子线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn185"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1480,
+        "type": "option",
+        "text": "赶路要紧",
+        "route": "r|-渚|风子",
+        "css": "btn",
+        "ref": "divTxtBtn165"
+      },
+      {
+        "x": 425,
+        "y": 1540,
+        "type": "condition",
+        "text": "渚线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn189"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1480,
+        "type": "option",
+        "text": "问问看他们",
+        "route": "l|风子",
+        "css": "btn",
+        "ref": "divTxtBtn173"
+      },
+      {
+        "x": 825,
+        "y": 1540,
+        "type": "condition",
+        "text": "风子线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn193"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1480,
+        "type": "option",
+        "text": "不感兴趣",
+        "route": "r|风子",
+        "css": "btn",
+        "ref": "divTxtBtn178"
+      },
+      {
+        "x": 1225,
+        "y": 1540,
+        "type": "condition",
+        "text": "渚线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn197"
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 1380,
+      "text": "男生们关于幽灵的话题（一）",
+      "num": "1",
+      "summary": "朋也带着渚想要逃脱春原的纠缠，这时他在走廊里发现几个男生在远处看着他们这里。",
+      "hint": "选择[赶路要紧]，则完全进入渚线；选择[问问看他们]，则完全进入风子线，但不能达成风子TRUE ENDING。进入渚线后，可以选择攻略古河渚或者幸村俊夫。古河渚/幸村俊夫角色剧情攻略请参见P51～P55；伊吹风子角色剧情攻略请参见P43～P45。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt142"
+    },
+    {
+      "x": 1625,
+      "y": 1380,
+      "text": "男生们关于幽灵的话题（二）",
+      "num": "2",
+      "summary": "放学后，朋也回家的途中，发现在走廊里有几个男生在远处看着这里。",
+      "hint": "若24日在分支{朋也面对哭泣的渚}选择[就这样注视着她]，满足18日在分支{独自雕刻的风子}选择了[再看一会儿]的条件，同样会出现这个场景，但剧情和选项均有变化。选择[问问看他们]，则可完全进入风子线，并有机会达成风子TRUE ENDING或者风子GOOD ENDING，否则进入渚BAD ENDING。伊吹风子角色剧情攻略请参见P43～P45。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt152"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "4月25日～4月26日",
+    "dateE": "April 25th~April 26th",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1713,
+    "page": 23,
+    "ref": "divFt203"
+  },
+  "board": []
+}

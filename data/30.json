@@ -1,0 +1,1095 @@
+{
+  "box": [
+    [
+      {
+        "x": 25,
+        "y": 190,
+        "type": "option",
+        "text": "智代64HIT",
+        "css": "btn",
+        "ref": "divTxtBtn1",
+        "link": "p30_TY64"
+      },
+      {
+        "x": 425,
+        "y": 190,
+        "type": "condition",
+        "text": "6日，纷争之间的处理",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 280,
+        "type": "selection",
+        "text": "插嘴说话",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      },
+      {
+        "x": 625,
+        "y": 280,
+        "type": "selection",
+        "text": "保持沉默，交给智代处理",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 340,
+        "type": "option",
+        "text": "杏增加8HIT",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 430,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 520,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn33"
+      },
+      {
+        "x": 625,
+        "y": 520,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn39"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 580,
+        "type": "option",
+        "text": "风子增加8HIT",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 670,
+        "type": "condition",
+        "text": "17日，宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn50"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 760,
+        "type": "selection",
+        "text": "向她搭话",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 625,
+        "y": 760,
+        "type": "selection",
+        "text": "目送她离去",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 820,
+        "type": "option",
+        "text": "美佐枝增加8HIT",
+        "css": "btn",
+        "ref": "divTxtBtn73"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 910,
+        "type": "condition",
+        "text": "18日，逃课选择睡觉的地方",
+        "css": "btn",
+        "ref": "divTxtBtn77"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1000,
+        "type": "selection",
+        "text": "去那里睡",
+        "css": "btn",
+        "ref": "divTxtBtn87"
+      },
+      {
+        "x": 725,
+        "y": 1000,
+        "type": "selection",
+        "text": "还是回教室吧",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1060,
+        "type": "condition",
+        "text": "19日，来到旧校舍后的去向（一）",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1150,
+        "type": "selection",
+        "text": "去资料室",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      },
+      {
+        "x": 725,
+        "y": 1150,
+        "type": "selection",
+        "text": "去图书馆",
+        "css": "btn",
+        "ref": "divTxtBtn110"
+      },
+      {
+        "x": 1125,
+        "y": 1150,
+        "type": "selection",
+        "text": "去社团活动室",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn114"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1240,
+        "type": "option",
+        "text": "有纪宁增加8HIT",
+        "css": "btn",
+        "ref": "divTxtBtn121"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1330,
+        "type": "condition",
+        "text": "15日，回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn129"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1420,
+        "type": "selection",
+        "text": "在意",
+        "css": "btn",
+        "ref": "divTxtBtn144"
+      },
+      {
+        "x": 625,
+        "y": 1420,
+        "type": "selection",
+        "text": "不在意",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn150"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1480,
+        "type": "option",
+        "text": "渚增加8HIT",
+        "css": "btn",
+        "ref": "divTxtBtn157"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1570,
+        "type": "condition",
+        "text": "26日，选择约会吃饭的地方",
+        "css": "btn",
+        "ref": "divTxtBtn161"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1660,
+        "type": "selection",
+        "text": "在食堂吃",
+        "css": "btn",
+        "ref": "divTxtBtn171"
+      },
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "selection",
+        "text": "去外面吃",
+        "css": "btn",
+        "ref": "divTxtBtn177"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1720,
+        "type": "condition",
+        "text": "完成过幸村线",
+        "css": "btn",
+        "ref": "divTxtBtn183"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1810,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn187"
+      },
+      {
+        "x": 425,
+        "y": 1810,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn193"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1870,
+        "type": "option",
+        "text": "幸村增加8HIT",
+        "css": "btn",
+        "ref": "divTxtBtn199"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 600,
+        "y": 175
+      },
+      {
+        "x": 600,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 190,
+        "type": "condition",
+        "text": "6日，纷争之间的处理",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 225,
+        "y": 280,
+        "type": "selection",
+        "text": "插嘴说话",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 190,
+        "type": "condition",
+        "text": "6日，纷争之间的处理",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 625,
+        "y": 280,
+        "type": "selection",
+        "text": "保持沉默，交给智代处理",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 280,
+        "type": "selection",
+        "text": "插嘴说话",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      },
+      {
+        "x": 225,
+        "y": 340,
+        "type": "option",
+        "text": "杏增加8HIT",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 340,
+        "type": "option",
+        "text": "杏增加8HIT",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      },
+      {
+        "x": 425,
+        "y": 430,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 280,
+        "type": "selection",
+        "text": "保持沉默，交给智代处理",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      },
+      {
+        "x": 425,
+        "y": 430,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 430,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      },
+      {
+        "x": 225,
+        "y": 520,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn33"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 430,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      },
+      {
+        "x": 625,
+        "y": 520,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn39"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 520,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn33"
+      },
+      {
+        "x": 225,
+        "y": 580,
+        "type": "option",
+        "text": "风子增加8HIT",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 580,
+        "type": "option",
+        "text": "风子增加8HIT",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 425,
+        "y": 670,
+        "type": "condition",
+        "text": "17日，宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn50"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 520,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn39"
+      },
+      {
+        "x": 425,
+        "y": 670,
+        "type": "condition",
+        "text": "17日，宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn50"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 670,
+        "type": "condition",
+        "text": "17日，宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn50"
+      },
+      {
+        "x": 225,
+        "y": 760,
+        "type": "selection",
+        "text": "向她搭话",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 670,
+        "type": "condition",
+        "text": "17日，宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn50"
+      },
+      {
+        "x": 625,
+        "y": 760,
+        "type": "selection",
+        "text": "目送她离去",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 760,
+        "type": "selection",
+        "text": "向她搭话",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 225,
+        "y": 820,
+        "type": "option",
+        "text": "美佐枝增加8HIT",
+        "css": "btn",
+        "ref": "divTxtBtn73"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 820,
+        "type": "option",
+        "text": "美佐枝增加8HIT",
+        "css": "btn",
+        "ref": "divTxtBtn73"
+      },
+      {
+        "x": 425,
+        "y": 910,
+        "type": "condition",
+        "text": "18日，逃课选择睡觉的地方",
+        "css": "btn",
+        "ref": "divTxtBtn77"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 760,
+        "type": "selection",
+        "text": "目送她离去",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      },
+      {
+        "x": 425,
+        "y": 910,
+        "type": "condition",
+        "text": "18日，逃课选择睡觉的地方",
+        "css": "btn",
+        "ref": "divTxtBtn77"
+      }
+    ],
+    [
+      {
+        "x": 500,
+        "y": 970
+      },
+      {
+        "x": 125,
+        "y": 1000,
+        "type": "selection",
+        "text": "去那里睡",
+        "css": "btn",
+        "ref": "divTxtBtn87"
+      }
+    ],
+    [
+      {
+        "x": 500,
+        "y": 970
+      },
+      {
+        "x": 725,
+        "y": 1000,
+        "type": "selection",
+        "text": "还是回教室吧",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 910,
+        "type": "condition",
+        "text": "18日，逃课选择睡觉的地方",
+        "css": "btn",
+        "ref": "divTxtBtn77"
+      },
+      {
+        "x": 600,
+        "y": 970
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1000,
+        "type": "selection",
+        "text": "还是回教室吧",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      },
+      {
+        "x": 725,
+        "y": 1060,
+        "type": "condition",
+        "text": "19日，来到旧校舍后的去向（一）",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1060,
+        "type": "condition",
+        "text": "19日，来到旧校舍后的去向（一）",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      },
+      {
+        "x": 325,
+        "y": 1150,
+        "type": "selection",
+        "text": "去资料室",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1060,
+        "type": "condition",
+        "text": "19日，来到旧校舍后的去向（一）",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      },
+      {
+        "x": 725,
+        "y": 1150,
+        "type": "selection",
+        "text": "去图书馆",
+        "css": "btn",
+        "ref": "divTxtBtn110"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1060,
+        "type": "condition",
+        "text": "19日，来到旧校舍后的去向（一）",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      },
+      {
+        "x": 1125,
+        "y": 1150,
+        "type": "selection",
+        "text": "去社团活动室",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn114"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1150,
+        "type": "selection",
+        "text": "去资料室",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      },
+      {
+        "x": 125,
+        "y": 1240,
+        "type": "option",
+        "text": "有纪宁增加8HIT",
+        "css": "btn",
+        "ref": "divTxtBtn121"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1000,
+        "type": "selection",
+        "text": "去那里睡",
+        "css": "btn",
+        "ref": "divTxtBtn87"
+      },
+      {
+        "x": 125,
+        "y": 1240,
+        "type": "option",
+        "text": "有纪宁增加8HIT",
+        "css": "btn",
+        "ref": "divTxtBtn121"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1240,
+        "type": "option",
+        "text": "有纪宁增加8HIT",
+        "css": "btn",
+        "ref": "divTxtBtn121"
+      },
+      {
+        "x": 300,
+        "y": 1300
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1150,
+        "type": "selection",
+        "text": "去图书馆",
+        "css": "btn",
+        "ref": "divTxtBtn110"
+      },
+      {
+        "x": 300,
+        "y": 1300
+      },
+      {
+        "x": 900,
+        "y": 1300
+      }
+    ],
+    [
+      {
+        "x": 1125,
+        "y": 1150,
+        "type": "selection",
+        "text": "去社团活动室",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn114"
+      },
+      {
+        "x": 900,
+        "y": 1240
+      },
+      {
+        "x": 300,
+        "y": 1300
+      },
+      {
+        "x": 900,
+        "y": 1300
+      }
+    ],
+    [
+      {
+        "x": 600,
+        "y": 1300
+      },
+      {
+        "x": 425,
+        "y": 1330,
+        "type": "condition",
+        "text": "15日，回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn129"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1330,
+        "type": "condition",
+        "text": "15日，回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn129"
+      },
+      {
+        "x": 225,
+        "y": 1420,
+        "type": "selection",
+        "text": "在意",
+        "css": "btn",
+        "ref": "divTxtBtn144"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1330,
+        "type": "condition",
+        "text": "15日，回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn129"
+      },
+      {
+        "x": 625,
+        "y": 1420,
+        "type": "selection",
+        "text": "不在意",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn150"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1420,
+        "type": "selection",
+        "text": "在意",
+        "css": "btn",
+        "ref": "divTxtBtn144"
+      },
+      {
+        "x": 225,
+        "y": 1480,
+        "type": "option",
+        "text": "渚增加8HIT",
+        "css": "btn",
+        "ref": "divTxtBtn157"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1480,
+        "type": "option",
+        "text": "渚增加8HIT",
+        "css": "btn",
+        "ref": "divTxtBtn157"
+      },
+      {
+        "x": 425,
+        "y": 1570,
+        "type": "condition",
+        "text": "26日，选择约会吃饭的地方",
+        "css": "btn",
+        "ref": "divTxtBtn161"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1420,
+        "type": "selection",
+        "text": "不在意",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn150"
+      },
+      {
+        "x": 425,
+        "y": 1570,
+        "type": "condition",
+        "text": "26日，选择约会吃饭的地方",
+        "css": "btn",
+        "ref": "divTxtBtn161"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1570,
+        "type": "condition",
+        "text": "26日，选择约会吃饭的地方",
+        "css": "btn",
+        "ref": "divTxtBtn161"
+      },
+      {
+        "x": 225,
+        "y": 1660,
+        "type": "selection",
+        "text": "在食堂吃",
+        "css": "btn",
+        "ref": "divTxtBtn171"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1570,
+        "type": "condition",
+        "text": "26日，选择约会吃饭的地方",
+        "css": "btn",
+        "ref": "divTxtBtn161"
+      },
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "selection",
+        "text": "去外面吃",
+        "css": "btn",
+        "ref": "divTxtBtn177"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1660,
+        "type": "selection",
+        "text": "在食堂吃",
+        "css": "btn",
+        "ref": "divTxtBtn171"
+      },
+      {
+        "x": 225,
+        "y": 1720,
+        "type": "condition",
+        "text": "完成过幸村线",
+        "css": "btn",
+        "ref": "divTxtBtn183"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1720,
+        "type": "condition",
+        "text": "完成过幸村线",
+        "css": "btn",
+        "ref": "divTxtBtn183"
+      },
+      {
+        "x": 25,
+        "y": 1810,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn187"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1720,
+        "type": "condition",
+        "text": "完成过幸村线",
+        "css": "btn",
+        "ref": "divTxtBtn183"
+      },
+      {
+        "x": 425,
+        "y": 1810,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn193"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1810,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn187"
+      },
+      {
+        "x": 25,
+        "y": 1870,
+        "type": "option",
+        "text": "幸村增加8HIT",
+        "css": "btn",
+        "ref": "divTxtBtn199"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1810,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn187"
+      },
+      {
+        "x": 400,
+        "y": 1960
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1810,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn193"
+      },
+      {
+        "x": 400,
+        "y": 1960
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "selection",
+        "text": "去外面吃",
+        "css": "btn",
+        "ref": "divTxtBtn177"
+      },
+      {
+        "x": 400,
+        "y": 1960
+      },
+      {
+        "x": 800,
+        "y": 1960
+      }
+    ],
+    [
+      {
+        "x": 600,
+        "y": 1960
+      },
+      {
+        "x": 600,
+        "y": 1960
+      }
+    ]
+  ],
+  "comment": [],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "tomoyo",
+    "routeC": "坂上 智代",
+    "routeE": "Tomoyo Sakagami",
+    "dateC": "智代64HIT",
+    "dateE": "Tomoyo's 64Hit",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1990,
+    "page": 30,
+    "ref": "divFt216"
+  },
+  "board": []
+}

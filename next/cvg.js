@@ -1562,6 +1562,13 @@ function BoardBase(x, y, height) {
   this.zindex = BOARDZINDEX
   this.ref = `divBoard${objCount}`
   objCount++
+
+  this.props = {
+    x,
+    y,
+    height,
+  }
+
   this.HTML = ''
 
   this.HTML += `<div id="${this.ref}Wrap" style="position:absolute; width:0px; left:${this.leftx}px; top:${this.topy}px; height:0px; z-index:${this.zindex}; overflow:visible; visibility:hidden;">`

@@ -1,0 +1,1481 @@
+{
+  "box": [
+    [
+      {
+        "x": 725,
+        "y": 190,
+        "type": "condition",
+        "text": "16日，古河重新创立话剧社",
+        "css": "btn",
+        "ref": "divTxtBtn1"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn5"
+      },
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "selection",
+        "text": "让她一个人做",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "宣传海报缺少的东西",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      },
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn22",
+        "link": "p6_retB"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 430,
+        "type": "option",
+        "text": "诱惑力",
+        "css": "btn",
+        "ref": "divTxtBtn26"
+      },
+      {
+        "x": 425,
+        "y": 430,
+        "type": "option",
+        "text": "插图",
+        "css": "btn",
+        "ref": "divTxtBtn32"
+      },
+      {
+        "x": 825,
+        "y": 430,
+        "type": "option",
+        "text": "合作伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 520,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn42",
+        "link": "p6_retA"
+      },
+      {
+        "x": 1025,
+        "y": 520,
+        "type": "selection",
+        "text": "宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn54",
+        "num": {
+          "x": 1010,
+          "y": 520,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn56"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 510,
+          "text": "宿舍走廊遇见美佐枝",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-向她搭话",
+          "icon": "10000000",
+          "iconillu": "美佐枝参与64HIT",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt57"
+        }
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 610,
+        "type": "option",
+        "text": "向她搭话",
+        "route": "l|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 1225,
+        "y": 610,
+        "type": "option",
+        "text": "目送她离去",
+        "route": "r|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn67"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 730,
+        "type": "option",
+        "text": "幻想世界（二）",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 790,
+        "type": "date",
+        "text": "4月18日",
+        "css": "date",
+        "ref": "divBtn89"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 910,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn92",
+        "link": "p6_A"
+      },
+      {
+        "x": 825,
+        "y": 910,
+        "type": "selection",
+        "text": "等候做值日生的古河",
+        "css": "btn",
+        "ref": "divTxtBtn94",
+        "num": {
+          "x": 810,
+          "y": 910,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn96"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 900,
+          "text": "与风子相遇（风子线已进入版）",
+          "num": "4",
+          "summary": "等候做值日生的古河许久，朋也决定出去找她。走过隔壁教室，朋也推开门，发现窗边独自坐着一个陌生的女生，正在认真地用手中的木片雕刻着什么。",
+          "hint": "若在16日的分支{古河重新创立话剧社}中选择[帮助]，就会以这样的剧情安排与风子相遇。在以下连续的三个分支中，选择出去[找找她]、[去隔壁的教室看一下]、[向她搭话]（即不跳出风子线），则18日您才可能认识风子（同样，即使进入风子线，朋也仍不知道风子的姓名）。",
+          "setsumei": "",
+          "option": "+出去找找她|+去隔壁的教室看一下|-向她搭话",
+          "icon": "11111010",
+          "iconillu": "风子有条件参与64HIT、有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和业余棒球；风子大师进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt97"
+        }
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1000,
+        "type": "option",
+        "text": "出去找找她",
+        "route": "l|风子",
+        "css": "btn",
+        "ref": "divTxtBtn101"
+      },
+      {
+        "x": 1025,
+        "y": 1000,
+        "type": "option",
+        "text": "继续等下去",
+        "route": "r|风子",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1060,
+        "type": "selection",
+        "text": "出去寻找古河",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1150,
+        "type": "option",
+        "text": "去隔壁的教室看一下",
+        "route": "l|风子",
+        "css": "btn",
+        "ref": "divTxtBtn119"
+      },
+      {
+        "x": 825,
+        "y": 1150,
+        "type": "option",
+        "text": "到其他的地方找找看",
+        "route": "r|风子",
+        "css": "btn",
+        "ref": "divTxtBtn126"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1210,
+        "type": "selection",
+        "text": "隔壁教室里的陌生女孩",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1300,
+        "type": "option",
+        "text": "向她搭话",
+        "route": "l|风子",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      },
+      {
+        "x": 625,
+        "y": 1300,
+        "type": "option",
+        "text": "离开",
+        "route": "r|风子",
+        "css": "btn",
+        "ref": "divTxtBtn144"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1510,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn172",
+        "link": "p6_B"
+      },
+      {
+        "x": 825,
+        "y": 1510,
+        "type": "selection",
+        "text": "放学后，一个人的朋也",
+        "css": "btn",
+        "ref": "divTxtBtn174",
+        "num": {
+          "x": 810,
+          "y": 1510,
+          "type": "ccheck",
+          "text": "5",
+          "css": "check",
+          "ref": "divBtn176"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1500,
+          "text": "与风子相遇（风子线未进入版）",
+          "num": "5",
+          "summary": "春原仍然没有从打击中恢复，朋也决定独自打发放学后的时光。来到旧校舍，走进本以为没人的空教室，朋也发现原来窗边独自坐着一个女生，正在认真地用手中的木片雕刻着什么。",
+          "hint": "16日无论是否帮助了渚重建话剧社，您都可能在17日遇到风子。<br>如果在16日分支{古河重新创立话剧社}中选择让她一个人做或者未触发这个选项（即没有进入进入风子线和渚线），则17日午后，在以下连续的三个分支中，选择[在校内闲逛]、[睡一觉]、[向她搭话]，则18日您仍有机会认识风子。和风子线进入版不同的是，这之后即使认识了风子也不能进入风子角色剧情。",
+          "setsumei": "风子是CLANNAD中最为活跃的角色。除琴美好感度以外，所有的特殊事件都有风子参与，而18日认识风子是风子参与这些事件的关键节点，因此“认识风子”很重要。",
+          "option": "+在校内闲逛|+向她搭话|-睡一觉",
+          "icon": "11111010",
+          "iconillu": "风子有条件参与64HIT、有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和业余棒球；风子大师进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt177"
+        }
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1600,
+        "type": "option",
+        "text": "在校内闲逛",
+        "css": "btn",
+        "ref": "divTxtBtn181"
+      },
+      {
+        "x": 1025,
+        "y": 1600,
+        "type": "option",
+        "text": "在校外闲逛",
+        "css": "btn",
+        "ref": "divTxtBtn187"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "selection",
+        "text": "经过旧校舍的空教室",
+        "css": "btn",
+        "ref": "divTxtBtn193"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1750,
+        "type": "option",
+        "text": "睡一觉",
+        "css": "btn",
+        "ref": "divTxtBtn197"
+      },
+      {
+        "x": 825,
+        "y": 1750,
+        "type": "option",
+        "text": "在校外闲逛",
+        "css": "btn",
+        "ref": "divTxtBtn203"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1810,
+        "type": "selection",
+        "text": "空教室里的陌生女孩",
+        "css": "btn",
+        "ref": "divTxtBtn209"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1900,
+        "type": "option",
+        "text": "向她搭话",
+        "css": "btn",
+        "ref": "divTxtBtn213"
+      },
+      {
+        "x": 625,
+        "y": 1900,
+        "type": "option",
+        "text": "离开",
+        "css": "btn",
+        "ref": "divTxtBtn219"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 900,
+        "y": 175
+      },
+      {
+        "x": 900,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 250
+      },
+      {
+        "x": 425,
+        "y": 280,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn5"
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 250
+      },
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "selection",
+        "text": "让她一个人做",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 190,
+        "type": "condition",
+        "text": "16日，古河重新创立话剧社",
+        "css": "btn",
+        "ref": "divTxtBtn1"
+      },
+      {
+        "x": 900,
+        "y": 250
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn5"
+      },
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "宣传海报缺少的东西",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "selection",
+        "text": "让她一个人做",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      },
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn22",
+        "link": "p6_retB"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "宣传海报缺少的东西",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      },
+      {
+        "x": 25,
+        "y": 430,
+        "type": "option",
+        "text": "诱惑力",
+        "css": "btn",
+        "ref": "divTxtBtn26"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "宣传海报缺少的东西",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      },
+      {
+        "x": 425,
+        "y": 430,
+        "type": "option",
+        "text": "插图",
+        "css": "btn",
+        "ref": "divTxtBtn32"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "宣传海报缺少的东西",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      },
+      {
+        "x": 825,
+        "y": 430,
+        "type": "option",
+        "text": "合作伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 430,
+        "type": "option",
+        "text": "诱惑力",
+        "css": "btn",
+        "ref": "divTxtBtn26"
+      },
+      {
+        "x": 425,
+        "y": 520,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn42",
+        "link": "p6_retA"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 430,
+        "type": "option",
+        "text": "插图",
+        "css": "btn",
+        "ref": "divTxtBtn32"
+      },
+      {
+        "x": 425,
+        "y": 520,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn42",
+        "link": "p6_retA"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 430,
+        "type": "option",
+        "text": "合作伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      },
+      {
+        "x": 425,
+        "y": 520,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn42",
+        "link": "p6_retA"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn22",
+        "link": "p6_retB"
+      },
+      {
+        "x": 1025,
+        "y": 520,
+        "type": "selection",
+        "text": "宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn54",
+        "num": {
+          "x": 1010,
+          "y": 520,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn56"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 510,
+          "text": "宿舍走廊遇见美佐枝",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-向她搭话",
+          "icon": "10000000",
+          "iconillu": "美佐枝参与64HIT",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt57"
+        }
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 520,
+        "type": "selection",
+        "text": "宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn54",
+        "num": {
+          "x": 1010,
+          "y": 520,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn56"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 510,
+          "text": "宿舍走廊遇见美佐枝",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-向她搭话",
+          "icon": "10000000",
+          "iconillu": "美佐枝参与64HIT",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt57"
+        }
+      },
+      {
+        "x": 825,
+        "y": 610,
+        "type": "option",
+        "text": "向她搭话",
+        "route": "l|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 520,
+        "type": "selection",
+        "text": "宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn54",
+        "num": {
+          "x": 1010,
+          "y": 520,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn56"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 510,
+          "text": "宿舍走廊遇见美佐枝",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-向她搭话",
+          "icon": "10000000",
+          "iconillu": "美佐枝参与64HIT",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt57"
+        }
+      },
+      {
+        "x": 1225,
+        "y": 610,
+        "type": "option",
+        "text": "目送她离去",
+        "route": "r|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn67"
+      }
+    ],
+    [
+      {
+        "x": 900,
+        "y": 700
+      },
+      {
+        "x": 725,
+        "y": 730,
+        "type": "option",
+        "text": "幻想世界（二）",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 610,
+        "type": "option",
+        "text": "向她搭话",
+        "route": "l|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 1200,
+        "y": 700
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 610,
+        "type": "option",
+        "text": "目送她离去",
+        "route": "r|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn67"
+      },
+      {
+        "x": 1200,
+        "y": 700
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 520,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn42",
+        "link": "p6_retA"
+      },
+      {
+        "x": 1200,
+        "y": 700
+      },
+      {
+        "x": 600,
+        "y": 700
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 730,
+        "type": "option",
+        "text": "幻想世界（二）",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      },
+      {
+        "x": 850,
+        "y": 790,
+        "type": "date",
+        "text": "4月18日",
+        "css": "date",
+        "ref": "divBtn89"
+      }
+    ],
+    [
+      {
+        "x": 1000,
+        "y": 895
+      },
+      {
+        "x": 1000,
+        "y": 895
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 910,
+        "type": "selection",
+        "text": "等候做值日生的古河",
+        "css": "btn",
+        "ref": "divTxtBtn94",
+        "num": {
+          "x": 810,
+          "y": 910,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn96"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 900,
+          "text": "与风子相遇（风子线已进入版）",
+          "num": "4",
+          "summary": "等候做值日生的古河许久，朋也决定出去找她。走过隔壁教室，朋也推开门，发现窗边独自坐着一个陌生的女生，正在认真地用手中的木片雕刻着什么。",
+          "hint": "若在16日的分支{古河重新创立话剧社}中选择[帮助]，就会以这样的剧情安排与风子相遇。在以下连续的三个分支中，选择出去[找找她]、[去隔壁的教室看一下]、[向她搭话]（即不跳出风子线），则18日您才可能认识风子（同样，即使进入风子线，朋也仍不知道风子的姓名）。",
+          "setsumei": "",
+          "option": "+出去找找她|+去隔壁的教室看一下|-向她搭话",
+          "icon": "11111010",
+          "iconillu": "风子有条件参与64HIT、有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和业余棒球；风子大师进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt97"
+        }
+      },
+      {
+        "x": 625,
+        "y": 1000,
+        "type": "option",
+        "text": "出去找找她",
+        "route": "l|风子",
+        "css": "btn",
+        "ref": "divTxtBtn101"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 910,
+        "type": "selection",
+        "text": "等候做值日生的古河",
+        "css": "btn",
+        "ref": "divTxtBtn94",
+        "num": {
+          "x": 810,
+          "y": 910,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn96"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 900,
+          "text": "与风子相遇（风子线已进入版）",
+          "num": "4",
+          "summary": "等候做值日生的古河许久，朋也决定出去找她。走过隔壁教室，朋也推开门，发现窗边独自坐着一个陌生的女生，正在认真地用手中的木片雕刻着什么。",
+          "hint": "若在16日的分支{古河重新创立话剧社}中选择[帮助]，就会以这样的剧情安排与风子相遇。在以下连续的三个分支中，选择出去[找找她]、[去隔壁的教室看一下]、[向她搭话]（即不跳出风子线），则18日您才可能认识风子（同样，即使进入风子线，朋也仍不知道风子的姓名）。",
+          "setsumei": "",
+          "option": "+出去找找她|+去隔壁的教室看一下|-向她搭话",
+          "icon": "11111010",
+          "iconillu": "风子有条件参与64HIT、有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和业余棒球；风子大师进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt97"
+        }
+      },
+      {
+        "x": 1025,
+        "y": 1000,
+        "type": "option",
+        "text": "继续等下去",
+        "route": "r|风子",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1000,
+        "type": "option",
+        "text": "出去找找她",
+        "route": "l|风子",
+        "css": "btn",
+        "ref": "divTxtBtn101"
+      },
+      {
+        "x": 625,
+        "y": 1060,
+        "type": "selection",
+        "text": "出去寻找古河",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1060,
+        "type": "selection",
+        "text": "出去寻找古河",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      },
+      {
+        "x": 425,
+        "y": 1150,
+        "type": "option",
+        "text": "去隔壁的教室看一下",
+        "route": "l|风子",
+        "css": "btn",
+        "ref": "divTxtBtn119"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1060,
+        "type": "selection",
+        "text": "出去寻找古河",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      },
+      {
+        "x": 825,
+        "y": 1150,
+        "type": "option",
+        "text": "到其他的地方找找看",
+        "route": "r|风子",
+        "css": "btn",
+        "ref": "divTxtBtn126"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1150,
+        "type": "option",
+        "text": "去隔壁的教室看一下",
+        "route": "l|风子",
+        "css": "btn",
+        "ref": "divTxtBtn119"
+      },
+      {
+        "x": 425,
+        "y": 1210,
+        "type": "selection",
+        "text": "隔壁教室里的陌生女孩",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1210,
+        "type": "selection",
+        "text": "隔壁教室里的陌生女孩",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      },
+      {
+        "x": 225,
+        "y": 1300,
+        "type": "option",
+        "text": "向她搭话",
+        "route": "l|风子",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1210,
+        "type": "selection",
+        "text": "隔壁教室里的陌生女孩",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      },
+      {
+        "x": 625,
+        "y": 1300,
+        "type": "option",
+        "text": "离开",
+        "route": "r|风子",
+        "css": "btn",
+        "ref": "divTxtBtn144"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1300,
+        "type": "option",
+        "text": "向她搭话",
+        "route": "l|风子",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      },
+      {
+        "x": 600,
+        "y": 1390
+      },
+      {
+        "x": 800,
+        "y": 1420
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1300,
+        "type": "option",
+        "text": "离开",
+        "route": "r|风子",
+        "css": "btn",
+        "ref": "divTxtBtn144"
+      },
+      {
+        "x": 600,
+        "y": 1390
+      },
+      {
+        "x": 800,
+        "y": 1420
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1150,
+        "type": "option",
+        "text": "到其他的地方找找看",
+        "route": "r|风子",
+        "css": "btn",
+        "ref": "divTxtBtn126"
+      },
+      {
+        "x": 800,
+        "y": 1420
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1000,
+        "type": "option",
+        "text": "继续等下去",
+        "route": "r|风子",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      },
+      {
+        "x": 800,
+        "y": 1420
+      },
+      {
+        "x": 1200,
+        "y": 1420
+      }
+    ],
+    [
+      {
+        "x": 1000,
+        "y": 1420
+      },
+      {
+        "x": 1000,
+        "y": 1420
+      }
+    ],
+    [
+      {
+        "x": 1000,
+        "y": 1495
+      },
+      {
+        "x": 1000,
+        "y": 1495
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1510,
+        "type": "selection",
+        "text": "放学后，一个人的朋也",
+        "css": "btn",
+        "ref": "divTxtBtn174",
+        "num": {
+          "x": 810,
+          "y": 1510,
+          "type": "ccheck",
+          "text": "5",
+          "css": "check",
+          "ref": "divBtn176"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1500,
+          "text": "与风子相遇（风子线未进入版）",
+          "num": "5",
+          "summary": "春原仍然没有从打击中恢复，朋也决定独自打发放学后的时光。来到旧校舍，走进本以为没人的空教室，朋也发现原来窗边独自坐着一个女生，正在认真地用手中的木片雕刻着什么。",
+          "hint": "16日无论是否帮助了渚重建话剧社，您都可能在17日遇到风子。<br>如果在16日分支{古河重新创立话剧社}中选择让她一个人做或者未触发这个选项（即没有进入进入风子线和渚线），则17日午后，在以下连续的三个分支中，选择[在校内闲逛]、[睡一觉]、[向她搭话]，则18日您仍有机会认识风子。和风子线进入版不同的是，这之后即使认识了风子也不能进入风子角色剧情。",
+          "setsumei": "风子是CLANNAD中最为活跃的角色。除琴美好感度以外，所有的特殊事件都有风子参与，而18日认识风子是风子参与这些事件的关键节点，因此“认识风子”很重要。",
+          "option": "+在校内闲逛|+向她搭话|-睡一觉",
+          "icon": "11111010",
+          "iconillu": "风子有条件参与64HIT、有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和业余棒球；风子大师进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt177"
+        }
+      },
+      {
+        "x": 625,
+        "y": 1600,
+        "type": "option",
+        "text": "在校内闲逛",
+        "css": "btn",
+        "ref": "divTxtBtn181"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1510,
+        "type": "selection",
+        "text": "放学后，一个人的朋也",
+        "css": "btn",
+        "ref": "divTxtBtn174",
+        "num": {
+          "x": 810,
+          "y": 1510,
+          "type": "ccheck",
+          "text": "5",
+          "css": "check",
+          "ref": "divBtn176"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1500,
+          "text": "与风子相遇（风子线未进入版）",
+          "num": "5",
+          "summary": "春原仍然没有从打击中恢复，朋也决定独自打发放学后的时光。来到旧校舍，走进本以为没人的空教室，朋也发现原来窗边独自坐着一个女生，正在认真地用手中的木片雕刻着什么。",
+          "hint": "16日无论是否帮助了渚重建话剧社，您都可能在17日遇到风子。<br>如果在16日分支{古河重新创立话剧社}中选择让她一个人做或者未触发这个选项（即没有进入进入风子线和渚线），则17日午后，在以下连续的三个分支中，选择[在校内闲逛]、[睡一觉]、[向她搭话]，则18日您仍有机会认识风子。和风子线进入版不同的是，这之后即使认识了风子也不能进入风子角色剧情。",
+          "setsumei": "风子是CLANNAD中最为活跃的角色。除琴美好感度以外，所有的特殊事件都有风子参与，而18日认识风子是风子参与这些事件的关键节点，因此“认识风子”很重要。",
+          "option": "+在校内闲逛|+向她搭话|-睡一觉",
+          "icon": "11111010",
+          "iconillu": "风子有条件参与64HIT、有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和业余棒球；风子大师进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt177"
+        }
+      },
+      {
+        "x": 1025,
+        "y": 1600,
+        "type": "option",
+        "text": "在校外闲逛",
+        "css": "btn",
+        "ref": "divTxtBtn187"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1600,
+        "type": "option",
+        "text": "在校内闲逛",
+        "css": "btn",
+        "ref": "divTxtBtn181"
+      },
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "selection",
+        "text": "经过旧校舍的空教室",
+        "css": "btn",
+        "ref": "divTxtBtn193"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "selection",
+        "text": "经过旧校舍的空教室",
+        "css": "btn",
+        "ref": "divTxtBtn193"
+      },
+      {
+        "x": 425,
+        "y": 1750,
+        "type": "option",
+        "text": "睡一觉",
+        "css": "btn",
+        "ref": "divTxtBtn197"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "selection",
+        "text": "经过旧校舍的空教室",
+        "css": "btn",
+        "ref": "divTxtBtn193"
+      },
+      {
+        "x": 825,
+        "y": 1750,
+        "type": "option",
+        "text": "在校外闲逛",
+        "css": "btn",
+        "ref": "divTxtBtn203"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1750,
+        "type": "option",
+        "text": "睡一觉",
+        "css": "btn",
+        "ref": "divTxtBtn197"
+      },
+      {
+        "x": 425,
+        "y": 1810,
+        "type": "selection",
+        "text": "空教室里的陌生女孩",
+        "css": "btn",
+        "ref": "divTxtBtn209"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1810,
+        "type": "selection",
+        "text": "空教室里的陌生女孩",
+        "css": "btn",
+        "ref": "divTxtBtn209"
+      },
+      {
+        "x": 225,
+        "y": 1900,
+        "type": "option",
+        "text": "向她搭话",
+        "css": "btn",
+        "ref": "divTxtBtn213"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1810,
+        "type": "selection",
+        "text": "空教室里的陌生女孩",
+        "css": "btn",
+        "ref": "divTxtBtn209"
+      },
+      {
+        "x": 625,
+        "y": 1900,
+        "type": "option",
+        "text": "离开",
+        "css": "btn",
+        "ref": "divTxtBtn219"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1900,
+        "type": "option",
+        "text": "向她搭话",
+        "css": "btn",
+        "ref": "divTxtBtn213"
+      },
+      {
+        "x": 600,
+        "y": 1990
+      },
+      {
+        "x": 800,
+        "y": 2020
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1900,
+        "type": "option",
+        "text": "离开",
+        "css": "btn",
+        "ref": "divTxtBtn219"
+      },
+      {
+        "x": 600,
+        "y": 1990
+      },
+      {
+        "x": 800,
+        "y": 2020
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1750,
+        "type": "option",
+        "text": "在校外闲逛",
+        "css": "btn",
+        "ref": "divTxtBtn203"
+      },
+      {
+        "x": 800,
+        "y": 2020
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1600,
+        "type": "option",
+        "text": "在校外闲逛",
+        "css": "btn",
+        "ref": "divTxtBtn187"
+      },
+      {
+        "x": 800,
+        "y": 2020
+      },
+      {
+        "x": 1200,
+        "y": 2020
+      }
+    ],
+    [
+      {
+        "x": 1000,
+        "y": 2020
+      },
+      {
+        "x": 1000,
+        "y": 2020
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 510,
+      "text": "宿舍走廊遇见美佐枝",
+      "num": "3",
+      "summary": "",
+      "hint": "",
+      "setsumei": "",
+      "option": "-向她搭话",
+      "icon": "10000000",
+      "iconillu": "美佐枝参与64HIT",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt57"
+    },
+    {
+      "x": 1625,
+      "y": 900,
+      "text": "与风子相遇（风子线已进入版）",
+      "num": "4",
+      "summary": "等候做值日生的古河许久，朋也决定出去找她。走过隔壁教室，朋也推开门，发现窗边独自坐着一个陌生的女生，正在认真地用手中的木片雕刻着什么。",
+      "hint": "若在16日的分支{古河重新创立话剧社}中选择[帮助]，就会以这样的剧情安排与风子相遇。在以下连续的三个分支中，选择出去[找找她]、[去隔壁的教室看一下]、[向她搭话]（即不跳出风子线），则18日您才可能认识风子（同样，即使进入风子线，朋也仍不知道风子的姓名）。",
+      "setsumei": "",
+      "option": "+出去找找她|+去隔壁的教室看一下|-向她搭话",
+      "icon": "11111010",
+      "iconillu": "风子有条件参与64HIT、有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和业余棒球；风子大师进入必选",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt97"
+    },
+    {
+      "x": 1625,
+      "y": 1500,
+      "text": "与风子相遇（风子线未进入版）",
+      "num": "5",
+      "summary": "春原仍然没有从打击中恢复，朋也决定独自打发放学后的时光。来到旧校舍，走进本以为没人的空教室，朋也发现原来窗边独自坐着一个女生，正在认真地用手中的木片雕刻着什么。",
+      "hint": "16日无论是否帮助了渚重建话剧社，您都可能在17日遇到风子。<br>如果在16日分支{古河重新创立话剧社}中选择让她一个人做或者未触发这个选项（即没有进入进入风子线和渚线），则17日午后，在以下连续的三个分支中，选择[在校内闲逛]、[睡一觉]、[向她搭话]，则18日您仍有机会认识风子。和风子线进入版不同的是，这之后即使认识了风子也不能进入风子角色剧情。",
+      "setsumei": "风子是CLANNAD中最为活跃的角色。除琴美好感度以外，所有的特殊事件都有风子参与，而18日认识风子是风子参与这些事件的关键节点，因此“认识风子”很重要。",
+      "option": "+在校内闲逛|+向她搭话|-睡一觉",
+      "icon": "11111010",
+      "iconillu": "风子有条件参与64HIT、有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和业余棒球；风子大师进入必选",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt177"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "4月17日（二）",
+    "dateE": "April 17th~Part 2",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 2050,
+    "page": 6,
+    "ref": "divFt246"
+  },
+  "board": [
+    {
+      "x": 0,
+      "y": 870,
+      "height": 600
+    },
+    {
+      "x": 0,
+      "y": 1470,
+      "height": 600
+    }
+  ]
+}

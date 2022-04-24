@@ -1,0 +1,1835 @@
+{
+  "box": [
+    [
+      {
+        "x": 25,
+        "y": 190,
+        "type": "option",
+        "text": "伪女友事件",
+        "css": "btn",
+        "ref": "divTxtBtn1",
+        "link": "p39_FAKEGF"
+      },
+      {
+        "x": 825,
+        "y": 190,
+        "type": "selection",
+        "text": "考虑藤林姐妹",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "option",
+        "text": "藤林姐妹",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      },
+      {
+        "x": 825,
+        "y": 280,
+        "type": "option",
+        "text": "除此之外",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "选择姐姐还是妹妹",
+        "css": "btn",
+        "ref": "divTxtBtn17"
+      },
+      {
+        "x": 825,
+        "y": 340,
+        "type": "condition",
+        "text": "15日,回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn21"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 430,
+        "type": "option",
+        "text": "妹妹",
+        "css": "btn",
+        "ref": "divTxtBtn25"
+      },
+      {
+        "x": 425,
+        "y": 430,
+        "type": "option",
+        "text": "姐姐",
+        "css": "btn",
+        "ref": "divTxtBtn31"
+      },
+      {
+        "x": 825,
+        "y": 430,
+        "type": "selection",
+        "text": "在意",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      },
+      {
+        "x": 1225,
+        "y": 430,
+        "type": "selection",
+        "text": "不在意",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn39"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 490,
+        "type": "condition",
+        "text": "23日,杏抓朋也出去跟她谈话",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 425,
+        "y": 490,
+        "type": "condition",
+        "text": "杏伪女友剧情",
+        "css": "btn",
+        "ref": "divTxtBtn50"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 580,
+        "type": "selection",
+        "text": "跟着去",
+        "css": "btn",
+        "ref": "divTxtBtn54"
+      },
+      {
+        "x": 425,
+        "y": 580,
+        "type": "selection",
+        "text": "逃跑",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn58"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 640,
+        "type": "option",
+        "text": "伪女友事件",
+        "css": "btn",
+        "ref": "divTxtBtn65",
+        "num": {
+          "x": 10,
+          "y": 640,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn67"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 630,
+          "text": "伪女友事件",
+          "num": "1",
+          "summary": "",
+          "hint": "再次进入伪女友事件，即跳回到24日分支{考虑藤林姐妹}。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt68"
+        }
+      },
+      {
+        "x": 425,
+        "y": 640,
+        "type": "condition",
+        "text": "椋伪女友剧情",
+        "css": "btn",
+        "ref": "divTxtBtn71"
+      },
+      {
+        "x": 825,
+        "y": 640,
+        "type": "condition",
+        "text": "21日,迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn75",
+        "num": {
+          "x": 810,
+          "y": 640,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn77"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 630,
+          "text": "21日,迟到后的午间",
+          "num": "2",
+          "summary": "",
+          "hint": "事实上，如果21日在分支{迟到后的午间}选择[看看窗外]，则24日会先一步进入渚、风子的剧情，因而无法进入春原兄妹的线路，而无法触发整个伪女友事件。因此，只有不触发21日的{分支迟到后的午间}（在上一条件（15日在分支{回想起中午庭院中的女生}中选择[在意]）的约束下，有两种方法可以避免触发这个分支：16日在分支{古河重新创立话剧社}中选择[让她一个人做]，或者{18日，和琴美一起吃午饭}（具体参见公共线路19日注释2）。即要求21日之前离开渚、风子线），才会出现接下来的分支{考虑古河}。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt78"
+        }
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 730,
+        "type": "selection",
+        "text": "赶去学生食堂",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      },
+      {
+        "x": 825,
+        "y": 730,
+        "type": "selection",
+        "text": "看看窗外",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn87"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 790,
+        "type": "condition",
+        "text": "23日，咒语游戏中遇到渚",
+        "css": "btn",
+        "ref": "divTxtBtn92",
+        "num": {
+          "x": 410,
+          "y": 790,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn94"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 780,
+          "text": "23日，咒语游戏中遇到渚",
+          "num": "3",
+          "summary": "",
+          "hint": "{23日，咒语游戏中遇到渚}即在23日有纪宁的咒语中触发{咒语游戏中遇到渚}的剧情。有纪宁的咒语相关攻略请参见P32。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt95"
+        }
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 880,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn98"
+      },
+      {
+        "x": 425,
+        "y": 880,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 970,
+        "type": "selection",
+        "text": "考虑古河",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1060,
+        "type": "option",
+        "text": "除此之外",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      },
+      {
+        "x": 825,
+        "y": 1060,
+        "type": "option",
+        "text": "拜托古河",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1120,
+        "type": "condition",
+        "text": "渚伪女友剧情",
+        "css": "btn",
+        "ref": "divTxtBtn130"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1150,
+        "type": "condition",
+        "text": "17日，春原挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn134"
+      },
+      {
+        "x": 1225,
+        "y": 1150,
+        "type": "condition",
+        "text": "17日，春原挑战智代（四回目",
+        "css": "btn",
+        "ref": "divTxtBtn142"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1240,
+        "type": "selection",
+        "text": "不去管他",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn146"
+      },
+      {
+        "x": 425,
+        "y": 1240,
+        "type": "selection",
+        "text": "跟着他去",
+        "css": "btn",
+        "ref": "divTxtBtn151"
+      },
+      {
+        "x": 825,
+        "y": 1240,
+        "type": "selection",
+        "text": "跟着他去",
+        "css": "btn",
+        "ref": "divTxtBtn157"
+      },
+      {
+        "x": 1225,
+        "y": 1240,
+        "type": "selection",
+        "text": "不去管他",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1330,
+        "type": "selection",
+        "text": "考虑智代",
+        "css": "btn",
+        "ref": "divTxtBtn168"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1420,
+        "type": "option",
+        "text": "除此之外",
+        "css": "btn",
+        "ref": "divTxtBtn178"
+      },
+      {
+        "x": 825,
+        "y": 1420,
+        "type": "option",
+        "text": "拜托智代",
+        "css": "btn",
+        "ref": "divTxtBtn184"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1480,
+        "type": "condition",
+        "text": "智代伪女友剧情",
+        "css": "btn",
+        "ref": "divTxtBtn190"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1510,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn194"
+      },
+      {
+        "x": 1225,
+        "y": 1510,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn202"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1600,
+        "type": "selection",
+        "text": "离开",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn206"
+      },
+      {
+        "x": 425,
+        "y": 1600,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn211"
+      },
+      {
+        "x": 825,
+        "y": 1600,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn217"
+      },
+      {
+        "x": 1225,
+        "y": 1600,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn223"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1690,
+        "type": "selection",
+        "text": "考虑风子",
+        "css": "btn",
+        "ref": "divTxtBtn228"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1780,
+        "type": "option",
+        "text": "拜托风子",
+        "css": "btn",
+        "ref": "divTxtBtn238"
+      },
+      {
+        "x": 825,
+        "y": 1780,
+        "type": "option",
+        "text": "除此之外",
+        "css": "btn",
+        "ref": "divTxtBtn244"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1840,
+        "type": "condition",
+        "text": "风子伪女友剧情",
+        "css": "btn",
+        "ref": "divTxtBtn250"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1870,
+        "type": "selection",
+        "text": "恶搞春原",
+        "css": "btn",
+        "ref": "divTxtBtn254"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1960,
+        "type": "option",
+        "text": "我来假扮",
+        "css": "btn",
+        "ref": "divTxtBtn262"
+      },
+      {
+        "x": 1225,
+        "y": 1960,
+        "type": "option",
+        "text": "除此之外",
+        "css": "btn",
+        "ref": "divTxtBtn268"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 2080,
+        "type": "option",
+        "text": "伪女友事件",
+        "css": "btn",
+        "ref": "divTxtBtn272"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 1000,
+        "y": 175
+      },
+      {
+        "x": 1000,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 190,
+        "type": "selection",
+        "text": "考虑藤林姐妹",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 425,
+        "y": 280,
+        "type": "option",
+        "text": "藤林姐妹",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 190,
+        "type": "selection",
+        "text": "考虑藤林姐妹",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 825,
+        "y": 280,
+        "type": "option",
+        "text": "除此之外",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "option",
+        "text": "藤林姐妹",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      },
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "选择姐姐还是妹妹",
+        "css": "btn",
+        "ref": "divTxtBtn17"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 280,
+        "type": "option",
+        "text": "除此之外",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      },
+      {
+        "x": 825,
+        "y": 340,
+        "type": "condition",
+        "text": "15日,回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn21"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "选择姐姐还是妹妹",
+        "css": "btn",
+        "ref": "divTxtBtn17"
+      },
+      {
+        "x": 25,
+        "y": 430,
+        "type": "option",
+        "text": "妹妹",
+        "css": "btn",
+        "ref": "divTxtBtn25"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "选择姐姐还是妹妹",
+        "css": "btn",
+        "ref": "divTxtBtn17"
+      },
+      {
+        "x": 425,
+        "y": 430,
+        "type": "option",
+        "text": "姐姐",
+        "css": "btn",
+        "ref": "divTxtBtn31"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 340,
+        "type": "condition",
+        "text": "15日,回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn21"
+      },
+      {
+        "x": 825,
+        "y": 430,
+        "type": "selection",
+        "text": "在意",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 340,
+        "type": "condition",
+        "text": "15日,回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn21"
+      },
+      {
+        "x": 1225,
+        "y": 430,
+        "type": "selection",
+        "text": "不在意",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn39"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 430,
+        "type": "option",
+        "text": "妹妹",
+        "css": "btn",
+        "ref": "divTxtBtn25"
+      },
+      {
+        "x": 25,
+        "y": 490,
+        "type": "condition",
+        "text": "23日,杏抓朋也出去跟她谈话",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 430,
+        "type": "option",
+        "text": "姐姐",
+        "css": "btn",
+        "ref": "divTxtBtn31"
+      },
+      {
+        "x": 425,
+        "y": 490,
+        "type": "condition",
+        "text": "杏伪女友剧情",
+        "css": "btn",
+        "ref": "divTxtBtn50"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 490,
+        "type": "condition",
+        "text": "23日,杏抓朋也出去跟她谈话",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 25,
+        "y": 580,
+        "type": "selection",
+        "text": "跟着去",
+        "css": "btn",
+        "ref": "divTxtBtn54"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 490,
+        "type": "condition",
+        "text": "23日,杏抓朋也出去跟她谈话",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 425,
+        "y": 580,
+        "type": "selection",
+        "text": "逃跑",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn58"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 580,
+        "type": "selection",
+        "text": "跟着去",
+        "css": "btn",
+        "ref": "divTxtBtn54"
+      },
+      {
+        "x": 25,
+        "y": 640,
+        "type": "option",
+        "text": "伪女友事件",
+        "css": "btn",
+        "ref": "divTxtBtn65",
+        "num": {
+          "x": 10,
+          "y": 640,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn67"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 630,
+          "text": "伪女友事件",
+          "num": "1",
+          "summary": "",
+          "hint": "再次进入伪女友事件，即跳回到24日分支{考虑藤林姐妹}。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt68"
+        }
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 580,
+        "type": "selection",
+        "text": "逃跑",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn58"
+      },
+      {
+        "x": 425,
+        "y": 640,
+        "type": "condition",
+        "text": "椋伪女友剧情",
+        "css": "btn",
+        "ref": "divTxtBtn71"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 430,
+        "type": "selection",
+        "text": "在意",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      },
+      {
+        "x": 825,
+        "y": 640,
+        "type": "condition",
+        "text": "21日,迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn75",
+        "num": {
+          "x": 810,
+          "y": 640,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn77"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 630,
+          "text": "21日,迟到后的午间",
+          "num": "2",
+          "summary": "",
+          "hint": "事实上，如果21日在分支{迟到后的午间}选择[看看窗外]，则24日会先一步进入渚、风子的剧情，因而无法进入春原兄妹的线路，而无法触发整个伪女友事件。因此，只有不触发21日的{分支迟到后的午间}（在上一条件（15日在分支{回想起中午庭院中的女生}中选择[在意]）的约束下，有两种方法可以避免触发这个分支：16日在分支{古河重新创立话剧社}中选择[让她一个人做]，或者{18日，和琴美一起吃午饭}（具体参见公共线路19日注释2）。即要求21日之前离开渚、风子线），才会出现接下来的分支{考虑古河}。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt78"
+        }
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 640,
+        "type": "condition",
+        "text": "21日,迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn75",
+        "num": {
+          "x": 810,
+          "y": 640,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn77"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 630,
+          "text": "21日,迟到后的午间",
+          "num": "2",
+          "summary": "",
+          "hint": "事实上，如果21日在分支{迟到后的午间}选择[看看窗外]，则24日会先一步进入渚、风子的剧情，因而无法进入春原兄妹的线路，而无法触发整个伪女友事件。因此，只有不触发21日的{分支迟到后的午间}（在上一条件（15日在分支{回想起中午庭院中的女生}中选择[在意]）的约束下，有两种方法可以避免触发这个分支：16日在分支{古河重新创立话剧社}中选择[让她一个人做]，或者{18日，和琴美一起吃午饭}（具体参见公共线路19日注释2）。即要求21日之前离开渚、风子线），才会出现接下来的分支{考虑古河}。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt78"
+        }
+      },
+      {
+        "x": 425,
+        "y": 730,
+        "type": "selection",
+        "text": "赶去学生食堂",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 640,
+        "type": "condition",
+        "text": "21日,迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn75",
+        "num": {
+          "x": 810,
+          "y": 640,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn77"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 630,
+          "text": "21日,迟到后的午间",
+          "num": "2",
+          "summary": "",
+          "hint": "事实上，如果21日在分支{迟到后的午间}选择[看看窗外]，则24日会先一步进入渚、风子的剧情，因而无法进入春原兄妹的线路，而无法触发整个伪女友事件。因此，只有不触发21日的{分支迟到后的午间}（在上一条件（15日在分支{回想起中午庭院中的女生}中选择[在意]）的约束下，有两种方法可以避免触发这个分支：16日在分支{古河重新创立话剧社}中选择[让她一个人做]，或者{18日，和琴美一起吃午饭}（具体参见公共线路19日注释2）。即要求21日之前离开渚、风子线），才会出现接下来的分支{考虑古河}。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt78"
+        }
+      },
+      {
+        "x": 825,
+        "y": 730,
+        "type": "selection",
+        "text": "看看窗外",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn87"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 730,
+        "type": "selection",
+        "text": "赶去学生食堂",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      },
+      {
+        "x": 425,
+        "y": 790,
+        "type": "condition",
+        "text": "23日，咒语游戏中遇到渚",
+        "css": "btn",
+        "ref": "divTxtBtn92",
+        "num": {
+          "x": 410,
+          "y": 790,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn94"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 780,
+          "text": "23日，咒语游戏中遇到渚",
+          "num": "3",
+          "summary": "",
+          "hint": "{23日，咒语游戏中遇到渚}即在23日有纪宁的咒语中触发{咒语游戏中遇到渚}的剧情。有纪宁的咒语相关攻略请参见P32。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt95"
+        }
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 790,
+        "type": "condition",
+        "text": "23日，咒语游戏中遇到渚",
+        "css": "btn",
+        "ref": "divTxtBtn92",
+        "num": {
+          "x": 410,
+          "y": 790,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn94"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 780,
+          "text": "23日，咒语游戏中遇到渚",
+          "num": "3",
+          "summary": "",
+          "hint": "{23日，咒语游戏中遇到渚}即在23日有纪宁的咒语中触发{咒语游戏中遇到渚}的剧情。有纪宁的咒语相关攻略请参见P32。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt95"
+        }
+      },
+      {
+        "x": 25,
+        "y": 880,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn98"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 790,
+        "type": "condition",
+        "text": "23日，咒语游戏中遇到渚",
+        "css": "btn",
+        "ref": "divTxtBtn92",
+        "num": {
+          "x": 410,
+          "y": 790,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn94"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 780,
+          "text": "23日，咒语游戏中遇到渚",
+          "num": "3",
+          "summary": "",
+          "hint": "{23日，咒语游戏中遇到渚}即在23日有纪宁的咒语中触发{咒语游戏中遇到渚}的剧情。有纪宁的咒语相关攻略请参见P32。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt95"
+        }
+      },
+      {
+        "x": 425,
+        "y": 880,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 880,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      },
+      {
+        "x": 625,
+        "y": 970,
+        "type": "selection",
+        "text": "考虑古河",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 730,
+        "type": "selection",
+        "text": "看看窗外",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn87"
+      },
+      {
+        "x": 625,
+        "y": 970,
+        "type": "selection",
+        "text": "考虑古河",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 970,
+        "type": "selection",
+        "text": "考虑古河",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      },
+      {
+        "x": 425,
+        "y": 1060,
+        "type": "option",
+        "text": "除此之外",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 970,
+        "type": "selection",
+        "text": "考虑古河",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      },
+      {
+        "x": 825,
+        "y": 1060,
+        "type": "option",
+        "text": "拜托古河",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1060,
+        "type": "option",
+        "text": "拜托古河",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      },
+      {
+        "x": 825,
+        "y": 1120,
+        "type": "condition",
+        "text": "渚伪女友剧情",
+        "css": "btn",
+        "ref": "divTxtBtn130"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1060,
+        "type": "option",
+        "text": "除此之外",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      },
+      {
+        "x": 25,
+        "y": 1150,
+        "type": "condition",
+        "text": "17日，春原挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn134"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 880,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn98"
+      },
+      {
+        "x": 25,
+        "y": 1150,
+        "type": "condition",
+        "text": "17日，春原挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn134"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 430,
+        "type": "selection",
+        "text": "不在意",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn39"
+      },
+      {
+        "x": 1225,
+        "y": 1150,
+        "type": "condition",
+        "text": "17日，春原挑战智代（四回目",
+        "css": "btn",
+        "ref": "divTxtBtn142"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1150,
+        "type": "condition",
+        "text": "17日，春原挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn134"
+      },
+      {
+        "x": 25,
+        "y": 1240,
+        "type": "selection",
+        "text": "不去管他",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn146"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1150,
+        "type": "condition",
+        "text": "17日，春原挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn134"
+      },
+      {
+        "x": 425,
+        "y": 1240,
+        "type": "selection",
+        "text": "跟着他去",
+        "css": "btn",
+        "ref": "divTxtBtn151"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1150,
+        "type": "condition",
+        "text": "17日，春原挑战智代（四回目",
+        "css": "btn",
+        "ref": "divTxtBtn142"
+      },
+      {
+        "x": 825,
+        "y": 1240,
+        "type": "selection",
+        "text": "跟着他去",
+        "css": "btn",
+        "ref": "divTxtBtn157"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1150,
+        "type": "condition",
+        "text": "17日，春原挑战智代（四回目",
+        "css": "btn",
+        "ref": "divTxtBtn142"
+      },
+      {
+        "x": 1225,
+        "y": 1240,
+        "type": "selection",
+        "text": "不去管他",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1240,
+        "type": "selection",
+        "text": "跟着他去",
+        "css": "btn",
+        "ref": "divTxtBtn151"
+      },
+      {
+        "x": 625,
+        "y": 1330,
+        "type": "selection",
+        "text": "考虑智代",
+        "css": "btn",
+        "ref": "divTxtBtn168"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1240,
+        "type": "selection",
+        "text": "跟着他去",
+        "css": "btn",
+        "ref": "divTxtBtn157"
+      },
+      {
+        "x": 625,
+        "y": 1330,
+        "type": "selection",
+        "text": "考虑智代",
+        "css": "btn",
+        "ref": "divTxtBtn168"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1330,
+        "type": "selection",
+        "text": "考虑智代",
+        "css": "btn",
+        "ref": "divTxtBtn168"
+      },
+      {
+        "x": 425,
+        "y": 1420,
+        "type": "option",
+        "text": "除此之外",
+        "css": "btn",
+        "ref": "divTxtBtn178"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1330,
+        "type": "selection",
+        "text": "考虑智代",
+        "css": "btn",
+        "ref": "divTxtBtn168"
+      },
+      {
+        "x": 825,
+        "y": 1420,
+        "type": "option",
+        "text": "拜托智代",
+        "css": "btn",
+        "ref": "divTxtBtn184"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1420,
+        "type": "option",
+        "text": "拜托智代",
+        "css": "btn",
+        "ref": "divTxtBtn184"
+      },
+      {
+        "x": 825,
+        "y": 1480,
+        "type": "condition",
+        "text": "智代伪女友剧情",
+        "css": "btn",
+        "ref": "divTxtBtn190"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1420,
+        "type": "option",
+        "text": "除此之外",
+        "css": "btn",
+        "ref": "divTxtBtn178"
+      },
+      {
+        "x": 25,
+        "y": 1510,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn194"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1240,
+        "type": "selection",
+        "text": "不去管他",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn146"
+      },
+      {
+        "x": 25,
+        "y": 1510,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn194"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1240,
+        "type": "selection",
+        "text": "不去管他",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      },
+      {
+        "x": 1225,
+        "y": 1510,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn202"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1510,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn194"
+      },
+      {
+        "x": 25,
+        "y": 1600,
+        "type": "selection",
+        "text": "离开",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn206"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1510,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn194"
+      },
+      {
+        "x": 425,
+        "y": 1600,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn211"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1510,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn202"
+      },
+      {
+        "x": 825,
+        "y": 1600,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn217"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1510,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn202"
+      },
+      {
+        "x": 1225,
+        "y": 1600,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn223"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1600,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn211"
+      },
+      {
+        "x": 625,
+        "y": 1690,
+        "type": "selection",
+        "text": "考虑风子",
+        "css": "btn",
+        "ref": "divTxtBtn228"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1600,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn217"
+      },
+      {
+        "x": 625,
+        "y": 1690,
+        "type": "selection",
+        "text": "考虑风子",
+        "css": "btn",
+        "ref": "divTxtBtn228"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1690,
+        "type": "selection",
+        "text": "考虑风子",
+        "css": "btn",
+        "ref": "divTxtBtn228"
+      },
+      {
+        "x": 425,
+        "y": 1780,
+        "type": "option",
+        "text": "拜托风子",
+        "css": "btn",
+        "ref": "divTxtBtn238"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1690,
+        "type": "selection",
+        "text": "考虑风子",
+        "css": "btn",
+        "ref": "divTxtBtn228"
+      },
+      {
+        "x": 825,
+        "y": 1780,
+        "type": "option",
+        "text": "除此之外",
+        "css": "btn",
+        "ref": "divTxtBtn244"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1780,
+        "type": "option",
+        "text": "拜托风子",
+        "css": "btn",
+        "ref": "divTxtBtn238"
+      },
+      {
+        "x": 425,
+        "y": 1840,
+        "type": "condition",
+        "text": "风子伪女友剧情",
+        "css": "btn",
+        "ref": "divTxtBtn250"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1780,
+        "type": "option",
+        "text": "除此之外",
+        "css": "btn",
+        "ref": "divTxtBtn244"
+      },
+      {
+        "x": 1225,
+        "y": 1870,
+        "type": "selection",
+        "text": "恶搞春原",
+        "css": "btn",
+        "ref": "divTxtBtn254"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1600,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn223"
+      },
+      {
+        "x": 1225,
+        "y": 1870,
+        "type": "selection",
+        "text": "恶搞春原",
+        "css": "btn",
+        "ref": "divTxtBtn254"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1870,
+        "type": "selection",
+        "text": "恶搞春原",
+        "css": "btn",
+        "ref": "divTxtBtn254"
+      },
+      {
+        "x": 825,
+        "y": 1960,
+        "type": "option",
+        "text": "我来假扮",
+        "css": "btn",
+        "ref": "divTxtBtn262"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1870,
+        "type": "selection",
+        "text": "恶搞春原",
+        "css": "btn",
+        "ref": "divTxtBtn254"
+      },
+      {
+        "x": 1225,
+        "y": 1960,
+        "type": "option",
+        "text": "除此之外",
+        "css": "btn",
+        "ref": "divTxtBtn268"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1960,
+        "type": "option",
+        "text": "我来假扮",
+        "css": "btn",
+        "ref": "divTxtBtn262"
+      },
+      {
+        "x": 1400,
+        "y": 2050
+      },
+      {
+        "x": 625,
+        "y": 2080,
+        "type": "option",
+        "text": "伪女友事件",
+        "css": "btn",
+        "ref": "divTxtBtn272"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1960,
+        "type": "option",
+        "text": "除此之外",
+        "css": "btn",
+        "ref": "divTxtBtn268"
+      },
+      {
+        "x": 625,
+        "y": 2080,
+        "type": "option",
+        "text": "伪女友事件",
+        "css": "btn",
+        "ref": "divTxtBtn272"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1600,
+        "type": "selection",
+        "text": "离开",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn206"
+      },
+      {
+        "x": 625,
+        "y": 2080,
+        "type": "option",
+        "text": "伪女友事件",
+        "css": "btn",
+        "ref": "divTxtBtn272"
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 2110
+      },
+      {
+        "x": 800,
+        "y": 2110
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 630,
+      "text": "伪女友事件",
+      "num": "1",
+      "summary": "",
+      "hint": "再次进入伪女友事件，即跳回到24日分支{考虑藤林姐妹}。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt68"
+    },
+    {
+      "x": 1625,
+      "y": 630,
+      "text": "21日,迟到后的午间",
+      "num": "2",
+      "summary": "",
+      "hint": "事实上，如果21日在分支{迟到后的午间}选择[看看窗外]，则24日会先一步进入渚、风子的剧情，因而无法进入春原兄妹的线路，而无法触发整个伪女友事件。因此，只有不触发21日的{分支迟到后的午间}（在上一条件（15日在分支{回想起中午庭院中的女生}中选择[在意]）的约束下，有两种方法可以避免触发这个分支：16日在分支{古河重新创立话剧社}中选择[让她一个人做]，或者{18日，和琴美一起吃午饭}（具体参见公共线路19日注释2）。即要求21日之前离开渚、风子线），才会出现接下来的分支{考虑古河}。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt78"
+    },
+    {
+      "x": 1625,
+      "y": 780,
+      "text": "23日，咒语游戏中遇到渚",
+      "num": "3",
+      "summary": "",
+      "hint": "{23日，咒语游戏中遇到渚}即在23日有纪宁的咒语中触发{咒语游戏中遇到渚}的剧情。有纪宁的咒语相关攻略请参见P32。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt95"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "sunohara",
+    "routeC": "春原 阳平/春原 芽衣",
+    "routeE": "Youhei Sunohara/Mei Sunohara",
+    "dateC": "伪女友事件",
+    "dateE": "Fake Girlfriend Event",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 2140,
+    "page": 39,
+    "ref": "divFt290"
+  },
+  "board": []
+}

@@ -1,0 +1,1071 @@
+{
+  "box": [
+    [
+      {
+        "x": 25,
+        "y": 190,
+        "type": "option",
+        "text": "风子大师（一）",
+        "css": "btn",
+        "ref": "divTxtBtn1",
+        "link": "p48_KFMT1"
+      },
+      {
+        "x": 625,
+        "y": 190,
+        "type": "selection",
+        "text": "风子陷入幻想（一）",
+        "css": "btn",
+        "ref": "divTxtBtn3",
+        "num": {
+          "x": 610,
+          "y": 190,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn5"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 180,
+          "text": "风子陷入幻想（一）",
+          "num": "1",
+          "summary": "争论着海星的可爱，风子又陷入了幻想和陶醉中。朋也脑中闪过一个有趣的主意。",
+          "hint": "第一次进入风子大师剧情时，只能完成[让风子用鼻子喝果汁一级]。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt6"
+        }
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "option",
+        "text": "太无聊了，让她用鼻子喝果汁玩玩",
+        "css": "btn",
+        "ref": "divTxtBtn9"
+      },
+      {
+        "x": 825,
+        "y": 280,
+        "type": "option",
+        "text": "一直等下去",
+        "css": "btn",
+        "ref": "divTxtBtn15"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "option",
+        "text": "让风子用鼻子喝果汁升级",
+        "css": "btn",
+        "ref": "divTxtBtn21"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 520,
+        "type": "option",
+        "text": "风子大师（二）",
+        "css": "btn",
+        "ref": "divTxtBtn32",
+        "link": "p48_KFMT2"
+      },
+      {
+        "x": 625,
+        "y": 520,
+        "type": "selection",
+        "text": "风子陷入幻想（二）",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 610,
+        "type": "option",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 925,
+        "y": 610,
+        "type": "option",
+        "text": "耐心等下去",
+        "css": "btn",
+        "ref": "divTxtBtn43"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 670,
+        "type": "selection",
+        "text": "风子恶作剧（一）",
+        "css": "btn",
+        "ref": "divTxtBtn50",
+        "num": {
+          "x": 310,
+          "y": 670,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn52"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 660,
+          "text": "风子恶作剧（一）",
+          "num": "2",
+          "summary": "",
+          "hint": "风子大师一共有4项常规恶作剧：[让风子用鼻子喝果汁]、[把风子带到别处去]（22日开始出现）、[找别人来装扮自己]（23日开始出现）、[偷换掉风子怀里的雕刻]（24日开始出现），一项特殊恶作剧[给风子吃早苗的面包]（29日出现）和一个隐藏恶作剧剧情。任意一个常规恶作剧完成两次后即可达到“登峰造极”（达成），恶作剧中如果再选择已经达成的项目，则会跳回重新作选择，完成的项目不会再有新的剧情。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt53"
+        }
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 730,
+        "type": "option",
+        "text": "让风子用鼻子喝果汁",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 675,
+        "y": 730,
+        "type": "option",
+        "text": "“让风子用鼻子喝果汁”升级/达成",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 790,
+        "type": "option",
+        "text": "把风子带到别处去",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      },
+      {
+        "x": 675,
+        "y": 790,
+        "type": "option",
+        "text": "“把风子带到别处去”升级",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 970,
+        "type": "option",
+        "text": "风子大师（三）",
+        "css": "btn",
+        "ref": "divTxtBtn75",
+        "link": "p48_KFMT3"
+      },
+      {
+        "x": 725,
+        "y": 970,
+        "type": "condition",
+        "text": "22日，风子陷入幻想（二）",
+        "css": "btn",
+        "ref": "divTxtBtn77"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1060,
+        "type": "selection",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      },
+      {
+        "x": 1025,
+        "y": 1060,
+        "type": "selection",
+        "text": "耐心等下去",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1120,
+        "type": "selection",
+        "text": "风子陷入幻想（三）",
+        "css": "btn",
+        "ref": "divTxtBtn93"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1210,
+        "type": "option",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn97"
+      },
+      {
+        "x": 725,
+        "y": 1210,
+        "type": "option",
+        "text": "不去管她",
+        "css": "btn",
+        "ref": "divTxtBtn102"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1270,
+        "type": "selection",
+        "text": "风子恶作剧（二）",
+        "css": "btn",
+        "ref": "divTxtBtn109",
+        "num": {
+          "x": 110,
+          "y": 1270,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn111"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1260,
+          "text": "风子恶作剧（二）",
+          "num": "3",
+          "summary": "",
+          "hint": "23日至26日，二级的[把风子带到别处去]剧情根据公共线路的选择有变化：若在18日的分支{有纪宁离开后}选择[睡觉]，则[把风子带到别处去]剧情发生在资料室，否则发生在校长室。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt112"
+        }
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1330,
+        "type": "option",
+        "text": "让风子用鼻子喝果汁",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      },
+      {
+        "x": 475,
+        "y": 1330,
+        "type": "option",
+        "text": "“让风子用鼻子喝果汁”升级/达成",
+        "css": "btn",
+        "ref": "divTxtBtn119"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1390,
+        "type": "option",
+        "text": "把风子带到别处去",
+        "css": "btn",
+        "ref": "divTxtBtn121"
+      },
+      {
+        "x": 475,
+        "y": 1390,
+        "type": "option",
+        "text": "“把风子带到别处去”升级/达成",
+        "css": "btn",
+        "ref": "divTxtBtn125"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1450,
+        "type": "option",
+        "text": "找人来装扮自己",
+        "css": "btn",
+        "ref": "divTxtBtn127"
+      },
+      {
+        "x": 475,
+        "y": 1450,
+        "type": "option",
+        "text": "“找人来装扮自己”升级",
+        "css": "btn",
+        "ref": "divTxtBtn131"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 800,
+        "y": 175
+      },
+      {
+        "x": 800,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 190,
+        "type": "selection",
+        "text": "风子陷入幻想（一）",
+        "css": "btn",
+        "ref": "divTxtBtn3",
+        "num": {
+          "x": 610,
+          "y": 190,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn5"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 180,
+          "text": "风子陷入幻想（一）",
+          "num": "1",
+          "summary": "争论着海星的可爱，风子又陷入了幻想和陶醉中。朋也脑中闪过一个有趣的主意。",
+          "hint": "第一次进入风子大师剧情时，只能完成[让风子用鼻子喝果汁一级]。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt6"
+        }
+      },
+      {
+        "x": 425,
+        "y": 280,
+        "type": "option",
+        "text": "太无聊了，让她用鼻子喝果汁玩玩",
+        "css": "btn",
+        "ref": "divTxtBtn9"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 190,
+        "type": "selection",
+        "text": "风子陷入幻想（一）",
+        "css": "btn",
+        "ref": "divTxtBtn3",
+        "num": {
+          "x": 610,
+          "y": 190,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn5"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 180,
+          "text": "风子陷入幻想（一）",
+          "num": "1",
+          "summary": "争论着海星的可爱，风子又陷入了幻想和陶醉中。朋也脑中闪过一个有趣的主意。",
+          "hint": "第一次进入风子大师剧情时，只能完成[让风子用鼻子喝果汁一级]。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt6"
+        }
+      },
+      {
+        "x": 825,
+        "y": 280,
+        "type": "option",
+        "text": "一直等下去",
+        "css": "btn",
+        "ref": "divTxtBtn15"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "option",
+        "text": "太无聊了，让她用鼻子喝果汁玩玩",
+        "css": "btn",
+        "ref": "divTxtBtn9"
+      },
+      {
+        "x": 425,
+        "y": 340,
+        "type": "option",
+        "text": "让风子用鼻子喝果汁升级",
+        "css": "btn",
+        "ref": "divTxtBtn21"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "option",
+        "text": "太无聊了，让她用鼻子喝果汁玩玩",
+        "css": "btn",
+        "ref": "divTxtBtn9"
+      },
+      {
+        "x": 600,
+        "y": 400
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 280,
+        "type": "option",
+        "text": "一直等下去",
+        "css": "btn",
+        "ref": "divTxtBtn15"
+      },
+      {
+        "x": 600,
+        "y": 400
+      },
+      {
+        "x": 1000,
+        "y": 400
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 400
+      },
+      {
+        "x": 800,
+        "y": 400
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 505
+      },
+      {
+        "x": 800,
+        "y": 505
+      }
+    ],
+    [
+      {
+        "x": 700,
+        "y": 580
+      },
+      {
+        "x": 325,
+        "y": 610,
+        "type": "option",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 700,
+        "y": 580
+      },
+      {
+        "x": 925,
+        "y": 610,
+        "type": "option",
+        "text": "耐心等下去",
+        "css": "btn",
+        "ref": "divTxtBtn43"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 520,
+        "type": "selection",
+        "text": "风子陷入幻想（二）",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 800,
+        "y": 580
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 610,
+        "type": "option",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 325,
+        "y": 670,
+        "type": "selection",
+        "text": "风子恶作剧（一）",
+        "css": "btn",
+        "ref": "divTxtBtn50",
+        "num": {
+          "x": 310,
+          "y": 670,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn52"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 660,
+          "text": "风子恶作剧（一）",
+          "num": "2",
+          "summary": "",
+          "hint": "风子大师一共有4项常规恶作剧：[让风子用鼻子喝果汁]、[把风子带到别处去]（22日开始出现）、[找别人来装扮自己]（23日开始出现）、[偷换掉风子怀里的雕刻]（24日开始出现），一项特殊恶作剧[给风子吃早苗的面包]（29日出现）和一个隐藏恶作剧剧情。任意一个常规恶作剧完成两次后即可达到“登峰造极”（达成），恶作剧中如果再选择已经达成的项目，则会跳回重新作选择，完成的项目不会再有新的剧情。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt53"
+        }
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 670,
+        "type": "selection",
+        "text": "风子恶作剧（一）",
+        "css": "btn",
+        "ref": "divTxtBtn50",
+        "num": {
+          "x": 310,
+          "y": 670,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn52"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 660,
+          "text": "风子恶作剧（一）",
+          "num": "2",
+          "summary": "",
+          "hint": "风子大师一共有4项常规恶作剧：[让风子用鼻子喝果汁]、[把风子带到别处去]（22日开始出现）、[找别人来装扮自己]（23日开始出现）、[偷换掉风子怀里的雕刻]（24日开始出现），一项特殊恶作剧[给风子吃早苗的面包]（29日出现）和一个隐藏恶作剧剧情。任意一个常规恶作剧完成两次后即可达到“登峰造极”（达成），恶作剧中如果再选择已经达成的项目，则会跳回重新作选择，完成的项目不会再有新的剧情。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt53"
+        }
+      },
+      {
+        "x": 325,
+        "y": 730,
+        "type": "option",
+        "text": "让风子用鼻子喝果汁",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 730,
+        "type": "option",
+        "text": "让风子用鼻子喝果汁",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 325,
+        "y": 790,
+        "type": "option",
+        "text": "把风子带到别处去",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 790,
+        "type": "option",
+        "text": "把风子带到别处去",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      },
+      {
+        "x": 500,
+        "y": 850
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 610,
+        "type": "option",
+        "text": "耐心等下去",
+        "css": "btn",
+        "ref": "divTxtBtn43"
+      },
+      {
+        "x": 500,
+        "y": 850
+      },
+      {
+        "x": 1100,
+        "y": 850
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 850
+      },
+      {
+        "x": 800,
+        "y": 850
+      }
+    ],
+    [
+      {
+        "x": 900,
+        "y": 955
+      },
+      {
+        "x": 900,
+        "y": 955
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 1030
+      },
+      {
+        "x": 425,
+        "y": 1060,
+        "type": "selection",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 1030
+      },
+      {
+        "x": 1025,
+        "y": 1060,
+        "type": "selection",
+        "text": "耐心等下去",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 970,
+        "type": "condition",
+        "text": "22日，风子陷入幻想（二）",
+        "css": "btn",
+        "ref": "divTxtBtn77"
+      },
+      {
+        "x": 900,
+        "y": 1030
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1060,
+        "type": "selection",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      },
+      {
+        "x": 425,
+        "y": 1120,
+        "type": "selection",
+        "text": "风子陷入幻想（三）",
+        "css": "btn",
+        "ref": "divTxtBtn93"
+      }
+    ],
+    [
+      {
+        "x": 500,
+        "y": 1180
+      },
+      {
+        "x": 125,
+        "y": 1210,
+        "type": "option",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn97"
+      }
+    ],
+    [
+      {
+        "x": 500,
+        "y": 1180
+      },
+      {
+        "x": 725,
+        "y": 1210,
+        "type": "option",
+        "text": "不去管她",
+        "css": "btn",
+        "ref": "divTxtBtn102"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1120,
+        "type": "selection",
+        "text": "风子陷入幻想（三）",
+        "css": "btn",
+        "ref": "divTxtBtn93"
+      },
+      {
+        "x": 600,
+        "y": 1180
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1210,
+        "type": "option",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn97"
+      },
+      {
+        "x": 125,
+        "y": 1270,
+        "type": "selection",
+        "text": "风子恶作剧（二）",
+        "css": "btn",
+        "ref": "divTxtBtn109",
+        "num": {
+          "x": 110,
+          "y": 1270,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn111"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1260,
+          "text": "风子恶作剧（二）",
+          "num": "3",
+          "summary": "",
+          "hint": "23日至26日，二级的[把风子带到别处去]剧情根据公共线路的选择有变化：若在18日的分支{有纪宁离开后}选择[睡觉]，则[把风子带到别处去]剧情发生在资料室，否则发生在校长室。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt112"
+        }
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1270,
+        "type": "selection",
+        "text": "风子恶作剧（二）",
+        "css": "btn",
+        "ref": "divTxtBtn109",
+        "num": {
+          "x": 110,
+          "y": 1270,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn111"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1260,
+          "text": "风子恶作剧（二）",
+          "num": "3",
+          "summary": "",
+          "hint": "23日至26日，二级的[把风子带到别处去]剧情根据公共线路的选择有变化：若在18日的分支{有纪宁离开后}选择[睡觉]，则[把风子带到别处去]剧情发生在资料室，否则发生在校长室。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt112"
+        }
+      },
+      {
+        "x": 125,
+        "y": 1330,
+        "type": "option",
+        "text": "让风子用鼻子喝果汁",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1330,
+        "type": "option",
+        "text": "让风子用鼻子喝果汁",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      },
+      {
+        "x": 125,
+        "y": 1390,
+        "type": "option",
+        "text": "把风子带到别处去",
+        "css": "btn",
+        "ref": "divTxtBtn121"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1390,
+        "type": "option",
+        "text": "把风子带到别处去",
+        "css": "btn",
+        "ref": "divTxtBtn121"
+      },
+      {
+        "x": 125,
+        "y": 1450,
+        "type": "option",
+        "text": "找人来装扮自己",
+        "css": "btn",
+        "ref": "divTxtBtn127"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1450,
+        "type": "option",
+        "text": "找人来装扮自己",
+        "css": "btn",
+        "ref": "divTxtBtn127"
+      },
+      {
+        "x": 300,
+        "y": 1510
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1210,
+        "type": "option",
+        "text": "不去管她",
+        "css": "btn",
+        "ref": "divTxtBtn102"
+      },
+      {
+        "x": 300,
+        "y": 1510
+      },
+      {
+        "x": 900,
+        "y": 1510
+      }
+    ],
+    [
+      {
+        "x": 600,
+        "y": 1510
+      },
+      {
+        "x": 600,
+        "y": 1540
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1060,
+        "type": "selection",
+        "text": "耐心等下去",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      },
+      {
+        "x": 600,
+        "y": 1540
+      },
+      {
+        "x": 1200,
+        "y": 1540
+      }
+    ],
+    [
+      {
+        "x": 900,
+        "y": 1540
+      },
+      {
+        "x": 900,
+        "y": 1540
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 180,
+      "text": "风子陷入幻想（一）",
+      "num": "1",
+      "summary": "争论着海星的可爱，风子又陷入了幻想和陶醉中。朋也脑中闪过一个有趣的主意。",
+      "hint": "第一次进入风子大师剧情时，只能完成[让风子用鼻子喝果汁一级]。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt6"
+    },
+    {
+      "x": 1625,
+      "y": 660,
+      "text": "风子恶作剧（一）",
+      "num": "2",
+      "summary": "",
+      "hint": "风子大师一共有4项常规恶作剧：[让风子用鼻子喝果汁]、[把风子带到别处去]（22日开始出现）、[找别人来装扮自己]（23日开始出现）、[偷换掉风子怀里的雕刻]（24日开始出现），一项特殊恶作剧[给风子吃早苗的面包]（29日出现）和一个隐藏恶作剧剧情。任意一个常规恶作剧完成两次后即可达到“登峰造极”（达成），恶作剧中如果再选择已经达成的项目，则会跳回重新作选择，完成的项目不会再有新的剧情。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt53"
+    },
+    {
+      "x": 1625,
+      "y": 1260,
+      "text": "风子恶作剧（二）",
+      "num": "3",
+      "summary": "",
+      "hint": "23日至26日，二级的[把风子带到别处去]剧情根据公共线路的选择有变化：若在18日的分支{有纪宁离开后}选择[睡觉]，则[把风子带到别处去]剧情发生在资料室，否则发生在校长室。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt112"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "fuuko",
+    "routeC": "伊吹 风子",
+    "routeE": "Fuuko Ibuki",
+    "dateC": "风子大师（一）",
+    "dateE": "Fuuko Master~Part 1",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1570,
+    "page": 48,
+    "ref": "divFt145"
+  },
+  "board": []
+}

@@ -1,0 +1,1300 @@
+{
+  "box": [
+    [
+      {
+        "x": 850,
+        "y": 175,
+        "type": "date",
+        "text": "4月17日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "16日，春原挑战智代（一回目）",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "去",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 925,
+        "y": 340,
+        "type": "selection",
+        "text": "不去",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "春原挑战智代（二回目）",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 490,
+        "type": "option",
+        "text": "跟去看看",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      },
+      {
+        "x": 725,
+        "y": 490,
+        "type": "option",
+        "text": "留在教室里",
+        "css": "btn",
+        "ref": "divTxtBtn29"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 580,
+        "type": "selection",
+        "text": "春原挑战智代（三回目）",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 670,
+        "type": "selection",
+        "text": "跟着他去",
+        "css": "btn",
+        "ref": "divTxtBtn45"
+      },
+      {
+        "x": 725,
+        "y": 670,
+        "type": "selection",
+        "text": "不去管他",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 760,
+        "type": "selection",
+        "text": "春园挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn57",
+        "num": {
+          "x": 510,
+          "y": 760,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn59"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 750,
+          "text": "春园挑战智代",
+          "num": "1",
+          "summary": "遭受到沉重打击春原仍然坚信：智代之所以强大是因为她是个男的。为了验证自己想法，下课后，他第三次叫上朋也，向智代发起挑战……",
+          "hint": "17日上午春原三次挑战智代只有第三次的选择是关键。若选择[不去管他]，则跳出智代线。",
+          "setsumei": "",
+          "option": "-跟着他去",
+          "icon": "01110011",
+          "iconillu": "智代成为3对3篮球赛成员候选，参与伪女友事件，有条件参与有纪宁的咒语、体育仓库事件和毕业典礼；业余棒球进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt60"
+        }
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 850,
+        "type": "option",
+        "text": "跟着他去",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn69"
+      },
+      {
+        "x": 725,
+        "y": 850,
+        "type": "option",
+        "text": "不去管他",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 970,
+        "type": "condition",
+        "text": "15日或16日，逃课遇见琴美",
+        "css": "btn",
+        "ref": "divTxtBtn83",
+        "num": {
+          "x": 710,
+          "y": 970,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn85"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 960,
+          "text": "15日或16日，逃课遇见琴美",
+          "num": "2",
+          "summary": "",
+          "hint": "{15或16日，逃课遇见琴美}包括15日在分支{上午、英语语法课}选择[逃课]以及在16日的分支{上午、课上}选择[逃课]，触发其一（只可能触发其一）就满足逃课遇见琴美的条件。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt86"
+        }
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1060,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn103"
+      },
+      {
+        "x": 925,
+        "y": 1060,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn109"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1120,
+        "type": "selection",
+        "text": "英语课前的休息",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1210,
+        "type": "option",
+        "text": "逃课",
+        "route": "l|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn119"
+      },
+      {
+        "x": 725,
+        "y": 1210,
+        "type": "option",
+        "text": "还是算了吧",
+        "route": "r|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn126"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1270,
+        "type": "condition",
+        "text": "15日，面对泪水打转的椋",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1360,
+        "type": "selection",
+        "text": "无视",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      },
+      {
+        "x": 725,
+        "y": 1360,
+        "type": "selection",
+        "text": "道歉",
+        "css": "btn",
+        "ref": "divTxtBtn141"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1420,
+        "type": "selection",
+        "text": "走廊上遇到琴美",
+        "css": "btn",
+        "ref": "divTxtBtn147"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1510,
+        "type": "option",
+        "text": "跟着她去",
+        "route": "l|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn151"
+      },
+      {
+        "x": 725,
+        "y": 1510,
+        "type": "option",
+        "text": "一个人走",
+        "route": "r|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn156"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1570,
+        "type": "selection",
+        "text": "发现琴美拿起剪刀",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1660,
+        "type": "selection",
+        "text": "看她剪过这本书没有",
+        "css": "btn",
+        "ref": "divTxtBtn167"
+      },
+      {
+        "x": 725,
+        "y": 1660,
+        "type": "selection",
+        "text": "还是不要管好了",
+        "css": "btn",
+        "ref": "divTxtBtn171"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 850,
+        "y": 175,
+        "type": "date",
+        "text": "4月17日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "16日，春原挑战智代（一回目）",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "16日，春原挑战智代（一回目）",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "去",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "16日，春原挑战智代（一回目）",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 925,
+        "y": 340,
+        "type": "selection",
+        "text": "不去",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "去",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "春原挑战智代（二回目）",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "春原挑战智代（二回目）",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      },
+      {
+        "x": 325,
+        "y": 490,
+        "type": "option",
+        "text": "跟去看看",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "春原挑战智代（二回目）",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      },
+      {
+        "x": 725,
+        "y": 490,
+        "type": "option",
+        "text": "留在教室里",
+        "css": "btn",
+        "ref": "divTxtBtn29"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 490,
+        "type": "option",
+        "text": "跟去看看",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      },
+      {
+        "x": 525,
+        "y": 580,
+        "type": "selection",
+        "text": "春原挑战智代（三回目）",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 490,
+        "type": "option",
+        "text": "留在教室里",
+        "css": "btn",
+        "ref": "divTxtBtn29"
+      },
+      {
+        "x": 525,
+        "y": 580,
+        "type": "selection",
+        "text": "春原挑战智代（三回目）",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 580,
+        "type": "selection",
+        "text": "春原挑战智代（三回目）",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      },
+      {
+        "x": 325,
+        "y": 670,
+        "type": "selection",
+        "text": "跟着他去",
+        "css": "btn",
+        "ref": "divTxtBtn45"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 580,
+        "type": "selection",
+        "text": "春原挑战智代（三回目）",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      },
+      {
+        "x": 725,
+        "y": 670,
+        "type": "selection",
+        "text": "不去管他",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 670,
+        "type": "selection",
+        "text": "跟着他去",
+        "css": "btn",
+        "ref": "divTxtBtn45"
+      },
+      {
+        "x": 525,
+        "y": 760,
+        "type": "selection",
+        "text": "春园挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn57",
+        "num": {
+          "x": 510,
+          "y": 760,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn59"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 750,
+          "text": "春园挑战智代",
+          "num": "1",
+          "summary": "遭受到沉重打击春原仍然坚信：智代之所以强大是因为她是个男的。为了验证自己想法，下课后，他第三次叫上朋也，向智代发起挑战……",
+          "hint": "17日上午春原三次挑战智代只有第三次的选择是关键。若选择[不去管他]，则跳出智代线。",
+          "setsumei": "",
+          "option": "-跟着他去",
+          "icon": "01110011",
+          "iconillu": "智代成为3对3篮球赛成员候选，参与伪女友事件，有条件参与有纪宁的咒语、体育仓库事件和毕业典礼；业余棒球进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt60"
+        }
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 670,
+        "type": "selection",
+        "text": "不去管他",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      },
+      {
+        "x": 525,
+        "y": 760,
+        "type": "selection",
+        "text": "春园挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn57",
+        "num": {
+          "x": 510,
+          "y": 760,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn59"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 750,
+          "text": "春园挑战智代",
+          "num": "1",
+          "summary": "遭受到沉重打击春原仍然坚信：智代之所以强大是因为她是个男的。为了验证自己想法，下课后，他第三次叫上朋也，向智代发起挑战……",
+          "hint": "17日上午春原三次挑战智代只有第三次的选择是关键。若选择[不去管他]，则跳出智代线。",
+          "setsumei": "",
+          "option": "-跟着他去",
+          "icon": "01110011",
+          "iconillu": "智代成为3对3篮球赛成员候选，参与伪女友事件，有条件参与有纪宁的咒语、体育仓库事件和毕业典礼；业余棒球进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt60"
+        }
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 760,
+        "type": "selection",
+        "text": "春园挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn57",
+        "num": {
+          "x": 510,
+          "y": 760,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn59"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 750,
+          "text": "春园挑战智代",
+          "num": "1",
+          "summary": "遭受到沉重打击春原仍然坚信：智代之所以强大是因为她是个男的。为了验证自己想法，下课后，他第三次叫上朋也，向智代发起挑战……",
+          "hint": "17日上午春原三次挑战智代只有第三次的选择是关键。若选择[不去管他]，则跳出智代线。",
+          "setsumei": "",
+          "option": "-跟着他去",
+          "icon": "01110011",
+          "iconillu": "智代成为3对3篮球赛成员候选，参与伪女友事件，有条件参与有纪宁的咒语、体育仓库事件和毕业典礼；业余棒球进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt60"
+        }
+      },
+      {
+        "x": 325,
+        "y": 850,
+        "type": "option",
+        "text": "跟着他去",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn69"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 760,
+        "type": "selection",
+        "text": "春园挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn57",
+        "num": {
+          "x": 510,
+          "y": 760,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn59"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 750,
+          "text": "春园挑战智代",
+          "num": "1",
+          "summary": "遭受到沉重打击春原仍然坚信：智代之所以强大是因为她是个男的。为了验证自己想法，下课后，他第三次叫上朋也，向智代发起挑战……",
+          "hint": "17日上午春原三次挑战智代只有第三次的选择是关键。若选择[不去管他]，则跳出智代线。",
+          "setsumei": "",
+          "option": "-跟着他去",
+          "icon": "01110011",
+          "iconillu": "智代成为3对3篮球赛成员候选，参与伪女友事件，有条件参与有纪宁的咒语、体育仓库事件和毕业典礼；业余棒球进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt60"
+        }
+      },
+      {
+        "x": 725,
+        "y": 850,
+        "type": "option",
+        "text": "不去管他",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 850,
+        "type": "option",
+        "text": "跟着他去",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn69"
+      },
+      {
+        "x": 700,
+        "y": 940
+      },
+      {
+        "x": 725,
+        "y": 970,
+        "type": "condition",
+        "text": "15日或16日，逃课遇见琴美",
+        "css": "btn",
+        "ref": "divTxtBtn83",
+        "num": {
+          "x": 710,
+          "y": 970,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn85"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 960,
+          "text": "15日或16日，逃课遇见琴美",
+          "num": "2",
+          "summary": "",
+          "hint": "{15或16日，逃课遇见琴美}包括15日在分支{上午、英语语法课}选择[逃课]以及在16日的分支{上午、课上}选择[逃课]，触发其一（只可能触发其一）就满足逃课遇见琴美的条件。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt86"
+        }
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 850,
+        "type": "option",
+        "text": "不去管他",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      },
+      {
+        "x": 700,
+        "y": 940
+      },
+      {
+        "x": 725,
+        "y": 970,
+        "type": "condition",
+        "text": "15日或16日，逃课遇见琴美",
+        "css": "btn",
+        "ref": "divTxtBtn83",
+        "num": {
+          "x": 710,
+          "y": 970,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn85"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 960,
+          "text": "15日或16日，逃课遇见琴美",
+          "num": "2",
+          "summary": "",
+          "hint": "{15或16日，逃课遇见琴美}包括15日在分支{上午、英语语法课}选择[逃课]以及在16日的分支{上午、课上}选择[逃课]，触发其一（只可能触发其一）就满足逃课遇见琴美的条件。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt86"
+        }
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 340,
+        "type": "selection",
+        "text": "不去",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      },
+      {
+        "x": 725,
+        "y": 970,
+        "type": "condition",
+        "text": "15日或16日，逃课遇见琴美",
+        "css": "btn",
+        "ref": "divTxtBtn83",
+        "num": {
+          "x": 710,
+          "y": 970,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn85"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 960,
+          "text": "15日或16日，逃课遇见琴美",
+          "num": "2",
+          "summary": "",
+          "hint": "{15或16日，逃课遇见琴美}包括15日在分支{上午、英语语法课}选择[逃课]以及在16日的分支{上午、课上}选择[逃课]，触发其一（只可能触发其一）就满足逃课遇见琴美的条件。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt86"
+        }
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 970,
+        "type": "condition",
+        "text": "15日或16日，逃课遇见琴美",
+        "css": "btn",
+        "ref": "divTxtBtn83",
+        "num": {
+          "x": 710,
+          "y": 970,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn85"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 960,
+          "text": "15日或16日，逃课遇见琴美",
+          "num": "2",
+          "summary": "",
+          "hint": "{15或16日，逃课遇见琴美}包括15日在分支{上午、英语语法课}选择[逃课]以及在16日的分支{上午、课上}选择[逃课]，触发其一（只可能触发其一）就满足逃课遇见琴美的条件。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt86"
+        }
+      },
+      {
+        "x": 525,
+        "y": 1060,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn103"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 970,
+        "type": "condition",
+        "text": "15日或16日，逃课遇见琴美",
+        "css": "btn",
+        "ref": "divTxtBtn83",
+        "num": {
+          "x": 710,
+          "y": 970,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn85"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 960,
+          "text": "15日或16日，逃课遇见琴美",
+          "num": "2",
+          "summary": "",
+          "hint": "{15或16日，逃课遇见琴美}包括15日在分支{上午、英语语法课}选择[逃课]以及在16日的分支{上午、课上}选择[逃课]，触发其一（只可能触发其一）就满足逃课遇见琴美的条件。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt86"
+        }
+      },
+      {
+        "x": 925,
+        "y": 1060,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn109"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1060,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn103"
+      },
+      {
+        "x": 525,
+        "y": 1120,
+        "type": "selection",
+        "text": "英语课前的休息",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1120,
+        "type": "selection",
+        "text": "英语课前的休息",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      },
+      {
+        "x": 325,
+        "y": 1210,
+        "type": "option",
+        "text": "逃课",
+        "route": "l|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn119"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1120,
+        "type": "selection",
+        "text": "英语课前的休息",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      },
+      {
+        "x": 725,
+        "y": 1210,
+        "type": "option",
+        "text": "还是算了吧",
+        "route": "r|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn126"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1210,
+        "type": "option",
+        "text": "逃课",
+        "route": "l|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn119"
+      },
+      {
+        "x": 325,
+        "y": 1270,
+        "type": "condition",
+        "text": "15日，面对泪水打转的椋",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1270,
+        "type": "condition",
+        "text": "15日，面对泪水打转的椋",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      },
+      {
+        "x": 325,
+        "y": 1360,
+        "type": "selection",
+        "text": "无视",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1270,
+        "type": "condition",
+        "text": "15日，面对泪水打转的椋",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      },
+      {
+        "x": 725,
+        "y": 1360,
+        "type": "selection",
+        "text": "道歉",
+        "css": "btn",
+        "ref": "divTxtBtn141"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1360,
+        "type": "selection",
+        "text": "无视",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      },
+      {
+        "x": 325,
+        "y": 1420,
+        "type": "selection",
+        "text": "走廊上遇到琴美",
+        "css": "btn",
+        "ref": "divTxtBtn147"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1420,
+        "type": "selection",
+        "text": "走廊上遇到琴美",
+        "css": "btn",
+        "ref": "divTxtBtn147"
+      },
+      {
+        "x": 325,
+        "y": 1510,
+        "type": "option",
+        "text": "跟着她去",
+        "route": "l|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn151"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1420,
+        "type": "selection",
+        "text": "走廊上遇到琴美",
+        "css": "btn",
+        "ref": "divTxtBtn147"
+      },
+      {
+        "x": 725,
+        "y": 1510,
+        "type": "option",
+        "text": "一个人走",
+        "route": "r|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn156"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1510,
+        "type": "option",
+        "text": "跟着她去",
+        "route": "l|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn151"
+      },
+      {
+        "x": 325,
+        "y": 1570,
+        "type": "selection",
+        "text": "发现琴美拿起剪刀",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1570,
+        "type": "selection",
+        "text": "发现琴美拿起剪刀",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      },
+      {
+        "x": 325,
+        "y": 1660,
+        "type": "selection",
+        "text": "看她剪过这本书没有",
+        "css": "btn",
+        "ref": "divTxtBtn167"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1570,
+        "type": "selection",
+        "text": "发现琴美拿起剪刀",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      },
+      {
+        "x": 725,
+        "y": 1660,
+        "type": "selection",
+        "text": "还是不要管好了",
+        "css": "btn",
+        "ref": "divTxtBtn171"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1660,
+        "type": "selection",
+        "text": "看她剪过这本书没有",
+        "css": "btn",
+        "ref": "divTxtBtn167"
+      },
+      {
+        "x": 1100,
+        "y": 1750
+      },
+      {
+        "x": 700,
+        "y": 1750
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1660,
+        "type": "selection",
+        "text": "还是不要管好了",
+        "css": "btn",
+        "ref": "divTxtBtn171"
+      },
+      {
+        "x": 1100,
+        "y": 1750
+      },
+      {
+        "x": 700,
+        "y": 1750
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1510,
+        "type": "option",
+        "text": "一个人走",
+        "route": "r|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn156"
+      },
+      {
+        "x": 1100,
+        "y": 1600
+      },
+      {
+        "x": 1100,
+        "y": 1750
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1360,
+        "type": "selection",
+        "text": "道歉",
+        "css": "btn",
+        "ref": "divTxtBtn141"
+      },
+      {
+        "x": 1100,
+        "y": 1450
+      },
+      {
+        "x": 1100,
+        "y": 1750
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1210,
+        "type": "option",
+        "text": "还是算了吧",
+        "route": "r|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn126"
+      },
+      {
+        "x": 1100,
+        "y": 1300
+      },
+      {
+        "x": 1100,
+        "y": 1750
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 1060,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn109"
+      },
+      {
+        "x": 1100,
+        "y": 1750
+      }
+    ],
+    [
+      {
+        "x": 900,
+        "y": 1750
+      },
+      {
+        "x": 900,
+        "y": 1750
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 750,
+      "text": "春园挑战智代",
+      "num": "1",
+      "summary": "遭受到沉重打击春原仍然坚信：智代之所以强大是因为她是个男的。为了验证自己想法，下课后，他第三次叫上朋也，向智代发起挑战……",
+      "hint": "17日上午春原三次挑战智代只有第三次的选择是关键。若选择[不去管他]，则跳出智代线。",
+      "setsumei": "",
+      "option": "-跟着他去",
+      "icon": "01110011",
+      "iconillu": "智代成为3对3篮球赛成员候选，参与伪女友事件，有条件参与有纪宁的咒语、体育仓库事件和毕业典礼；业余棒球进入必选",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt60"
+    },
+    {
+      "x": 1625,
+      "y": 960,
+      "text": "15日或16日，逃课遇见琴美",
+      "num": "2",
+      "summary": "",
+      "hint": "{15或16日，逃课遇见琴美}包括15日在分支{上午、英语语法课}选择[逃课]以及在16日的分支{上午、课上}选择[逃课]，触发其一（只可能触发其一）就满足逃课遇见琴美的条件。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt86"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "4月17日（一）",
+    "dateE": "April 17th~Part 1",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1780,
+    "page": 5,
+    "ref": "divFt206"
+  },
+  "board": []
+}

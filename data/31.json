@@ -1,0 +1,687 @@
+{
+  "box": [
+    [
+      {
+        "x": 750,
+        "y": 175,
+        "type": "date",
+        "text": "4月24日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "有纪宁的仓库咒语",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "option",
+        "text": "玩",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 825,
+        "y": 340,
+        "type": "option",
+        "text": "不玩",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 400,
+        "type": "option",
+        "text": "体育仓库事件",
+        "css": "btn",
+        "ref": "divTxtBtn18",
+        "num": {
+          "x": 410,
+          "y": 400,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn20"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 390,
+          "text": "体育仓库事件",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "宫泽有纪宁线路中期特殊剧情。发生在24日中午，内容及选择分支出现的变化与公共线路的走向和某些分支选择有关，同时也和有纪宁的咒语中剧情内容有关，这些相关分支的有纪宁的咒语/体育仓库事件图标都高亮显示。体育仓库事件相关攻略请参见P33。",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt21"
+        },
+        "link": "p31_retGYM"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 490,
+        "type": "date",
+        "text": "有纪宁",
+        "css": "date",
+        "ref": "divBtn24"
+      }
+    ],
+    [
+      {
+        "x": 950,
+        "y": 625,
+        "type": "date",
+        "text": "有纪宁",
+        "css": "date",
+        "ref": "divBtn33"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 700,
+        "type": "selection",
+        "text": "消除疲劳的咒语",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 790,
+        "type": "option",
+        "text": "就这样吧",
+        "route": "l|有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 1025,
+        "y": 790,
+        "type": "option",
+        "text": "叫醒她",
+        "route": "r|有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn45"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 850,
+        "type": "selection",
+        "text": "能够依靠的场所",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 940,
+        "type": "option",
+        "text": "好",
+        "route": "l|有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 825,
+        "y": 940,
+        "type": "option",
+        "text": "不好",
+        "route": "r|有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn63"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1000,
+        "type": "selection",
+        "text": "复杂的心情",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1090,
+        "type": "option",
+        "text": "让她继续睡下去",
+        "route": "l|有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      },
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "option",
+        "text": "叫醒她",
+        "route": "r|有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1150,
+        "type": "option",
+        "text": "有纪宁“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "condition",
+        "text": "公共 Bad Ending",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1210,
+        "type": "condition",
+        "text": "有纪宁 Good Ending",
+        "css": "btn",
+        "ref": "divTxtBtn109"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 750,
+        "y": 175,
+        "type": "date",
+        "text": "4月24日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "有纪宁的仓库咒语",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "有纪宁的仓库咒语",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 425,
+        "y": 340,
+        "type": "option",
+        "text": "玩",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "有纪宁的仓库咒语",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 825,
+        "y": 340,
+        "type": "option",
+        "text": "不玩",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "option",
+        "text": "玩",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 425,
+        "y": 400,
+        "type": "option",
+        "text": "体育仓库事件",
+        "css": "btn",
+        "ref": "divTxtBtn18",
+        "num": {
+          "x": 410,
+          "y": 400,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn20"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 390,
+          "text": "体育仓库事件",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "宫泽有纪宁线路中期特殊剧情。发生在24日中午，内容及选择分支出现的变化与公共线路的走向和某些分支选择有关，同时也和有纪宁的咒语中剧情内容有关，这些相关分支的有纪宁的咒语/体育仓库事件图标都高亮显示。体育仓库事件相关攻略请参见P33。",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt21"
+        },
+        "link": "p31_retGYM"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 400,
+        "type": "option",
+        "text": "体育仓库事件",
+        "css": "btn",
+        "ref": "divTxtBtn18",
+        "num": {
+          "x": 410,
+          "y": 400,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn20"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 390,
+          "text": "体育仓库事件",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "宫泽有纪宁线路中期特殊剧情。发生在24日中午，内容及选择分支出现的变化与公共线路的走向和某些分支选择有关，同时也和有纪宁的咒语中剧情内容有关，这些相关分支的有纪宁的咒语/体育仓库事件图标都高亮显示。体育仓库事件相关攻略请参见P33。",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt21"
+        },
+        "link": "p31_retGYM"
+      },
+      {
+        "x": 750,
+        "y": 490,
+        "type": "date",
+        "text": "有纪宁",
+        "css": "date",
+        "ref": "divBtn24"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 340,
+        "type": "option",
+        "text": "不玩",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      },
+      {
+        "x": 750,
+        "y": 490,
+        "type": "date",
+        "text": "有纪宁",
+        "css": "date",
+        "ref": "divBtn24"
+      }
+    ],
+    [
+      {
+        "x": 950,
+        "y": 625,
+        "type": "date",
+        "text": "有纪宁",
+        "css": "date",
+        "ref": "divBtn33"
+      },
+      {
+        "x": 825,
+        "y": 700,
+        "type": "selection",
+        "text": "消除疲劳的咒语",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 700,
+        "type": "selection",
+        "text": "消除疲劳的咒语",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 625,
+        "y": 790,
+        "type": "option",
+        "text": "就这样吧",
+        "route": "l|有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 700,
+        "type": "selection",
+        "text": "消除疲劳的咒语",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 1025,
+        "y": 790,
+        "type": "option",
+        "text": "叫醒她",
+        "route": "r|有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn45"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 790,
+        "type": "option",
+        "text": "就这样吧",
+        "route": "l|有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 625,
+        "y": 850,
+        "type": "selection",
+        "text": "能够依靠的场所",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 850,
+        "type": "selection",
+        "text": "能够依靠的场所",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      },
+      {
+        "x": 425,
+        "y": 940,
+        "type": "option",
+        "text": "好",
+        "route": "l|有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 850,
+        "type": "selection",
+        "text": "能够依靠的场所",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      },
+      {
+        "x": 825,
+        "y": 940,
+        "type": "option",
+        "text": "不好",
+        "route": "r|有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn63"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 940,
+        "type": "option",
+        "text": "好",
+        "route": "l|有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 425,
+        "y": 1000,
+        "type": "selection",
+        "text": "复杂的心情",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1000,
+        "type": "selection",
+        "text": "复杂的心情",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 225,
+        "y": 1090,
+        "type": "option",
+        "text": "让她继续睡下去",
+        "route": "l|有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1000,
+        "type": "selection",
+        "text": "复杂的心情",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "option",
+        "text": "叫醒她",
+        "route": "r|有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1090,
+        "type": "option",
+        "text": "让她继续睡下去",
+        "route": "l|有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      },
+      {
+        "x": 225,
+        "y": 1150,
+        "type": "option",
+        "text": "有纪宁“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "option",
+        "text": "叫醒她",
+        "route": "r|有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      },
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "condition",
+        "text": "公共 Bad Ending",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 940,
+        "type": "option",
+        "text": "不好",
+        "route": "r|有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn63"
+      },
+      {
+        "x": 1200,
+        "y": 1030
+      },
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "condition",
+        "text": "公共 Bad Ending",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 790,
+        "type": "option",
+        "text": "叫醒她",
+        "route": "r|有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn45"
+      },
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "condition",
+        "text": "公共 Bad Ending",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1150,
+        "type": "option",
+        "text": "有纪宁“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      },
+      {
+        "x": 225,
+        "y": 1210,
+        "type": "condition",
+        "text": "有纪宁 Good Ending",
+        "css": "btn",
+        "ref": "divTxtBtn109"
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 390,
+      "text": "体育仓库事件",
+      "num": "1",
+      "summary": "",
+      "hint": "",
+      "setsumei": "宫泽有纪宁线路中期特殊剧情。发生在24日中午，内容及选择分支出现的变化与公共线路的走向和某些分支选择有关，同时也和有纪宁的咒语中剧情内容有关，这些相关分支的有纪宁的咒语/体育仓库事件图标都高亮显示。体育仓库事件相关攻略请参见P33。",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt21"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "yukine",
+    "routeC": "宫泽 有纪宁",
+    "routeE": "Yukine Miyazawa",
+    "dateC": "4月24日～有纪宁",
+    "dateE": "April 24th~Yukine",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1240,
+    "page": 31,
+    "ref": "divFt113"
+  },
+  "board": []
+}

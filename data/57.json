@@ -1,0 +1,913 @@
+{
+  "box": [
+    [
+      {
+        "x": 25,
+        "y": 190,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn1",
+        "link": "p57_B"
+      },
+      {
+        "x": 725,
+        "y": 190,
+        "type": "condition",
+        "text": "已经来过新校舍三楼",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "解释事情的来由",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 430,
+        "type": "option",
+        "text": "说明",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      },
+      {
+        "x": 625,
+        "y": 430,
+        "type": "option",
+        "text": "但很麻烦啊…",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 490,
+        "type": "option",
+        "text": "杏成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      },
+      {
+        "x": 625,
+        "y": 490,
+        "type": "condition",
+        "text": "15日，面对泪水打转的椋",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 580,
+        "type": "selection",
+        "text": "无视",
+        "css": "btn",
+        "ref": "divTxtBtn44"
+      },
+      {
+        "x": 825,
+        "y": 580,
+        "type": "selection",
+        "text": "道歉",
+        "css": "btn",
+        "ref": "divTxtBtn50"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 640,
+        "type": "selection",
+        "text": "继续说服椋加入",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "拜托你了，请成为我们的一员吧",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 825,
+        "y": 730,
+        "type": "option",
+        "text": "不能特别勉强自己",
+        "css": "btn",
+        "ref": "divTxtBtn64"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 790,
+        "type": "option",
+        "text": "椋成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 820,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 940,
+        "type": "block",
+        "text": "C",
+        "css": "btn",
+        "ref": "divTxtBtn98",
+        "link": "p57_C"
+      },
+      {
+        "x": 825,
+        "y": 940,
+        "type": "condition",
+        "text": "已经来过旧校舍空教室",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1030,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn105"
+      },
+      {
+        "x": 1025,
+        "y": 1030,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn111"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn117"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1180,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn121"
+      },
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+离开",
+        "css": "btn",
+        "ref": "divTxtBtn127"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1240,
+        "type": "selection",
+        "text": "考虑邀请风子",
+        "css": "btn",
+        "ref": "divTxtBtn134"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1330,
+        "type": "option",
+        "text": "可以",
+        "css": "btn",
+        "ref": "divTxtBtn138"
+      },
+      {
+        "x": 625,
+        "y": 1330,
+        "type": "option",
+        "text": "再考虑一下",
+        "css": "btn",
+        "ref": "divTxtBtn144"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1390,
+        "type": "option",
+        "text": "风子成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn150"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1450,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn156"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 900,
+        "y": 175
+      },
+      {
+        "x": 900,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 250
+      },
+      {
+        "x": 425,
+        "y": 280,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 250
+      },
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 190,
+        "type": "condition",
+        "text": "已经来过新校舍三楼",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 900,
+        "y": 250
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "解释事情的来由",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "解释事情的来由",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      },
+      {
+        "x": 225,
+        "y": 430,
+        "type": "option",
+        "text": "说明",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "解释事情的来由",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      },
+      {
+        "x": 625,
+        "y": 430,
+        "type": "option",
+        "text": "但很麻烦啊…",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 430,
+        "type": "option",
+        "text": "说明",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      },
+      {
+        "x": 225,
+        "y": 490,
+        "type": "option",
+        "text": "杏成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 430,
+        "type": "option",
+        "text": "但很麻烦啊…",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      },
+      {
+        "x": 625,
+        "y": 490,
+        "type": "condition",
+        "text": "15日，面对泪水打转的椋",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 490,
+        "type": "option",
+        "text": "杏成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      },
+      {
+        "x": 425,
+        "y": 580,
+        "type": "selection",
+        "text": "无视",
+        "css": "btn",
+        "ref": "divTxtBtn44"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 490,
+        "type": "option",
+        "text": "杏成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      },
+      {
+        "x": 825,
+        "y": 580,
+        "type": "selection",
+        "text": "道歉",
+        "css": "btn",
+        "ref": "divTxtBtn50"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 580,
+        "type": "selection",
+        "text": "无视",
+        "css": "btn",
+        "ref": "divTxtBtn44"
+      },
+      {
+        "x": 425,
+        "y": 640,
+        "type": "selection",
+        "text": "继续说服椋加入",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 640,
+        "type": "selection",
+        "text": "继续说服椋加入",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "拜托你了，请成为我们的一员吧",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 640,
+        "type": "selection",
+        "text": "继续说服椋加入",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 825,
+        "y": 730,
+        "type": "option",
+        "text": "不能特别勉强自己",
+        "css": "btn",
+        "ref": "divTxtBtn64"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "拜托你了，请成为我们的一员吧",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 425,
+        "y": 790,
+        "type": "option",
+        "text": "椋成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 790,
+        "type": "option",
+        "text": "椋成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 600,
+        "y": 850
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 490,
+        "type": "option",
+        "text": "杏成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      },
+      {
+        "x": 600,
+        "y": 850
+      },
+      {
+        "x": 400,
+        "y": 850
+      }
+    ],
+    [
+      {
+        "x": 600,
+        "y": 850
+      },
+      {
+        "x": 600,
+        "y": 850
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 730,
+        "type": "option",
+        "text": "不能特别勉强自己",
+        "css": "btn",
+        "ref": "divTxtBtn64"
+      },
+      {
+        "x": 825,
+        "y": 820,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 580,
+        "type": "selection",
+        "text": "道歉",
+        "css": "btn",
+        "ref": "divTxtBtn50"
+      },
+      {
+        "x": 1200,
+        "y": 670
+      },
+      {
+        "x": 825,
+        "y": 820,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      },
+      {
+        "x": 825,
+        "y": 820,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      }
+    ],
+    [
+      {
+        "x": 1000,
+        "y": 850
+      },
+      {
+        "x": 1000,
+        "y": 850
+      }
+    ],
+    [
+      {
+        "x": 1000,
+        "y": 925
+      },
+      {
+        "x": 1000,
+        "y": 925
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 940,
+        "type": "condition",
+        "text": "已经来过旧校舍空教室",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      },
+      {
+        "x": 625,
+        "y": 1030,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn105"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 940,
+        "type": "condition",
+        "text": "已经来过旧校舍空教室",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      },
+      {
+        "x": 1025,
+        "y": 1030,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn111"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1030,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn105"
+      },
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn117"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn117"
+      },
+      {
+        "x": 425,
+        "y": 1180,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn121"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn117"
+      },
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+离开",
+        "css": "btn",
+        "ref": "divTxtBtn127"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1180,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn121"
+      },
+      {
+        "x": 425,
+        "y": 1240,
+        "type": "selection",
+        "text": "考虑邀请风子",
+        "css": "btn",
+        "ref": "divTxtBtn134"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1240,
+        "type": "selection",
+        "text": "考虑邀请风子",
+        "css": "btn",
+        "ref": "divTxtBtn134"
+      },
+      {
+        "x": 225,
+        "y": 1330,
+        "type": "option",
+        "text": "可以",
+        "css": "btn",
+        "ref": "divTxtBtn138"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1240,
+        "type": "selection",
+        "text": "考虑邀请风子",
+        "css": "btn",
+        "ref": "divTxtBtn134"
+      },
+      {
+        "x": 625,
+        "y": 1330,
+        "type": "option",
+        "text": "再考虑一下",
+        "css": "btn",
+        "ref": "divTxtBtn144"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1330,
+        "type": "option",
+        "text": "可以",
+        "css": "btn",
+        "ref": "divTxtBtn138"
+      },
+      {
+        "x": 225,
+        "y": 1390,
+        "type": "option",
+        "text": "风子成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn150"
+      }
+    ],
+    [
+      {
+        "x": 400,
+        "y": 1420
+      },
+      {
+        "x": 400,
+        "y": 1420
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1330,
+        "type": "option",
+        "text": "再考虑一下",
+        "css": "btn",
+        "ref": "divTxtBtn144"
+      },
+      {
+        "x": 825,
+        "y": 1450,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn156"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+离开",
+        "css": "btn",
+        "ref": "divTxtBtn127"
+      },
+      {
+        "x": 800,
+        "y": 1420
+      },
+      {
+        "x": 825,
+        "y": 1450,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn156"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1030,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn111"
+      },
+      {
+        "x": 825,
+        "y": 1450,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn156"
+      }
+    ],
+    [
+      {
+        "x": 1000,
+        "y": 1480
+      },
+      {
+        "x": 1000,
+        "y": 1480
+      }
+    ]
+  ],
+  "comment": [],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "nagisa",
+    "routeC": "古河 渚/幸村 俊夫",
+    "routeE": "Nagisa Furukawa / Toshio Yukimura",
+    "dateC": "3对3篮球赛(三)",
+    "dateE": "3 on 3 Basketball Match - Part3",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1510,
+    "page": 57,
+    "ref": "divFt174"
+  },
+  "board": [
+    {
+      "x": 0,
+      "y": 150,
+      "height": 750
+    },
+    {
+      "x": 0,
+      "y": 900,
+      "height": 630
+    }
+  ]
+}

@@ -1,0 +1,1111 @@
+{
+  "box": [
+    [
+      {
+        "x": 625,
+        "y": 190,
+        "type": "condition",
+        "text": "学院篇22日，坂道上遇到智代",
+        "css": "btn",
+        "ref": "divTxtBtn1"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "selection",
+        "text": "向智代搭话",
+        "css": "btn",
+        "ref": "divTxtBtn5"
+      },
+      {
+        "x": 825,
+        "y": 280,
+        "type": "selection",
+        "text": "装做没看见",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn11"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "condition",
+        "text": "学院篇28日,智代成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 430,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn22"
+      },
+      {
+        "x": 625,
+        "y": 430,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 490,
+        "type": "option",
+        "text": "智代出席毕业典礼",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 610,
+        "type": "condition",
+        "text": "学院篇22日,咨询指导老师的问题",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 700,
+        "type": "selection",
+        "text": "和藤林姐妹商量",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 825,
+        "y": 700,
+        "type": "selection",
+        "text": "和班主任商量",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 760,
+        "type": "option",
+        "text": "杏,椋出席毕业典礼",
+        "css": "btn",
+        "ref": "divTxtBtn68"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 850,
+        "type": "condition",
+        "text": "学院篇23日，春原的妹妹打来电话",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 940,
+        "type": "selection",
+        "text": "代春原接听",
+        "css": "btn",
+        "ref": "divTxtBtn82"
+      },
+      {
+        "x": 825,
+        "y": 940,
+        "type": "selection",
+        "text": "不代他接听",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1000,
+        "type": "condition",
+        "text": "学院篇26日,前来探亲的芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn95"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1090,
+        "type": "selection",
+        "text": "好的",
+        "css": "btn",
+        "ref": "divTxtBtn99"
+      },
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "selection",
+        "text": "自己一个人去吧",
+        "css": "btn",
+        "ref": "divTxtBtn105"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1150,
+        "type": "option",
+        "text": "芽衣参加毕业典礼",
+        "css": "btn",
+        "ref": "divTxtBtn111"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1270,
+        "type": "condition",
+        "text": "学院篇26日,前来探亲的芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1360,
+        "type": "selection",
+        "text": "好的",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      },
+      {
+        "x": 825,
+        "y": 1360,
+        "type": "selection",
+        "text": "自己一个人去吧",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1420,
+        "type": "condition",
+        "text": "学院篇28日,美佐枝成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn146"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1510,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn150"
+      },
+      {
+        "x": 1025,
+        "y": 1510,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn156"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1600,
+        "type": "option",
+        "text": "美佐枝出席毕业典礼",
+        "css": "btn",
+        "ref": "divTxtBtn162"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1690,
+        "type": "condition",
+        "text": "同栖篇,探望伊吹老师",
+        "css": "btn",
+        "ref": "divTxtBtn170"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1780,
+        "type": "selection",
+        "text": "等到后天一起去",
+        "css": "btn",
+        "ref": "divTxtBtn178"
+      },
+      {
+        "x": 825,
+        "y": 1780,
+        "type": "selection",
+        "text": "让渚一起去",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn184"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1840,
+        "type": "condition",
+        "text": "学院篇29日,在古河面包店遇见公子",
+        "css": "btn",
+        "ref": "divTxtBtn191"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1930,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn195"
+      },
+      {
+        "x": 1025,
+        "y": 1930,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn201"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 2020,
+        "type": "option",
+        "text": "公子出席毕业典礼",
+        "css": "btn",
+        "ref": "divTxtBtn207"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 800,
+        "y": 175
+      },
+      {
+        "x": 800,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 190,
+        "type": "condition",
+        "text": "学院篇22日，坂道上遇到智代",
+        "css": "btn",
+        "ref": "divTxtBtn1"
+      },
+      {
+        "x": 425,
+        "y": 280,
+        "type": "selection",
+        "text": "向智代搭话",
+        "css": "btn",
+        "ref": "divTxtBtn5"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 190,
+        "type": "condition",
+        "text": "学院篇22日，坂道上遇到智代",
+        "css": "btn",
+        "ref": "divTxtBtn1"
+      },
+      {
+        "x": 825,
+        "y": 280,
+        "type": "selection",
+        "text": "装做没看见",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn11"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "selection",
+        "text": "向智代搭话",
+        "css": "btn",
+        "ref": "divTxtBtn5"
+      },
+      {
+        "x": 425,
+        "y": 340,
+        "type": "condition",
+        "text": "学院篇28日,智代成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "condition",
+        "text": "学院篇28日,智代成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      },
+      {
+        "x": 225,
+        "y": 430,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn22"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "condition",
+        "text": "学院篇28日,智代成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      },
+      {
+        "x": 625,
+        "y": 430,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 430,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn22"
+      },
+      {
+        "x": 225,
+        "y": 490,
+        "type": "option",
+        "text": "智代出席毕业典礼",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 430,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      },
+      {
+        "x": 600,
+        "y": 580
+      },
+      {
+        "x": 625,
+        "y": 610,
+        "type": "condition",
+        "text": "学院篇22日,咨询指导老师的问题",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 490,
+        "type": "option",
+        "text": "智代出席毕业典礼",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 600,
+        "y": 580
+      },
+      {
+        "x": 625,
+        "y": 610,
+        "type": "condition",
+        "text": "学院篇22日,咨询指导老师的问题",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 280,
+        "type": "selection",
+        "text": "装做没看见",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn11"
+      },
+      {
+        "x": 625,
+        "y": 610,
+        "type": "condition",
+        "text": "学院篇22日,咨询指导老师的问题",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 610,
+        "type": "condition",
+        "text": "学院篇22日,咨询指导老师的问题",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 425,
+        "y": 700,
+        "type": "selection",
+        "text": "和藤林姐妹商量",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 610,
+        "type": "condition",
+        "text": "学院篇22日,咨询指导老师的问题",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 825,
+        "y": 700,
+        "type": "selection",
+        "text": "和班主任商量",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 700,
+        "type": "selection",
+        "text": "和藤林姐妹商量",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 425,
+        "y": 760,
+        "type": "option",
+        "text": "杏,椋出席毕业典礼",
+        "css": "btn",
+        "ref": "divTxtBtn68"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 760,
+        "type": "option",
+        "text": "杏,椋出席毕业典礼",
+        "css": "btn",
+        "ref": "divTxtBtn68"
+      },
+      {
+        "x": 625,
+        "y": 850,
+        "type": "condition",
+        "text": "学院篇23日，春原的妹妹打来电话",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 700,
+        "type": "selection",
+        "text": "和班主任商量",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      },
+      {
+        "x": 625,
+        "y": 850,
+        "type": "condition",
+        "text": "学院篇23日，春原的妹妹打来电话",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 850,
+        "type": "condition",
+        "text": "学院篇23日，春原的妹妹打来电话",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      },
+      {
+        "x": 425,
+        "y": 940,
+        "type": "selection",
+        "text": "代春原接听",
+        "css": "btn",
+        "ref": "divTxtBtn82"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 850,
+        "type": "condition",
+        "text": "学院篇23日，春原的妹妹打来电话",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      },
+      {
+        "x": 825,
+        "y": 940,
+        "type": "selection",
+        "text": "不代他接听",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 940,
+        "type": "selection",
+        "text": "代春原接听",
+        "css": "btn",
+        "ref": "divTxtBtn82"
+      },
+      {
+        "x": 425,
+        "y": 1000,
+        "type": "condition",
+        "text": "学院篇26日,前来探亲的芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn95"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1000,
+        "type": "condition",
+        "text": "学院篇26日,前来探亲的芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn95"
+      },
+      {
+        "x": 225,
+        "y": 1090,
+        "type": "selection",
+        "text": "好的",
+        "css": "btn",
+        "ref": "divTxtBtn99"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1000,
+        "type": "condition",
+        "text": "学院篇26日,前来探亲的芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn95"
+      },
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "selection",
+        "text": "自己一个人去吧",
+        "css": "btn",
+        "ref": "divTxtBtn105"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1090,
+        "type": "selection",
+        "text": "好的",
+        "css": "btn",
+        "ref": "divTxtBtn99"
+      },
+      {
+        "x": 225,
+        "y": 1150,
+        "type": "option",
+        "text": "芽衣参加毕业典礼",
+        "css": "btn",
+        "ref": "divTxtBtn111"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1150,
+        "type": "option",
+        "text": "芽衣参加毕业典礼",
+        "css": "btn",
+        "ref": "divTxtBtn111"
+      },
+      {
+        "x": 600,
+        "y": 1240
+      },
+      {
+        "x": 625,
+        "y": 1270,
+        "type": "condition",
+        "text": "学院篇26日,前来探亲的芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "selection",
+        "text": "自己一个人去吧",
+        "css": "btn",
+        "ref": "divTxtBtn105"
+      },
+      {
+        "x": 600,
+        "y": 1240
+      },
+      {
+        "x": 625,
+        "y": 1270,
+        "type": "condition",
+        "text": "学院篇26日,前来探亲的芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 940,
+        "type": "selection",
+        "text": "不代他接听",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      },
+      {
+        "x": 625,
+        "y": 1270,
+        "type": "condition",
+        "text": "学院篇26日,前来探亲的芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1270,
+        "type": "condition",
+        "text": "学院篇26日,前来探亲的芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      },
+      {
+        "x": 425,
+        "y": 1360,
+        "type": "selection",
+        "text": "好的",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1270,
+        "type": "condition",
+        "text": "学院篇26日,前来探亲的芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      },
+      {
+        "x": 825,
+        "y": 1360,
+        "type": "selection",
+        "text": "自己一个人去吧",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1360,
+        "type": "selection",
+        "text": "自己一个人去吧",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      },
+      {
+        "x": 825,
+        "y": 1420,
+        "type": "condition",
+        "text": "学院篇28日,美佐枝成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn146"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1420,
+        "type": "condition",
+        "text": "学院篇28日,美佐枝成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn146"
+      },
+      {
+        "x": 625,
+        "y": 1510,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn150"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1420,
+        "type": "condition",
+        "text": "学院篇28日,美佐枝成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn146"
+      },
+      {
+        "x": 1025,
+        "y": 1510,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn156"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1510,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn150"
+      },
+      {
+        "x": 625,
+        "y": 1600,
+        "type": "option",
+        "text": "美佐枝出席毕业典礼",
+        "css": "btn",
+        "ref": "divTxtBtn162"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1360,
+        "type": "selection",
+        "text": "好的",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      },
+      {
+        "x": 625,
+        "y": 1600,
+        "type": "option",
+        "text": "美佐枝出席毕业典礼",
+        "css": "btn",
+        "ref": "divTxtBtn162"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1600,
+        "type": "option",
+        "text": "美佐枝出席毕业典礼",
+        "css": "btn",
+        "ref": "divTxtBtn162"
+      },
+      {
+        "x": 625,
+        "y": 1690,
+        "type": "condition",
+        "text": "同栖篇,探望伊吹老师",
+        "css": "btn",
+        "ref": "divTxtBtn170"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1510,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn156"
+      },
+      {
+        "x": 625,
+        "y": 1690,
+        "type": "condition",
+        "text": "同栖篇,探望伊吹老师",
+        "css": "btn",
+        "ref": "divTxtBtn170"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1690,
+        "type": "condition",
+        "text": "同栖篇,探望伊吹老师",
+        "css": "btn",
+        "ref": "divTxtBtn170"
+      },
+      {
+        "x": 425,
+        "y": 1780,
+        "type": "selection",
+        "text": "等到后天一起去",
+        "css": "btn",
+        "ref": "divTxtBtn178"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1690,
+        "type": "condition",
+        "text": "同栖篇,探望伊吹老师",
+        "css": "btn",
+        "ref": "divTxtBtn170"
+      },
+      {
+        "x": 825,
+        "y": 1780,
+        "type": "selection",
+        "text": "让渚一起去",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn184"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1780,
+        "type": "selection",
+        "text": "让渚一起去",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn184"
+      },
+      {
+        "x": 825,
+        "y": 1840,
+        "type": "condition",
+        "text": "学院篇29日,在古河面包店遇见公子",
+        "css": "btn",
+        "ref": "divTxtBtn191"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1840,
+        "type": "condition",
+        "text": "学院篇29日,在古河面包店遇见公子",
+        "css": "btn",
+        "ref": "divTxtBtn191"
+      },
+      {
+        "x": 625,
+        "y": 1930,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn195"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1840,
+        "type": "condition",
+        "text": "学院篇29日,在古河面包店遇见公子",
+        "css": "btn",
+        "ref": "divTxtBtn191"
+      },
+      {
+        "x": 1025,
+        "y": 1930,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn201"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1930,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn195"
+      },
+      {
+        "x": 625,
+        "y": 2020,
+        "type": "option",
+        "text": "公子出席毕业典礼",
+        "css": "btn",
+        "ref": "divTxtBtn207"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1780,
+        "type": "selection",
+        "text": "等到后天一起去",
+        "css": "btn",
+        "ref": "divTxtBtn178"
+      },
+      {
+        "x": 625,
+        "y": 2020,
+        "type": "option",
+        "text": "公子出席毕业典礼",
+        "css": "btn",
+        "ref": "divTxtBtn207"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1930,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn201"
+      },
+      {
+        "x": 800,
+        "y": 2080
+      },
+      {
+        "x": 1200,
+        "y": 2080
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 2020,
+        "type": "option",
+        "text": "公子出席毕业典礼",
+        "css": "btn",
+        "ref": "divTxtBtn207"
+      },
+      {
+        "x": 800,
+        "y": 2080
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 2080
+      },
+      {
+        "x": 800,
+        "y": 2080
+      }
+    ]
+  ],
+  "comment": [],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "nagisa",
+    "routeC": "AFTER STORY",
+    "routeE": "After Story",
+    "dateC": "毕业典礼",
+    "dateE": "Graduation Ceremony",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 2050,
+    "page": 68,
+    "ref": "divFt222"
+  },
+  "board": []
+}

@@ -1,0 +1,1373 @@
+{
+  "box": [
+    [
+      {
+        "x": 850,
+        "y": 175,
+        "type": "date",
+        "text": "5月6日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "selection",
+        "text": "纷争之间的处理",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 710,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "纷争之间的处理",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-插嘴说话",
+          "icon": "10000000",
+          "iconillu": "杏参与64HIT",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "option",
+        "text": "插嘴说话",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 925,
+        "y": 340,
+        "type": "option",
+        "text": "保持沉默，交给智代处理",
+        "css": "btn",
+        "ref": "divTxtBtn14"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 430,
+        "type": "condition",
+        "text": "6日，希望和智代的快乐能持续下去",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 520,
+        "type": "selection",
+        "text": "这样下去是不行的",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      },
+      {
+        "x": 925,
+        "y": 520,
+        "type": "selection",
+        "text": "就这样继续下去",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 580,
+        "type": "selection",
+        "text": "代替春原的要求",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 670,
+        "type": "option",
+        "text": "不行",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 725,
+        "y": 670,
+        "type": "option",
+        "text": "好的",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn53"
+      }
+    ],
+    [
+      {
+        "x": 450,
+        "y": 730,
+        "type": "date",
+        "text": "5月11日",
+        "css": "date",
+        "ref": "divBtn60"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 760,
+        "type": "condition",
+        "text": "智代 Bad Ending",
+        "css": "btn",
+        "ref": "divTxtBtn63"
+      }
+    ],
+    [
+      {
+        "x": 950,
+        "y": 895,
+        "type": "date",
+        "text": "5月11日",
+        "css": "date",
+        "ref": "divBtn71"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 970,
+        "type": "selection",
+        "text": "被踢飞过来的春原",
+        "css": "btn",
+        "ref": "divTxtBtn72",
+        "num": {
+          "x": 810,
+          "y": 970,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn74"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 960,
+          "text": "被踢飞过来的春原",
+          "num": "1",
+          "summary": "春原再次被智代踢飞在空中，向朋也飞来。",
+          "hint": "选择[踢回去]，触发智代线特殊剧情64HIT。",
+          "setsumei": "",
+          "option": "-踢回去",
+          "icon": "10000000",
+          "iconillu": "64HIT进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt75"
+        }
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1060,
+        "type": "option",
+        "text": "踢回去",
+        "css": "btn",
+        "ref": "divTxtBtn78"
+      },
+      {
+        "x": 1025,
+        "y": 1060,
+        "type": "option",
+        "text": "避开",
+        "css": "btn",
+        "ref": "divTxtBtn84"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1120,
+        "type": "option",
+        "text": "智代64HIT",
+        "css": "btn",
+        "ref": "divTxtBtn90",
+        "num": {
+          "x": 610,
+          "y": 1120,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn92"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1110,
+          "text": "智代64HIT",
+          "num": "2",
+          "summary": "",
+          "hint": "",
+          "setsumei": "坂上智代线路后期特殊剧情。发生在11日午前，没有选择分支。内容变化与公共线路和智代线众多分支的选择有关，这些相关分支的智代64HIT图标都高亮显示。智代64HIT相关攻略请参见P30。",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt93"
+        },
+        "link": "p29_retTY64"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1210,
+        "type": "condition",
+        "text": "16日，宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1300,
+        "type": "selection",
+        "text": "向她搭话",
+        "css": "btn",
+        "ref": "divTxtBtn106"
+      },
+      {
+        "x": 1025,
+        "y": 1300,
+        "type": "selection",
+        "text": "目送她离去",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn112"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1360,
+        "type": "selection",
+        "text": "帮美佐枝找她的猫",
+        "css": "btn",
+        "ref": "divTxtBtn119",
+        "num": {
+          "x": 610,
+          "y": 1360,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn121"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1350,
+          "text": "帮美佐枝找她的猫",
+          "num": "3",
+          "summary": "美佐枝的猫不见了并请求朋也帮助寻找，但难得抛开工作的智代却等在一旁。",
+          "hint": "如果之前完成过美佐枝线（达成GOOD ENDING），并在18日的分支{宿舍走廊遇见美佐枝}中选择[向她搭话]，该选择分支就会出现。选则[帮忙]，可以得到美佐枝的“光”。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt122"
+        }
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1450,
+        "type": "option",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn125"
+      },
+      {
+        "x": 825,
+        "y": 1450,
+        "type": "option",
+        "text": "拒绝",
+        "css": "btn",
+        "ref": "divTxtBtn131"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1510,
+        "type": "condition",
+        "text": "完成过美佐枝线",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1600,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn141"
+      },
+      {
+        "x": 625,
+        "y": 1600,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn147"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1660,
+        "type": "option",
+        "text": "美佐枝“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn153"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1810,
+        "type": "option",
+        "text": "智代“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn157"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1870,
+        "type": "condition",
+        "text": "智代 Good Ending",
+        "css": "btn",
+        "ref": "divTxtBtn185"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 850,
+        "y": 175,
+        "type": "date",
+        "text": "5月6日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 725,
+        "y": 250,
+        "type": "selection",
+        "text": "纷争之间的处理",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 710,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "纷争之间的处理",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-插嘴说话",
+          "icon": "10000000",
+          "iconillu": "杏参与64HIT",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "selection",
+        "text": "纷争之间的处理",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 710,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "纷争之间的处理",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-插嘴说话",
+          "icon": "10000000",
+          "iconillu": "杏参与64HIT",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      },
+      {
+        "x": 525,
+        "y": 340,
+        "type": "option",
+        "text": "插嘴说话",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "selection",
+        "text": "纷争之间的处理",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 710,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "纷争之间的处理",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-插嘴说话",
+          "icon": "10000000",
+          "iconillu": "杏参与64HIT",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      },
+      {
+        "x": 925,
+        "y": 340,
+        "type": "option",
+        "text": "保持沉默，交给智代处理",
+        "css": "btn",
+        "ref": "divTxtBtn14"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "option",
+        "text": "插嘴说话",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 725,
+        "y": 430,
+        "type": "condition",
+        "text": "6日，希望和智代的快乐能持续下去",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 340,
+        "type": "option",
+        "text": "保持沉默，交给智代处理",
+        "css": "btn",
+        "ref": "divTxtBtn14"
+      },
+      {
+        "x": 725,
+        "y": 430,
+        "type": "condition",
+        "text": "6日，希望和智代的快乐能持续下去",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 430,
+        "type": "condition",
+        "text": "6日，希望和智代的快乐能持续下去",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      },
+      {
+        "x": 525,
+        "y": 520,
+        "type": "selection",
+        "text": "这样下去是不行的",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 430,
+        "type": "condition",
+        "text": "6日，希望和智代的快乐能持续下去",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      },
+      {
+        "x": 925,
+        "y": 520,
+        "type": "selection",
+        "text": "就这样继续下去",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 520,
+        "type": "selection",
+        "text": "这样下去是不行的",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      },
+      {
+        "x": 525,
+        "y": 580,
+        "type": "selection",
+        "text": "代替春原的要求",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 580,
+        "type": "selection",
+        "text": "代替春原的要求",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      },
+      {
+        "x": 325,
+        "y": 670,
+        "type": "option",
+        "text": "不行",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 580,
+        "type": "selection",
+        "text": "代替春原的要求",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      },
+      {
+        "x": 725,
+        "y": 670,
+        "type": "option",
+        "text": "好的",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn53"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 670,
+        "type": "option",
+        "text": "不行",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 450,
+        "y": 730,
+        "type": "date",
+        "text": "5月11日",
+        "css": "date",
+        "ref": "divBtn60"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 670,
+        "type": "option",
+        "text": "好的",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn53"
+      },
+      {
+        "x": 725,
+        "y": 760,
+        "type": "condition",
+        "text": "智代 Bad Ending",
+        "css": "btn",
+        "ref": "divTxtBtn63"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 520,
+        "type": "selection",
+        "text": "就这样继续下去",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      },
+      {
+        "x": 725,
+        "y": 760,
+        "type": "condition",
+        "text": "智代 Bad Ending",
+        "css": "btn",
+        "ref": "divTxtBtn63"
+      }
+    ],
+    [
+      {
+        "x": 950,
+        "y": 895,
+        "type": "date",
+        "text": "5月11日",
+        "css": "date",
+        "ref": "divBtn71"
+      },
+      {
+        "x": 825,
+        "y": 970,
+        "type": "selection",
+        "text": "被踢飞过来的春原",
+        "css": "btn",
+        "ref": "divTxtBtn72",
+        "num": {
+          "x": 810,
+          "y": 970,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn74"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 960,
+          "text": "被踢飞过来的春原",
+          "num": "1",
+          "summary": "春原再次被智代踢飞在空中，向朋也飞来。",
+          "hint": "选择[踢回去]，触发智代线特殊剧情64HIT。",
+          "setsumei": "",
+          "option": "-踢回去",
+          "icon": "10000000",
+          "iconillu": "64HIT进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt75"
+        }
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 970,
+        "type": "selection",
+        "text": "被踢飞过来的春原",
+        "css": "btn",
+        "ref": "divTxtBtn72",
+        "num": {
+          "x": 810,
+          "y": 970,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn74"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 960,
+          "text": "被踢飞过来的春原",
+          "num": "1",
+          "summary": "春原再次被智代踢飞在空中，向朋也飞来。",
+          "hint": "选择[踢回去]，触发智代线特殊剧情64HIT。",
+          "setsumei": "",
+          "option": "-踢回去",
+          "icon": "10000000",
+          "iconillu": "64HIT进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt75"
+        }
+      },
+      {
+        "x": 625,
+        "y": 1060,
+        "type": "option",
+        "text": "踢回去",
+        "css": "btn",
+        "ref": "divTxtBtn78"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 970,
+        "type": "selection",
+        "text": "被踢飞过来的春原",
+        "css": "btn",
+        "ref": "divTxtBtn72",
+        "num": {
+          "x": 810,
+          "y": 970,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn74"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 960,
+          "text": "被踢飞过来的春原",
+          "num": "1",
+          "summary": "春原再次被智代踢飞在空中，向朋也飞来。",
+          "hint": "选择[踢回去]，触发智代线特殊剧情64HIT。",
+          "setsumei": "",
+          "option": "-踢回去",
+          "icon": "10000000",
+          "iconillu": "64HIT进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt75"
+        }
+      },
+      {
+        "x": 1025,
+        "y": 1060,
+        "type": "option",
+        "text": "避开",
+        "css": "btn",
+        "ref": "divTxtBtn84"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1060,
+        "type": "option",
+        "text": "踢回去",
+        "css": "btn",
+        "ref": "divTxtBtn78"
+      },
+      {
+        "x": 625,
+        "y": 1120,
+        "type": "option",
+        "text": "智代64HIT",
+        "css": "btn",
+        "ref": "divTxtBtn90",
+        "num": {
+          "x": 610,
+          "y": 1120,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn92"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1110,
+          "text": "智代64HIT",
+          "num": "2",
+          "summary": "",
+          "hint": "",
+          "setsumei": "坂上智代线路后期特殊剧情。发生在11日午前，没有选择分支。内容变化与公共线路和智代线众多分支的选择有关，这些相关分支的智代64HIT图标都高亮显示。智代64HIT相关攻略请参见P30。",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt93"
+        },
+        "link": "p29_retTY64"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1120,
+        "type": "option",
+        "text": "智代64HIT",
+        "css": "btn",
+        "ref": "divTxtBtn90",
+        "num": {
+          "x": 610,
+          "y": 1120,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn92"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1110,
+          "text": "智代64HIT",
+          "num": "2",
+          "summary": "",
+          "hint": "",
+          "setsumei": "坂上智代线路后期特殊剧情。发生在11日午前，没有选择分支。内容变化与公共线路和智代线众多分支的选择有关，这些相关分支的智代64HIT图标都高亮显示。智代64HIT相关攻略请参见P30。",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt93"
+        },
+        "link": "p29_retTY64"
+      },
+      {
+        "x": 825,
+        "y": 1210,
+        "type": "condition",
+        "text": "16日，宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1060,
+        "type": "option",
+        "text": "避开",
+        "css": "btn",
+        "ref": "divTxtBtn84"
+      },
+      {
+        "x": 825,
+        "y": 1210,
+        "type": "condition",
+        "text": "16日，宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1210,
+        "type": "condition",
+        "text": "16日，宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      },
+      {
+        "x": 625,
+        "y": 1300,
+        "type": "selection",
+        "text": "向她搭话",
+        "css": "btn",
+        "ref": "divTxtBtn106"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1210,
+        "type": "condition",
+        "text": "16日，宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      },
+      {
+        "x": 1025,
+        "y": 1300,
+        "type": "selection",
+        "text": "目送她离去",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn112"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1300,
+        "type": "selection",
+        "text": "向她搭话",
+        "css": "btn",
+        "ref": "divTxtBtn106"
+      },
+      {
+        "x": 625,
+        "y": 1360,
+        "type": "selection",
+        "text": "帮美佐枝找她的猫",
+        "css": "btn",
+        "ref": "divTxtBtn119",
+        "num": {
+          "x": 610,
+          "y": 1360,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn121"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1350,
+          "text": "帮美佐枝找她的猫",
+          "num": "3",
+          "summary": "美佐枝的猫不见了并请求朋也帮助寻找，但难得抛开工作的智代却等在一旁。",
+          "hint": "如果之前完成过美佐枝线（达成GOOD ENDING），并在18日的分支{宿舍走廊遇见美佐枝}中选择[向她搭话]，该选择分支就会出现。选则[帮忙]，可以得到美佐枝的“光”。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt122"
+        }
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1360,
+        "type": "selection",
+        "text": "帮美佐枝找她的猫",
+        "css": "btn",
+        "ref": "divTxtBtn119",
+        "num": {
+          "x": 610,
+          "y": 1360,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn121"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1350,
+          "text": "帮美佐枝找她的猫",
+          "num": "3",
+          "summary": "美佐枝的猫不见了并请求朋也帮助寻找，但难得抛开工作的智代却等在一旁。",
+          "hint": "如果之前完成过美佐枝线（达成GOOD ENDING），并在18日的分支{宿舍走廊遇见美佐枝}中选择[向她搭话]，该选择分支就会出现。选则[帮忙]，可以得到美佐枝的“光”。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt122"
+        }
+      },
+      {
+        "x": 425,
+        "y": 1450,
+        "type": "option",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn125"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1360,
+        "type": "selection",
+        "text": "帮美佐枝找她的猫",
+        "css": "btn",
+        "ref": "divTxtBtn119",
+        "num": {
+          "x": 610,
+          "y": 1360,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn121"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1350,
+          "text": "帮美佐枝找她的猫",
+          "num": "3",
+          "summary": "美佐枝的猫不见了并请求朋也帮助寻找，但难得抛开工作的智代却等在一旁。",
+          "hint": "如果之前完成过美佐枝线（达成GOOD ENDING），并在18日的分支{宿舍走廊遇见美佐枝}中选择[向她搭话]，该选择分支就会出现。选则[帮忙]，可以得到美佐枝的“光”。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt122"
+        }
+      },
+      {
+        "x": 825,
+        "y": 1450,
+        "type": "option",
+        "text": "拒绝",
+        "css": "btn",
+        "ref": "divTxtBtn131"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1450,
+        "type": "option",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn125"
+      },
+      {
+        "x": 425,
+        "y": 1510,
+        "type": "condition",
+        "text": "完成过美佐枝线",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1510,
+        "type": "condition",
+        "text": "完成过美佐枝线",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      },
+      {
+        "x": 225,
+        "y": 1600,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn141"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1510,
+        "type": "condition",
+        "text": "完成过美佐枝线",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      },
+      {
+        "x": 625,
+        "y": 1600,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn147"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1600,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn141"
+      },
+      {
+        "x": 225,
+        "y": 1660,
+        "type": "option",
+        "text": "美佐枝“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn153"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1660,
+        "type": "option",
+        "text": "美佐枝“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn153"
+      },
+      {
+        "x": 600,
+        "y": 1750
+      },
+      {
+        "x": 800,
+        "y": 1780
+      },
+      {
+        "x": 825,
+        "y": 1810,
+        "type": "option",
+        "text": "智代“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn157"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1600,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn147"
+      },
+      {
+        "x": 600,
+        "y": 1750
+      },
+      {
+        "x": 800,
+        "y": 1780
+      },
+      {
+        "x": 825,
+        "y": 1810,
+        "type": "option",
+        "text": "智代“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn157"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1450,
+        "type": "option",
+        "text": "拒绝",
+        "css": "btn",
+        "ref": "divTxtBtn131"
+      },
+      {
+        "x": 800,
+        "y": 1780
+      },
+      {
+        "x": 825,
+        "y": 1810,
+        "type": "option",
+        "text": "智代“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn157"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1300,
+        "type": "selection",
+        "text": "目送她离去",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn112"
+      },
+      {
+        "x": 825,
+        "y": 1810,
+        "type": "option",
+        "text": "智代“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn157"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1810,
+        "type": "option",
+        "text": "智代“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn157"
+      },
+      {
+        "x": 825,
+        "y": 1870,
+        "type": "condition",
+        "text": "智代 Good Ending",
+        "css": "btn",
+        "ref": "divTxtBtn185"
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 240,
+      "text": "纷争之间的处理",
+      "num": "1",
+      "summary": "",
+      "hint": "",
+      "setsumei": "",
+      "option": "-插嘴说话",
+      "icon": "10000000",
+      "iconillu": "杏参与64HIT",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt5"
+    },
+    {
+      "x": 1625,
+      "y": 960,
+      "text": "被踢飞过来的春原",
+      "num": "1",
+      "summary": "春原再次被智代踢飞在空中，向朋也飞来。",
+      "hint": "选择[踢回去]，触发智代线特殊剧情64HIT。",
+      "setsumei": "",
+      "option": "-踢回去",
+      "icon": "10000000",
+      "iconillu": "64HIT进入必选",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt75"
+    },
+    {
+      "x": 1625,
+      "y": 1110,
+      "text": "智代64HIT",
+      "num": "2",
+      "summary": "",
+      "hint": "",
+      "setsumei": "坂上智代线路后期特殊剧情。发生在11日午前，没有选择分支。内容变化与公共线路和智代线众多分支的选择有关，这些相关分支的智代64HIT图标都高亮显示。智代64HIT相关攻略请参见P30。",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt93"
+    },
+    {
+      "x": 1625,
+      "y": 1350,
+      "text": "帮美佐枝找她的猫",
+      "num": "3",
+      "summary": "美佐枝的猫不见了并请求朋也帮助寻找，但难得抛开工作的智代却等在一旁。",
+      "hint": "如果之前完成过美佐枝线（达成GOOD ENDING），并在18日的分支{宿舍走廊遇见美佐枝}中选择[向她搭话]，该选择分支就会出现。选则[帮忙]，可以得到美佐枝的“光”。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt122"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "tomoyo",
+    "routeC": "坂上 智代",
+    "routeE": "Tomoyo Sakagami",
+    "dateC": "5月6日～5月11日",
+    "dateE": "May 6th~May 11th",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1900,
+    "page": 29,
+    "ref": "divFt189"
+  },
+  "board": []
+}

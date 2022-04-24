@@ -1,0 +1,1116 @@
+{
+  "box": [
+    [
+      {
+        "x": 850,
+        "y": 175,
+        "type": "date",
+        "text": "4月23日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "21日，迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "看看窗外",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 925,
+        "y": 340,
+        "type": "selection",
+        "text": "赶去学生食堂",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "匿名的威胁信",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 490,
+        "type": "option",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      },
+      {
+        "x": 725,
+        "y": 490,
+        "type": "option",
+        "text": "不是",
+        "css": "btn",
+        "ref": "divTxtBtn29"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 610,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 700,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn53"
+      },
+      {
+        "x": 1025,
+        "y": 700,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn58"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 760,
+        "type": "selection",
+        "text": "风子的询问",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 850,
+        "type": "option",
+        "text": "昨天又哭了一夜吧",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 425,
+        "y": 850,
+        "type": "option",
+        "text": "一天二十四小时连着说我爱你",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      },
+      {
+        "x": 825,
+        "y": 850,
+        "type": "option",
+        "text": "没有多余的东西吧",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 970,
+        "type": "condition",
+        "text": "21日，迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1060,
+        "type": "selection",
+        "text": "看看窗外",
+        "css": "btn",
+        "ref": "divTxtBtn103"
+      },
+      {
+        "x": 1025,
+        "y": 1060,
+        "type": "selection",
+        "text": "赶去学生食堂",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn107"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1120,
+        "type": "selection",
+        "text": "面对渚的困惑",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1210,
+        "type": "option",
+        "text": "不是的",
+        "route": "l|渚",
+        "css": "btn",
+        "ref": "divTxtBtn119"
+      },
+      {
+        "x": 625,
+        "y": 1210,
+        "type": "option",
+        "text": "大概是这样吧",
+        "route": "r|渚",
+        "css": "btn",
+        "ref": "divTxtBtn126"
+      },
+      {
+        "x": 1025,
+        "y": 1210,
+        "type": "condition",
+        "text": "22日，课前,牡丹的处理问题",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1300,
+        "type": "selection",
+        "text": "拿去好了",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      },
+      {
+        "x": 1225,
+        "y": 1300,
+        "type": "selection",
+        "text": "把牡丹还给杏",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn143"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1360,
+        "type": "selection",
+        "text": "杏抓朋也跟她出去谈话",
+        "css": "btn",
+        "ref": "divTxtBtn150",
+        "num": {
+          "x": 810,
+          "y": 1360,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn152"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1350,
+          "text": "杏抓朋也跟她出去谈话",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-跟着去</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"326\" height=\"42\" valign=\"bottom\" align=\"left\" class=\"commentOri\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Basketball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[A].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Graduation[B].png\" style=\"margin-right:0px;\"></td><td width=\"404\"><table border=0 cellpadding=0 cellspacing=0 height=35 background=\"Ori/Comment/Comment_Tips.png\"><tr><td height=35 valign=\"middle\" class=\"cmtEvntOri\" width=\"394\">杏参与体育仓库事件，可能达成杏仓库剧情 B（特殊版）</td></tr></table></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\" height=\"5\"></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"243\" height=\"20\" background=\"Ori/Comment/Comment_Option_B.png\" valign=\"bottom\" align=\"center\"><div class=\"cmtoptOri\">逃跑",
+          "icon": "01010000",
+          "iconillu": "杏参与体育仓库事件，可能达成杏仓库剧情 A（普通版）；椋参与伪女友事件",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt153"
+        }
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1450,
+        "type": "option",
+        "text": "跟着去",
+        "route": "l|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn156"
+      },
+      {
+        "x": 1025,
+        "y": 1450,
+        "type": "option",
+        "text": "逃跑",
+        "route": "r|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn164"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1570,
+        "type": "option",
+        "text": "春原的玩笑（二）",
+        "css": "btn",
+        "ref": "divTxtBtn172",
+        "link": "p18_retSNJK2"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 850,
+        "y": 175,
+        "type": "date",
+        "text": "4月23日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "21日，迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "21日，迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "看看窗外",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "21日，迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 925,
+        "y": 340,
+        "type": "selection",
+        "text": "赶去学生食堂",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "看看窗外",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "匿名的威胁信",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "匿名的威胁信",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      },
+      {
+        "x": 325,
+        "y": 490,
+        "type": "option",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "匿名的威胁信",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      },
+      {
+        "x": 725,
+        "y": 490,
+        "type": "option",
+        "text": "不是",
+        "css": "btn",
+        "ref": "divTxtBtn29"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 490,
+        "type": "option",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      },
+      {
+        "x": 700,
+        "y": 580
+      },
+      {
+        "x": 725,
+        "y": 610,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 490,
+        "type": "option",
+        "text": "不是",
+        "css": "btn",
+        "ref": "divTxtBtn29"
+      },
+      {
+        "x": 700,
+        "y": 580
+      },
+      {
+        "x": 725,
+        "y": 610,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 340,
+        "type": "selection",
+        "text": "赶去学生食堂",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      },
+      {
+        "x": 725,
+        "y": 610,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 670
+      },
+      {
+        "x": 425,
+        "y": 700,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn53"
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 670
+      },
+      {
+        "x": 1025,
+        "y": 700,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn58"
+      }
+    ],
+    [
+      {
+        "x": 900,
+        "y": 640
+      },
+      {
+        "x": 900,
+        "y": 670
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 700,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn53"
+      },
+      {
+        "x": 425,
+        "y": 760,
+        "type": "selection",
+        "text": "风子的询问",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 760,
+        "type": "selection",
+        "text": "风子的询问",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      },
+      {
+        "x": 25,
+        "y": 850,
+        "type": "option",
+        "text": "昨天又哭了一夜吧",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 760,
+        "type": "selection",
+        "text": "风子的询问",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      },
+      {
+        "x": 425,
+        "y": 850,
+        "type": "option",
+        "text": "一天二十四小时连着说我爱你",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 760,
+        "type": "selection",
+        "text": "风子的询问",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      },
+      {
+        "x": 825,
+        "y": 850,
+        "type": "option",
+        "text": "没有多余的东西吧",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 850,
+        "type": "option",
+        "text": "昨天又哭了一夜吧",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 600,
+        "y": 940
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 850,
+        "type": "option",
+        "text": "一天二十四小时连着说我爱你",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      },
+      {
+        "x": 600,
+        "y": 940
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 850,
+        "type": "option",
+        "text": "没有多余的东西吧",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      },
+      {
+        "x": 600,
+        "y": 940
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 700,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn58"
+      },
+      {
+        "x": 600,
+        "y": 940
+      },
+      {
+        "x": 1200,
+        "y": 940
+      }
+    ],
+    [
+      {
+        "x": 900,
+        "y": 940
+      },
+      {
+        "x": 725,
+        "y": 970,
+        "type": "condition",
+        "text": "21日，迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      }
+    ],
+    [
+      {
+        "x": 600,
+        "y": 1030
+      },
+      {
+        "x": 425,
+        "y": 1060,
+        "type": "selection",
+        "text": "看看窗外",
+        "css": "btn",
+        "ref": "divTxtBtn103"
+      }
+    ],
+    [
+      {
+        "x": 600,
+        "y": 1030
+      },
+      {
+        "x": 1025,
+        "y": 1060,
+        "type": "selection",
+        "text": "赶去学生食堂",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn107"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 970,
+        "type": "condition",
+        "text": "21日，迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      },
+      {
+        "x": 900,
+        "y": 1030
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1060,
+        "type": "selection",
+        "text": "看看窗外",
+        "css": "btn",
+        "ref": "divTxtBtn103"
+      },
+      {
+        "x": 425,
+        "y": 1120,
+        "type": "selection",
+        "text": "面对渚的困惑",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1120,
+        "type": "selection",
+        "text": "面对渚的困惑",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      },
+      {
+        "x": 225,
+        "y": 1210,
+        "type": "option",
+        "text": "不是的",
+        "route": "l|渚",
+        "css": "btn",
+        "ref": "divTxtBtn119"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1120,
+        "type": "selection",
+        "text": "面对渚的困惑",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      },
+      {
+        "x": 625,
+        "y": 1210,
+        "type": "option",
+        "text": "大概是这样吧",
+        "route": "r|渚",
+        "css": "btn",
+        "ref": "divTxtBtn126"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1060,
+        "type": "selection",
+        "text": "赶去学生食堂",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn107"
+      },
+      {
+        "x": 1025,
+        "y": 1210,
+        "type": "condition",
+        "text": "22日，课前,牡丹的处理问题",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1210,
+        "type": "condition",
+        "text": "22日，课前,牡丹的处理问题",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      },
+      {
+        "x": 825,
+        "y": 1300,
+        "type": "selection",
+        "text": "拿去好了",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1210,
+        "type": "condition",
+        "text": "22日，课前,牡丹的处理问题",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      },
+      {
+        "x": 1225,
+        "y": 1300,
+        "type": "selection",
+        "text": "把牡丹还给杏",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn143"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1300,
+        "type": "selection",
+        "text": "拿去好了",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      },
+      {
+        "x": 825,
+        "y": 1360,
+        "type": "selection",
+        "text": "杏抓朋也跟她出去谈话",
+        "css": "btn",
+        "ref": "divTxtBtn150",
+        "num": {
+          "x": 810,
+          "y": 1360,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn152"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1350,
+          "text": "杏抓朋也跟她出去谈话",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-跟着去</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"326\" height=\"42\" valign=\"bottom\" align=\"left\" class=\"commentOri\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Basketball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[A].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Graduation[B].png\" style=\"margin-right:0px;\"></td><td width=\"404\"><table border=0 cellpadding=0 cellspacing=0 height=35 background=\"Ori/Comment/Comment_Tips.png\"><tr><td height=35 valign=\"middle\" class=\"cmtEvntOri\" width=\"394\">杏参与体育仓库事件，可能达成杏仓库剧情 B（特殊版）</td></tr></table></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\" height=\"5\"></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"243\" height=\"20\" background=\"Ori/Comment/Comment_Option_B.png\" valign=\"bottom\" align=\"center\"><div class=\"cmtoptOri\">逃跑",
+          "icon": "01010000",
+          "iconillu": "杏参与体育仓库事件，可能达成杏仓库剧情 A（普通版）；椋参与伪女友事件",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt153"
+        }
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1360,
+        "type": "selection",
+        "text": "杏抓朋也跟她出去谈话",
+        "css": "btn",
+        "ref": "divTxtBtn150",
+        "num": {
+          "x": 810,
+          "y": 1360,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn152"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1350,
+          "text": "杏抓朋也跟她出去谈话",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-跟着去</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"326\" height=\"42\" valign=\"bottom\" align=\"left\" class=\"commentOri\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Basketball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[A].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Graduation[B].png\" style=\"margin-right:0px;\"></td><td width=\"404\"><table border=0 cellpadding=0 cellspacing=0 height=35 background=\"Ori/Comment/Comment_Tips.png\"><tr><td height=35 valign=\"middle\" class=\"cmtEvntOri\" width=\"394\">杏参与体育仓库事件，可能达成杏仓库剧情 B（特殊版）</td></tr></table></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\" height=\"5\"></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"243\" height=\"20\" background=\"Ori/Comment/Comment_Option_B.png\" valign=\"bottom\" align=\"center\"><div class=\"cmtoptOri\">逃跑",
+          "icon": "01010000",
+          "iconillu": "杏参与体育仓库事件，可能达成杏仓库剧情 A（普通版）；椋参与伪女友事件",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt153"
+        }
+      },
+      {
+        "x": 625,
+        "y": 1450,
+        "type": "option",
+        "text": "跟着去",
+        "route": "l|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn156"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1360,
+        "type": "selection",
+        "text": "杏抓朋也跟她出去谈话",
+        "css": "btn",
+        "ref": "divTxtBtn150",
+        "num": {
+          "x": 810,
+          "y": 1360,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn152"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1350,
+          "text": "杏抓朋也跟她出去谈话",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-跟着去</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"326\" height=\"42\" valign=\"bottom\" align=\"left\" class=\"commentOri\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Basketball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[A].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Graduation[B].png\" style=\"margin-right:0px;\"></td><td width=\"404\"><table border=0 cellpadding=0 cellspacing=0 height=35 background=\"Ori/Comment/Comment_Tips.png\"><tr><td height=35 valign=\"middle\" class=\"cmtEvntOri\" width=\"394\">杏参与体育仓库事件，可能达成杏仓库剧情 B（特殊版）</td></tr></table></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\" height=\"5\"></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"243\" height=\"20\" background=\"Ori/Comment/Comment_Option_B.png\" valign=\"bottom\" align=\"center\"><div class=\"cmtoptOri\">逃跑",
+          "icon": "01010000",
+          "iconillu": "杏参与体育仓库事件，可能达成杏仓库剧情 A（普通版）；椋参与伪女友事件",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt153"
+        }
+      },
+      {
+        "x": 1025,
+        "y": 1450,
+        "type": "option",
+        "text": "逃跑",
+        "route": "r|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn164"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1450,
+        "type": "option",
+        "text": "跟着去",
+        "route": "l|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn156"
+      },
+      {
+        "x": 1000,
+        "y": 1540
+      },
+      {
+        "x": 1025,
+        "y": 1570,
+        "type": "option",
+        "text": "春原的玩笑（二）",
+        "css": "btn",
+        "ref": "divTxtBtn172",
+        "link": "p18_retSNJK2"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1450,
+        "type": "option",
+        "text": "逃跑",
+        "route": "r|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn164"
+      },
+      {
+        "x": 1000,
+        "y": 1540
+      },
+      {
+        "x": 1025,
+        "y": 1570,
+        "type": "option",
+        "text": "春原的玩笑（二）",
+        "css": "btn",
+        "ref": "divTxtBtn172",
+        "link": "p18_retSNJK2"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1300,
+        "type": "selection",
+        "text": "把牡丹还给杏",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn143"
+      },
+      {
+        "x": 1025,
+        "y": 1570,
+        "type": "option",
+        "text": "春原的玩笑（二）",
+        "css": "btn",
+        "ref": "divTxtBtn172",
+        "link": "p18_retSNJK2"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1570,
+        "type": "option",
+        "text": "春原的玩笑（二）",
+        "css": "btn",
+        "ref": "divTxtBtn172",
+        "link": "p18_retSNJK2"
+      },
+      {
+        "x": 800,
+        "y": 1630
+      },
+      {
+        "x": 1200,
+        "y": 1630
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1210,
+        "type": "option",
+        "text": "不是的",
+        "route": "l|渚",
+        "css": "btn",
+        "ref": "divTxtBtn119"
+      },
+      {
+        "x": 600,
+        "y": 1300
+      },
+      {
+        "x": 800,
+        "y": 1630
+      },
+      {
+        "x": 600,
+        "y": 1630
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1210,
+        "type": "option",
+        "text": "大概是这样吧",
+        "route": "r|渚",
+        "css": "btn",
+        "ref": "divTxtBtn126"
+      },
+      {
+        "x": 600,
+        "y": 1300
+      },
+      {
+        "x": 800,
+        "y": 1630
+      },
+      {
+        "x": 600,
+        "y": 1630
+      }
+    ],
+    [
+      {
+        "x": 900,
+        "y": 1630
+      },
+      {
+        "x": 900,
+        "y": 1630
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 1350,
+      "text": "杏抓朋也跟她出去谈话",
+      "num": "1",
+      "summary": "",
+      "hint": "",
+      "setsumei": "",
+      "option": "-跟着去</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"326\" height=\"42\" valign=\"bottom\" align=\"left\" class=\"commentOri\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Basketball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[A].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Graduation[B].png\" style=\"margin-right:0px;\"></td><td width=\"404\"><table border=0 cellpadding=0 cellspacing=0 height=35 background=\"Ori/Comment/Comment_Tips.png\"><tr><td height=35 valign=\"middle\" class=\"cmtEvntOri\" width=\"394\">杏参与体育仓库事件，可能达成杏仓库剧情 B（特殊版）</td></tr></table></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\" height=\"5\"></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"243\" height=\"20\" background=\"Ori/Comment/Comment_Option_B.png\" valign=\"bottom\" align=\"center\"><div class=\"cmtoptOri\">逃跑",
+      "icon": "01010000",
+      "iconillu": "杏参与体育仓库事件，可能达成杏仓库剧情 A（普通版）；椋参与伪女友事件",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt153"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "4月23日（一）",
+    "dateE": "April 23th~Part 1",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1660,
+    "page": 18,
+    "ref": "divFt207"
+  },
+  "board": []
+}

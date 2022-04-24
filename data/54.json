@@ -1,0 +1,769 @@
+{
+  "box": [
+    [
+      {
+        "x": 750,
+        "y": 175,
+        "type": "date",
+        "text": "5月1日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "提升好感的方法",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 340,
+        "type": "option",
+        "text": "送礼物",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 625,
+        "y": 340,
+        "type": "option",
+        "text": "邀请她约会",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      },
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "option",
+        "text": "在耳边诉说爱意",
+        "css": "btn",
+        "ref": "divTxtBtn16"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 430,
+        "type": "date",
+        "text": "5月2日",
+        "css": "date",
+        "ref": "divBtn22"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 565,
+        "type": "date",
+        "text": "5月2日",
+        "css": "date",
+        "ref": "divBtn33"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 640,
+        "type": "selection",
+        "text": "对待早苗的心情",
+        "css": "btn",
+        "ref": "divTxtBtn34",
+        "num": {
+          "x": 610,
+          "y": 640,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn36"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 630,
+          "text": "对待早苗的心情",
+          "num": "1",
+          "summary": "早苗亲切的问候明显使朋也有些不适应，让朋也很难为情。",
+          "hint": "选择[喜欢]，则进入AFTER STORY后，可得到早苗的“光”。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt37"
+        }
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "喜欢",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      },
+      {
+        "x": 825,
+        "y": 730,
+        "type": "option",
+        "text": "我已经有渚了",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 820,
+        "type": "option",
+        "text": "开场动画",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 880,
+        "type": "option",
+        "text": "幻想世界（八）",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 940,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn66"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1075,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn69"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1150,
+        "type": "option",
+        "text": "幻想世界（九）",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1210,
+        "type": "date",
+        "text": "5月6日",
+        "css": "date",
+        "ref": "divBtn74"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1345,
+        "type": "date",
+        "text": "5月10日",
+        "css": "date",
+        "ref": "divBtn77"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1420,
+        "type": "selection",
+        "text": "陷入剧本中的渚",
+        "css": "btn",
+        "ref": "divTxtBtn78"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1510,
+        "type": "option",
+        "text": "夺走剧本",
+        "css": "btn",
+        "ref": "divTxtBtn82"
+      },
+      {
+        "x": 625,
+        "y": 1510,
+        "type": "option",
+        "text": "夺走双唇",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      },
+      {
+        "x": 1025,
+        "y": 1510,
+        "type": "option",
+        "text": "夺走心",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1600,
+        "type": "date",
+        "text": "5月11日",
+        "css": "date",
+        "ref": "divBtn98"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 750,
+        "y": 175,
+        "type": "date",
+        "text": "5月1日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "提升好感的方法",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "提升好感的方法",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 225,
+        "y": 340,
+        "type": "option",
+        "text": "送礼物",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "提升好感的方法",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 625,
+        "y": 340,
+        "type": "option",
+        "text": "邀请她约会",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "提升好感的方法",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "option",
+        "text": "在耳边诉说爱意",
+        "css": "btn",
+        "ref": "divTxtBtn16"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 340,
+        "type": "option",
+        "text": "送礼物",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 750,
+        "y": 430,
+        "type": "date",
+        "text": "5月2日",
+        "css": "date",
+        "ref": "divBtn22"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 340,
+        "type": "option",
+        "text": "邀请她约会",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      },
+      {
+        "x": 750,
+        "y": 430,
+        "type": "date",
+        "text": "5月2日",
+        "css": "date",
+        "ref": "divBtn22"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "option",
+        "text": "在耳边诉说爱意",
+        "css": "btn",
+        "ref": "divTxtBtn16"
+      },
+      {
+        "x": 750,
+        "y": 430,
+        "type": "date",
+        "text": "5月2日",
+        "css": "date",
+        "ref": "divBtn22"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 565,
+        "type": "date",
+        "text": "5月2日",
+        "css": "date",
+        "ref": "divBtn33"
+      },
+      {
+        "x": 625,
+        "y": 640,
+        "type": "selection",
+        "text": "对待早苗的心情",
+        "css": "btn",
+        "ref": "divTxtBtn34",
+        "num": {
+          "x": 610,
+          "y": 640,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn36"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 630,
+          "text": "对待早苗的心情",
+          "num": "1",
+          "summary": "早苗亲切的问候明显使朋也有些不适应，让朋也很难为情。",
+          "hint": "选择[喜欢]，则进入AFTER STORY后，可得到早苗的“光”。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt37"
+        }
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 640,
+        "type": "selection",
+        "text": "对待早苗的心情",
+        "css": "btn",
+        "ref": "divTxtBtn34",
+        "num": {
+          "x": 610,
+          "y": 640,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn36"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 630,
+          "text": "对待早苗的心情",
+          "num": "1",
+          "summary": "早苗亲切的问候明显使朋也有些不适应，让朋也很难为情。",
+          "hint": "选择[喜欢]，则进入AFTER STORY后，可得到早苗的“光”。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt37"
+        }
+      },
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "喜欢",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 640,
+        "type": "selection",
+        "text": "对待早苗的心情",
+        "css": "btn",
+        "ref": "divTxtBtn34",
+        "num": {
+          "x": 610,
+          "y": 640,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn36"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 630,
+          "text": "对待早苗的心情",
+          "num": "1",
+          "summary": "早苗亲切的问候明显使朋也有些不适应，让朋也很难为情。",
+          "hint": "选择[喜欢]，则进入AFTER STORY后，可得到早苗的“光”。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt37"
+        }
+      },
+      {
+        "x": 825,
+        "y": 730,
+        "type": "option",
+        "text": "我已经有渚了",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "喜欢",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      },
+      {
+        "x": 625,
+        "y": 820,
+        "type": "option",
+        "text": "开场动画",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 730,
+        "type": "option",
+        "text": "我已经有渚了",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 625,
+        "y": 820,
+        "type": "option",
+        "text": "开场动画",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 820,
+        "type": "option",
+        "text": "开场动画",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      },
+      {
+        "x": 625,
+        "y": 880,
+        "type": "option",
+        "text": "幻想世界（八）",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 880,
+        "type": "option",
+        "text": "幻想世界（八）",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      },
+      {
+        "x": 750,
+        "y": 940,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn66"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1075,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn69"
+      },
+      {
+        "x": 625,
+        "y": 1150,
+        "type": "option",
+        "text": "幻想世界（九）",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1150,
+        "type": "option",
+        "text": "幻想世界（九）",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 750,
+        "y": 1210,
+        "type": "date",
+        "text": "5月6日",
+        "css": "date",
+        "ref": "divBtn74"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1345,
+        "type": "date",
+        "text": "5月10日",
+        "css": "date",
+        "ref": "divBtn77"
+      },
+      {
+        "x": 625,
+        "y": 1420,
+        "type": "selection",
+        "text": "陷入剧本中的渚",
+        "css": "btn",
+        "ref": "divTxtBtn78"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1420,
+        "type": "selection",
+        "text": "陷入剧本中的渚",
+        "css": "btn",
+        "ref": "divTxtBtn78"
+      },
+      {
+        "x": 225,
+        "y": 1510,
+        "type": "option",
+        "text": "夺走剧本",
+        "css": "btn",
+        "ref": "divTxtBtn82"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1420,
+        "type": "selection",
+        "text": "陷入剧本中的渚",
+        "css": "btn",
+        "ref": "divTxtBtn78"
+      },
+      {
+        "x": 625,
+        "y": 1510,
+        "type": "option",
+        "text": "夺走双唇",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1420,
+        "type": "selection",
+        "text": "陷入剧本中的渚",
+        "css": "btn",
+        "ref": "divTxtBtn78"
+      },
+      {
+        "x": 1025,
+        "y": 1510,
+        "type": "option",
+        "text": "夺走心",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1510,
+        "type": "option",
+        "text": "夺走剧本",
+        "css": "btn",
+        "ref": "divTxtBtn82"
+      },
+      {
+        "x": 750,
+        "y": 1600,
+        "type": "date",
+        "text": "5月11日",
+        "css": "date",
+        "ref": "divBtn98"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1510,
+        "type": "option",
+        "text": "夺走双唇",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      },
+      {
+        "x": 750,
+        "y": 1600,
+        "type": "date",
+        "text": "5月11日",
+        "css": "date",
+        "ref": "divBtn98"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1510,
+        "type": "option",
+        "text": "夺走心",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      },
+      {
+        "x": 750,
+        "y": 1600,
+        "type": "date",
+        "text": "5月11日",
+        "css": "date",
+        "ref": "divBtn98"
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 630,
+      "text": "对待早苗的心情",
+      "num": "1",
+      "summary": "早苗亲切的问候明显使朋也有些不适应，让朋也很难为情。",
+      "hint": "选择[喜欢]，则进入AFTER STORY后，可得到早苗的“光”。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt37"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "nagisa",
+    "routeC": "古河 渚/幸村 俊夫",
+    "routeE": "Nagisa Furukawa / Toshio Yukimura",
+    "dateC": "5月1日～5月10日",
+    "dateE": "May 1st~May 10th",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1630,
+    "page": 54,
+    "ref": "divFt109"
+  },
+  "board": []
+}

@@ -1,0 +1,1195 @@
+{
+  "box": [
+    [
+      {
+        "x": 850,
+        "y": 175,
+        "type": "date",
+        "text": "4月25日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "17日，春原挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 340,
+        "type": "selection",
+        "text": "跟着他去",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 725,
+        "y": 340,
+        "type": "selection",
+        "text": "不去管他",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 400,
+        "type": "condition",
+        "text": "22日，回答智代的询问",
+        "css": "btn",
+        "ref": "divTxtBtn17"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 490,
+        "type": "selection",
+        "text": "添麻烦了",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn21"
+      },
+      {
+        "x": 525,
+        "y": 490,
+        "type": "selection",
+        "text": "不，不是这个意思",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 550,
+        "type": "selection",
+        "text": "智代攻击的对策",
+        "css": "btn",
+        "ref": "divTxtBtn33"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 640,
+        "type": "option",
+        "text": "扣下了扳机",
+        "css": "btn",
+        "ref": "divTxtBtn37"
+      },
+      {
+        "x": 525,
+        "y": 640,
+        "type": "option",
+        "text": "提出了忠告",
+        "css": "btn",
+        "ref": "divTxtBtn41"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 730,
+        "type": "selection",
+        "text": "对待椋的手段",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 820,
+        "type": "option",
+        "text": "比赛时要彻底地冷酷",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 725,
+        "y": 820,
+        "type": "option",
+        "text": "真可怜，去阻止春原吧",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 880,
+        "type": "selection",
+        "text": "午饭的解决方式",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 970,
+        "type": "option",
+        "text": "两个人一起去食堂吃饭",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      },
+      {
+        "x": 725,
+        "y": 970,
+        "type": "option",
+        "text": "不吃午饭",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      },
+      {
+        "x": 1125,
+        "y": 970,
+        "type": "option",
+        "text": "让春原去买饭",
+        "css": "btn",
+        "ref": "divTxtBtn84"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1060,
+        "type": "selection",
+        "text": "前往的决战地点",
+        "css": "btn",
+        "ref": "divTxtBtn90",
+        "num": {
+          "x": 710,
+          "y": 1060,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn92"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1050,
+          "text": "前往决战地点",
+          "num": "1",
+          "summary": "朋也和春原揣摩着“敌人”的心理，他们在寻找难以被偷袭的决战场所……",
+          "hint": "此处只有选择[操场]或仅剩这个选项时候才能通过：若选择[体育馆]或[办公室]，则一段剧情过后会再次回到这个分支，这时您刚才选择的那个选项会消失，变成二项选择。若您还是不选择[操场]，则会再次回到这里，这时只剩下一个选项，但是不用您再做出选择了（仅剩的选项不会出现）。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt93"
+        }
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1150,
+        "type": "option",
+        "text": "体育馆",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      },
+      {
+        "x": 725,
+        "y": 1150,
+        "type": "option",
+        "text": "操场",
+        "css": "btn",
+        "ref": "divTxtBtn110"
+      },
+      {
+        "x": 1125,
+        "y": 1150,
+        "type": "option",
+        "text": "办公室",
+        "css": "btn",
+        "ref": "divTxtBtn114"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1240,
+        "type": "condition",
+        "text": "今日，午饭的解决方式",
+        "css": "btn",
+        "ref": "divTxtBtn120"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1330,
+        "type": "selection",
+        "text": "两个人一起去食堂吃饭",
+        "css": "btn",
+        "ref": "divTxtBtn132"
+      },
+      {
+        "x": 725,
+        "y": 1330,
+        "type": "selection",
+        "text": "不吃午饭",
+        "css": "btn",
+        "ref": "divTxtBtn138"
+      },
+      {
+        "x": 1125,
+        "y": 1330,
+        "type": "selection",
+        "text": "让春原去买饭",
+        "css": "btn",
+        "ref": "divTxtBtn142"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1450,
+        "type": "option",
+        "text": "枪战败北",
+        "css": "btn",
+        "ref": "divTxtBtn148"
+      },
+      {
+        "x": 1125,
+        "y": 1450,
+        "type": "option",
+        "text": "枪战平手",
+        "css": "btn",
+        "ref": "divTxtBtn173"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1540,
+        "type": "option",
+        "text": "幻想世界（六）",
+        "css": "btn",
+        "ref": "divTxtBtn177"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 1600,
+        "type": "date",
+        "text": "4月26日",
+        "css": "date",
+        "ref": "divBtn187"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 850,
+        "y": 175,
+        "type": "date",
+        "text": "4月25日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "17日，春原挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "17日，春原挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 325,
+        "y": 340,
+        "type": "selection",
+        "text": "跟着他去",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "17日，春原挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 725,
+        "y": 340,
+        "type": "selection",
+        "text": "不去管他",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 340,
+        "type": "selection",
+        "text": "跟着他去",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 325,
+        "y": 400,
+        "type": "condition",
+        "text": "22日，回答智代的询问",
+        "css": "btn",
+        "ref": "divTxtBtn17"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 400,
+        "type": "condition",
+        "text": "22日，回答智代的询问",
+        "css": "btn",
+        "ref": "divTxtBtn17"
+      },
+      {
+        "x": 125,
+        "y": 490,
+        "type": "selection",
+        "text": "添麻烦了",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn21"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 490,
+        "type": "selection",
+        "text": "不，不是这个意思",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      },
+      {
+        "x": 125,
+        "y": 490,
+        "type": "selection",
+        "text": "添麻烦了",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn21"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 490,
+        "type": "selection",
+        "text": "添麻烦了",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn21"
+      },
+      {
+        "x": 125,
+        "y": 550,
+        "type": "selection",
+        "text": "智代攻击的对策",
+        "css": "btn",
+        "ref": "divTxtBtn33"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 550,
+        "type": "selection",
+        "text": "智代攻击的对策",
+        "css": "btn",
+        "ref": "divTxtBtn33"
+      },
+      {
+        "x": 125,
+        "y": 640,
+        "type": "option",
+        "text": "扣下了扳机",
+        "css": "btn",
+        "ref": "divTxtBtn37"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 550,
+        "type": "selection",
+        "text": "智代攻击的对策",
+        "css": "btn",
+        "ref": "divTxtBtn33"
+      },
+      {
+        "x": 525,
+        "y": 640,
+        "type": "option",
+        "text": "提出了忠告",
+        "css": "btn",
+        "ref": "divTxtBtn41"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 640,
+        "type": "option",
+        "text": "提出了忠告",
+        "css": "btn",
+        "ref": "divTxtBtn41"
+      },
+      {
+        "x": 725,
+        "y": 730,
+        "type": "selection",
+        "text": "对待椋的手段",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 490,
+        "type": "selection",
+        "text": "不，不是这个意思",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      },
+      {
+        "x": 900,
+        "y": 580
+      },
+      {
+        "x": 725,
+        "y": 730,
+        "type": "selection",
+        "text": "对待椋的手段",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 340,
+        "type": "selection",
+        "text": "不去管他",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      },
+      {
+        "x": 725,
+        "y": 730,
+        "type": "selection",
+        "text": "对待椋的手段",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 730,
+        "type": "selection",
+        "text": "对待椋的手段",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      },
+      {
+        "x": 325,
+        "y": 820,
+        "type": "option",
+        "text": "比赛时要彻底地冷酷",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 730,
+        "type": "selection",
+        "text": "对待椋的手段",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      },
+      {
+        "x": 725,
+        "y": 820,
+        "type": "option",
+        "text": "真可怜，去阻止春原吧",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 820,
+        "type": "option",
+        "text": "真可怜，去阻止春原吧",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      },
+      {
+        "x": 725,
+        "y": 880,
+        "type": "selection",
+        "text": "午饭的解决方式",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 880,
+        "type": "selection",
+        "text": "午饭的解决方式",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 325,
+        "y": 970,
+        "type": "option",
+        "text": "两个人一起去食堂吃饭",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 880,
+        "type": "selection",
+        "text": "午饭的解决方式",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 725,
+        "y": 970,
+        "type": "option",
+        "text": "不吃午饭",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 880,
+        "type": "selection",
+        "text": "午饭的解决方式",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 1125,
+        "y": 970,
+        "type": "option",
+        "text": "让春原去买饭",
+        "css": "btn",
+        "ref": "divTxtBtn84"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 970,
+        "type": "option",
+        "text": "两个人一起去食堂吃饭",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      },
+      {
+        "x": 725,
+        "y": 1060,
+        "type": "selection",
+        "text": "前往的决战地点",
+        "css": "btn",
+        "ref": "divTxtBtn90",
+        "num": {
+          "x": 710,
+          "y": 1060,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn92"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1050,
+          "text": "前往决战地点",
+          "num": "1",
+          "summary": "朋也和春原揣摩着“敌人”的心理，他们在寻找难以被偷袭的决战场所……",
+          "hint": "此处只有选择[操场]或仅剩这个选项时候才能通过：若选择[体育馆]或[办公室]，则一段剧情过后会再次回到这个分支，这时您刚才选择的那个选项会消失，变成二项选择。若您还是不选择[操场]，则会再次回到这里，这时只剩下一个选项，但是不用您再做出选择了（仅剩的选项不会出现）。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt93"
+        }
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 970,
+        "type": "option",
+        "text": "不吃午饭",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      },
+      {
+        "x": 725,
+        "y": 1060,
+        "type": "selection",
+        "text": "前往的决战地点",
+        "css": "btn",
+        "ref": "divTxtBtn90",
+        "num": {
+          "x": 710,
+          "y": 1060,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn92"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1050,
+          "text": "前往决战地点",
+          "num": "1",
+          "summary": "朋也和春原揣摩着“敌人”的心理，他们在寻找难以被偷袭的决战场所……",
+          "hint": "此处只有选择[操场]或仅剩这个选项时候才能通过：若选择[体育馆]或[办公室]，则一段剧情过后会再次回到这个分支，这时您刚才选择的那个选项会消失，变成二项选择。若您还是不选择[操场]，则会再次回到这里，这时只剩下一个选项，但是不用您再做出选择了（仅剩的选项不会出现）。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt93"
+        }
+      }
+    ],
+    [
+      {
+        "x": 1125,
+        "y": 970,
+        "type": "option",
+        "text": "让春原去买饭",
+        "css": "btn",
+        "ref": "divTxtBtn84"
+      },
+      {
+        "x": 725,
+        "y": 1060,
+        "type": "selection",
+        "text": "前往的决战地点",
+        "css": "btn",
+        "ref": "divTxtBtn90",
+        "num": {
+          "x": 710,
+          "y": 1060,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn92"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1050,
+          "text": "前往决战地点",
+          "num": "1",
+          "summary": "朋也和春原揣摩着“敌人”的心理，他们在寻找难以被偷袭的决战场所……",
+          "hint": "此处只有选择[操场]或仅剩这个选项时候才能通过：若选择[体育馆]或[办公室]，则一段剧情过后会再次回到这个分支，这时您刚才选择的那个选项会消失，变成二项选择。若您还是不选择[操场]，则会再次回到这里，这时只剩下一个选项，但是不用您再做出选择了（仅剩的选项不会出现）。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt93"
+        }
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1060,
+        "type": "selection",
+        "text": "前往的决战地点",
+        "css": "btn",
+        "ref": "divTxtBtn90",
+        "num": {
+          "x": 710,
+          "y": 1060,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn92"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1050,
+          "text": "前往决战地点",
+          "num": "1",
+          "summary": "朋也和春原揣摩着“敌人”的心理，他们在寻找难以被偷袭的决战场所……",
+          "hint": "此处只有选择[操场]或仅剩这个选项时候才能通过：若选择[体育馆]或[办公室]，则一段剧情过后会再次回到这个分支，这时您刚才选择的那个选项会消失，变成二项选择。若您还是不选择[操场]，则会再次回到这里，这时只剩下一个选项，但是不用您再做出选择了（仅剩的选项不会出现）。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt93"
+        }
+      },
+      {
+        "x": 325,
+        "y": 1150,
+        "type": "option",
+        "text": "体育馆",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1060,
+        "type": "selection",
+        "text": "前往的决战地点",
+        "css": "btn",
+        "ref": "divTxtBtn90",
+        "num": {
+          "x": 710,
+          "y": 1060,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn92"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1050,
+          "text": "前往决战地点",
+          "num": "1",
+          "summary": "朋也和春原揣摩着“敌人”的心理，他们在寻找难以被偷袭的决战场所……",
+          "hint": "此处只有选择[操场]或仅剩这个选项时候才能通过：若选择[体育馆]或[办公室]，则一段剧情过后会再次回到这个分支，这时您刚才选择的那个选项会消失，变成二项选择。若您还是不选择[操场]，则会再次回到这里，这时只剩下一个选项，但是不用您再做出选择了（仅剩的选项不会出现）。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt93"
+        }
+      },
+      {
+        "x": 725,
+        "y": 1150,
+        "type": "option",
+        "text": "操场",
+        "css": "btn",
+        "ref": "divTxtBtn110"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1060,
+        "type": "selection",
+        "text": "前往的决战地点",
+        "css": "btn",
+        "ref": "divTxtBtn90",
+        "num": {
+          "x": 710,
+          "y": 1060,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn92"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1050,
+          "text": "前往决战地点",
+          "num": "1",
+          "summary": "朋也和春原揣摩着“敌人”的心理，他们在寻找难以被偷袭的决战场所……",
+          "hint": "此处只有选择[操场]或仅剩这个选项时候才能通过：若选择[体育馆]或[办公室]，则一段剧情过后会再次回到这个分支，这时您刚才选择的那个选项会消失，变成二项选择。若您还是不选择[操场]，则会再次回到这里，这时只剩下一个选项，但是不用您再做出选择了（仅剩的选项不会出现）。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt93"
+        }
+      },
+      {
+        "x": 1125,
+        "y": 1150,
+        "type": "option",
+        "text": "办公室",
+        "css": "btn",
+        "ref": "divTxtBtn114"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1150,
+        "type": "option",
+        "text": "体育馆",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      },
+      {
+        "x": 725,
+        "y": 1240,
+        "type": "condition",
+        "text": "今日，午饭的解决方式",
+        "css": "btn",
+        "ref": "divTxtBtn120"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1150,
+        "type": "option",
+        "text": "操场",
+        "css": "btn",
+        "ref": "divTxtBtn110"
+      },
+      {
+        "x": 725,
+        "y": 1240,
+        "type": "condition",
+        "text": "今日，午饭的解决方式",
+        "css": "btn",
+        "ref": "divTxtBtn120"
+      }
+    ],
+    [
+      {
+        "x": 1125,
+        "y": 1150,
+        "type": "option",
+        "text": "办公室",
+        "css": "btn",
+        "ref": "divTxtBtn114"
+      },
+      {
+        "x": 725,
+        "y": 1240,
+        "type": "condition",
+        "text": "今日，午饭的解决方式",
+        "css": "btn",
+        "ref": "divTxtBtn120"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1240,
+        "type": "condition",
+        "text": "今日，午饭的解决方式",
+        "css": "btn",
+        "ref": "divTxtBtn120"
+      },
+      {
+        "x": 325,
+        "y": 1330,
+        "type": "selection",
+        "text": "两个人一起去食堂吃饭",
+        "css": "btn",
+        "ref": "divTxtBtn132"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1240,
+        "type": "condition",
+        "text": "今日，午饭的解决方式",
+        "css": "btn",
+        "ref": "divTxtBtn120"
+      },
+      {
+        "x": 725,
+        "y": 1330,
+        "type": "selection",
+        "text": "不吃午饭",
+        "css": "btn",
+        "ref": "divTxtBtn138"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1240,
+        "type": "condition",
+        "text": "今日，午饭的解决方式",
+        "css": "btn",
+        "ref": "divTxtBtn120"
+      },
+      {
+        "x": 1125,
+        "y": 1330,
+        "type": "selection",
+        "text": "让春原去买饭",
+        "css": "btn",
+        "ref": "divTxtBtn142"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1330,
+        "type": "selection",
+        "text": "两个人一起去食堂吃饭",
+        "css": "btn",
+        "ref": "divTxtBtn132"
+      },
+      {
+        "x": 700,
+        "y": 1420
+      },
+      {
+        "x": 325,
+        "y": 1450,
+        "type": "option",
+        "text": "枪战败北",
+        "css": "btn",
+        "ref": "divTxtBtn148"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1330,
+        "type": "selection",
+        "text": "不吃午饭",
+        "css": "btn",
+        "ref": "divTxtBtn138"
+      },
+      {
+        "x": 700,
+        "y": 1420
+      },
+      {
+        "x": 325,
+        "y": 1450,
+        "type": "option",
+        "text": "枪战败北",
+        "css": "btn",
+        "ref": "divTxtBtn148"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 820,
+        "type": "option",
+        "text": "比赛时要彻底地冷酷",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 300,
+        "y": 910
+      },
+      {
+        "x": 325,
+        "y": 1450,
+        "type": "option",
+        "text": "枪战败北",
+        "css": "btn",
+        "ref": "divTxtBtn148"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 640,
+        "type": "option",
+        "text": "扣下了扳机",
+        "css": "btn",
+        "ref": "divTxtBtn37"
+      },
+      {
+        "x": 325,
+        "y": 1450,
+        "type": "option",
+        "text": "枪战败北",
+        "css": "btn",
+        "ref": "divTxtBtn148"
+      }
+    ],
+    [
+      {
+        "x": 1125,
+        "y": 1330,
+        "type": "selection",
+        "text": "让春原去买饭",
+        "css": "btn",
+        "ref": "divTxtBtn142"
+      },
+      {
+        "x": 1125,
+        "y": 1450,
+        "type": "option",
+        "text": "枪战平手",
+        "css": "btn",
+        "ref": "divTxtBtn173"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1450,
+        "type": "option",
+        "text": "枪战败北",
+        "css": "btn",
+        "ref": "divTxtBtn148"
+      },
+      {
+        "x": 725,
+        "y": 1540,
+        "type": "option",
+        "text": "幻想世界（六）",
+        "css": "btn",
+        "ref": "divTxtBtn177"
+      }
+    ],
+    [
+      {
+        "x": 1125,
+        "y": 1450,
+        "type": "option",
+        "text": "枪战平手",
+        "css": "btn",
+        "ref": "divTxtBtn173"
+      },
+      {
+        "x": 725,
+        "y": 1540,
+        "type": "option",
+        "text": "幻想世界（六）",
+        "css": "btn",
+        "ref": "divTxtBtn177"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1540,
+        "type": "option",
+        "text": "幻想世界（六）",
+        "css": "btn",
+        "ref": "divTxtBtn177"
+      },
+      {
+        "x": 850,
+        "y": 1600,
+        "type": "date",
+        "text": "4月26日",
+        "css": "date",
+        "ref": "divBtn187"
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 1050,
+      "text": "前往决战地点",
+      "num": "1",
+      "summary": "朋也和春原揣摩着“敌人”的心理，他们在寻找难以被偷袭的决战场所……",
+      "hint": "此处只有选择[操场]或仅剩这个选项时候才能通过：若选择[体育馆]或[办公室]，则一段剧情过后会再次回到这个分支，这时您刚才选择的那个选项会消失，变成二项选择。若您还是不选择[操场]，则会再次回到这里，这时只剩下一个选项，但是不用您再做出选择了（仅剩的选项不会出现）。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt93"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "gunfight",
+    "routeC": "枪战游戏/业余棒球",
+    "routeE": "Gunfight Game / Amateur BaseBall",
+    "dateC": "4月25日",
+    "dateE": "April 25th",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1660,
+    "page": 59,
+    "ref": "divFt190"
+  },
+  "board": []
+}

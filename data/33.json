@@ -1,0 +1,1454 @@
+{
+  "box": [
+    [
+      {
+        "x": 25,
+        "y": 190,
+        "type": "option",
+        "text": "体育仓库事件",
+        "css": "btn",
+        "ref": "divTxtBtn1",
+        "link": "p33_GYM"
+      },
+      {
+        "x": 725,
+        "y": 190,
+        "type": "selection",
+        "text": "堆硬币的考验",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 280,
+        "type": "option",
+        "text": "试试看",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      },
+      {
+        "x": 1125,
+        "y": 280,
+        "type": "option",
+        "text": "给春原",
+        "css": "btn",
+        "ref": "divTxtBtn11"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 340,
+        "type": "condition",
+        "text": "15日，回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn17"
+      },
+      {
+        "x": 1125,
+        "y": 340,
+        "type": "condition",
+        "text": "春原仓库剧情 A",
+        "css": "btn",
+        "ref": "divTxtBtn21"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 430,
+        "type": "selection",
+        "text": "在意",
+        "css": "btn",
+        "ref": "divTxtBtn25"
+      },
+      {
+        "x": 925,
+        "y": 430,
+        "type": "selection",
+        "text": "不在意",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn31"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 490,
+        "type": "selection",
+        "text": "陪伴的人选（一）",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 580,
+        "type": "option",
+        "text": "古河…",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      },
+      {
+        "x": 725,
+        "y": 580,
+        "type": "option",
+        "text": "不是古河…",
+        "css": "btn",
+        "ref": "divTxtBtn48"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 640,
+        "type": "condition",
+        "text": "23日，咒语游戏中遇到渚",
+        "css": "btn",
+        "ref": "divTxtBtn54",
+        "num": {
+          "x": 310,
+          "y": 640,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn56"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 630,
+          "text": "23日，咒语游戏中遇到渚",
+          "num": "1",
+          "summary": "",
+          "hint": "{23日，咒语游戏中遇到渚}即在23日有纪宁的咒语中触发{咒语游戏中遇到渚}的剧情。接下来的{23日，咒语游戏中遇到……}同样是这个意思。<br>此处，如果在16日的分支{古河重新创立话剧社}中选择[帮助]（即之后朋也认识了古河的家人），那么即使在23日咒语游戏中没有触发遇到渚的剧情，同样符合是的条件。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt57"
+        }
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 730,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 525,
+        "y": 730,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 790,
+        "type": "condition",
+        "text": "渚仓库剧情",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      },
+      {
+        "x": 525,
+        "y": 790,
+        "type": "condition",
+        "text": "秋生仓库剧情",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      },
+      {
+        "x": 925,
+        "y": 790,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 880,
+        "type": "selection",
+        "text": "离开",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn89"
+      },
+      {
+        "x": 925,
+        "y": 880,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 940,
+        "type": "selection",
+        "text": "陪伴的人选（二）",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1030,
+        "type": "option",
+        "text": "不是…",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      },
+      {
+        "x": 1125,
+        "y": 1030,
+        "type": "option",
+        "text": "风子…",
+        "css": "btn",
+        "ref": "divTxtBtn110"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1120,
+        "type": "condition",
+        "text": "18日，遇到困难的智代",
+        "css": "btn",
+        "ref": "divTxtBtn116"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1210,
+        "type": "selection",
+        "text": "甩开她的手",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      },
+      {
+        "x": 725,
+        "y": 1210,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn131"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1270,
+        "type": "selection",
+        "text": "陪伴的人选（三）",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1360,
+        "type": "option",
+        "text": "不是…",
+        "css": "btn",
+        "ref": "divTxtBtn141"
+      },
+      {
+        "x": 925,
+        "y": 1360,
+        "type": "option",
+        "text": "智代…",
+        "css": "btn",
+        "ref": "divTxtBtn147"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 1420,
+        "type": "condition",
+        "text": "23日，诅咒游戏中遇到智代",
+        "css": "btn",
+        "ref": "divTxtBtn153"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1510,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn157"
+      },
+      {
+        "x": 925,
+        "y": 1510,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1570,
+        "type": "condition",
+        "text": "智代仓库剧情",
+        "css": "btn",
+        "ref": "divTxtBtn167"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1630,
+        "type": "selection",
+        "text": "陪伴的人选（四）",
+        "css": "btn",
+        "ref": "divTxtBtn171"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1720,
+        "type": "option",
+        "text": "杏…",
+        "css": "btn",
+        "ref": "divTxtBtn180"
+      },
+      {
+        "x": 725,
+        "y": 1720,
+        "type": "option",
+        "text": "不是…",
+        "css": "btn",
+        "ref": "divTxtBtn184"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1780,
+        "type": "condition",
+        "text": "23日，诅咒游戏中遇到杏、椋",
+        "css": "btn",
+        "ref": "divTxtBtn190"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1870,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn194"
+      },
+      {
+        "x": 725,
+        "y": 1870,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn198"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1930,
+        "type": "condition",
+        "text": "23日，杏抓朋也跟她出去谈话",
+        "css": "btn",
+        "ref": "divTxtBtn204"
+      }
+    ],
+    [
+      {
+        "x": 1125,
+        "y": 1960,
+        "type": "condition",
+        "text": "春原仓库剧情 B",
+        "css": "btn",
+        "ref": "divTxtBtn208"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 2020,
+        "type": "selection",
+        "text": "逃跑",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn226"
+      },
+      {
+        "x": 725,
+        "y": 2020,
+        "type": "selection",
+        "text": "跟着去",
+        "css": "btn",
+        "ref": "divTxtBtn231"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 2080,
+        "type": "condition",
+        "text": "杏仓库剧情 A（普通版）",
+        "css": "btn",
+        "ref": "divTxtBtn237"
+      },
+      {
+        "x": 725,
+        "y": 2080,
+        "type": "condition",
+        "text": "杏仓库剧情 B（特殊版）",
+        "css": "btn",
+        "ref": "divTxtBtn241"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 900,
+        "y": 175
+      },
+      {
+        "x": 900,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 190,
+        "type": "selection",
+        "text": "堆硬币的考验",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 725,
+        "y": 280,
+        "type": "option",
+        "text": "试试看",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 190,
+        "type": "selection",
+        "text": "堆硬币的考验",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 1125,
+        "y": 280,
+        "type": "option",
+        "text": "给春原",
+        "css": "btn",
+        "ref": "divTxtBtn11"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 280,
+        "type": "option",
+        "text": "试试看",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      },
+      {
+        "x": 725,
+        "y": 340,
+        "type": "condition",
+        "text": "15日，回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn17"
+      }
+    ],
+    [
+      {
+        "x": 1125,
+        "y": 280,
+        "type": "option",
+        "text": "给春原",
+        "css": "btn",
+        "ref": "divTxtBtn11"
+      },
+      {
+        "x": 1125,
+        "y": 340,
+        "type": "condition",
+        "text": "春原仓库剧情 A",
+        "css": "btn",
+        "ref": "divTxtBtn21"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 340,
+        "type": "condition",
+        "text": "15日，回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn17"
+      },
+      {
+        "x": 525,
+        "y": 430,
+        "type": "selection",
+        "text": "在意",
+        "css": "btn",
+        "ref": "divTxtBtn25"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 340,
+        "type": "condition",
+        "text": "15日，回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn17"
+      },
+      {
+        "x": 925,
+        "y": 430,
+        "type": "selection",
+        "text": "不在意",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn31"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 430,
+        "type": "selection",
+        "text": "在意",
+        "css": "btn",
+        "ref": "divTxtBtn25"
+      },
+      {
+        "x": 525,
+        "y": 490,
+        "type": "selection",
+        "text": "陪伴的人选（一）",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 490,
+        "type": "selection",
+        "text": "陪伴的人选（一）",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 325,
+        "y": 580,
+        "type": "option",
+        "text": "古河…",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 490,
+        "type": "selection",
+        "text": "陪伴的人选（一）",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 725,
+        "y": 580,
+        "type": "option",
+        "text": "不是古河…",
+        "css": "btn",
+        "ref": "divTxtBtn48"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 580,
+        "type": "option",
+        "text": "古河…",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      },
+      {
+        "x": 325,
+        "y": 640,
+        "type": "condition",
+        "text": "23日，咒语游戏中遇到渚",
+        "css": "btn",
+        "ref": "divTxtBtn54",
+        "num": {
+          "x": 310,
+          "y": 640,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn56"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 630,
+          "text": "23日，咒语游戏中遇到渚",
+          "num": "1",
+          "summary": "",
+          "hint": "{23日，咒语游戏中遇到渚}即在23日有纪宁的咒语中触发{咒语游戏中遇到渚}的剧情。接下来的{23日，咒语游戏中遇到……}同样是这个意思。<br>此处，如果在16日的分支{古河重新创立话剧社}中选择[帮助]（即之后朋也认识了古河的家人），那么即使在23日咒语游戏中没有触发遇到渚的剧情，同样符合是的条件。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt57"
+        }
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 640,
+        "type": "condition",
+        "text": "23日，咒语游戏中遇到渚",
+        "css": "btn",
+        "ref": "divTxtBtn54",
+        "num": {
+          "x": 310,
+          "y": 640,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn56"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 630,
+          "text": "23日，咒语游戏中遇到渚",
+          "num": "1",
+          "summary": "",
+          "hint": "{23日，咒语游戏中遇到渚}即在23日有纪宁的咒语中触发{咒语游戏中遇到渚}的剧情。接下来的{23日，咒语游戏中遇到……}同样是这个意思。<br>此处，如果在16日的分支{古河重新创立话剧社}中选择[帮助]（即之后朋也认识了古河的家人），那么即使在23日咒语游戏中没有触发遇到渚的剧情，同样符合是的条件。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt57"
+        }
+      },
+      {
+        "x": 125,
+        "y": 730,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 640,
+        "type": "condition",
+        "text": "23日，咒语游戏中遇到渚",
+        "css": "btn",
+        "ref": "divTxtBtn54",
+        "num": {
+          "x": 310,
+          "y": 640,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn56"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 630,
+          "text": "23日，咒语游戏中遇到渚",
+          "num": "1",
+          "summary": "",
+          "hint": "{23日，咒语游戏中遇到渚}即在23日有纪宁的咒语中触发{咒语游戏中遇到渚}的剧情。接下来的{23日，咒语游戏中遇到……}同样是这个意思。<br>此处，如果在16日的分支{古河重新创立话剧社}中选择[帮助]（即之后朋也认识了古河的家人），那么即使在23日咒语游戏中没有触发遇到渚的剧情，同样符合是的条件。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt57"
+        }
+      },
+      {
+        "x": 525,
+        "y": 730,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 730,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 125,
+        "y": 790,
+        "type": "condition",
+        "text": "渚仓库剧情",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 730,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      },
+      {
+        "x": 525,
+        "y": 790,
+        "type": "condition",
+        "text": "秋生仓库剧情",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 580,
+        "type": "option",
+        "text": "不是古河…",
+        "css": "btn",
+        "ref": "divTxtBtn48"
+      },
+      {
+        "x": 1100,
+        "y": 670
+      },
+      {
+        "x": 925,
+        "y": 790,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 430,
+        "type": "selection",
+        "text": "不在意",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn31"
+      },
+      {
+        "x": 925,
+        "y": 790,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 790,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      },
+      {
+        "x": 525,
+        "y": 880,
+        "type": "selection",
+        "text": "离开",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn89"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 790,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      },
+      {
+        "x": 925,
+        "y": 880,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 880,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      },
+      {
+        "x": 925,
+        "y": 940,
+        "type": "selection",
+        "text": "陪伴的人选（二）",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 940,
+        "type": "selection",
+        "text": "陪伴的人选（二）",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      },
+      {
+        "x": 725,
+        "y": 1030,
+        "type": "option",
+        "text": "不是…",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 940,
+        "type": "selection",
+        "text": "陪伴的人选（二）",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      },
+      {
+        "x": 1125,
+        "y": 1030,
+        "type": "option",
+        "text": "风子…",
+        "css": "btn",
+        "ref": "divTxtBtn110"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1030,
+        "type": "option",
+        "text": "不是…",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      },
+      {
+        "x": 525,
+        "y": 1120,
+        "type": "condition",
+        "text": "18日，遇到困难的智代",
+        "css": "btn",
+        "ref": "divTxtBtn116"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 880,
+        "type": "selection",
+        "text": "离开",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn89"
+      },
+      {
+        "x": 525,
+        "y": 1120,
+        "type": "condition",
+        "text": "18日，遇到困难的智代",
+        "css": "btn",
+        "ref": "divTxtBtn116"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1120,
+        "type": "condition",
+        "text": "18日，遇到困难的智代",
+        "css": "btn",
+        "ref": "divTxtBtn116"
+      },
+      {
+        "x": 325,
+        "y": 1210,
+        "type": "selection",
+        "text": "甩开她的手",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1120,
+        "type": "condition",
+        "text": "18日，遇到困难的智代",
+        "css": "btn",
+        "ref": "divTxtBtn116"
+      },
+      {
+        "x": 725,
+        "y": 1210,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn131"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1210,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn131"
+      },
+      {
+        "x": 725,
+        "y": 1270,
+        "type": "selection",
+        "text": "陪伴的人选（三）",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1270,
+        "type": "selection",
+        "text": "陪伴的人选（三）",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      },
+      {
+        "x": 525,
+        "y": 1360,
+        "type": "option",
+        "text": "不是…",
+        "css": "btn",
+        "ref": "divTxtBtn141"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1270,
+        "type": "selection",
+        "text": "陪伴的人选（三）",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      },
+      {
+        "x": 925,
+        "y": 1360,
+        "type": "option",
+        "text": "智代…",
+        "css": "btn",
+        "ref": "divTxtBtn147"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 1360,
+        "type": "option",
+        "text": "智代…",
+        "css": "btn",
+        "ref": "divTxtBtn147"
+      },
+      {
+        "x": 925,
+        "y": 1420,
+        "type": "condition",
+        "text": "23日，诅咒游戏中遇到智代",
+        "css": "btn",
+        "ref": "divTxtBtn153"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 1420,
+        "type": "condition",
+        "text": "23日，诅咒游戏中遇到智代",
+        "css": "btn",
+        "ref": "divTxtBtn153"
+      },
+      {
+        "x": 525,
+        "y": 1510,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn157"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 1420,
+        "type": "condition",
+        "text": "23日，诅咒游戏中遇到智代",
+        "css": "btn",
+        "ref": "divTxtBtn153"
+      },
+      {
+        "x": 925,
+        "y": 1510,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1510,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn157"
+      },
+      {
+        "x": 525,
+        "y": 1570,
+        "type": "condition",
+        "text": "智代仓库剧情",
+        "css": "btn",
+        "ref": "divTxtBtn167"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1360,
+        "type": "option",
+        "text": "不是…",
+        "css": "btn",
+        "ref": "divTxtBtn141"
+      },
+      {
+        "x": 500,
+        "y": 1450
+      },
+      {
+        "x": 325,
+        "y": 1630,
+        "type": "selection",
+        "text": "陪伴的人选（四）",
+        "css": "btn",
+        "ref": "divTxtBtn171"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1210,
+        "type": "selection",
+        "text": "甩开她的手",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      },
+      {
+        "x": 325,
+        "y": 1630,
+        "type": "selection",
+        "text": "陪伴的人选（四）",
+        "css": "btn",
+        "ref": "divTxtBtn171"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1630,
+        "type": "selection",
+        "text": "陪伴的人选（四）",
+        "css": "btn",
+        "ref": "divTxtBtn171"
+      },
+      {
+        "x": 325,
+        "y": 1720,
+        "type": "option",
+        "text": "杏…",
+        "css": "btn",
+        "ref": "divTxtBtn180"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1630,
+        "type": "selection",
+        "text": "陪伴的人选（四）",
+        "css": "btn",
+        "ref": "divTxtBtn171"
+      },
+      {
+        "x": 725,
+        "y": 1720,
+        "type": "option",
+        "text": "不是…",
+        "css": "btn",
+        "ref": "divTxtBtn184"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1720,
+        "type": "option",
+        "text": "杏…",
+        "css": "btn",
+        "ref": "divTxtBtn180"
+      },
+      {
+        "x": 325,
+        "y": 1780,
+        "type": "condition",
+        "text": "23日，诅咒游戏中遇到杏、椋",
+        "css": "btn",
+        "ref": "divTxtBtn190"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1780,
+        "type": "condition",
+        "text": "23日，诅咒游戏中遇到杏、椋",
+        "css": "btn",
+        "ref": "divTxtBtn190"
+      },
+      {
+        "x": 325,
+        "y": 1870,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn194"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1780,
+        "type": "condition",
+        "text": "23日，诅咒游戏中遇到杏、椋",
+        "css": "btn",
+        "ref": "divTxtBtn190"
+      },
+      {
+        "x": 725,
+        "y": 1870,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn198"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1870,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn194"
+      },
+      {
+        "x": 325,
+        "y": 1930,
+        "type": "condition",
+        "text": "23日，杏抓朋也跟她出去谈话",
+        "css": "btn",
+        "ref": "divTxtBtn204"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1870,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn198"
+      },
+      {
+        "x": 1125,
+        "y": 1960,
+        "type": "condition",
+        "text": "春原仓库剧情 B",
+        "css": "btn",
+        "ref": "divTxtBtn208"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1720,
+        "type": "option",
+        "text": "不是…",
+        "css": "btn",
+        "ref": "divTxtBtn184"
+      },
+      {
+        "x": 1300,
+        "y": 1810
+      },
+      {
+        "x": 1125,
+        "y": 1960,
+        "type": "condition",
+        "text": "春原仓库剧情 B",
+        "css": "btn",
+        "ref": "divTxtBtn208"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 1510,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      },
+      {
+        "x": 1300,
+        "y": 1600
+      },
+      {
+        "x": 1125,
+        "y": 1960,
+        "type": "condition",
+        "text": "春原仓库剧情 B",
+        "css": "btn",
+        "ref": "divTxtBtn208"
+      }
+    ],
+    [
+      {
+        "x": 1125,
+        "y": 1030,
+        "type": "option",
+        "text": "风子…",
+        "css": "btn",
+        "ref": "divTxtBtn110"
+      },
+      {
+        "x": 1125,
+        "y": 1960,
+        "type": "condition",
+        "text": "春原仓库剧情 B",
+        "css": "btn",
+        "ref": "divTxtBtn208"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1930,
+        "type": "condition",
+        "text": "23日，杏抓朋也跟她出去谈话",
+        "css": "btn",
+        "ref": "divTxtBtn204"
+      },
+      {
+        "x": 325,
+        "y": 2020,
+        "type": "selection",
+        "text": "逃跑",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn226"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1930,
+        "type": "condition",
+        "text": "23日，杏抓朋也跟她出去谈话",
+        "css": "btn",
+        "ref": "divTxtBtn204"
+      },
+      {
+        "x": 725,
+        "y": 2020,
+        "type": "selection",
+        "text": "跟着去",
+        "css": "btn",
+        "ref": "divTxtBtn231"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 2020,
+        "type": "selection",
+        "text": "逃跑",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn226"
+      },
+      {
+        "x": 325,
+        "y": 2080,
+        "type": "condition",
+        "text": "杏仓库剧情 A（普通版）",
+        "css": "btn",
+        "ref": "divTxtBtn237"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 2020,
+        "type": "selection",
+        "text": "跟着去",
+        "css": "btn",
+        "ref": "divTxtBtn231"
+      },
+      {
+        "x": 725,
+        "y": 2080,
+        "type": "condition",
+        "text": "杏仓库剧情 B（特殊版）",
+        "css": "btn",
+        "ref": "divTxtBtn241"
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 630,
+      "text": "23日，咒语游戏中遇到渚",
+      "num": "1",
+      "summary": "",
+      "hint": "{23日，咒语游戏中遇到渚}即在23日有纪宁的咒语中触发{咒语游戏中遇到渚}的剧情。接下来的{23日，咒语游戏中遇到……}同样是这个意思。<br>此处，如果在16日的分支{古河重新创立话剧社}中选择[帮助]（即之后朋也认识了古河的家人），那么即使在23日咒语游戏中没有触发遇到渚的剧情，同样符合是的条件。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt57"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "yukine",
+    "routeC": "宫泽 有纪宁",
+    "routeE": "Yukine Miyazawa",
+    "dateC": "体育仓库事件",
+    "dateE": "Gym Warehouse Event",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 2110,
+    "page": 33,
+    "ref": "divFt245"
+  },
+  "board": []
+}

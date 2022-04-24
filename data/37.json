@@ -1,0 +1,592 @@
+{
+  "box": [
+    [
+      {
+        "x": 850,
+        "y": 175,
+        "type": "date",
+        "text": "4月25日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "23日，无聊的午后时光",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "转换一下心情",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 925,
+        "y": 340,
+        "type": "selection",
+        "text": "睡觉",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "走廊中第N次遇到风子",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 490,
+        "type": "option",
+        "text": "叫住她",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      },
+      {
+        "x": 725,
+        "y": 490,
+        "type": "option",
+        "text": "暂时不管她",
+        "css": "btn",
+        "ref": "divTxtBtn29"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 550,
+        "type": "option",
+        "text": "风子大师（五）",
+        "css": "btn",
+        "ref": "divTxtBtn35",
+        "link": "p37_retKFMT5"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 670,
+        "type": "date",
+        "text": "胜平",
+        "css": "date",
+        "ref": "divBtn39"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 805,
+        "type": "date",
+        "text": "胜平",
+        "css": "date",
+        "ref": "divBtn56"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 880,
+        "type": "selection",
+        "text": "无处可归的胜平",
+        "css": "btn",
+        "ref": "divTxtBtn57"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 970,
+        "type": "option",
+        "text": "给他介绍住处",
+        "route": "l|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn61"
+      },
+      {
+        "x": 925,
+        "y": 970,
+        "type": "option",
+        "text": "的确...是没有办法啊...",
+        "route": "r|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn68"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1030,
+        "type": "condition",
+        "text": "20日，野芳寻求帮手",
+        "css": "btn",
+        "ref": "divTxtBtn75"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1120,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn79"
+      },
+      {
+        "x": 725,
+        "y": 1120,
+        "type": "selection",
+        "text": "拒绝",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn85"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1180,
+        "type": "option",
+        "text": "胜平“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1210,
+        "type": "condition",
+        "text": "公共 BAD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1240,
+        "type": "condition",
+        "text": "胜平 GOOD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 850,
+        "y": 175,
+        "type": "date",
+        "text": "4月25日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "23日，无聊的午后时光",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "23日，无聊的午后时光",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "转换一下心情",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "23日，无聊的午后时光",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 925,
+        "y": 340,
+        "type": "selection",
+        "text": "睡觉",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "转换一下心情",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "走廊中第N次遇到风子",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "走廊中第N次遇到风子",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      },
+      {
+        "x": 325,
+        "y": 490,
+        "type": "option",
+        "text": "叫住她",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "走廊中第N次遇到风子",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      },
+      {
+        "x": 725,
+        "y": 490,
+        "type": "option",
+        "text": "暂时不管她",
+        "css": "btn",
+        "ref": "divTxtBtn29"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 490,
+        "type": "option",
+        "text": "叫住她",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      },
+      {
+        "x": 325,
+        "y": 550,
+        "type": "option",
+        "text": "风子大师（五）",
+        "css": "btn",
+        "ref": "divTxtBtn35",
+        "link": "p37_retKFMT5"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 550,
+        "type": "option",
+        "text": "风子大师（五）",
+        "css": "btn",
+        "ref": "divTxtBtn35",
+        "link": "p37_retKFMT5"
+      },
+      {
+        "x": 700,
+        "y": 640
+      },
+      {
+        "x": 850,
+        "y": 670,
+        "type": "date",
+        "text": "胜平",
+        "css": "date",
+        "ref": "divBtn39"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 490,
+        "type": "option",
+        "text": "暂时不管她",
+        "css": "btn",
+        "ref": "divTxtBtn29"
+      },
+      {
+        "x": 700,
+        "y": 640
+      },
+      {
+        "x": 850,
+        "y": 670,
+        "type": "date",
+        "text": "胜平",
+        "css": "date",
+        "ref": "divBtn39"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 340,
+        "type": "selection",
+        "text": "睡觉",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      },
+      {
+        "x": 850,
+        "y": 670,
+        "type": "date",
+        "text": "胜平",
+        "css": "date",
+        "ref": "divBtn39"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 805,
+        "type": "date",
+        "text": "胜平",
+        "css": "date",
+        "ref": "divBtn56"
+      },
+      {
+        "x": 725,
+        "y": 880,
+        "type": "selection",
+        "text": "无处可归的胜平",
+        "css": "btn",
+        "ref": "divTxtBtn57"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 880,
+        "type": "selection",
+        "text": "无处可归的胜平",
+        "css": "btn",
+        "ref": "divTxtBtn57"
+      },
+      {
+        "x": 525,
+        "y": 970,
+        "type": "option",
+        "text": "给他介绍住处",
+        "route": "l|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn61"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 880,
+        "type": "selection",
+        "text": "无处可归的胜平",
+        "css": "btn",
+        "ref": "divTxtBtn57"
+      },
+      {
+        "x": 925,
+        "y": 970,
+        "type": "option",
+        "text": "的确...是没有办法啊...",
+        "route": "r|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn68"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 970,
+        "type": "option",
+        "text": "给他介绍住处",
+        "route": "l|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn61"
+      },
+      {
+        "x": 525,
+        "y": 1030,
+        "type": "condition",
+        "text": "20日，野芳寻求帮手",
+        "css": "btn",
+        "ref": "divTxtBtn75"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1030,
+        "type": "condition",
+        "text": "20日，野芳寻求帮手",
+        "css": "btn",
+        "ref": "divTxtBtn75"
+      },
+      {
+        "x": 325,
+        "y": 1120,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn79"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1030,
+        "type": "condition",
+        "text": "20日，野芳寻求帮手",
+        "css": "btn",
+        "ref": "divTxtBtn75"
+      },
+      {
+        "x": 725,
+        "y": 1120,
+        "type": "selection",
+        "text": "拒绝",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn85"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1120,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn79"
+      },
+      {
+        "x": 325,
+        "y": 1180,
+        "type": "option",
+        "text": "胜平“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1120,
+        "type": "selection",
+        "text": "拒绝",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn85"
+      },
+      {
+        "x": 725,
+        "y": 1210,
+        "type": "condition",
+        "text": "公共 BAD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 970,
+        "type": "option",
+        "text": "的确...是没有办法啊...",
+        "route": "r|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn68"
+      },
+      {
+        "x": 725,
+        "y": 1210,
+        "type": "condition",
+        "text": "公共 BAD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1180,
+        "type": "option",
+        "text": "胜平“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      },
+      {
+        "x": 325,
+        "y": 1240,
+        "type": "condition",
+        "text": "胜平 GOOD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      }
+    ]
+  ],
+  "comment": [],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "kappei",
+    "routeC": "柊　胜平",
+    "routeE": "KappeiHiiragii",
+    "dateC": "4月25日～胜平",
+    "dateE": "April 25th~Kappei",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1270,
+    "page": 37,
+    "ref": "divFt108"
+  },
+  "board": []
+}

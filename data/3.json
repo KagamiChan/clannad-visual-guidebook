@@ -1,0 +1,1348 @@
+{
+  "box": [
+    [
+      {
+        "x": 950,
+        "y": 175,
+        "type": "date",
+        "text": "4月16日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 250,
+        "type": "condition",
+        "text": "15日，面对泪水打转的椋",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 340,
+        "type": "selection",
+        "text": "道歉",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "selection",
+        "text": "无视",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 400,
+        "type": "selection",
+        "text": "上学路上看到一位老婆婆",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 490,
+        "type": "option",
+        "text": "就这样走过去",
+        "css": "btn",
+        "ref": "divTxtBtn22"
+      },
+      {
+        "x": 825,
+        "y": 490,
+        "type": "option",
+        "text": "和老婆婆打招呼",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 580,
+        "type": "selection",
+        "text": "杏没有迟到的原因",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 670,
+        "type": "option",
+        "text": "试着追问下去",
+        "route": "l|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn44"
+      },
+      {
+        "x": 825,
+        "y": 670,
+        "type": "option",
+        "text": "没什么好介意的",
+        "route": "r|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 760,
+        "type": "condition",
+        "text": "15日，回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 850,
+        "type": "selection",
+        "text": "在意",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 825,
+        "y": 850,
+        "type": "selection",
+        "text": "不在意",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 910,
+        "type": "selection",
+        "text": "课堂上的沉思，回忆起…",
+        "css": "btn",
+        "ref": "divTxtBtn83"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1000,
+        "type": "option",
+        "text": "昨天的女孩",
+        "css": "btn",
+        "ref": "divTxtBtn87"
+      },
+      {
+        "x": 625,
+        "y": 1000,
+        "type": "option",
+        "text": "过去的事情",
+        "css": "btn",
+        "ref": "divTxtBtn93"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1150,
+        "type": "condition",
+        "text": "15日，平息骚动的神秘女生",
+        "css": "btn",
+        "ref": "divTxtBtn99"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1240,
+        "type": "selection",
+        "text": "我对此也颇感兴趣",
+        "css": "btn",
+        "ref": "divTxtBtn127"
+      },
+      {
+        "x": 1025,
+        "y": 1240,
+        "type": "selection",
+        "text": "我对此毫无兴趣",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1300,
+        "type": "selection",
+        "text": "春原挑战智代（一回目）",
+        "css": "btn",
+        "ref": "divTxtBtn140",
+        "num": {
+          "x": 610,
+          "y": 1300,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn142"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1290,
+          "text": "春原挑战智代（一回目）",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-去",
+          "icon": "01110011",
+          "iconillu": "智代有条件参与有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和毕业典礼；业余棒球进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt143"
+        }
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1390,
+        "type": "option",
+        "text": "去",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn146"
+      },
+      {
+        "x": 825,
+        "y": 1390,
+        "type": "option",
+        "text": "不去",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn153"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1510,
+        "type": "condition",
+        "text": "15日，上午、英语语法课",
+        "css": "btn",
+        "ref": "divTxtBtn160"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1600,
+        "type": "selection",
+        "text": "认认真真上课",
+        "css": "btn",
+        "ref": "divTxtBtn178"
+      },
+      {
+        "x": 1025,
+        "y": 1600,
+        "type": "selection",
+        "text": "逃课",
+        "css": "btn",
+        "ref": "divTxtBtn184"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "selection",
+        "text": "上午、课上",
+        "css": "btn",
+        "ref": "divTxtBtn190"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1750,
+        "type": "option",
+        "text": "逃课",
+        "route": "l|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn194"
+      },
+      {
+        "x": 825,
+        "y": 1750,
+        "type": "option",
+        "text": "认认真真上课",
+        "route": "r|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn201"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1810,
+        "type": "selection",
+        "text": "被奇怪的女孩邀请吃便当",
+        "css": "btn",
+        "ref": "divTxtBtn208",
+        "num": {
+          "x": 410,
+          "y": 1810,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn210"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1800,
+          "text": "被奇怪的女孩邀请吃便当",
+          "num": "2",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-吃",
+          "icon": "00000010",
+          "iconillu": "琴美好感度上升1点",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt211"
+        }
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1900,
+        "type": "option",
+        "text": "吃",
+        "css": "btn",
+        "ref": "divTxtBtn214"
+      },
+      {
+        "x": 625,
+        "y": 1900,
+        "type": "option",
+        "text": "不吃",
+        "css": "btn",
+        "ref": "divTxtBtn220"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 950,
+        "y": 175,
+        "type": "date",
+        "text": "4月16日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 825,
+        "y": 250,
+        "type": "condition",
+        "text": "15日，面对泪水打转的椋",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 250,
+        "type": "condition",
+        "text": "15日，面对泪水打转的椋",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 625,
+        "y": 340,
+        "type": "selection",
+        "text": "道歉",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 250,
+        "type": "condition",
+        "text": "15日，面对泪水打转的椋",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "selection",
+        "text": "无视",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 340,
+        "type": "selection",
+        "text": "道歉",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 625,
+        "y": 400,
+        "type": "selection",
+        "text": "上学路上看到一位老婆婆",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 400,
+        "type": "selection",
+        "text": "上学路上看到一位老婆婆",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      },
+      {
+        "x": 425,
+        "y": 490,
+        "type": "option",
+        "text": "就这样走过去",
+        "css": "btn",
+        "ref": "divTxtBtn22"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 400,
+        "type": "selection",
+        "text": "上学路上看到一位老婆婆",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      },
+      {
+        "x": 825,
+        "y": 490,
+        "type": "option",
+        "text": "和老婆婆打招呼",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 490,
+        "type": "option",
+        "text": "就这样走过去",
+        "css": "btn",
+        "ref": "divTxtBtn22"
+      },
+      {
+        "x": 625,
+        "y": 580,
+        "type": "selection",
+        "text": "杏没有迟到的原因",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 490,
+        "type": "option",
+        "text": "和老婆婆打招呼",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      },
+      {
+        "x": 625,
+        "y": 580,
+        "type": "selection",
+        "text": "杏没有迟到的原因",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 580,
+        "type": "selection",
+        "text": "杏没有迟到的原因",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 425,
+        "y": 670,
+        "type": "option",
+        "text": "试着追问下去",
+        "route": "l|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn44"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 580,
+        "type": "selection",
+        "text": "杏没有迟到的原因",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 825,
+        "y": 670,
+        "type": "option",
+        "text": "没什么好介意的",
+        "route": "r|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 670,
+        "type": "option",
+        "text": "试着追问下去",
+        "route": "l|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn44"
+      },
+      {
+        "x": 625,
+        "y": 760,
+        "type": "condition",
+        "text": "15日，回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 670,
+        "type": "option",
+        "text": "没什么好介意的",
+        "route": "r|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      },
+      {
+        "x": 625,
+        "y": 760,
+        "type": "condition",
+        "text": "15日，回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 760,
+        "type": "condition",
+        "text": "15日，回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 425,
+        "y": 850,
+        "type": "selection",
+        "text": "在意",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 760,
+        "type": "condition",
+        "text": "15日，回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 825,
+        "y": 850,
+        "type": "selection",
+        "text": "不在意",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 850,
+        "type": "selection",
+        "text": "在意",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 425,
+        "y": 910,
+        "type": "selection",
+        "text": "课堂上的沉思，回忆起…",
+        "css": "btn",
+        "ref": "divTxtBtn83"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 910,
+        "type": "selection",
+        "text": "课堂上的沉思，回忆起…",
+        "css": "btn",
+        "ref": "divTxtBtn83"
+      },
+      {
+        "x": 225,
+        "y": 1000,
+        "type": "option",
+        "text": "昨天的女孩",
+        "css": "btn",
+        "ref": "divTxtBtn87"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 910,
+        "type": "selection",
+        "text": "课堂上的沉思，回忆起…",
+        "css": "btn",
+        "ref": "divTxtBtn83"
+      },
+      {
+        "x": 625,
+        "y": 1000,
+        "type": "option",
+        "text": "过去的事情",
+        "css": "btn",
+        "ref": "divTxtBtn93"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1000,
+        "type": "option",
+        "text": "昨天的女孩",
+        "css": "btn",
+        "ref": "divTxtBtn87"
+      },
+      {
+        "x": 600,
+        "y": 1090
+      },
+      {
+        "x": 800,
+        "y": 1120
+      },
+      {
+        "x": 825,
+        "y": 1150,
+        "type": "condition",
+        "text": "15日，平息骚动的神秘女生",
+        "css": "btn",
+        "ref": "divTxtBtn99"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1000,
+        "type": "option",
+        "text": "过去的事情",
+        "css": "btn",
+        "ref": "divTxtBtn93"
+      },
+      {
+        "x": 600,
+        "y": 1090
+      },
+      {
+        "x": 800,
+        "y": 1120
+      },
+      {
+        "x": 825,
+        "y": 1150,
+        "type": "condition",
+        "text": "15日，平息骚动的神秘女生",
+        "css": "btn",
+        "ref": "divTxtBtn99"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 850,
+        "type": "selection",
+        "text": "不在意",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      },
+      {
+        "x": 800,
+        "y": 1120
+      },
+      {
+        "x": 825,
+        "y": 1150,
+        "type": "condition",
+        "text": "15日，平息骚动的神秘女生",
+        "css": "btn",
+        "ref": "divTxtBtn99"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "selection",
+        "text": "无视",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      },
+      {
+        "x": 825,
+        "y": 1150,
+        "type": "condition",
+        "text": "15日，平息骚动的神秘女生",
+        "css": "btn",
+        "ref": "divTxtBtn99"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1150,
+        "type": "condition",
+        "text": "15日，平息骚动的神秘女生",
+        "css": "btn",
+        "ref": "divTxtBtn99"
+      },
+      {
+        "x": 625,
+        "y": 1240,
+        "type": "selection",
+        "text": "我对此也颇感兴趣",
+        "css": "btn",
+        "ref": "divTxtBtn127"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1150,
+        "type": "condition",
+        "text": "15日，平息骚动的神秘女生",
+        "css": "btn",
+        "ref": "divTxtBtn99"
+      },
+      {
+        "x": 1025,
+        "y": 1240,
+        "type": "selection",
+        "text": "我对此毫无兴趣",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1240,
+        "type": "selection",
+        "text": "我对此也颇感兴趣",
+        "css": "btn",
+        "ref": "divTxtBtn127"
+      },
+      {
+        "x": 625,
+        "y": 1300,
+        "type": "selection",
+        "text": "春原挑战智代（一回目）",
+        "css": "btn",
+        "ref": "divTxtBtn140",
+        "num": {
+          "x": 610,
+          "y": 1300,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn142"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1290,
+          "text": "春原挑战智代（一回目）",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-去",
+          "icon": "01110011",
+          "iconillu": "智代有条件参与有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和毕业典礼；业余棒球进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt143"
+        }
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1300,
+        "type": "selection",
+        "text": "春原挑战智代（一回目）",
+        "css": "btn",
+        "ref": "divTxtBtn140",
+        "num": {
+          "x": 610,
+          "y": 1300,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn142"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1290,
+          "text": "春原挑战智代（一回目）",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-去",
+          "icon": "01110011",
+          "iconillu": "智代有条件参与有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和毕业典礼；业余棒球进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt143"
+        }
+      },
+      {
+        "x": 425,
+        "y": 1390,
+        "type": "option",
+        "text": "去",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn146"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1300,
+        "type": "selection",
+        "text": "春原挑战智代（一回目）",
+        "css": "btn",
+        "ref": "divTxtBtn140",
+        "num": {
+          "x": 610,
+          "y": 1300,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn142"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1290,
+          "text": "春原挑战智代（一回目）",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-去",
+          "icon": "01110011",
+          "iconillu": "智代有条件参与有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和毕业典礼；业余棒球进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt143"
+        }
+      },
+      {
+        "x": 825,
+        "y": 1390,
+        "type": "option",
+        "text": "不去",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn153"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1390,
+        "type": "option",
+        "text": "去",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn146"
+      },
+      {
+        "x": 800,
+        "y": 1480
+      },
+      {
+        "x": 825,
+        "y": 1510,
+        "type": "condition",
+        "text": "15日，上午、英语语法课",
+        "css": "btn",
+        "ref": "divTxtBtn160"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1390,
+        "type": "option",
+        "text": "不去",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn153"
+      },
+      {
+        "x": 800,
+        "y": 1480
+      },
+      {
+        "x": 825,
+        "y": 1510,
+        "type": "condition",
+        "text": "15日，上午、英语语法课",
+        "css": "btn",
+        "ref": "divTxtBtn160"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1240,
+        "type": "selection",
+        "text": "我对此毫无兴趣",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      },
+      {
+        "x": 825,
+        "y": 1510,
+        "type": "condition",
+        "text": "15日，上午、英语语法课",
+        "css": "btn",
+        "ref": "divTxtBtn160"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1510,
+        "type": "condition",
+        "text": "15日，上午、英语语法课",
+        "css": "btn",
+        "ref": "divTxtBtn160"
+      },
+      {
+        "x": 625,
+        "y": 1600,
+        "type": "selection",
+        "text": "认认真真上课",
+        "css": "btn",
+        "ref": "divTxtBtn178"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1510,
+        "type": "condition",
+        "text": "15日，上午、英语语法课",
+        "css": "btn",
+        "ref": "divTxtBtn160"
+      },
+      {
+        "x": 1025,
+        "y": 1600,
+        "type": "selection",
+        "text": "逃课",
+        "css": "btn",
+        "ref": "divTxtBtn184"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1600,
+        "type": "selection",
+        "text": "认认真真上课",
+        "css": "btn",
+        "ref": "divTxtBtn178"
+      },
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "selection",
+        "text": "上午、课上",
+        "css": "btn",
+        "ref": "divTxtBtn190"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "selection",
+        "text": "上午、课上",
+        "css": "btn",
+        "ref": "divTxtBtn190"
+      },
+      {
+        "x": 425,
+        "y": 1750,
+        "type": "option",
+        "text": "逃课",
+        "route": "l|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn194"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "selection",
+        "text": "上午、课上",
+        "css": "btn",
+        "ref": "divTxtBtn190"
+      },
+      {
+        "x": 825,
+        "y": 1750,
+        "type": "option",
+        "text": "认认真真上课",
+        "route": "r|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn201"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1750,
+        "type": "option",
+        "text": "逃课",
+        "route": "l|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn194"
+      },
+      {
+        "x": 425,
+        "y": 1810,
+        "type": "selection",
+        "text": "被奇怪的女孩邀请吃便当",
+        "css": "btn",
+        "ref": "divTxtBtn208",
+        "num": {
+          "x": 410,
+          "y": 1810,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn210"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1800,
+          "text": "被奇怪的女孩邀请吃便当",
+          "num": "2",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-吃",
+          "icon": "00000010",
+          "iconillu": "琴美好感度上升1点",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt211"
+        }
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1810,
+        "type": "selection",
+        "text": "被奇怪的女孩邀请吃便当",
+        "css": "btn",
+        "ref": "divTxtBtn208",
+        "num": {
+          "x": 410,
+          "y": 1810,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn210"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1800,
+          "text": "被奇怪的女孩邀请吃便当",
+          "num": "2",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-吃",
+          "icon": "00000010",
+          "iconillu": "琴美好感度上升1点",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt211"
+        }
+      },
+      {
+        "x": 225,
+        "y": 1900,
+        "type": "option",
+        "text": "吃",
+        "css": "btn",
+        "ref": "divTxtBtn214"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1810,
+        "type": "selection",
+        "text": "被奇怪的女孩邀请吃便当",
+        "css": "btn",
+        "ref": "divTxtBtn208",
+        "num": {
+          "x": 410,
+          "y": 1810,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn210"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1800,
+          "text": "被奇怪的女孩邀请吃便当",
+          "num": "2",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-吃",
+          "icon": "00000010",
+          "iconillu": "琴美好感度上升1点",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt211"
+        }
+      },
+      {
+        "x": 625,
+        "y": 1900,
+        "type": "option",
+        "text": "不吃",
+        "css": "btn",
+        "ref": "divTxtBtn220"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1900,
+        "type": "option",
+        "text": "吃",
+        "css": "btn",
+        "ref": "divTxtBtn214"
+      },
+      {
+        "x": 600,
+        "y": 1990
+      },
+      {
+        "x": 800,
+        "y": 2020
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1900,
+        "type": "option",
+        "text": "不吃",
+        "css": "btn",
+        "ref": "divTxtBtn220"
+      },
+      {
+        "x": 600,
+        "y": 1990
+      },
+      {
+        "x": 800,
+        "y": 2020
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1750,
+        "type": "option",
+        "text": "认认真真上课",
+        "route": "r|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn201"
+      },
+      {
+        "x": 800,
+        "y": 2020
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1600,
+        "type": "selection",
+        "text": "逃课",
+        "css": "btn",
+        "ref": "divTxtBtn184"
+      },
+      {
+        "x": 800,
+        "y": 2020
+      },
+      {
+        "x": 1200,
+        "y": 2020
+      }
+    ],
+    [
+      {
+        "x": 1000,
+        "y": 2020
+      },
+      {
+        "x": 1000,
+        "y": 2020
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 1290,
+      "text": "春原挑战智代（一回目）",
+      "num": "1",
+      "summary": "",
+      "hint": "",
+      "setsumei": "",
+      "option": "-去",
+      "icon": "01110011",
+      "iconillu": "智代有条件参与有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和毕业典礼；业余棒球进入必选",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt143"
+    },
+    {
+      "x": 1625,
+      "y": 1800,
+      "text": "被奇怪的女孩邀请吃便当",
+      "num": "2",
+      "summary": "",
+      "hint": "",
+      "setsumei": "",
+      "option": "-吃",
+      "icon": "00000010",
+      "iconillu": "琴美好感度上升1点",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt211"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "4月16日（一）",
+    "dateE": "April 16th~Part 1",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 2050,
+    "page": 3,
+    "ref": "divFt247"
+  },
+  "board": []
+}

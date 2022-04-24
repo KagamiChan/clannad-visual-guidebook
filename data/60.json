@@ -1,0 +1,548 @@
+{
+  "box": [
+    [
+      {
+        "x": 950,
+        "y": 175,
+        "type": "date",
+        "text": "4月26日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 250,
+        "type": "selection",
+        "text": "关于幽灵的话题",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 340,
+        "type": "option",
+        "text": "问问看",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "option",
+        "text": "没兴趣",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 430,
+        "type": "condition",
+        "text": "23日，春原的妹妹打来电话",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 520,
+        "type": "selection",
+        "text": "不代他接听",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      },
+      {
+        "x": 1025,
+        "y": 520,
+        "type": "selection",
+        "text": "代春原接听",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 580,
+        "type": "condition",
+        "text": "25日，智代攻击的对策",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 670,
+        "type": "selection",
+        "text": "提出了忠告",
+        "css": "btn",
+        "ref": "divTxtBtn44"
+      },
+      {
+        "x": 825,
+        "y": 670,
+        "type": "selection",
+        "text": "扣下了扳机",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn50"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 730,
+        "type": "condition",
+        "text": "枪战平手",
+        "css": "btn",
+        "ref": "divTxtBtn57"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 820,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn61"
+      },
+      {
+        "x": 625,
+        "y": 820,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn67"
+      }
+    ],
+    [
+      {
+        "x": 350,
+        "y": 880,
+        "type": "date",
+        "text": "4月27日",
+        "css": "date",
+        "ref": "divBtn73"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 910,
+        "type": "condition",
+        "text": "公共 BAD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1045,
+        "type": "date",
+        "text": "4月27日",
+        "css": "date",
+        "ref": "divBtn93"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1120,
+        "type": "option",
+        "text": "幻想世界（七）",
+        "css": "btn",
+        "ref": "divTxtBtn94"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1180,
+        "type": "date",
+        "text": "4月28日",
+        "css": "date",
+        "ref": "divBtn98"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 950,
+        "y": 175,
+        "type": "date",
+        "text": "4月26日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 825,
+        "y": 250,
+        "type": "selection",
+        "text": "关于幽灵的话题",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 250,
+        "type": "selection",
+        "text": "关于幽灵的话题",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 625,
+        "y": 340,
+        "type": "option",
+        "text": "问问看",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 250,
+        "type": "selection",
+        "text": "关于幽灵的话题",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "option",
+        "text": "没兴趣",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 340,
+        "type": "option",
+        "text": "问问看",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 825,
+        "y": 430,
+        "type": "condition",
+        "text": "23日，春原的妹妹打来电话",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "option",
+        "text": "没兴趣",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      },
+      {
+        "x": 825,
+        "y": 430,
+        "type": "condition",
+        "text": "23日，春原的妹妹打来电话",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 430,
+        "type": "condition",
+        "text": "23日，春原的妹妹打来电话",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      },
+      {
+        "x": 625,
+        "y": 520,
+        "type": "selection",
+        "text": "不代他接听",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 430,
+        "type": "condition",
+        "text": "23日，春原的妹妹打来电话",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      },
+      {
+        "x": 1025,
+        "y": 520,
+        "type": "selection",
+        "text": "代春原接听",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 520,
+        "type": "selection",
+        "text": "不代他接听",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      },
+      {
+        "x": 625,
+        "y": 580,
+        "type": "condition",
+        "text": "25日，智代攻击的对策",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 580,
+        "type": "condition",
+        "text": "25日，智代攻击的对策",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      },
+      {
+        "x": 425,
+        "y": 670,
+        "type": "selection",
+        "text": "提出了忠告",
+        "css": "btn",
+        "ref": "divTxtBtn44"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 580,
+        "type": "condition",
+        "text": "25日，智代攻击的对策",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      },
+      {
+        "x": 825,
+        "y": 670,
+        "type": "selection",
+        "text": "扣下了扳机",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn50"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 670,
+        "type": "selection",
+        "text": "提出了忠告",
+        "css": "btn",
+        "ref": "divTxtBtn44"
+      },
+      {
+        "x": 425,
+        "y": 730,
+        "type": "condition",
+        "text": "枪战平手",
+        "css": "btn",
+        "ref": "divTxtBtn57"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 730,
+        "type": "condition",
+        "text": "枪战平手",
+        "css": "btn",
+        "ref": "divTxtBtn57"
+      },
+      {
+        "x": 225,
+        "y": 820,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn61"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 730,
+        "type": "condition",
+        "text": "枪战平手",
+        "css": "btn",
+        "ref": "divTxtBtn57"
+      },
+      {
+        "x": 625,
+        "y": 820,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn67"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 820,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn61"
+      },
+      {
+        "x": 350,
+        "y": 880,
+        "type": "date",
+        "text": "4月27日",
+        "css": "date",
+        "ref": "divBtn73"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 820,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn67"
+      },
+      {
+        "x": 825,
+        "y": 910,
+        "type": "condition",
+        "text": "公共 BAD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 670,
+        "type": "selection",
+        "text": "扣下了扳机",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn50"
+      },
+      {
+        "x": 1200,
+        "y": 760
+      },
+      {
+        "x": 825,
+        "y": 910,
+        "type": "condition",
+        "text": "公共 BAD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 520,
+        "type": "selection",
+        "text": "代春原接听",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 825,
+        "y": 910,
+        "type": "condition",
+        "text": "公共 BAD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1045,
+        "type": "date",
+        "text": "4月27日",
+        "css": "date",
+        "ref": "divBtn93"
+      },
+      {
+        "x": 625,
+        "y": 1120,
+        "type": "option",
+        "text": "幻想世界（七）",
+        "css": "btn",
+        "ref": "divTxtBtn94"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1120,
+        "type": "option",
+        "text": "幻想世界（七）",
+        "css": "btn",
+        "ref": "divTxtBtn94"
+      },
+      {
+        "x": 750,
+        "y": 1180,
+        "type": "date",
+        "text": "4月28日",
+        "css": "date",
+        "ref": "divBtn98"
+      }
+    ]
+  ],
+  "comment": [],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "gunfight",
+    "routeC": "枪战游戏/业余棒球",
+    "routeE": "Gunfight Game / Amateur BaseBall",
+    "dateC": "4月26日～4月27日",
+    "dateE": "April 26th~April 27th",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1240,
+    "page": 60,
+    "ref": "divFt101"
+  },
+  "board": []
+}

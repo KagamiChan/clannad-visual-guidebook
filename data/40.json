@@ -1,0 +1,1363 @@
+{
+  "box": [
+    [
+      {
+        "x": 750,
+        "y": 175,
+        "type": "date",
+        "text": "4月20日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "读书的邀请",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 610,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "读书的邀请",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-读书",
+          "icon": "00000100",
+          "iconillu": "琴美好感度上升1点",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "option",
+        "text": "读书",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 825,
+        "y": 340,
+        "type": "option",
+        "text": "不读",
+        "css": "btn",
+        "ref": "divTxtBtn14"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 430,
+        "type": "date",
+        "text": "4月21日",
+        "css": "date",
+        "ref": "divBtn20"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 565,
+        "type": "date",
+        "text": "4月21日",
+        "css": "date",
+        "ref": "divBtn29"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 640,
+        "type": "selection",
+        "text": "难得早起的朋也决定该做的事",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "迟点再去吧",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 1025,
+        "y": 730,
+        "type": "option",
+        "text": "认认真真起床上学",
+        "css": "btn",
+        "ref": "divTxtBtn39"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 790,
+        "type": "selection",
+        "text": "通学路上，身后传来引擎声",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 880,
+        "type": "option",
+        "text": "向右跳",
+        "css": "btn",
+        "ref": "divTxtBtn50"
+      },
+      {
+        "x": 425,
+        "y": 880,
+        "type": "option",
+        "text": "站稳等着它",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 825,
+        "y": 880,
+        "type": "option",
+        "text": "向左跳",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 940,
+        "type": "selection",
+        "text": "事发现场，某路人成为受害者",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1030,
+        "type": "option",
+        "text": "离开这里",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 425,
+        "y": 1030,
+        "type": "option",
+        "text": "摇一摇他",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1120,
+        "type": "selection",
+        "text": "受害者遗忘的简历",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      },
+      {
+        "x": 1025,
+        "y": 1120,
+        "type": "condition",
+        "text": "19日，春原准备威胁智代",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1210,
+        "type": "option",
+        "text": "查清地址后送给他",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      },
+      {
+        "x": 425,
+        "y": 1210,
+        "type": "option",
+        "text": "撕了扔掉",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      },
+      {
+        "x": 825,
+        "y": 1210,
+        "type": "selection",
+        "text": "劝他放弃",
+        "css": "btn",
+        "ref": "divTxtBtn102"
+      },
+      {
+        "x": 1225,
+        "y": 1210,
+        "type": "selection",
+        "text": "不去管他",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1270,
+        "type": "selection",
+        "text": "坂道上遇到呆望樱花中的智代",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1360,
+        "type": "option",
+        "text": "打招呼",
+        "css": "btn",
+        "ref": "divTxtBtn119"
+      },
+      {
+        "x": 1025,
+        "y": 1360,
+        "type": "option",
+        "text": "不理她",
+        "css": "btn",
+        "ref": "divTxtBtn125"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1510,
+        "type": "selection",
+        "text": "介意的琴美",
+        "css": "btn",
+        "ref": "divTxtBtn180",
+        "num": {
+          "x": 710,
+          "y": 1510,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn182"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1500,
+          "text": "介意的琴美",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-稍稍逗她玩一下",
+          "icon": "00000100",
+          "iconillu": "琴美好感度上升1点",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt183"
+        }
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1600,
+        "type": "option",
+        "text": "回答说『不是』",
+        "css": "btn",
+        "ref": "divTxtBtn186"
+      },
+      {
+        "x": 925,
+        "y": 1600,
+        "type": "option",
+        "text": "稍稍逗她玩一下",
+        "css": "btn",
+        "ref": "divTxtBtn192"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 1690,
+        "type": "date",
+        "text": "4月23日",
+        "css": "date",
+        "ref": "divBtn198"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1825,
+        "type": "date",
+        "text": "4月23日",
+        "css": "date",
+        "ref": "divBtn207"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1900,
+        "type": "selection",
+        "text": "学校的广播",
+        "css": "btn",
+        "ref": "divTxtBtn208"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1990,
+        "type": "option",
+        "text": "去办公室看看",
+        "css": "btn",
+        "ref": "divTxtBtn212"
+      },
+      {
+        "x": 825,
+        "y": 1990,
+        "type": "option",
+        "text": "再等一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn218"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 2080,
+        "type": "date",
+        "text": "4月25日",
+        "css": "date",
+        "ref": "divBtn224"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 750,
+        "y": 175,
+        "type": "date",
+        "text": "4月20日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "读书的邀请",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 610,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "读书的邀请",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-读书",
+          "icon": "00000100",
+          "iconillu": "琴美好感度上升1点",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "读书的邀请",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 610,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "读书的邀请",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-读书",
+          "icon": "00000100",
+          "iconillu": "琴美好感度上升1点",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      },
+      {
+        "x": 425,
+        "y": 340,
+        "type": "option",
+        "text": "读书",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "读书的邀请",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 610,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "读书的邀请",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-读书",
+          "icon": "00000100",
+          "iconillu": "琴美好感度上升1点",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      },
+      {
+        "x": 825,
+        "y": 340,
+        "type": "option",
+        "text": "不读",
+        "css": "btn",
+        "ref": "divTxtBtn14"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "option",
+        "text": "读书",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 750,
+        "y": 430,
+        "type": "date",
+        "text": "4月21日",
+        "css": "date",
+        "ref": "divBtn20"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 340,
+        "type": "option",
+        "text": "不读",
+        "css": "btn",
+        "ref": "divTxtBtn14"
+      },
+      {
+        "x": 750,
+        "y": 430,
+        "type": "date",
+        "text": "4月21日",
+        "css": "date",
+        "ref": "divBtn20"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 565,
+        "type": "date",
+        "text": "4月21日",
+        "css": "date",
+        "ref": "divBtn29"
+      },
+      {
+        "x": 725,
+        "y": 640,
+        "type": "selection",
+        "text": "难得早起的朋也决定该做的事",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 700
+      },
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "迟点再去吧",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 700
+      },
+      {
+        "x": 1025,
+        "y": 730,
+        "type": "option",
+        "text": "认认真真起床上学",
+        "css": "btn",
+        "ref": "divTxtBtn39"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 640,
+        "type": "selection",
+        "text": "难得早起的朋也决定该做的事",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      },
+      {
+        "x": 900,
+        "y": 700
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "迟点再去吧",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 425,
+        "y": 790,
+        "type": "selection",
+        "text": "通学路上，身后传来引擎声",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 790,
+        "type": "selection",
+        "text": "通学路上，身后传来引擎声",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 25,
+        "y": 880,
+        "type": "option",
+        "text": "向右跳",
+        "css": "btn",
+        "ref": "divTxtBtn50"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 790,
+        "type": "selection",
+        "text": "通学路上，身后传来引擎声",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 425,
+        "y": 880,
+        "type": "option",
+        "text": "站稳等着它",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 790,
+        "type": "selection",
+        "text": "通学路上，身后传来引擎声",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 825,
+        "y": 880,
+        "type": "option",
+        "text": "向左跳",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 880,
+        "type": "option",
+        "text": "向右跳",
+        "css": "btn",
+        "ref": "divTxtBtn50"
+      },
+      {
+        "x": 25,
+        "y": 940,
+        "type": "selection",
+        "text": "事发现场，某路人成为受害者",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 940,
+        "type": "selection",
+        "text": "事发现场，某路人成为受害者",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      },
+      {
+        "x": 25,
+        "y": 1030,
+        "type": "option",
+        "text": "离开这里",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 940,
+        "type": "selection",
+        "text": "事发现场，某路人成为受害者",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      },
+      {
+        "x": 425,
+        "y": 1030,
+        "type": "option",
+        "text": "摇一摇他",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1030,
+        "type": "option",
+        "text": "离开这里",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 25,
+        "y": 1120,
+        "type": "selection",
+        "text": "受害者遗忘的简历",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1030,
+        "type": "option",
+        "text": "摇一摇他",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      },
+      {
+        "x": 25,
+        "y": 1120,
+        "type": "selection",
+        "text": "受害者遗忘的简历",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 730,
+        "type": "option",
+        "text": "认认真真起床上学",
+        "css": "btn",
+        "ref": "divTxtBtn39"
+      },
+      {
+        "x": 1025,
+        "y": 1120,
+        "type": "condition",
+        "text": "19日，春原准备威胁智代",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1120,
+        "type": "selection",
+        "text": "受害者遗忘的简历",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      },
+      {
+        "x": 25,
+        "y": 1210,
+        "type": "option",
+        "text": "查清地址后送给他",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1120,
+        "type": "selection",
+        "text": "受害者遗忘的简历",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      },
+      {
+        "x": 425,
+        "y": 1210,
+        "type": "option",
+        "text": "撕了扔掉",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1120,
+        "type": "condition",
+        "text": "19日，春原准备威胁智代",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      },
+      {
+        "x": 825,
+        "y": 1210,
+        "type": "selection",
+        "text": "劝他放弃",
+        "css": "btn",
+        "ref": "divTxtBtn102"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1120,
+        "type": "condition",
+        "text": "19日，春原准备威胁智代",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      },
+      {
+        "x": 1225,
+        "y": 1210,
+        "type": "selection",
+        "text": "不去管他",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1210,
+        "type": "selection",
+        "text": "劝他放弃",
+        "css": "btn",
+        "ref": "divTxtBtn102"
+      },
+      {
+        "x": 825,
+        "y": 1270,
+        "type": "selection",
+        "text": "坂道上遇到呆望樱花中的智代",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1270,
+        "type": "selection",
+        "text": "坂道上遇到呆望樱花中的智代",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      },
+      {
+        "x": 625,
+        "y": 1360,
+        "type": "option",
+        "text": "打招呼",
+        "css": "btn",
+        "ref": "divTxtBtn119"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1270,
+        "type": "selection",
+        "text": "坂道上遇到呆望樱花中的智代",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      },
+      {
+        "x": 1025,
+        "y": 1360,
+        "type": "option",
+        "text": "不理她",
+        "css": "btn",
+        "ref": "divTxtBtn125"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1210,
+        "type": "option",
+        "text": "查清地址后送给他",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      },
+      {
+        "x": 400,
+        "y": 1300
+      },
+      {
+        "x": 600,
+        "y": 1330
+      },
+      {
+        "x": 600,
+        "y": 1480
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1210,
+        "type": "option",
+        "text": "撕了扔掉",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      },
+      {
+        "x": 400,
+        "y": 1300
+      },
+      {
+        "x": 600,
+        "y": 1330
+      },
+      {
+        "x": 600,
+        "y": 1480
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 880,
+        "type": "option",
+        "text": "站稳等着它",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 800,
+        "y": 970
+      },
+      {
+        "x": 600,
+        "y": 1330
+      },
+      {
+        "x": 600,
+        "y": 1480
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 880,
+        "type": "option",
+        "text": "向左跳",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 800,
+        "y": 970
+      },
+      {
+        "x": 600,
+        "y": 1330
+      },
+      {
+        "x": 600,
+        "y": 1480
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1360,
+        "type": "option",
+        "text": "打招呼",
+        "css": "btn",
+        "ref": "divTxtBtn119"
+      },
+      {
+        "x": 1000,
+        "y": 1450
+      },
+      {
+        "x": 600,
+        "y": 1480
+      },
+      {
+        "x": 1200,
+        "y": 1480
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1360,
+        "type": "option",
+        "text": "不理她",
+        "css": "btn",
+        "ref": "divTxtBtn125"
+      },
+      {
+        "x": 1000,
+        "y": 1450
+      },
+      {
+        "x": 600,
+        "y": 1480
+      },
+      {
+        "x": 1200,
+        "y": 1480
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1210,
+        "type": "selection",
+        "text": "不去管他",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      },
+      {
+        "x": 600,
+        "y": 1480
+      },
+      {
+        "x": 1200,
+        "y": 1480
+      }
+    ],
+    [
+      {
+        "x": 900,
+        "y": 1480
+      },
+      {
+        "x": 725,
+        "y": 1510,
+        "type": "selection",
+        "text": "介意的琴美",
+        "css": "btn",
+        "ref": "divTxtBtn180",
+        "num": {
+          "x": 710,
+          "y": 1510,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn182"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1500,
+          "text": "介意的琴美",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-稍稍逗她玩一下",
+          "icon": "00000100",
+          "iconillu": "琴美好感度上升1点",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt183"
+        }
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1510,
+        "type": "selection",
+        "text": "介意的琴美",
+        "css": "btn",
+        "ref": "divTxtBtn180",
+        "num": {
+          "x": 710,
+          "y": 1510,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn182"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1500,
+          "text": "介意的琴美",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-稍稍逗她玩一下",
+          "icon": "00000100",
+          "iconillu": "琴美好感度上升1点",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt183"
+        }
+      },
+      {
+        "x": 525,
+        "y": 1600,
+        "type": "option",
+        "text": "回答说『不是』",
+        "css": "btn",
+        "ref": "divTxtBtn186"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1510,
+        "type": "selection",
+        "text": "介意的琴美",
+        "css": "btn",
+        "ref": "divTxtBtn180",
+        "num": {
+          "x": 710,
+          "y": 1510,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn182"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1500,
+          "text": "介意的琴美",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-稍稍逗她玩一下",
+          "icon": "00000100",
+          "iconillu": "琴美好感度上升1点",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt183"
+        }
+      },
+      {
+        "x": 925,
+        "y": 1600,
+        "type": "option",
+        "text": "稍稍逗她玩一下",
+        "css": "btn",
+        "ref": "divTxtBtn192"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1600,
+        "type": "option",
+        "text": "回答说『不是』",
+        "css": "btn",
+        "ref": "divTxtBtn186"
+      },
+      {
+        "x": 850,
+        "y": 1690,
+        "type": "date",
+        "text": "4月23日",
+        "css": "date",
+        "ref": "divBtn198"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 1600,
+        "type": "option",
+        "text": "稍稍逗她玩一下",
+        "css": "btn",
+        "ref": "divTxtBtn192"
+      },
+      {
+        "x": 850,
+        "y": 1690,
+        "type": "date",
+        "text": "4月23日",
+        "css": "date",
+        "ref": "divBtn198"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1825,
+        "type": "date",
+        "text": "4月23日",
+        "css": "date",
+        "ref": "divBtn207"
+      },
+      {
+        "x": 625,
+        "y": 1900,
+        "type": "selection",
+        "text": "学校的广播",
+        "css": "btn",
+        "ref": "divTxtBtn208"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1900,
+        "type": "selection",
+        "text": "学校的广播",
+        "css": "btn",
+        "ref": "divTxtBtn208"
+      },
+      {
+        "x": 425,
+        "y": 1990,
+        "type": "option",
+        "text": "去办公室看看",
+        "css": "btn",
+        "ref": "divTxtBtn212"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1900,
+        "type": "selection",
+        "text": "学校的广播",
+        "css": "btn",
+        "ref": "divTxtBtn208"
+      },
+      {
+        "x": 825,
+        "y": 1990,
+        "type": "option",
+        "text": "再等一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn218"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1990,
+        "type": "option",
+        "text": "去办公室看看",
+        "css": "btn",
+        "ref": "divTxtBtn212"
+      },
+      {
+        "x": 750,
+        "y": 2080,
+        "type": "date",
+        "text": "4月25日",
+        "css": "date",
+        "ref": "divBtn224"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1990,
+        "type": "option",
+        "text": "再等一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn218"
+      },
+      {
+        "x": 750,
+        "y": 2080,
+        "type": "date",
+        "text": "4月25日",
+        "css": "date",
+        "ref": "divBtn224"
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 240,
+      "text": "读书的邀请",
+      "num": "1",
+      "summary": "",
+      "hint": "",
+      "setsumei": "",
+      "option": "-读书",
+      "icon": "00000100",
+      "iconillu": "琴美好感度上升1点",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt5"
+    },
+    {
+      "x": 1625,
+      "y": 1500,
+      "text": "介意的琴美",
+      "num": "1",
+      "summary": "",
+      "hint": "",
+      "setsumei": "",
+      "option": "-稍稍逗她玩一下",
+      "icon": "00000100",
+      "iconillu": "琴美好感度上升1点",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt183"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "kotomi",
+    "routeC": "一之濑 琴美",
+    "routeE": "Kotomi Ichinose",
+    "dateC": "4月20日～4月23日",
+    "dateE": "April 20th~April 23rd",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 2140,
+    "page": 40,
+    "ref": "divFt233"
+  },
+  "board": []
+}

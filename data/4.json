@@ -1,0 +1,717 @@
+{
+  "box": [
+    [
+      {
+        "x": 825,
+        "y": 190,
+        "type": "condition",
+        "text": "15日，回想起庭院中的少女",
+        "css": "btn",
+        "ref": "divTxtBtn1"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 280,
+        "type": "selection",
+        "text": "在意",
+        "css": "btn",
+        "ref": "divTxtBtn5"
+      },
+      {
+        "x": 1125,
+        "y": 280,
+        "type": "selection",
+        "text": "不在意",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn10"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "condition",
+        "text": "15日，面对泪水打转的椋",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 430,
+        "type": "selection",
+        "text": "道歉",
+        "css": "btn",
+        "ref": "divTxtBtn22"
+      },
+      {
+        "x": 725,
+        "y": 430,
+        "type": "selection",
+        "text": "无视",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 490,
+        "type": "selection",
+        "text": "早晨对古河的约定",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 580,
+        "type": "option",
+        "text": "跑去买",
+        "route": "l|渚|风子",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 925,
+        "y": 580,
+        "type": "option",
+        "text": "用不着那么做",
+        "route": "r|渚|风子",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 670,
+        "type": "selection",
+        "text": "古河重新创立话剧社",
+        "css": "btn",
+        "ref": "divTxtBtn54",
+        "num": {
+          "x": 310,
+          "y": 670,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn56"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 660,
+          "text": "古河重新创立话剧社",
+          "num": "3",
+          "summary": "渚下定决心振作起来去实现自己的梦想，重建废弃的话剧社，但她需要朋也的帮助。",
+          "hint": "这是学院篇前期重要节点。选择[帮忙]则继续进行渚线和风子线；选择[让她一个人做]则有可能进入美佐枝线、胜平线和智代线的角色剧情，分支对此三条路线的影响要等到学院篇后期才会显现出来。",
+          "setsumei": "",
+          "option": "-帮忙",
+          "icon": "01000000",
+          "iconillu": "渚参与体育仓库事件",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt57"
+        }
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 760,
+        "type": "option",
+        "text": "让她一个人做",
+        "route": "l|智代|胜平|美佐枝|-渚|-风子",
+        "css": "btn",
+        "ref": "divTxtBtn64"
+      },
+      {
+        "x": 525,
+        "y": 760,
+        "type": "option",
+        "text": "帮忙",
+        "route": "r|-渚|-风子|智代|胜平|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn75"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 820,
+        "type": "selection",
+        "text": "古河的提议「住到我家来」",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 910,
+        "type": "option",
+        "text": "怎么可以这样",
+        "css": "btn",
+        "ref": "divTxtBtn90"
+      },
+      {
+        "x": 725,
+        "y": 910,
+        "type": "option",
+        "text": "想这么做",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      }
+    ],
+    [
+      {
+        "x": 950,
+        "y": 1060,
+        "type": "date",
+        "text": "4月17日",
+        "css": "date",
+        "ref": "divBtn102"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 1000,
+        "y": 175
+      },
+      {
+        "x": 1000,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 900,
+        "y": 250
+      },
+      {
+        "x": 525,
+        "y": 280,
+        "type": "selection",
+        "text": "在意",
+        "css": "btn",
+        "ref": "divTxtBtn5"
+      }
+    ],
+    [
+      {
+        "x": 900,
+        "y": 250
+      },
+      {
+        "x": 1125,
+        "y": 280,
+        "type": "selection",
+        "text": "不在意",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn10"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 190,
+        "type": "condition",
+        "text": "15日，回想起庭院中的少女",
+        "css": "btn",
+        "ref": "divTxtBtn1"
+      },
+      {
+        "x": 1000,
+        "y": 250
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 280,
+        "type": "selection",
+        "text": "在意",
+        "css": "btn",
+        "ref": "divTxtBtn5"
+      },
+      {
+        "x": 525,
+        "y": 340,
+        "type": "condition",
+        "text": "15日，面对泪水打转的椋",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "condition",
+        "text": "15日，面对泪水打转的椋",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      },
+      {
+        "x": 325,
+        "y": 430,
+        "type": "selection",
+        "text": "道歉",
+        "css": "btn",
+        "ref": "divTxtBtn22"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "condition",
+        "text": "15日，面对泪水打转的椋",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      },
+      {
+        "x": 725,
+        "y": 430,
+        "type": "selection",
+        "text": "无视",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 430,
+        "type": "selection",
+        "text": "无视",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      },
+      {
+        "x": 725,
+        "y": 490,
+        "type": "selection",
+        "text": "早晨对古河的约定",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 490,
+        "type": "selection",
+        "text": "早晨对古河的约定",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 525,
+        "y": 580,
+        "type": "option",
+        "text": "跑去买",
+        "route": "l|渚|风子",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 490,
+        "type": "selection",
+        "text": "早晨对古河的约定",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 925,
+        "y": 580,
+        "type": "option",
+        "text": "用不着那么做",
+        "route": "r|渚|风子",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 580,
+        "type": "option",
+        "text": "跑去买",
+        "route": "l|渚|风子",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 325,
+        "y": 670,
+        "type": "selection",
+        "text": "古河重新创立话剧社",
+        "css": "btn",
+        "ref": "divTxtBtn54",
+        "num": {
+          "x": 310,
+          "y": 670,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn56"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 660,
+          "text": "古河重新创立话剧社",
+          "num": "3",
+          "summary": "渚下定决心振作起来去实现自己的梦想，重建废弃的话剧社，但她需要朋也的帮助。",
+          "hint": "这是学院篇前期重要节点。选择[帮忙]则继续进行渚线和风子线；选择[让她一个人做]则有可能进入美佐枝线、胜平线和智代线的角色剧情，分支对此三条路线的影响要等到学院篇后期才会显现出来。",
+          "setsumei": "",
+          "option": "-帮忙",
+          "icon": "01000000",
+          "iconillu": "渚参与体育仓库事件",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt57"
+        }
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 430,
+        "type": "selection",
+        "text": "道歉",
+        "css": "btn",
+        "ref": "divTxtBtn22"
+      },
+      {
+        "x": 325,
+        "y": 670,
+        "type": "selection",
+        "text": "古河重新创立话剧社",
+        "css": "btn",
+        "ref": "divTxtBtn54",
+        "num": {
+          "x": 310,
+          "y": 670,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn56"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 660,
+          "text": "古河重新创立话剧社",
+          "num": "3",
+          "summary": "渚下定决心振作起来去实现自己的梦想，重建废弃的话剧社，但她需要朋也的帮助。",
+          "hint": "这是学院篇前期重要节点。选择[帮忙]则继续进行渚线和风子线；选择[让她一个人做]则有可能进入美佐枝线、胜平线和智代线的角色剧情，分支对此三条路线的影响要等到学院篇后期才会显现出来。",
+          "setsumei": "",
+          "option": "-帮忙",
+          "icon": "01000000",
+          "iconillu": "渚参与体育仓库事件",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt57"
+        }
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 670,
+        "type": "selection",
+        "text": "古河重新创立话剧社",
+        "css": "btn",
+        "ref": "divTxtBtn54",
+        "num": {
+          "x": 310,
+          "y": 670,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn56"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 660,
+          "text": "古河重新创立话剧社",
+          "num": "3",
+          "summary": "渚下定决心振作起来去实现自己的梦想，重建废弃的话剧社，但她需要朋也的帮助。",
+          "hint": "这是学院篇前期重要节点。选择[帮忙]则继续进行渚线和风子线；选择[让她一个人做]则有可能进入美佐枝线、胜平线和智代线的角色剧情，分支对此三条路线的影响要等到学院篇后期才会显现出来。",
+          "setsumei": "",
+          "option": "-帮忙",
+          "icon": "01000000",
+          "iconillu": "渚参与体育仓库事件",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt57"
+        }
+      },
+      {
+        "x": 125,
+        "y": 760,
+        "type": "option",
+        "text": "让她一个人做",
+        "route": "l|智代|胜平|美佐枝|-渚|-风子",
+        "css": "btn",
+        "ref": "divTxtBtn64"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 670,
+        "type": "selection",
+        "text": "古河重新创立话剧社",
+        "css": "btn",
+        "ref": "divTxtBtn54",
+        "num": {
+          "x": 310,
+          "y": 670,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn56"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 660,
+          "text": "古河重新创立话剧社",
+          "num": "3",
+          "summary": "渚下定决心振作起来去实现自己的梦想，重建废弃的话剧社，但她需要朋也的帮助。",
+          "hint": "这是学院篇前期重要节点。选择[帮忙]则继续进行渚线和风子线；选择[让她一个人做]则有可能进入美佐枝线、胜平线和智代线的角色剧情，分支对此三条路线的影响要等到学院篇后期才会显现出来。",
+          "setsumei": "",
+          "option": "-帮忙",
+          "icon": "01000000",
+          "iconillu": "渚参与体育仓库事件",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt57"
+        }
+      },
+      {
+        "x": 525,
+        "y": 760,
+        "type": "option",
+        "text": "帮忙",
+        "route": "r|-渚|-风子|智代|胜平|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn75"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 760,
+        "type": "option",
+        "text": "帮忙",
+        "route": "r|-渚|-风子|智代|胜平|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn75"
+      },
+      {
+        "x": 525,
+        "y": 820,
+        "type": "selection",
+        "text": "古河的提议「住到我家来」",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 820,
+        "type": "selection",
+        "text": "古河的提议「住到我家来」",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      },
+      {
+        "x": 325,
+        "y": 910,
+        "type": "option",
+        "text": "怎么可以这样",
+        "css": "btn",
+        "ref": "divTxtBtn90"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 820,
+        "type": "selection",
+        "text": "古河的提议「住到我家来」",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      },
+      {
+        "x": 725,
+        "y": 910,
+        "type": "option",
+        "text": "想这么做",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      }
+    ],
+    [
+      {
+        "x": 1000,
+        "y": 1030
+      },
+      {
+        "x": 950,
+        "y": 1060,
+        "type": "date",
+        "text": "4月17日",
+        "css": "date",
+        "ref": "divBtn102"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 760,
+        "type": "option",
+        "text": "让她一个人做",
+        "route": "l|智代|胜平|美佐枝|-渚|-风子",
+        "css": "btn",
+        "ref": "divTxtBtn64"
+      },
+      {
+        "x": 300,
+        "y": 1000
+      },
+      {
+        "x": 700,
+        "y": 1030
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 910,
+        "type": "option",
+        "text": "怎么可以这样",
+        "css": "btn",
+        "ref": "divTxtBtn90"
+      },
+      {
+        "x": 700,
+        "y": 1000
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 910,
+        "type": "option",
+        "text": "想这么做",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      },
+      {
+        "x": 700,
+        "y": 1000
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 580,
+        "type": "option",
+        "text": "用不着那么做",
+        "route": "r|渚|风子",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 1100,
+        "y": 1000
+      },
+      {
+        "x": 700,
+        "y": 1030
+      }
+    ],
+    [
+      {
+        "x": 1125,
+        "y": 280,
+        "type": "selection",
+        "text": "不在意",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn10"
+      },
+      {
+        "x": 700,
+        "y": 1030
+      },
+      {
+        "x": 1300,
+        "y": 1030
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 660,
+      "text": "古河重新创立话剧社",
+      "num": "3",
+      "summary": "渚下定决心振作起来去实现自己的梦想，重建废弃的话剧社，但她需要朋也的帮助。",
+      "hint": "这是学院篇前期重要节点。选择[帮忙]则继续进行渚线和风子线；选择[让她一个人做]则有可能进入美佐枝线、胜平线和智代线的角色剧情，分支对此三条路线的影响要等到学院篇后期才会显现出来。",
+      "setsumei": "",
+      "option": "-帮忙",
+      "icon": "01000000",
+      "iconillu": "渚参与体育仓库事件",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt57"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "4月16日（二）",
+    "dateE": "April 16th~Part 2",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1090,
+    "page": 4,
+    "ref": "divFt124"
+  },
+  "board": []
+}

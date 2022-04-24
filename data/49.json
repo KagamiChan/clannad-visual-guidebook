@@ -1,0 +1,1151 @@
+{
+  "box": [
+    [
+      {
+        "x": 25,
+        "y": 190,
+        "type": "option",
+        "text": "风子大师（四）",
+        "css": "btn",
+        "ref": "divTxtBtn1",
+        "link": "p49_KFMT4"
+      },
+      {
+        "x": 725,
+        "y": 190,
+        "type": "condition",
+        "text": "23日，风子陷入幻想（三）",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "selection",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      },
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "selection",
+        "text": "不去管她",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "风子陷入幻想（四）",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 430,
+        "type": "option",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      },
+      {
+        "x": 725,
+        "y": 430,
+        "type": "option",
+        "text": "不去管她",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 490,
+        "type": "selection",
+        "text": "风子恶作剧（三）",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 550,
+        "type": "option",
+        "text": "让风子用鼻子喝果汁",
+        "css": "btn",
+        "ref": "divTxtBtn39"
+      },
+      {
+        "x": 475,
+        "y": 550,
+        "type": "option",
+        "text": "“让风子用鼻子喝果汁”升级/达成",
+        "css": "btn",
+        "ref": "divTxtBtn43"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 610,
+        "type": "option",
+        "text": "把风子带到别处去",
+        "css": "btn",
+        "ref": "divTxtBtn45"
+      },
+      {
+        "x": 475,
+        "y": 610,
+        "type": "option",
+        "text": "“把风子带到别处去”升级/达成",
+        "css": "btn",
+        "ref": "divTxtBtn49"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 670,
+        "type": "option",
+        "text": "找人来装扮自己",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      },
+      {
+        "x": 475,
+        "y": 670,
+        "type": "option",
+        "text": "“找人来装扮自己”升级/达成",
+        "css": "btn",
+        "ref": "divTxtBtn55"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 730,
+        "type": "option",
+        "text": "偷换掉风子怀里的雕刻",
+        "css": "btn",
+        "ref": "divTxtBtn57"
+      },
+      {
+        "x": 475,
+        "y": 730,
+        "type": "option",
+        "text": "“偷换掉风子怀里的雕刻”升级",
+        "css": "btn",
+        "ref": "divTxtBtn61"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 940,
+        "type": "option",
+        "text": "风子大师（五）",
+        "css": "btn",
+        "ref": "divTxtBtn75",
+        "link": "p49_KFMT5"
+      },
+      {
+        "x": 625,
+        "y": 940,
+        "type": "condition",
+        "text": "23日，风子陷入幻想（四）",
+        "css": "btn",
+        "ref": "divTxtBtn77"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1030,
+        "type": "selection",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      },
+      {
+        "x": 925,
+        "y": 1030,
+        "type": "selection",
+        "text": "不去管她",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1090,
+        "type": "selection",
+        "text": "风子恶作剧（四）",
+        "css": "btn",
+        "ref": "divTxtBtn94"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1150,
+        "type": "option",
+        "text": "让风子用鼻子喝果汁",
+        "css": "btn",
+        "ref": "divTxtBtn98"
+      },
+      {
+        "x": 675,
+        "y": 1150,
+        "type": "option",
+        "text": "“让风子用鼻子喝果汁”升级/达成",
+        "css": "btn",
+        "ref": "divTxtBtn102"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1210,
+        "type": "option",
+        "text": "把风子带到别处去",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      },
+      {
+        "x": 675,
+        "y": 1210,
+        "type": "option",
+        "text": "“把风子带到别处去”升级/达成",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1270,
+        "type": "option",
+        "text": "找人来装扮自己",
+        "css": "btn",
+        "ref": "divTxtBtn110"
+      },
+      {
+        "x": 675,
+        "y": 1270,
+        "type": "option",
+        "text": "“找人来装扮自己”升级/达成",
+        "css": "btn",
+        "ref": "divTxtBtn114"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1330,
+        "type": "option",
+        "text": "偷换掉风子怀里的雕刻",
+        "css": "btn",
+        "ref": "divTxtBtn116"
+      },
+      {
+        "x": 675,
+        "y": 1330,
+        "type": "option",
+        "text": "“偷换掉风子怀里的雕刻”升级/达成",
+        "css": "btn",
+        "ref": "divTxtBtn120"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1510,
+        "type": "option",
+        "text": "风子大师（六）",
+        "css": "btn",
+        "ref": "divTxtBtn129",
+        "link": "p49_KFMT6"
+      },
+      {
+        "x": 625,
+        "y": 1510,
+        "type": "condition",
+        "text": "23日，风子陷入幻想（四）",
+        "css": "btn",
+        "ref": "divTxtBtn131"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1600,
+        "type": "selection",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      },
+      {
+        "x": 925,
+        "y": 1600,
+        "type": "selection",
+        "text": "不去管她",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn140"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1660,
+        "type": "selection",
+        "text": "风子恶作剧（五）",
+        "css": "btn",
+        "ref": "divTxtBtn148",
+        "num": {
+          "x": 310,
+          "y": 1660,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn150"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1650,
+          "text": "风子恶作剧（五）",
+          "num": "4",
+          "summary": "",
+          "hint": "本日，若选择[找别人来装扮自己]或[偷换掉风子怀里的雕刻]，会跳回重新作选择，这两项恶作剧本日无法完成。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt151"
+        }
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1720,
+        "type": "option",
+        "text": "让风子用鼻子喝果汁",
+        "css": "btn",
+        "ref": "divTxtBtn154"
+      },
+      {
+        "x": 675,
+        "y": 1720,
+        "type": "option",
+        "text": "“让风子用鼻子喝果汁”升级/达成",
+        "css": "btn",
+        "ref": "divTxtBtn158"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1780,
+        "type": "option",
+        "text": "把风子带到别处去",
+        "css": "btn",
+        "ref": "divTxtBtn160"
+      },
+      {
+        "x": 675,
+        "y": 1780,
+        "type": "option",
+        "text": "“把风子带到别处去”升级/达成",
+        "css": "btn",
+        "ref": "divTxtBtn164"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1840,
+        "type": "option",
+        "text": "找人来装扮自己",
+        "css": "btn",
+        "ref": "divTxtBtn166"
+      },
+      {
+        "x": 675,
+        "y": 1840,
+        "type": "option",
+        "text": "“找人来装扮自己”升级/达成",
+        "css": "btn",
+        "ref": "divTxtBtn170"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1900,
+        "type": "option",
+        "text": "偷换掉风子怀里的雕刻",
+        "css": "btn",
+        "ref": "divTxtBtn172"
+      },
+      {
+        "x": 675,
+        "y": 1900,
+        "type": "option",
+        "text": "“偷换掉风子怀里的雕刻”升级/达成",
+        "css": "btn",
+        "ref": "divTxtBtn176"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 900,
+        "y": 175
+      },
+      {
+        "x": 900,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 250
+      },
+      {
+        "x": 425,
+        "y": 280,
+        "type": "selection",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 250
+      },
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "selection",
+        "text": "不去管她",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 190,
+        "type": "condition",
+        "text": "23日，风子陷入幻想（三）",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 900,
+        "y": 250
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "selection",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      },
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "风子陷入幻想（四）",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      }
+    ],
+    [
+      {
+        "x": 500,
+        "y": 400
+      },
+      {
+        "x": 125,
+        "y": 430,
+        "type": "option",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      }
+    ],
+    [
+      {
+        "x": 500,
+        "y": 400
+      },
+      {
+        "x": 725,
+        "y": 430,
+        "type": "option",
+        "text": "不去管她",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "风子陷入幻想（四）",
+        "css": "btn",
+        "ref": "divTxtBtn19"
+      },
+      {
+        "x": 600,
+        "y": 400
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 430,
+        "type": "option",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      },
+      {
+        "x": 125,
+        "y": 490,
+        "type": "selection",
+        "text": "风子恶作剧（三）",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 490,
+        "type": "selection",
+        "text": "风子恶作剧（三）",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      },
+      {
+        "x": 125,
+        "y": 550,
+        "type": "option",
+        "text": "让风子用鼻子喝果汁",
+        "css": "btn",
+        "ref": "divTxtBtn39"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 550,
+        "type": "option",
+        "text": "让风子用鼻子喝果汁",
+        "css": "btn",
+        "ref": "divTxtBtn39"
+      },
+      {
+        "x": 125,
+        "y": 610,
+        "type": "option",
+        "text": "把风子带到别处去",
+        "css": "btn",
+        "ref": "divTxtBtn45"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 610,
+        "type": "option",
+        "text": "把风子带到别处去",
+        "css": "btn",
+        "ref": "divTxtBtn45"
+      },
+      {
+        "x": 125,
+        "y": 670,
+        "type": "option",
+        "text": "找人来装扮自己",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 670,
+        "type": "option",
+        "text": "找人来装扮自己",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      },
+      {
+        "x": 125,
+        "y": 730,
+        "type": "option",
+        "text": "偷换掉风子怀里的雕刻",
+        "css": "btn",
+        "ref": "divTxtBtn57"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 730,
+        "type": "option",
+        "text": "偷换掉风子怀里的雕刻",
+        "css": "btn",
+        "ref": "divTxtBtn57"
+      },
+      {
+        "x": 300,
+        "y": 790
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 430,
+        "type": "option",
+        "text": "不去管她",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      },
+      {
+        "x": 300,
+        "y": 790
+      },
+      {
+        "x": 900,
+        "y": 790
+      }
+    ],
+    [
+      {
+        "x": 600,
+        "y": 790
+      },
+      {
+        "x": 600,
+        "y": 820
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "selection",
+        "text": "不去管她",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      },
+      {
+        "x": 600,
+        "y": 820
+      },
+      {
+        "x": 1200,
+        "y": 820
+      }
+    ],
+    [
+      {
+        "x": 900,
+        "y": 820
+      },
+      {
+        "x": 900,
+        "y": 820
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 925
+      },
+      {
+        "x": 800,
+        "y": 925
+      }
+    ],
+    [
+      {
+        "x": 700,
+        "y": 1000
+      },
+      {
+        "x": 325,
+        "y": 1030,
+        "type": "selection",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      }
+    ],
+    [
+      {
+        "x": 700,
+        "y": 1000
+      },
+      {
+        "x": 925,
+        "y": 1030,
+        "type": "selection",
+        "text": "不去管她",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 940,
+        "type": "condition",
+        "text": "23日，风子陷入幻想（四）",
+        "css": "btn",
+        "ref": "divTxtBtn77"
+      },
+      {
+        "x": 800,
+        "y": 1000
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1030,
+        "type": "selection",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      },
+      {
+        "x": 325,
+        "y": 1090,
+        "type": "selection",
+        "text": "风子恶作剧（四）",
+        "css": "btn",
+        "ref": "divTxtBtn94"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1090,
+        "type": "selection",
+        "text": "风子恶作剧（四）",
+        "css": "btn",
+        "ref": "divTxtBtn94"
+      },
+      {
+        "x": 325,
+        "y": 1150,
+        "type": "option",
+        "text": "让风子用鼻子喝果汁",
+        "css": "btn",
+        "ref": "divTxtBtn98"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1150,
+        "type": "option",
+        "text": "让风子用鼻子喝果汁",
+        "css": "btn",
+        "ref": "divTxtBtn98"
+      },
+      {
+        "x": 325,
+        "y": 1210,
+        "type": "option",
+        "text": "把风子带到别处去",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1210,
+        "type": "option",
+        "text": "把风子带到别处去",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      },
+      {
+        "x": 325,
+        "y": 1270,
+        "type": "option",
+        "text": "找人来装扮自己",
+        "css": "btn",
+        "ref": "divTxtBtn110"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1270,
+        "type": "option",
+        "text": "找人来装扮自己",
+        "css": "btn",
+        "ref": "divTxtBtn110"
+      },
+      {
+        "x": 325,
+        "y": 1330,
+        "type": "option",
+        "text": "偷换掉风子怀里的雕刻",
+        "css": "btn",
+        "ref": "divTxtBtn116"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1330,
+        "type": "option",
+        "text": "偷换掉风子怀里的雕刻",
+        "css": "btn",
+        "ref": "divTxtBtn116"
+      },
+      {
+        "x": 500,
+        "y": 1390
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 1030,
+        "type": "selection",
+        "text": "不去管她",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      },
+      {
+        "x": 500,
+        "y": 1390
+      },
+      {
+        "x": 1100,
+        "y": 1390
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 1390
+      },
+      {
+        "x": 800,
+        "y": 1390
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 1495
+      },
+      {
+        "x": 800,
+        "y": 1495
+      }
+    ],
+    [
+      {
+        "x": 700,
+        "y": 1570
+      },
+      {
+        "x": 325,
+        "y": 1600,
+        "type": "selection",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      }
+    ],
+    [
+      {
+        "x": 700,
+        "y": 1570
+      },
+      {
+        "x": 925,
+        "y": 1600,
+        "type": "selection",
+        "text": "不去管她",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn140"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1510,
+        "type": "condition",
+        "text": "23日，风子陷入幻想（四）",
+        "css": "btn",
+        "ref": "divTxtBtn131"
+      },
+      {
+        "x": 800,
+        "y": 1570
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1600,
+        "type": "selection",
+        "text": "恶作剧",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      },
+      {
+        "x": 325,
+        "y": 1660,
+        "type": "selection",
+        "text": "风子恶作剧（五）",
+        "css": "btn",
+        "ref": "divTxtBtn148",
+        "num": {
+          "x": 310,
+          "y": 1660,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn150"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1650,
+          "text": "风子恶作剧（五）",
+          "num": "4",
+          "summary": "",
+          "hint": "本日，若选择[找别人来装扮自己]或[偷换掉风子怀里的雕刻]，会跳回重新作选择，这两项恶作剧本日无法完成。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt151"
+        }
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1660,
+        "type": "selection",
+        "text": "风子恶作剧（五）",
+        "css": "btn",
+        "ref": "divTxtBtn148",
+        "num": {
+          "x": 310,
+          "y": 1660,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn150"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1650,
+          "text": "风子恶作剧（五）",
+          "num": "4",
+          "summary": "",
+          "hint": "本日，若选择[找别人来装扮自己]或[偷换掉风子怀里的雕刻]，会跳回重新作选择，这两项恶作剧本日无法完成。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt151"
+        }
+      },
+      {
+        "x": 325,
+        "y": 1720,
+        "type": "option",
+        "text": "让风子用鼻子喝果汁",
+        "css": "btn",
+        "ref": "divTxtBtn154"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1720,
+        "type": "option",
+        "text": "让风子用鼻子喝果汁",
+        "css": "btn",
+        "ref": "divTxtBtn154"
+      },
+      {
+        "x": 325,
+        "y": 1780,
+        "type": "option",
+        "text": "把风子带到别处去",
+        "css": "btn",
+        "ref": "divTxtBtn160"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1780,
+        "type": "option",
+        "text": "把风子带到别处去",
+        "css": "btn",
+        "ref": "divTxtBtn160"
+      },
+      {
+        "x": 325,
+        "y": 1840,
+        "type": "option",
+        "text": "找人来装扮自己",
+        "css": "btn",
+        "ref": "divTxtBtn166"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1840,
+        "type": "option",
+        "text": "找人来装扮自己",
+        "css": "btn",
+        "ref": "divTxtBtn166"
+      },
+      {
+        "x": 325,
+        "y": 1900,
+        "type": "option",
+        "text": "偷换掉风子怀里的雕刻",
+        "css": "btn",
+        "ref": "divTxtBtn172"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1900,
+        "type": "option",
+        "text": "偷换掉风子怀里的雕刻",
+        "css": "btn",
+        "ref": "divTxtBtn172"
+      },
+      {
+        "x": 500,
+        "y": 1960
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 1600,
+        "type": "selection",
+        "text": "不去管她",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn140"
+      },
+      {
+        "x": 500,
+        "y": 1960
+      },
+      {
+        "x": 1100,
+        "y": 1960
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 1960
+      },
+      {
+        "x": 800,
+        "y": 1960
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 1650,
+      "text": "风子恶作剧（五）",
+      "num": "4",
+      "summary": "",
+      "hint": "本日，若选择[找别人来装扮自己]或[偷换掉风子怀里的雕刻]，会跳回重新作选择，这两项恶作剧本日无法完成。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt151"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "fuuko",
+    "routeC": "伊吹 风子",
+    "routeE": "Fuuko Ibuki",
+    "dateC": "风子大师（二）",
+    "dateE": "Fuuko Master~Part 2",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1990,
+    "page": 49,
+    "ref": "divFt185"
+  },
+  "board": []
+}

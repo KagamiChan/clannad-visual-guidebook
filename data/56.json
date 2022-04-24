@@ -1,0 +1,1471 @@
+{
+  "box": [
+    [
+      {
+        "x": 25,
+        "y": 190,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn1",
+        "link": "p56_33BB"
+      },
+      {
+        "x": 625,
+        "y": 190,
+        "type": "selection",
+        "text": "寻找范围的确定（一）",
+        "css": "btn",
+        "ref": "divTxtBtn3",
+        "num": {
+          "x": 610,
+          "y": 190,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn5"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 180,
+          "text": "寻找范围的确定",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "+在新校舍寻找</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" background=\"Ori/Comment/Comment_Option_B.png\" align=\"center\"><div class=\"cmtoptOri\">去二楼寻找</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"326\" height=\"42\" valign=\"bottom\" align=\"left\" class=\"commentOri\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Basketball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Graduation[A].png\" style=\"margin-right:0px;\"></td><td width=\"404\"><table border=0 cellpadding=0 cellspacing=0 height=35 background=\"Ori/Comment/Comment_Tips.png\"><tr><td height=35 valign=\"middle\" class=\"cmtEvntOri\" width=\"394\">智代有条件参与毕业典礼</td></tr></table></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\" height=\"5\"></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"243\" height=\"20\" background=\"Ori/Comment/Comment_Option_A.png\" valign=\"bottom\" align=\"center\"><div class=\"cmtoptOri\">在旧校舍寻找|-去资料室找找",
+          "icon": "00000001",
+          "iconillu": "美佐枝有条件参与毕业典礼。如果26日在分支前来探亲的芽衣选择好的，则美佐枝已确定出席毕业典礼，此处的选择没有影响",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt6"
+        }
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 280,
+        "type": "option",
+        "text": "在新校舍寻找",
+        "css": "btn",
+        "ref": "divTxtBtn9"
+      },
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "option",
+        "text": "在旧校舍寻找",
+        "css": "btn",
+        "ref": "divTxtBtn15"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 340,
+        "type": "selection",
+        "text": "寻找范围的确定（二）",
+        "css": "btn",
+        "ref": "divTxtBtn21"
+      },
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "selection",
+        "text": "寻找范围的确定（三）",
+        "css": "btn",
+        "ref": "divTxtBtn25"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 430,
+        "type": "option",
+        "text": "去二楼寻找",
+        "css": "btn",
+        "ref": "divTxtBtn29"
+      },
+      {
+        "x": 425,
+        "y": 430,
+        "type": "option",
+        "text": "去三楼寻找",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      },
+      {
+        "x": 825,
+        "y": 430,
+        "type": "option",
+        "text": "去空教室找找",
+        "css": "btn",
+        "ref": "divTxtBtn41"
+      },
+      {
+        "x": 1225,
+        "y": 430,
+        "type": "option",
+        "text": "去资料室找找",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 490,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn53",
+        "link": "p56_retA"
+      },
+      {
+        "x": 425,
+        "y": 490,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn57",
+        "link": "p56_retB"
+      },
+      {
+        "x": 825,
+        "y": 490,
+        "type": "block",
+        "text": "C",
+        "css": "btn",
+        "ref": "divTxtBtn61",
+        "link": "p56_retC"
+      },
+      {
+        "x": 1225,
+        "y": 490,
+        "type": "block",
+        "text": "D",
+        "css": "btn",
+        "ref": "divTxtBtn65",
+        "link": "p56_retD"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 700,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn89",
+        "link": "p56_A"
+      },
+      {
+        "x": 1025,
+        "y": 700,
+        "type": "condition",
+        "text": "已经来过新校舍二楼",
+        "css": "btn",
+        "ref": "divTxtBtn91",
+        "num": {
+          "x": 1010,
+          "y": 700,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn93"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 690,
+          "text": "已经来过新校舍二楼",
+          "num": "2",
+          "summary": "",
+          "hint": "{已经来过新校舍二楼}即今日在3对3篮球赛（一）中触发过分支{寻找范围的确定（二）}并且选择了[去二楼寻找]。分支{寻找范围的确定（二）和（三）}的四个选项[去二楼寻找]、[去三楼寻找]、[去空教室找找]、[去资料室找找]只有第一次选择时才会发生剧情。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt94"
+        }
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 790,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn98"
+      },
+      {
+        "x": 1225,
+        "y": 790,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 850,
+        "type": "condition",
+        "text": "17日，春原挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn110"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 940,
+        "type": "selection",
+        "text": "跟着他去",
+        "css": "btn",
+        "ref": "divTxtBtn114"
+      },
+      {
+        "x": 1025,
+        "y": 940,
+        "type": "selection",
+        "text": "不去管他",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn120"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1000,
+        "type": "selection",
+        "text": "考虑邀请智代",
+        "css": "btn",
+        "ref": "divTxtBtn127",
+        "num": {
+          "x": 610,
+          "y": 1000,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn129"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 990,
+          "text": "考虑邀请智代",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "+能行|-最后做一次蠢事",
+          "icon": "00000001",
+          "iconillu": "智代参与毕业典礼",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt130"
+        }
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1090,
+        "type": "option",
+        "text": "能行",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      },
+      {
+        "x": 825,
+        "y": 1090,
+        "type": "option",
+        "text": "再考虑一下",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1150,
+        "type": "selection",
+        "text": "说服智代的理由",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1240,
+        "type": "option",
+        "text": "最后做一次蠢事",
+        "css": "btn",
+        "ref": "divTxtBtn149"
+      },
+      {
+        "x": 425,
+        "y": 1240,
+        "type": "option",
+        "text": "避免运动不足",
+        "css": "btn",
+        "ref": "divTxtBtn155"
+      },
+      {
+        "x": 825,
+        "y": 1240,
+        "type": "option",
+        "text": "卖我们个人情",
+        "css": "btn",
+        "ref": "divTxtBtn159"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1300,
+        "type": "option",
+        "text": "智代成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn165"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1390,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn171",
+        "num": {
+          "x": 1010,
+          "y": 1390,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn173"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1380,
+          "text": "3对3篮球赛（一）",
+          "num": "4",
+          "summary": "",
+          "hint": "再次进入3对3篮球赛（一），即跳回到28日分支{寻找范围的确定（一）}。接下来的{3对3篮球赛（一）}同样是这个意思。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt174"
+        }
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 800,
+        "y": 175
+      },
+      {
+        "x": 800,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 190,
+        "type": "selection",
+        "text": "寻找范围的确定（一）",
+        "css": "btn",
+        "ref": "divTxtBtn3",
+        "num": {
+          "x": 610,
+          "y": 190,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn5"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 180,
+          "text": "寻找范围的确定",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "+在新校舍寻找</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" background=\"Ori/Comment/Comment_Option_B.png\" align=\"center\"><div class=\"cmtoptOri\">去二楼寻找</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"326\" height=\"42\" valign=\"bottom\" align=\"left\" class=\"commentOri\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Basketball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Graduation[A].png\" style=\"margin-right:0px;\"></td><td width=\"404\"><table border=0 cellpadding=0 cellspacing=0 height=35 background=\"Ori/Comment/Comment_Tips.png\"><tr><td height=35 valign=\"middle\" class=\"cmtEvntOri\" width=\"394\">智代有条件参与毕业典礼</td></tr></table></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\" height=\"5\"></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"243\" height=\"20\" background=\"Ori/Comment/Comment_Option_A.png\" valign=\"bottom\" align=\"center\"><div class=\"cmtoptOri\">在旧校舍寻找|-去资料室找找",
+          "icon": "00000001",
+          "iconillu": "美佐枝有条件参与毕业典礼。如果26日在分支前来探亲的芽衣选择好的，则美佐枝已确定出席毕业典礼，此处的选择没有影响",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt6"
+        }
+      },
+      {
+        "x": 225,
+        "y": 280,
+        "type": "option",
+        "text": "在新校舍寻找",
+        "css": "btn",
+        "ref": "divTxtBtn9"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 190,
+        "type": "selection",
+        "text": "寻找范围的确定（一）",
+        "css": "btn",
+        "ref": "divTxtBtn3",
+        "num": {
+          "x": 610,
+          "y": 190,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn5"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 180,
+          "text": "寻找范围的确定",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "+在新校舍寻找</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" background=\"Ori/Comment/Comment_Option_B.png\" align=\"center\"><div class=\"cmtoptOri\">去二楼寻找</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"326\" height=\"42\" valign=\"bottom\" align=\"left\" class=\"commentOri\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Basketball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Graduation[A].png\" style=\"margin-right:0px;\"></td><td width=\"404\"><table border=0 cellpadding=0 cellspacing=0 height=35 background=\"Ori/Comment/Comment_Tips.png\"><tr><td height=35 valign=\"middle\" class=\"cmtEvntOri\" width=\"394\">智代有条件参与毕业典礼</td></tr></table></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\" height=\"5\"></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"243\" height=\"20\" background=\"Ori/Comment/Comment_Option_A.png\" valign=\"bottom\" align=\"center\"><div class=\"cmtoptOri\">在旧校舍寻找|-去资料室找找",
+          "icon": "00000001",
+          "iconillu": "美佐枝有条件参与毕业典礼。如果26日在分支前来探亲的芽衣选择好的，则美佐枝已确定出席毕业典礼，此处的选择没有影响",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt6"
+        }
+      },
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "option",
+        "text": "在旧校舍寻找",
+        "css": "btn",
+        "ref": "divTxtBtn15"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 280,
+        "type": "option",
+        "text": "在新校舍寻找",
+        "css": "btn",
+        "ref": "divTxtBtn9"
+      },
+      {
+        "x": 225,
+        "y": 340,
+        "type": "selection",
+        "text": "寻找范围的确定（二）",
+        "css": "btn",
+        "ref": "divTxtBtn21"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "option",
+        "text": "在旧校舍寻找",
+        "css": "btn",
+        "ref": "divTxtBtn15"
+      },
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "selection",
+        "text": "寻找范围的确定（三）",
+        "css": "btn",
+        "ref": "divTxtBtn25"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 340,
+        "type": "selection",
+        "text": "寻找范围的确定（二）",
+        "css": "btn",
+        "ref": "divTxtBtn21"
+      },
+      {
+        "x": 25,
+        "y": 430,
+        "type": "option",
+        "text": "去二楼寻找",
+        "css": "btn",
+        "ref": "divTxtBtn29"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 340,
+        "type": "selection",
+        "text": "寻找范围的确定（二）",
+        "css": "btn",
+        "ref": "divTxtBtn21"
+      },
+      {
+        "x": 425,
+        "y": 430,
+        "type": "option",
+        "text": "去三楼寻找",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "selection",
+        "text": "寻找范围的确定（三）",
+        "css": "btn",
+        "ref": "divTxtBtn25"
+      },
+      {
+        "x": 825,
+        "y": 430,
+        "type": "option",
+        "text": "去空教室找找",
+        "css": "btn",
+        "ref": "divTxtBtn41"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "selection",
+        "text": "寻找范围的确定（三）",
+        "css": "btn",
+        "ref": "divTxtBtn25"
+      },
+      {
+        "x": 1225,
+        "y": 430,
+        "type": "option",
+        "text": "去资料室找找",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 430,
+        "type": "option",
+        "text": "去二楼寻找",
+        "css": "btn",
+        "ref": "divTxtBtn29"
+      },
+      {
+        "x": 25,
+        "y": 490,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn53",
+        "link": "p56_retA"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 430,
+        "type": "option",
+        "text": "去三楼寻找",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      },
+      {
+        "x": 425,
+        "y": 490,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn57",
+        "link": "p56_retB"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 430,
+        "type": "option",
+        "text": "去空教室找找",
+        "css": "btn",
+        "ref": "divTxtBtn41"
+      },
+      {
+        "x": 825,
+        "y": 490,
+        "type": "block",
+        "text": "C",
+        "css": "btn",
+        "ref": "divTxtBtn61",
+        "link": "p56_retC"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 430,
+        "type": "option",
+        "text": "去资料室找找",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      },
+      {
+        "x": 1225,
+        "y": 490,
+        "type": "block",
+        "text": "D",
+        "css": "btn",
+        "ref": "divTxtBtn65",
+        "link": "p56_retD"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 490,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn53",
+        "link": "p56_retA"
+      },
+      {
+        "x": 400,
+        "y": 580
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 490,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn57",
+        "link": "p56_retB"
+      },
+      {
+        "x": 400,
+        "y": 580
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 490,
+        "type": "block",
+        "text": "C",
+        "css": "btn",
+        "ref": "divTxtBtn61",
+        "link": "p56_retC"
+      },
+      {
+        "x": 400,
+        "y": 580
+      },
+      {
+        "x": 1200,
+        "y": 580
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 490,
+        "type": "block",
+        "text": "D",
+        "css": "btn",
+        "ref": "divTxtBtn65",
+        "link": "p56_retD"
+      },
+      {
+        "x": 400,
+        "y": 580
+      },
+      {
+        "x": 1200,
+        "y": 580
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 580
+      },
+      {
+        "x": 800,
+        "y": 580
+      }
+    ],
+    [
+      {
+        "x": 1200,
+        "y": 685
+      },
+      {
+        "x": 1200,
+        "y": 685
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 700,
+        "type": "condition",
+        "text": "已经来过新校舍二楼",
+        "css": "btn",
+        "ref": "divTxtBtn91",
+        "num": {
+          "x": 1010,
+          "y": 700,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn93"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 690,
+          "text": "已经来过新校舍二楼",
+          "num": "2",
+          "summary": "",
+          "hint": "{已经来过新校舍二楼}即今日在3对3篮球赛（一）中触发过分支{寻找范围的确定（二）}并且选择了[去二楼寻找]。分支{寻找范围的确定（二）和（三）}的四个选项[去二楼寻找]、[去三楼寻找]、[去空教室找找]、[去资料室找找]只有第一次选择时才会发生剧情。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt94"
+        }
+      },
+      {
+        "x": 825,
+        "y": 790,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn98"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 700,
+        "type": "condition",
+        "text": "已经来过新校舍二楼",
+        "css": "btn",
+        "ref": "divTxtBtn91",
+        "num": {
+          "x": 1010,
+          "y": 700,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn93"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 690,
+          "text": "已经来过新校舍二楼",
+          "num": "2",
+          "summary": "",
+          "hint": "{已经来过新校舍二楼}即今日在3对3篮球赛（一）中触发过分支{寻找范围的确定（二）}并且选择了[去二楼寻找]。分支{寻找范围的确定（二）和（三）}的四个选项[去二楼寻找]、[去三楼寻找]、[去空教室找找]、[去资料室找找]只有第一次选择时才会发生剧情。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt94"
+        }
+      },
+      {
+        "x": 1225,
+        "y": 790,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 790,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn98"
+      },
+      {
+        "x": 825,
+        "y": 850,
+        "type": "condition",
+        "text": "17日，春原挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn110"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 850,
+        "type": "condition",
+        "text": "17日，春原挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn110"
+      },
+      {
+        "x": 625,
+        "y": 940,
+        "type": "selection",
+        "text": "跟着他去",
+        "css": "btn",
+        "ref": "divTxtBtn114"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 850,
+        "type": "condition",
+        "text": "17日，春原挑战智代（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn110"
+      },
+      {
+        "x": 1025,
+        "y": 940,
+        "type": "selection",
+        "text": "不去管他",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn120"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 940,
+        "type": "selection",
+        "text": "跟着他去",
+        "css": "btn",
+        "ref": "divTxtBtn114"
+      },
+      {
+        "x": 625,
+        "y": 1000,
+        "type": "selection",
+        "text": "考虑邀请智代",
+        "css": "btn",
+        "ref": "divTxtBtn127",
+        "num": {
+          "x": 610,
+          "y": 1000,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn129"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 990,
+          "text": "考虑邀请智代",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "+能行|-最后做一次蠢事",
+          "icon": "00000001",
+          "iconillu": "智代参与毕业典礼",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt130"
+        }
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1000,
+        "type": "selection",
+        "text": "考虑邀请智代",
+        "css": "btn",
+        "ref": "divTxtBtn127",
+        "num": {
+          "x": 610,
+          "y": 1000,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn129"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 990,
+          "text": "考虑邀请智代",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "+能行|-最后做一次蠢事",
+          "icon": "00000001",
+          "iconillu": "智代参与毕业典礼",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt130"
+        }
+      },
+      {
+        "x": 425,
+        "y": 1090,
+        "type": "option",
+        "text": "能行",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1000,
+        "type": "selection",
+        "text": "考虑邀请智代",
+        "css": "btn",
+        "ref": "divTxtBtn127",
+        "num": {
+          "x": 610,
+          "y": 1000,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn129"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 990,
+          "text": "考虑邀请智代",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "+能行|-最后做一次蠢事",
+          "icon": "00000001",
+          "iconillu": "智代参与毕业典礼",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt130"
+        }
+      },
+      {
+        "x": 825,
+        "y": 1090,
+        "type": "option",
+        "text": "再考虑一下",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1090,
+        "type": "option",
+        "text": "能行",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      },
+      {
+        "x": 425,
+        "y": 1150,
+        "type": "selection",
+        "text": "说服智代的理由",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1150,
+        "type": "selection",
+        "text": "说服智代的理由",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      },
+      {
+        "x": 25,
+        "y": 1240,
+        "type": "option",
+        "text": "最后做一次蠢事",
+        "css": "btn",
+        "ref": "divTxtBtn149"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1150,
+        "type": "selection",
+        "text": "说服智代的理由",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      },
+      {
+        "x": 425,
+        "y": 1240,
+        "type": "option",
+        "text": "避免运动不足",
+        "css": "btn",
+        "ref": "divTxtBtn155"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1150,
+        "type": "selection",
+        "text": "说服智代的理由",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      },
+      {
+        "x": 825,
+        "y": 1240,
+        "type": "option",
+        "text": "卖我们个人情",
+        "css": "btn",
+        "ref": "divTxtBtn159"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1240,
+        "type": "option",
+        "text": "最后做一次蠢事",
+        "css": "btn",
+        "ref": "divTxtBtn149"
+      },
+      {
+        "x": 25,
+        "y": 1300,
+        "type": "option",
+        "text": "智代成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn165"
+      }
+    ],
+    [
+      {
+        "x": 200,
+        "y": 1330
+      },
+      {
+        "x": 200,
+        "y": 1330
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1240,
+        "type": "option",
+        "text": "避免运动不足",
+        "css": "btn",
+        "ref": "divTxtBtn155"
+      },
+      {
+        "x": 800,
+        "y": 1330
+      },
+      {
+        "x": 1000,
+        "y": 1360
+      },
+      {
+        "x": 1025,
+        "y": 1390,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn171",
+        "num": {
+          "x": 1010,
+          "y": 1390,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn173"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1380,
+          "text": "3对3篮球赛（一）",
+          "num": "4",
+          "summary": "",
+          "hint": "再次进入3对3篮球赛（一），即跳回到28日分支{寻找范围的确定（一）}。接下来的{3对3篮球赛（一）}同样是这个意思。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt174"
+        }
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1240,
+        "type": "option",
+        "text": "卖我们个人情",
+        "css": "btn",
+        "ref": "divTxtBtn159"
+      },
+      {
+        "x": 800,
+        "y": 1330
+      },
+      {
+        "x": 1000,
+        "y": 1360
+      },
+      {
+        "x": 1025,
+        "y": 1390,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn171",
+        "num": {
+          "x": 1010,
+          "y": 1390,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn173"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1380,
+          "text": "3对3篮球赛（一）",
+          "num": "4",
+          "summary": "",
+          "hint": "再次进入3对3篮球赛（一），即跳回到28日分支{寻找范围的确定（一）}。接下来的{3对3篮球赛（一）}同样是这个意思。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt174"
+        }
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1090,
+        "type": "option",
+        "text": "再考虑一下",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      },
+      {
+        "x": 1200,
+        "y": 1180
+      },
+      {
+        "x": 1000,
+        "y": 1360
+      },
+      {
+        "x": 1025,
+        "y": 1390,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn171",
+        "num": {
+          "x": 1010,
+          "y": 1390,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn173"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1380,
+          "text": "3对3篮球赛（一）",
+          "num": "4",
+          "summary": "",
+          "hint": "再次进入3对3篮球赛（一），即跳回到28日分支{寻找范围的确定（一）}。接下来的{3对3篮球赛（一）}同样是这个意思。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt174"
+        }
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 940,
+        "type": "selection",
+        "text": "不去管他",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn120"
+      },
+      {
+        "x": 1000,
+        "y": 1360
+      },
+      {
+        "x": 1025,
+        "y": 1390,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn171",
+        "num": {
+          "x": 1010,
+          "y": 1390,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn173"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1380,
+          "text": "3对3篮球赛（一）",
+          "num": "4",
+          "summary": "",
+          "hint": "再次进入3对3篮球赛（一），即跳回到28日分支{寻找范围的确定（一）}。接下来的{3对3篮球赛（一）}同样是这个意思。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt174"
+        }
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 790,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn104"
+      },
+      {
+        "x": 1025,
+        "y": 1390,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn171",
+        "num": {
+          "x": 1010,
+          "y": 1390,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn173"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1380,
+          "text": "3对3篮球赛（一）",
+          "num": "4",
+          "summary": "",
+          "hint": "再次进入3对3篮球赛（一），即跳回到28日分支{寻找范围的确定（一）}。接下来的{3对3篮球赛（一）}同样是这个意思。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt174"
+        }
+      }
+    ],
+    [
+      {
+        "x": 1200,
+        "y": 1420
+      },
+      {
+        "x": 1200,
+        "y": 1420
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 180,
+      "text": "寻找范围的确定",
+      "num": "1",
+      "summary": "",
+      "hint": "",
+      "setsumei": "",
+      "option": "+在新校舍寻找</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" background=\"Ori/Comment/Comment_Option_B.png\" align=\"center\"><div class=\"cmtoptOri\">去二楼寻找</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"326\" height=\"42\" valign=\"bottom\" align=\"left\" class=\"commentOri\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Basketball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Graduation[A].png\" style=\"margin-right:0px;\"></td><td width=\"404\"><table border=0 cellpadding=0 cellspacing=0 height=35 background=\"Ori/Comment/Comment_Tips.png\"><tr><td height=35 valign=\"middle\" class=\"cmtEvntOri\" width=\"394\">智代有条件参与毕业典礼</td></tr></table></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\" height=\"5\"></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"243\" height=\"20\" background=\"Ori/Comment/Comment_Option_A.png\" valign=\"bottom\" align=\"center\"><div class=\"cmtoptOri\">在旧校舍寻找|-去资料室找找",
+      "icon": "00000001",
+      "iconillu": "美佐枝有条件参与毕业典礼。如果26日在分支前来探亲的芽衣选择好的，则美佐枝已确定出席毕业典礼，此处的选择没有影响",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt6"
+    },
+    {
+      "x": 1625,
+      "y": 690,
+      "text": "已经来过新校舍二楼",
+      "num": "2",
+      "summary": "",
+      "hint": "{已经来过新校舍二楼}即今日在3对3篮球赛（一）中触发过分支{寻找范围的确定（二）}并且选择了[去二楼寻找]。分支{寻找范围的确定（二）和（三）}的四个选项[去二楼寻找]、[去三楼寻找]、[去空教室找找]、[去资料室找找]只有第一次选择时才会发生剧情。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt94"
+    },
+    {
+      "x": 1625,
+      "y": 990,
+      "text": "考虑邀请智代",
+      "num": "3",
+      "summary": "",
+      "hint": "",
+      "setsumei": "",
+      "option": "+能行|-最后做一次蠢事",
+      "icon": "00000001",
+      "iconillu": "智代参与毕业典礼",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt130"
+    },
+    {
+      "x": 1625,
+      "y": 1380,
+      "text": "3对3篮球赛（一）",
+      "num": "4",
+      "summary": "",
+      "hint": "再次进入3对3篮球赛（一），即跳回到28日分支{寻找范围的确定（一）}。接下来的{3对3篮球赛（一）}同样是这个意思。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt174"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "nagisa",
+    "routeC": "古河 渚/幸村 俊夫",
+    "routeE": "Nagisa Furukawa / Toshio Yukimura",
+    "dateC": "3对3篮球赛(一)",
+    "dateE": "3 on 3 Basketball Match - Part1",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1493,
+    "page": 56,
+    "ref": "divFt212"
+  },
+  "board": [
+    {
+      "x": 0,
+      "y": 660,
+      "height": 810
+    }
+  ]
+}

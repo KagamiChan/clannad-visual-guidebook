@@ -1,0 +1,1552 @@
+{
+  "box": [
+    [
+      {
+        "x": 25,
+        "y": 190,
+        "type": "option",
+        "text": "教师推选",
+        "css": "btn",
+        "ref": "divTxtBtn1",
+        "link": "p47_STCHR"
+      },
+      {
+        "x": 825,
+        "y": 190,
+        "type": "selection",
+        "text": "猜拳胜负（一回目）",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      },
+      {
+        "x": 825,
+        "y": 280,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      },
+      {
+        "x": 1225,
+        "y": 280,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn17"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "朋也 VS 渚（一回目）",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      },
+      {
+        "x": 825,
+        "y": 340,
+        "type": "condition",
+        "text": "渚充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn27"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 430,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn31"
+      },
+      {
+        "x": 425,
+        "y": 430,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn37"
+      },
+      {
+        "x": 825,
+        "y": 430,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn41"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 490,
+        "type": "condition",
+        "text": "渚充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      },
+      {
+        "x": 425,
+        "y": 490,
+        "type": "selection",
+        "text": "朋也 VS 渚（二回目）",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      },
+      {
+        "x": 825,
+        "y": 490,
+        "type": "condition",
+        "text": "朋也充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn55"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 580,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn59"
+      },
+      {
+        "x": 425,
+        "y": 580,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn65"
+      },
+      {
+        "x": 825,
+        "y": 580,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn69"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 640,
+        "type": "condition",
+        "text": "渚充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn75"
+      },
+      {
+        "x": 425,
+        "y": 640,
+        "type": "selection",
+        "text": "朋也 VS 渚（三回目）",
+        "css": "btn",
+        "ref": "divTxtBtn79"
+      },
+      {
+        "x": 825,
+        "y": 640,
+        "type": "condition",
+        "text": "朋也充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn83"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 730,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn87"
+      },
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn93"
+      },
+      {
+        "x": 825,
+        "y": 730,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn97"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 790,
+        "type": "condition",
+        "text": "渚充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn103"
+      },
+      {
+        "x": 425,
+        "y": 790,
+        "type": "selection",
+        "text": "朋也 VS 渚（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn107"
+      },
+      {
+        "x": 825,
+        "y": 790,
+        "type": "condition",
+        "text": "朋也充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn111"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 880,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      },
+      {
+        "x": 425,
+        "y": 880,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn121"
+      },
+      {
+        "x": 825,
+        "y": 880,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn125"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 940,
+        "type": "condition",
+        "text": "渚充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn131"
+      },
+      {
+        "x": 425,
+        "y": 940,
+        "type": "selection",
+        "text": "朋也 VS 渚（五回目）",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      },
+      {
+        "x": 825,
+        "y": 940,
+        "type": "condition",
+        "text": "朋也充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1030,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn143"
+      },
+      {
+        "x": 625,
+        "y": 1030,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn149"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1090,
+        "type": "condition",
+        "text": "渚充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn155"
+      },
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "condition",
+        "text": "朋也充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn159"
+      },
+      {
+        "x": 1225,
+        "y": 1090,
+        "type": "selection",
+        "text": "猜拳胜负（二回目）",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1180,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn167"
+      },
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn173"
+      },
+      {
+        "x": 1225,
+        "y": 1180,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn179"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1240,
+        "type": "condition",
+        "text": "春原充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn183"
+      },
+      {
+        "x": 825,
+        "y": 1240,
+        "type": "condition",
+        "text": "朋也充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn187"
+      },
+      {
+        "x": 1225,
+        "y": 1240,
+        "type": "selection",
+        "text": "猜拳胜负（三回目）",
+        "css": "btn",
+        "ref": "divTxtBtn191"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1330,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn195"
+      },
+      {
+        "x": 825,
+        "y": 1330,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn201"
+      },
+      {
+        "x": 1225,
+        "y": 1330,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn207"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1390,
+        "type": "condition",
+        "text": "春原充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn211"
+      },
+      {
+        "x": 825,
+        "y": 1390,
+        "type": "condition",
+        "text": "朋也充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn215"
+      },
+      {
+        "x": 1225,
+        "y": 1390,
+        "type": "selection",
+        "text": "猜拳胜负（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn219"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1480,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn223"
+      },
+      {
+        "x": 825,
+        "y": 1480,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn229"
+      },
+      {
+        "x": 1225,
+        "y": 1480,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn235"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1540,
+        "type": "condition",
+        "text": "春原充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn239"
+      },
+      {
+        "x": 825,
+        "y": 1540,
+        "type": "condition",
+        "text": "朋也充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn243"
+      },
+      {
+        "x": 1225,
+        "y": 1540,
+        "type": "selection",
+        "text": "猜拳胜负（五回目）",
+        "css": "btn",
+        "ref": "divTxtBtn247"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1630,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn251"
+      },
+      {
+        "x": 1225,
+        "y": 1630,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn257"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1690,
+        "type": "condition",
+        "text": "春原充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn261"
+      },
+      {
+        "x": 1225,
+        "y": 1690,
+        "type": "condition",
+        "text": "朋也充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn265"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 1000,
+        "y": 175
+      },
+      {
+        "x": 1000,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 190,
+        "type": "selection",
+        "text": "猜拳胜负（一回目）",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 425,
+        "y": 280,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 190,
+        "type": "selection",
+        "text": "猜拳胜负（一回目）",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 825,
+        "y": 280,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 190,
+        "type": "selection",
+        "text": "猜拳胜负（一回目）",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 1225,
+        "y": 280,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn17"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      },
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "朋也 VS 渚（一回目）",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 280,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      },
+      {
+        "x": 825,
+        "y": 340,
+        "type": "condition",
+        "text": "渚充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn27"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "朋也 VS 渚（一回目）",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      },
+      {
+        "x": 25,
+        "y": 430,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn31"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "朋也 VS 渚（一回目）",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      },
+      {
+        "x": 425,
+        "y": 430,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn37"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "朋也 VS 渚（一回目）",
+        "css": "btn",
+        "ref": "divTxtBtn23"
+      },
+      {
+        "x": 825,
+        "y": 430,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn41"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 430,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn31"
+      },
+      {
+        "x": 25,
+        "y": 490,
+        "type": "condition",
+        "text": "渚充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 430,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn37"
+      },
+      {
+        "x": 425,
+        "y": 490,
+        "type": "selection",
+        "text": "朋也 VS 渚（二回目）",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 430,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn41"
+      },
+      {
+        "x": 825,
+        "y": 490,
+        "type": "condition",
+        "text": "朋也充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn55"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 490,
+        "type": "selection",
+        "text": "朋也 VS 渚（二回目）",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      },
+      {
+        "x": 25,
+        "y": 580,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn59"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 490,
+        "type": "selection",
+        "text": "朋也 VS 渚（二回目）",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      },
+      {
+        "x": 425,
+        "y": 580,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn65"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 490,
+        "type": "selection",
+        "text": "朋也 VS 渚（二回目）",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      },
+      {
+        "x": 825,
+        "y": 580,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn69"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 580,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn59"
+      },
+      {
+        "x": 25,
+        "y": 640,
+        "type": "condition",
+        "text": "渚充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn75"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 580,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn65"
+      },
+      {
+        "x": 425,
+        "y": 640,
+        "type": "selection",
+        "text": "朋也 VS 渚（三回目）",
+        "css": "btn",
+        "ref": "divTxtBtn79"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 580,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn69"
+      },
+      {
+        "x": 825,
+        "y": 640,
+        "type": "condition",
+        "text": "朋也充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn83"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 640,
+        "type": "selection",
+        "text": "朋也 VS 渚（三回目）",
+        "css": "btn",
+        "ref": "divTxtBtn79"
+      },
+      {
+        "x": 25,
+        "y": 730,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn87"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 640,
+        "type": "selection",
+        "text": "朋也 VS 渚（三回目）",
+        "css": "btn",
+        "ref": "divTxtBtn79"
+      },
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn93"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 640,
+        "type": "selection",
+        "text": "朋也 VS 渚（三回目）",
+        "css": "btn",
+        "ref": "divTxtBtn79"
+      },
+      {
+        "x": 825,
+        "y": 730,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn97"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 730,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn87"
+      },
+      {
+        "x": 25,
+        "y": 790,
+        "type": "condition",
+        "text": "渚充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn103"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn93"
+      },
+      {
+        "x": 425,
+        "y": 790,
+        "type": "selection",
+        "text": "朋也 VS 渚（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn107"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 730,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn97"
+      },
+      {
+        "x": 825,
+        "y": 790,
+        "type": "condition",
+        "text": "朋也充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn111"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 790,
+        "type": "selection",
+        "text": "朋也 VS 渚（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn107"
+      },
+      {
+        "x": 25,
+        "y": 880,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 790,
+        "type": "selection",
+        "text": "朋也 VS 渚（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn107"
+      },
+      {
+        "x": 425,
+        "y": 880,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn121"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 790,
+        "type": "selection",
+        "text": "朋也 VS 渚（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn107"
+      },
+      {
+        "x": 825,
+        "y": 880,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn125"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 880,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      },
+      {
+        "x": 25,
+        "y": 940,
+        "type": "condition",
+        "text": "渚充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn131"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 880,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn121"
+      },
+      {
+        "x": 425,
+        "y": 940,
+        "type": "selection",
+        "text": "朋也 VS 渚（五回目）",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 880,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn125"
+      },
+      {
+        "x": 825,
+        "y": 940,
+        "type": "condition",
+        "text": "朋也充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 940,
+        "type": "selection",
+        "text": "朋也 VS 渚（五回目）",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      },
+      {
+        "x": 225,
+        "y": 1030,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn143"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 940,
+        "type": "selection",
+        "text": "朋也 VS 渚（五回目）",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      },
+      {
+        "x": 625,
+        "y": 1030,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn149"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1030,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn143"
+      },
+      {
+        "x": 225,
+        "y": 1090,
+        "type": "condition",
+        "text": "渚充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn155"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1030,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn149"
+      },
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "condition",
+        "text": "朋也充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn159"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 280,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn17"
+      },
+      {
+        "x": 1225,
+        "y": 1090,
+        "type": "selection",
+        "text": "猜拳胜负（二回目）",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1090,
+        "type": "selection",
+        "text": "猜拳胜负（二回目）",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      },
+      {
+        "x": 425,
+        "y": 1180,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn167"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1090,
+        "type": "selection",
+        "text": "猜拳胜负（二回目）",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      },
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn173"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1090,
+        "type": "selection",
+        "text": "猜拳胜负（二回目）",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      },
+      {
+        "x": 1225,
+        "y": 1180,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn179"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1180,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn167"
+      },
+      {
+        "x": 425,
+        "y": 1240,
+        "type": "condition",
+        "text": "春原充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn183"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn173"
+      },
+      {
+        "x": 825,
+        "y": 1240,
+        "type": "condition",
+        "text": "朋也充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn187"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1180,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn179"
+      },
+      {
+        "x": 1225,
+        "y": 1240,
+        "type": "selection",
+        "text": "猜拳胜负（三回目）",
+        "css": "btn",
+        "ref": "divTxtBtn191"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1240,
+        "type": "selection",
+        "text": "猜拳胜负（三回目）",
+        "css": "btn",
+        "ref": "divTxtBtn191"
+      },
+      {
+        "x": 425,
+        "y": 1330,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn195"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1240,
+        "type": "selection",
+        "text": "猜拳胜负（三回目）",
+        "css": "btn",
+        "ref": "divTxtBtn191"
+      },
+      {
+        "x": 825,
+        "y": 1330,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn201"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1240,
+        "type": "selection",
+        "text": "猜拳胜负（三回目）",
+        "css": "btn",
+        "ref": "divTxtBtn191"
+      },
+      {
+        "x": 1225,
+        "y": 1330,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn207"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1330,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn195"
+      },
+      {
+        "x": 425,
+        "y": 1390,
+        "type": "condition",
+        "text": "春原充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn211"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1330,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn201"
+      },
+      {
+        "x": 825,
+        "y": 1390,
+        "type": "condition",
+        "text": "朋也充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn215"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1330,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn207"
+      },
+      {
+        "x": 1225,
+        "y": 1390,
+        "type": "selection",
+        "text": "猜拳胜负（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn219"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1390,
+        "type": "selection",
+        "text": "猜拳胜负（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn219"
+      },
+      {
+        "x": 425,
+        "y": 1480,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn223"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1390,
+        "type": "selection",
+        "text": "猜拳胜负（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn219"
+      },
+      {
+        "x": 825,
+        "y": 1480,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn229"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1390,
+        "type": "selection",
+        "text": "猜拳胜负（四回目）",
+        "css": "btn",
+        "ref": "divTxtBtn219"
+      },
+      {
+        "x": 1225,
+        "y": 1480,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn235"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1480,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn223"
+      },
+      {
+        "x": 425,
+        "y": 1540,
+        "type": "condition",
+        "text": "春原充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn239"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1480,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn229"
+      },
+      {
+        "x": 825,
+        "y": 1540,
+        "type": "condition",
+        "text": "朋也充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn243"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1480,
+        "type": "option",
+        "text": "剪子",
+        "css": "btn",
+        "ref": "divTxtBtn235"
+      },
+      {
+        "x": 1225,
+        "y": 1540,
+        "type": "selection",
+        "text": "猜拳胜负（五回目）",
+        "css": "btn",
+        "ref": "divTxtBtn247"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1540,
+        "type": "selection",
+        "text": "猜拳胜负（五回目）",
+        "css": "btn",
+        "ref": "divTxtBtn247"
+      },
+      {
+        "x": 825,
+        "y": 1630,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn251"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1540,
+        "type": "selection",
+        "text": "猜拳胜负（五回目）",
+        "css": "btn",
+        "ref": "divTxtBtn247"
+      },
+      {
+        "x": 1225,
+        "y": 1630,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn257"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1630,
+        "type": "option",
+        "text": "石头",
+        "css": "btn",
+        "ref": "divTxtBtn251"
+      },
+      {
+        "x": 825,
+        "y": 1690,
+        "type": "condition",
+        "text": "春原充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn261"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1630,
+        "type": "option",
+        "text": "布",
+        "css": "btn",
+        "ref": "divTxtBtn257"
+      },
+      {
+        "x": 1225,
+        "y": 1690,
+        "type": "condition",
+        "text": "朋也充当教师",
+        "css": "btn",
+        "ref": "divTxtBtn265"
+      }
+    ]
+  ],
+  "comment": [],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "fuuko",
+    "routeC": "伊吹 风子",
+    "routeE": "Fuuko Ibuki",
+    "dateC": "特别授课教师推选",
+    "dateE": "Election for Teacher of Special Class",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1720,
+    "page": 47,
+    "ref": "divFt269"
+  },
+  "board": []
+}

@@ -1,0 +1,1365 @@
+{
+  "box": [
+    [
+      {
+        "x": 25,
+        "y": 190,
+        "type": "option",
+        "text": "春原的玩笑（一）",
+        "css": "btn",
+        "ref": "divTxtBtn1",
+        "link": "p25_SNJK1"
+      },
+      {
+        "x": 625,
+        "y": 190,
+        "type": "selection",
+        "text": "表演的情景（一）",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 280,
+        "type": "option",
+        "text": "先自我介绍",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      },
+      {
+        "x": 625,
+        "y": 280,
+        "type": "option",
+        "text": "问候说『你好』",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      },
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "option",
+        "text": "先摆出一副找到了我的样子",
+        "css": "btn",
+        "ref": "divTxtBtn17"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 460,
+        "type": "option",
+        "text": "春原的玩笑（二）",
+        "css": "btn",
+        "ref": "divTxtBtn33",
+        "link": "p25_SNJK2"
+      },
+      {
+        "x": 625,
+        "y": 460,
+        "type": "condition",
+        "text": "21日，有智代的陪同",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 550,
+        "type": "selection",
+        "text": "的确不错",
+        "css": "btn",
+        "ref": "divTxtBtn39"
+      },
+      {
+        "x": 1225,
+        "y": 550,
+        "type": "selection",
+        "text": "是这样吗",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn45"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 610,
+        "type": "selection",
+        "text": "表演的情景（二）",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 700,
+        "type": "option",
+        "text": "先自我介绍",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 425,
+        "y": 700,
+        "type": "option",
+        "text": "问候说『你好』",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 825,
+        "y": 700,
+        "type": "option",
+        "text": "先摆出一副找到了我的样子",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 760,
+        "type": "condition",
+        "text": "22日，表演的情景（一）",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 850,
+        "type": "selection",
+        "text": "先做自我介绍",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      },
+      {
+        "x": 825,
+        "y": 850,
+        "type": "selection",
+        "text": "问候说『你好』",
+        "css": "btn",
+        "ref": "divTxtBtn82"
+      },
+      {
+        "x": 1225,
+        "y": 850,
+        "type": "selection",
+        "text": "先摆出一副找到了我的样子",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 910,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn92",
+        "link": "p25_retB"
+      },
+      {
+        "x": 825,
+        "y": 910,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn96",
+        "link": "p25_retA"
+      },
+      {
+        "x": 1225,
+        "y": 910,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1090,
+        "type": "option",
+        "text": "春原的玩笑（三）",
+        "css": "btn",
+        "ref": "divTxtBtn134",
+        "link": "p25_SNJK3"
+      },
+      {
+        "x": 825,
+        "y": 1090,
+        "type": "condition",
+        "text": "24日，有智代的陪同",
+        "css": "btn",
+        "ref": "divTxtBtn136"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1180,
+        "type": "selection",
+        "text": "的确不错",
+        "css": "btn",
+        "ref": "divTxtBtn140"
+      },
+      {
+        "x": 1125,
+        "y": 1180,
+        "type": "selection",
+        "text": "是这样吗？",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1240,
+        "type": "condition",
+        "text": "23日，表演的情景（二）",
+        "css": "btn",
+        "ref": "divTxtBtn153"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1330,
+        "type": "selection",
+        "text": "先作自我介绍",
+        "css": "btn",
+        "ref": "divTxtBtn157"
+      },
+      {
+        "x": 525,
+        "y": 1330,
+        "type": "selection",
+        "text": "问候说『你好』",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      },
+      {
+        "x": 925,
+        "y": 1330,
+        "type": "selection",
+        "text": "先摆出一副找到了我的样子",
+        "css": "btn",
+        "ref": "divTxtBtn167"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1390,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn173"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1570,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn194",
+        "link": "p25_A"
+      },
+      {
+        "x": 625,
+        "y": 1570,
+        "type": "selection",
+        "text": "问候的附加惩罚",
+        "css": "btn",
+        "ref": "divTxtBtn196"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1660,
+        "type": "option",
+        "text": "学嘴里先含上一口水再说",
+        "css": "btn",
+        "ref": "divTxtBtn201"
+      },
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "option",
+        "text": "每句话句尾都加上句『还有马桶盖』",
+        "css": "btn",
+        "ref": "divTxtBtn207"
+      },
+      {
+        "x": 1025,
+        "y": 1660,
+        "type": "option",
+        "text": "学一石堂那样说话",
+        "css": "btn",
+        "ref": "divTxtBtn211"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1810,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn227",
+        "link": "p25_B"
+      },
+      {
+        "x": 625,
+        "y": 1810,
+        "type": "selection",
+        "text": "自我介绍时的状态",
+        "css": "btn",
+        "ref": "divTxtBtn229"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1900,
+        "type": "option",
+        "text": "就像被回想场面占掉了好几卷的漫画",
+        "css": "btn",
+        "ref": "divTxtBtn234"
+      },
+      {
+        "x": 625,
+        "y": 1900,
+        "type": "option",
+        "text": "就像牺牲生命拯救了地球的宇航员",
+        "css": "btn",
+        "ref": "divTxtBtn240"
+      },
+      {
+        "x": 1025,
+        "y": 1900,
+        "type": "option",
+        "text": "就像在站台分别的恋人",
+        "css": "btn",
+        "ref": "divTxtBtn244"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 800,
+        "y": 175
+      },
+      {
+        "x": 800,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 190,
+        "type": "selection",
+        "text": "表演的情景（一）",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 225,
+        "y": 280,
+        "type": "option",
+        "text": "先自我介绍",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 190,
+        "type": "selection",
+        "text": "表演的情景（一）",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 625,
+        "y": 280,
+        "type": "option",
+        "text": "问候说『你好』",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 190,
+        "type": "selection",
+        "text": "表演的情景（一）",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "option",
+        "text": "先摆出一副找到了我的样子",
+        "css": "btn",
+        "ref": "divTxtBtn17"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 280,
+        "type": "option",
+        "text": "先自我介绍",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      },
+      {
+        "x": 800,
+        "y": 340
+      },
+      {
+        "x": 400,
+        "y": 340
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 280,
+        "type": "option",
+        "text": "问候说『你好』",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      },
+      {
+        "x": 800,
+        "y": 340
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "option",
+        "text": "先摆出一副找到了我的样子",
+        "css": "btn",
+        "ref": "divTxtBtn17"
+      },
+      {
+        "x": 800,
+        "y": 340
+      },
+      {
+        "x": 1200,
+        "y": 340
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 340
+      },
+      {
+        "x": 800,
+        "y": 340
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 445
+      },
+      {
+        "x": 800,
+        "y": 445
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 460,
+        "type": "condition",
+        "text": "21日，有智代的陪同",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      },
+      {
+        "x": 25,
+        "y": 550,
+        "type": "selection",
+        "text": "的确不错",
+        "css": "btn",
+        "ref": "divTxtBtn39"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 460,
+        "type": "condition",
+        "text": "21日，有智代的陪同",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      },
+      {
+        "x": 1225,
+        "y": 550,
+        "type": "selection",
+        "text": "是这样吗",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn45"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 550,
+        "type": "selection",
+        "text": "的确不错",
+        "css": "btn",
+        "ref": "divTxtBtn39"
+      },
+      {
+        "x": 25,
+        "y": 610,
+        "type": "selection",
+        "text": "表演的情景（二）",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 610,
+        "type": "selection",
+        "text": "表演的情景（二）",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      },
+      {
+        "x": 25,
+        "y": 700,
+        "type": "option",
+        "text": "先自我介绍",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 610,
+        "type": "selection",
+        "text": "表演的情景（二）",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      },
+      {
+        "x": 425,
+        "y": 700,
+        "type": "option",
+        "text": "问候说『你好』",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 610,
+        "type": "selection",
+        "text": "表演的情景（二）",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      },
+      {
+        "x": 825,
+        "y": 700,
+        "type": "option",
+        "text": "先摆出一副找到了我的样子",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 550,
+        "type": "selection",
+        "text": "是这样吗",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn45"
+      },
+      {
+        "x": 1225,
+        "y": 760,
+        "type": "condition",
+        "text": "22日，表演的情景（一）",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 760,
+        "type": "condition",
+        "text": "22日，表演的情景（一）",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      },
+      {
+        "x": 425,
+        "y": 850,
+        "type": "selection",
+        "text": "先做自我介绍",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 760,
+        "type": "condition",
+        "text": "22日，表演的情景（一）",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      },
+      {
+        "x": 825,
+        "y": 850,
+        "type": "selection",
+        "text": "问候说『你好』",
+        "css": "btn",
+        "ref": "divTxtBtn82"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 760,
+        "type": "condition",
+        "text": "22日，表演的情景（一）",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      },
+      {
+        "x": 1225,
+        "y": 850,
+        "type": "selection",
+        "text": "先摆出一副找到了我的样子",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 850,
+        "type": "selection",
+        "text": "先做自我介绍",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      },
+      {
+        "x": 425,
+        "y": 910,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn92",
+        "link": "p25_retB"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 850,
+        "type": "selection",
+        "text": "问候说『你好』",
+        "css": "btn",
+        "ref": "divTxtBtn82"
+      },
+      {
+        "x": 825,
+        "y": 910,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn96",
+        "link": "p25_retA"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 850,
+        "type": "selection",
+        "text": "先摆出一副找到了我的样子",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      },
+      {
+        "x": 1225,
+        "y": 910,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 700,
+        "type": "option",
+        "text": "先自我介绍",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 800,
+        "y": 1000
+      },
+      {
+        "x": 200,
+        "y": 1000
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 700,
+        "type": "option",
+        "text": "问候说『你好』",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 200,
+        "y": 790
+      },
+      {
+        "x": 800,
+        "y": 1000
+      },
+      {
+        "x": 200,
+        "y": 1000
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 700,
+        "type": "option",
+        "text": "先摆出一副找到了我的样子",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      },
+      {
+        "x": 200,
+        "y": 790
+      },
+      {
+        "x": 800,
+        "y": 1000
+      },
+      {
+        "x": 200,
+        "y": 1000
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 850,
+        "type": "selection",
+        "text": "先摆出一副找到了我的样子",
+        "css": "btn",
+        "ref": "divTxtBtn88"
+      },
+      {
+        "x": 800,
+        "y": 1000
+      },
+      {
+        "x": 1400,
+        "y": 1000
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 850,
+        "type": "selection",
+        "text": "问候说『你好』",
+        "css": "btn",
+        "ref": "divTxtBtn82"
+      },
+      {
+        "x": 800,
+        "y": 1000
+      },
+      {
+        "x": 1400,
+        "y": 1000
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 850,
+        "type": "selection",
+        "text": "先做自我介绍",
+        "css": "btn",
+        "ref": "divTxtBtn76"
+      },
+      {
+        "x": 800,
+        "y": 1000
+      },
+      {
+        "x": 1400,
+        "y": 1000
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 1000
+      },
+      {
+        "x": 800,
+        "y": 1000
+      }
+    ],
+    [
+      {
+        "x": 1000,
+        "y": 1075
+      },
+      {
+        "x": 1000,
+        "y": 1075
+      }
+    ],
+    [
+      {
+        "x": 1100,
+        "y": 1150
+      },
+      {
+        "x": 525,
+        "y": 1180,
+        "type": "selection",
+        "text": "的确不错",
+        "css": "btn",
+        "ref": "divTxtBtn140"
+      }
+    ],
+    [
+      {
+        "x": 900,
+        "y": 1150
+      },
+      {
+        "x": 1125,
+        "y": 1180,
+        "type": "selection",
+        "text": "是这样吗？",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1090,
+        "type": "condition",
+        "text": "24日，有智代的陪同",
+        "css": "btn",
+        "ref": "divTxtBtn136"
+      },
+      {
+        "x": 1000,
+        "y": 1150
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1180,
+        "type": "selection",
+        "text": "的确不错",
+        "css": "btn",
+        "ref": "divTxtBtn140"
+      },
+      {
+        "x": 525,
+        "y": 1240,
+        "type": "condition",
+        "text": "23日，表演的情景（二）",
+        "css": "btn",
+        "ref": "divTxtBtn153"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1240,
+        "type": "condition",
+        "text": "23日，表演的情景（二）",
+        "css": "btn",
+        "ref": "divTxtBtn153"
+      },
+      {
+        "x": 125,
+        "y": 1330,
+        "type": "selection",
+        "text": "先作自我介绍",
+        "css": "btn",
+        "ref": "divTxtBtn157"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1240,
+        "type": "condition",
+        "text": "23日，表演的情景（二）",
+        "css": "btn",
+        "ref": "divTxtBtn153"
+      },
+      {
+        "x": 525,
+        "y": 1330,
+        "type": "selection",
+        "text": "问候说『你好』",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1240,
+        "type": "condition",
+        "text": "23日，表演的情景（二）",
+        "css": "btn",
+        "ref": "divTxtBtn153"
+      },
+      {
+        "x": 925,
+        "y": 1330,
+        "type": "selection",
+        "text": "先摆出一副找到了我的样子",
+        "css": "btn",
+        "ref": "divTxtBtn167"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1330,
+        "type": "selection",
+        "text": "问候说『你好』",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      },
+      {
+        "x": 525,
+        "y": 1390,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn173"
+      }
+    ],
+    [
+      {
+        "x": 700,
+        "y": 1375
+      },
+      {
+        "x": 700,
+        "y": 1375
+      }
+    ],
+    [
+      {
+        "x": 1125,
+        "y": 1180,
+        "type": "selection",
+        "text": "是这样吗？",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      },
+      {
+        "x": 700,
+        "y": 1480
+      },
+      {
+        "x": 1300,
+        "y": 1480
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1390,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn173"
+      },
+      {
+        "x": 700,
+        "y": 1480
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1330,
+        "type": "selection",
+        "text": "先作自我介绍",
+        "css": "btn",
+        "ref": "divTxtBtn157"
+      },
+      {
+        "x": 700,
+        "y": 1480
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 1330,
+        "type": "selection",
+        "text": "先摆出一副找到了我的样子",
+        "css": "btn",
+        "ref": "divTxtBtn167"
+      },
+      {
+        "x": 700,
+        "y": 1480
+      }
+    ],
+    [
+      {
+        "x": 1000,
+        "y": 1480
+      },
+      {
+        "x": 1000,
+        "y": 1480
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 1555
+      },
+      {
+        "x": 800,
+        "y": 1555
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1570,
+        "type": "selection",
+        "text": "问候的附加惩罚",
+        "css": "btn",
+        "ref": "divTxtBtn196"
+      },
+      {
+        "x": 225,
+        "y": 1660,
+        "type": "option",
+        "text": "学嘴里先含上一口水再说",
+        "css": "btn",
+        "ref": "divTxtBtn201"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1570,
+        "type": "selection",
+        "text": "问候的附加惩罚",
+        "css": "btn",
+        "ref": "divTxtBtn196"
+      },
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "option",
+        "text": "每句话句尾都加上句『还有马桶盖』",
+        "css": "btn",
+        "ref": "divTxtBtn207"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1570,
+        "type": "selection",
+        "text": "问候的附加惩罚",
+        "css": "btn",
+        "ref": "divTxtBtn196"
+      },
+      {
+        "x": 1025,
+        "y": 1660,
+        "type": "option",
+        "text": "学一石堂那样说话",
+        "css": "btn",
+        "ref": "divTxtBtn211"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1660,
+        "type": "option",
+        "text": "学嘴里先含上一口水再说",
+        "css": "btn",
+        "ref": "divTxtBtn201"
+      },
+      {
+        "x": 800,
+        "y": 1720
+      },
+      {
+        "x": 400,
+        "y": 1720
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "option",
+        "text": "每句话句尾都加上句『还有马桶盖』",
+        "css": "btn",
+        "ref": "divTxtBtn207"
+      },
+      {
+        "x": 800,
+        "y": 1720
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1660,
+        "type": "option",
+        "text": "学一石堂那样说话",
+        "css": "btn",
+        "ref": "divTxtBtn211"
+      },
+      {
+        "x": 800,
+        "y": 1720
+      },
+      {
+        "x": 1200,
+        "y": 1720
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 1720
+      },
+      {
+        "x": 800,
+        "y": 1720
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 1795
+      },
+      {
+        "x": 800,
+        "y": 1795
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1810,
+        "type": "selection",
+        "text": "自我介绍时的状态",
+        "css": "btn",
+        "ref": "divTxtBtn229"
+      },
+      {
+        "x": 225,
+        "y": 1900,
+        "type": "option",
+        "text": "就像被回想场面占掉了好几卷的漫画",
+        "css": "btn",
+        "ref": "divTxtBtn234"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1810,
+        "type": "selection",
+        "text": "自我介绍时的状态",
+        "css": "btn",
+        "ref": "divTxtBtn229"
+      },
+      {
+        "x": 625,
+        "y": 1900,
+        "type": "option",
+        "text": "就像牺牲生命拯救了地球的宇航员",
+        "css": "btn",
+        "ref": "divTxtBtn240"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1810,
+        "type": "selection",
+        "text": "自我介绍时的状态",
+        "css": "btn",
+        "ref": "divTxtBtn229"
+      },
+      {
+        "x": 1025,
+        "y": 1900,
+        "type": "option",
+        "text": "就像在站台分别的恋人",
+        "css": "btn",
+        "ref": "divTxtBtn244"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1900,
+        "type": "option",
+        "text": "就像被回想场面占掉了好几卷的漫画",
+        "css": "btn",
+        "ref": "divTxtBtn234"
+      },
+      {
+        "x": 800,
+        "y": 1960
+      },
+      {
+        "x": 400,
+        "y": 1960
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1900,
+        "type": "option",
+        "text": "就像牺牲生命拯救了地球的宇航员",
+        "css": "btn",
+        "ref": "divTxtBtn240"
+      },
+      {
+        "x": 800,
+        "y": 1960
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1900,
+        "type": "option",
+        "text": "就像在站台分别的恋人",
+        "css": "btn",
+        "ref": "divTxtBtn244"
+      },
+      {
+        "x": 800,
+        "y": 1960
+      },
+      {
+        "x": 1200,
+        "y": 1960
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 1960
+      },
+      {
+        "x": 800,
+        "y": 1960
+      }
+    ]
+  ],
+  "comment": [],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "春原的玩笑",
+    "dateE": "Sunohara's Jokes",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1990,
+    "page": 25,
+    "ref": "divFt260"
+  },
+  "board": [
+    {
+      "x": 0,
+      "y": 1530,
+      "height": 240
+    },
+    {
+      "x": 0,
+      "y": 1770,
+      "height": 240
+    }
+  ]
+}

@@ -1,0 +1,817 @@
+{
+  "box": [
+    [
+      {
+        "x": 750,
+        "y": 175,
+        "type": "date",
+        "text": "5月3日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "杏的唐突提议",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "option",
+        "text": "练习试试看",
+        "route": "l|杏",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 825,
+        "y": 340,
+        "type": "option",
+        "text": "默不作声地看着杏",
+        "route": "r|杏",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 430,
+        "type": "date",
+        "text": "5月4日",
+        "css": "date",
+        "ref": "divBtn20"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 565,
+        "type": "date",
+        "text": "5月4日",
+        "css": "date",
+        "ref": "divBtn29"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 640,
+        "type": "selection",
+        "text": "回忆当时椋的选择",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "紫水晶",
+        "route": "l|杏|-椋",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 825,
+        "y": 730,
+        "type": "option",
+        "text": "坦桑蓝",
+        "route": "r|-椋|杏",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 820,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn50"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 955,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn59"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1030,
+        "type": "selection",
+        "text": "朋也和椋的关系（二）",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1120,
+        "type": "option",
+        "text": "朋友",
+        "css": "btn",
+        "ref": "divTxtBtn64"
+      },
+      {
+        "x": 625,
+        "y": 1120,
+        "type": "option",
+        "text": "恋人",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 1025,
+        "y": 1120,
+        "type": "option",
+        "text": "夫妇",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1210,
+        "type": "selection",
+        "text": "近距离面对着椋",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1300,
+        "type": "option",
+        "text": "接吻",
+        "route": "l|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      },
+      {
+        "x": 825,
+        "y": 1300,
+        "type": "option",
+        "text": "不接吻",
+        "route": "r|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1360,
+        "type": "condition",
+        "text": "28日，喜欢女孩的类型",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1450,
+        "type": "selection",
+        "text": "喜欢短头发",
+        "css": "btn",
+        "ref": "divTxtBtn112"
+      },
+      {
+        "x": 625,
+        "y": 1450,
+        "type": "selection",
+        "text": "喜欢长头发",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1510,
+        "type": "condition",
+        "text": "4日，回忆当时椋的选择",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1600,
+        "type": "selection",
+        "text": "坦桑蓝",
+        "css": "btn",
+        "ref": "divTxtBtn128"
+      },
+      {
+        "x": 625,
+        "y": 1600,
+        "type": "selection",
+        "text": "紫水晶",
+        "css": "btn",
+        "ref": "divTxtBtn132"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1660,
+        "type": "condition",
+        "text": "椋 GOOD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn138"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1690,
+        "type": "date",
+        "text": "5月7日",
+        "css": "date",
+        "ref": "divBtn142"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 750,
+        "y": 175,
+        "type": "date",
+        "text": "5月3日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "杏的唐突提议",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "杏的唐突提议",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 425,
+        "y": 340,
+        "type": "option",
+        "text": "练习试试看",
+        "route": "l|杏",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "杏的唐突提议",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 825,
+        "y": 340,
+        "type": "option",
+        "text": "默不作声地看着杏",
+        "route": "r|杏",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "option",
+        "text": "练习试试看",
+        "route": "l|杏",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 750,
+        "y": 430,
+        "type": "date",
+        "text": "5月4日",
+        "css": "date",
+        "ref": "divBtn20"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 340,
+        "type": "option",
+        "text": "默不作声地看着杏",
+        "route": "r|杏",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      },
+      {
+        "x": 750,
+        "y": 430,
+        "type": "date",
+        "text": "5月4日",
+        "css": "date",
+        "ref": "divBtn20"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 565,
+        "type": "date",
+        "text": "5月4日",
+        "css": "date",
+        "ref": "divBtn29"
+      },
+      {
+        "x": 625,
+        "y": 640,
+        "type": "selection",
+        "text": "回忆当时椋的选择",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 640,
+        "type": "selection",
+        "text": "回忆当时椋的选择",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      },
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "紫水晶",
+        "route": "l|杏|-椋",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 640,
+        "type": "selection",
+        "text": "回忆当时椋的选择",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      },
+      {
+        "x": 825,
+        "y": 730,
+        "type": "option",
+        "text": "坦桑蓝",
+        "route": "r|-椋|杏",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "紫水晶",
+        "route": "l|杏|-椋",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 750,
+        "y": 820,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn50"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 730,
+        "type": "option",
+        "text": "坦桑蓝",
+        "route": "r|-椋|杏",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      },
+      {
+        "x": 750,
+        "y": 820,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn50"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 955,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn59"
+      },
+      {
+        "x": 625,
+        "y": 1030,
+        "type": "selection",
+        "text": "朋也和椋的关系（二）",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1030,
+        "type": "selection",
+        "text": "朋也和椋的关系（二）",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 225,
+        "y": 1120,
+        "type": "option",
+        "text": "朋友",
+        "css": "btn",
+        "ref": "divTxtBtn64"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1030,
+        "type": "selection",
+        "text": "朋也和椋的关系（二）",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 625,
+        "y": 1120,
+        "type": "option",
+        "text": "恋人",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1030,
+        "type": "selection",
+        "text": "朋也和椋的关系（二）",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 1025,
+        "y": 1120,
+        "type": "option",
+        "text": "夫妇",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1120,
+        "type": "option",
+        "text": "朋友",
+        "css": "btn",
+        "ref": "divTxtBtn64"
+      },
+      {
+        "x": 625,
+        "y": 1210,
+        "type": "selection",
+        "text": "近距离面对着椋",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1120,
+        "type": "option",
+        "text": "恋人",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 625,
+        "y": 1210,
+        "type": "selection",
+        "text": "近距离面对着椋",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1120,
+        "type": "option",
+        "text": "夫妇",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      },
+      {
+        "x": 625,
+        "y": 1210,
+        "type": "selection",
+        "text": "近距离面对着椋",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1210,
+        "type": "selection",
+        "text": "近距离面对着椋",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      },
+      {
+        "x": 425,
+        "y": 1300,
+        "type": "option",
+        "text": "接吻",
+        "route": "l|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1210,
+        "type": "selection",
+        "text": "近距离面对着椋",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      },
+      {
+        "x": 825,
+        "y": 1300,
+        "type": "option",
+        "text": "不接吻",
+        "route": "r|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1300,
+        "type": "option",
+        "text": "接吻",
+        "route": "l|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn92"
+      },
+      {
+        "x": 425,
+        "y": 1360,
+        "type": "condition",
+        "text": "28日，喜欢女孩的类型",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1360,
+        "type": "condition",
+        "text": "28日，喜欢女孩的类型",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      },
+      {
+        "x": 225,
+        "y": 1450,
+        "type": "selection",
+        "text": "喜欢短头发",
+        "css": "btn",
+        "ref": "divTxtBtn112"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1360,
+        "type": "condition",
+        "text": "28日，喜欢女孩的类型",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      },
+      {
+        "x": 625,
+        "y": 1450,
+        "type": "selection",
+        "text": "喜欢长头发",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1450,
+        "type": "selection",
+        "text": "喜欢短头发",
+        "css": "btn",
+        "ref": "divTxtBtn112"
+      },
+      {
+        "x": 225,
+        "y": 1510,
+        "type": "condition",
+        "text": "4日，回忆当时椋的选择",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1510,
+        "type": "condition",
+        "text": "4日，回忆当时椋的选择",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      },
+      {
+        "x": 225,
+        "y": 1600,
+        "type": "selection",
+        "text": "坦桑蓝",
+        "css": "btn",
+        "ref": "divTxtBtn128"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1510,
+        "type": "condition",
+        "text": "4日，回忆当时椋的选择",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      },
+      {
+        "x": 625,
+        "y": 1600,
+        "type": "selection",
+        "text": "紫水晶",
+        "css": "btn",
+        "ref": "divTxtBtn132"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1600,
+        "type": "selection",
+        "text": "坦桑蓝",
+        "css": "btn",
+        "ref": "divTxtBtn128"
+      },
+      {
+        "x": 225,
+        "y": 1660,
+        "type": "condition",
+        "text": "椋 GOOD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn138"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1600,
+        "type": "selection",
+        "text": "紫水晶",
+        "css": "btn",
+        "ref": "divTxtBtn132"
+      },
+      {
+        "x": 750,
+        "y": 1690,
+        "type": "date",
+        "text": "5月7日",
+        "css": "date",
+        "ref": "divBtn142"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1450,
+        "type": "selection",
+        "text": "喜欢长头发",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      },
+      {
+        "x": 1000,
+        "y": 1540
+      },
+      {
+        "x": 750,
+        "y": 1690,
+        "type": "date",
+        "text": "5月7日",
+        "css": "date",
+        "ref": "divBtn142"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1300,
+        "type": "option",
+        "text": "不接吻",
+        "route": "r|杏|椋",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      },
+      {
+        "x": 750,
+        "y": 1690,
+        "type": "date",
+        "text": "5月7日",
+        "css": "date",
+        "ref": "divBtn142"
+      }
+    ]
+  ],
+  "comment": [],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "fujibayashi",
+    "routeC": "藤林 杏/藤林 椋",
+    "routeE": "Kyou Fujibayashi/Ryou Fujibayashi",
+    "dateC": "5月3日～5月5日",
+    "dateE": "May 3rd~May 5th",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1720,
+    "page": 35,
+    "ref": "divFt156"
+  },
+  "board": []
+}

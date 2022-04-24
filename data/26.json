@@ -1,0 +1,697 @@
+{
+  "box": [
+    [
+      {
+        "x": 750,
+        "y": 175,
+        "type": "date",
+        "text": "4月21日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "喜欢美佐枝的理由（一）",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 610,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "喜欢美佐枝的理由（一）～（三）",
+          "num": "1",
+          "summary": "朋也再次造访美佐枝的房间，他决定正视自己的感情。",
+          "hint": "此处连续三个分支，一共有五个不同的选择项：[严厉]、[战斗力很高]、[温柔]、[为我操心]、[被窝中的味道很香]。与图中流程的表达不同的是，在{喜欢美佐枝的理由（一）}和{喜欢美佐枝的理由（一）}选择了[战斗力很高]或[温柔]，接下来的分支都会出现而不是直接Bad Ending。在下一个分支中，上一次选择了的选项将被[为我操心]、[被窝中的味道很香]依次替代。三个分支只有按顺序选择[严厉]、[为我操心]、[被窝中的味道很香]才能达成美佐枝Good Ending，否则，将在三个分支结束后，进入Bad Ending。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 340,
+        "type": "option",
+        "text": "严厉",
+        "route": "l|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 625,
+        "y": 340,
+        "type": "option",
+        "text": "战斗力很高",
+        "route": "l|-美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn15"
+      },
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "option",
+        "text": "温柔",
+        "route": "r|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 430,
+        "type": "condition",
+        "text": "公共 Bad Ending",
+        "css": "btn",
+        "ref": "divTxtBtn27"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 460,
+        "type": "selection",
+        "text": "喜欢美佐枝的理由（二）",
+        "css": "btn",
+        "ref": "divTxtBtn37"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 550,
+        "type": "option",
+        "text": "为我操心",
+        "route": "l|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn41"
+      },
+      {
+        "x": 625,
+        "y": 550,
+        "type": "option",
+        "text": "战斗力很高",
+        "route": "l|-美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 1025,
+        "y": 550,
+        "type": "option",
+        "text": "温柔",
+        "route": "r|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn53"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 640,
+        "type": "condition",
+        "text": "公共 Bad Ending",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 670,
+        "type": "selection",
+        "text": "喜欢美佐枝的理由（三）",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 760,
+        "type": "option",
+        "text": "被窝中的味道很香",
+        "route": "l|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      },
+      {
+        "x": 625,
+        "y": 760,
+        "type": "option",
+        "text": "战斗力很高",
+        "route": "l|-美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn79"
+      },
+      {
+        "x": 1025,
+        "y": 760,
+        "type": "option",
+        "text": "温柔",
+        "route": "r|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 820,
+        "type": "condition",
+        "text": "美佐枝 Good Ending",
+        "css": "btn",
+        "ref": "divTxtBtn93"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 850,
+        "type": "condition",
+        "text": "公共 Bad Ending",
+        "css": "btn",
+        "ref": "divTxtBtn97"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 750,
+        "y": 175,
+        "type": "date",
+        "text": "4月21日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "喜欢美佐枝的理由（一）",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 610,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "喜欢美佐枝的理由（一）～（三）",
+          "num": "1",
+          "summary": "朋也再次造访美佐枝的房间，他决定正视自己的感情。",
+          "hint": "此处连续三个分支，一共有五个不同的选择项：[严厉]、[战斗力很高]、[温柔]、[为我操心]、[被窝中的味道很香]。与图中流程的表达不同的是，在{喜欢美佐枝的理由（一）}和{喜欢美佐枝的理由（一）}选择了[战斗力很高]或[温柔]，接下来的分支都会出现而不是直接Bad Ending。在下一个分支中，上一次选择了的选项将被[为我操心]、[被窝中的味道很香]依次替代。三个分支只有按顺序选择[严厉]、[为我操心]、[被窝中的味道很香]才能达成美佐枝Good Ending，否则，将在三个分支结束后，进入Bad Ending。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "喜欢美佐枝的理由（一）",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 610,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "喜欢美佐枝的理由（一）～（三）",
+          "num": "1",
+          "summary": "朋也再次造访美佐枝的房间，他决定正视自己的感情。",
+          "hint": "此处连续三个分支，一共有五个不同的选择项：[严厉]、[战斗力很高]、[温柔]、[为我操心]、[被窝中的味道很香]。与图中流程的表达不同的是，在{喜欢美佐枝的理由（一）}和{喜欢美佐枝的理由（一）}选择了[战斗力很高]或[温柔]，接下来的分支都会出现而不是直接Bad Ending。在下一个分支中，上一次选择了的选项将被[为我操心]、[被窝中的味道很香]依次替代。三个分支只有按顺序选择[严厉]、[为我操心]、[被窝中的味道很香]才能达成美佐枝Good Ending，否则，将在三个分支结束后，进入Bad Ending。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      },
+      {
+        "x": 225,
+        "y": 340,
+        "type": "option",
+        "text": "严厉",
+        "route": "l|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "喜欢美佐枝的理由（一）",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 610,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "喜欢美佐枝的理由（一）～（三）",
+          "num": "1",
+          "summary": "朋也再次造访美佐枝的房间，他决定正视自己的感情。",
+          "hint": "此处连续三个分支，一共有五个不同的选择项：[严厉]、[战斗力很高]、[温柔]、[为我操心]、[被窝中的味道很香]。与图中流程的表达不同的是，在{喜欢美佐枝的理由（一）}和{喜欢美佐枝的理由（一）}选择了[战斗力很高]或[温柔]，接下来的分支都会出现而不是直接Bad Ending。在下一个分支中，上一次选择了的选项将被[为我操心]、[被窝中的味道很香]依次替代。三个分支只有按顺序选择[严厉]、[为我操心]、[被窝中的味道很香]才能达成美佐枝Good Ending，否则，将在三个分支结束后，进入Bad Ending。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      },
+      {
+        "x": 625,
+        "y": 340,
+        "type": "option",
+        "text": "战斗力很高",
+        "route": "l|-美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn15"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "喜欢美佐枝的理由（一）",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 610,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "喜欢美佐枝的理由（一）～（三）",
+          "num": "1",
+          "summary": "朋也再次造访美佐枝的房间，他决定正视自己的感情。",
+          "hint": "此处连续三个分支，一共有五个不同的选择项：[严厉]、[战斗力很高]、[温柔]、[为我操心]、[被窝中的味道很香]。与图中流程的表达不同的是，在{喜欢美佐枝的理由（一）}和{喜欢美佐枝的理由（一）}选择了[战斗力很高]或[温柔]，接下来的分支都会出现而不是直接Bad Ending。在下一个分支中，上一次选择了的选项将被[为我操心]、[被窝中的味道很香]依次替代。三个分支只有按顺序选择[严厉]、[为我操心]、[被窝中的味道很香]才能达成美佐枝Good Ending，否则，将在三个分支结束后，进入Bad Ending。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      },
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "option",
+        "text": "温柔",
+        "route": "r|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 340,
+        "type": "option",
+        "text": "战斗力很高",
+        "route": "l|-美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn15"
+      },
+      {
+        "x": 825,
+        "y": 430,
+        "type": "condition",
+        "text": "公共 Bad Ending",
+        "css": "btn",
+        "ref": "divTxtBtn27"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 340,
+        "type": "option",
+        "text": "温柔",
+        "route": "r|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      },
+      {
+        "x": 825,
+        "y": 430,
+        "type": "condition",
+        "text": "公共 Bad Ending",
+        "css": "btn",
+        "ref": "divTxtBtn27"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 340,
+        "type": "option",
+        "text": "严厉",
+        "route": "l|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 225,
+        "y": 460,
+        "type": "selection",
+        "text": "喜欢美佐枝的理由（二）",
+        "css": "btn",
+        "ref": "divTxtBtn37"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 460,
+        "type": "selection",
+        "text": "喜欢美佐枝的理由（二）",
+        "css": "btn",
+        "ref": "divTxtBtn37"
+      },
+      {
+        "x": 225,
+        "y": 550,
+        "type": "option",
+        "text": "为我操心",
+        "route": "l|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn41"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 460,
+        "type": "selection",
+        "text": "喜欢美佐枝的理由（二）",
+        "css": "btn",
+        "ref": "divTxtBtn37"
+      },
+      {
+        "x": 625,
+        "y": 550,
+        "type": "option",
+        "text": "战斗力很高",
+        "route": "l|-美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 460,
+        "type": "selection",
+        "text": "喜欢美佐枝的理由（二）",
+        "css": "btn",
+        "ref": "divTxtBtn37"
+      },
+      {
+        "x": 1025,
+        "y": 550,
+        "type": "option",
+        "text": "温柔",
+        "route": "r|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn53"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 550,
+        "type": "option",
+        "text": "战斗力很高",
+        "route": "l|-美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 825,
+        "y": 640,
+        "type": "condition",
+        "text": "公共 Bad Ending",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 550,
+        "type": "option",
+        "text": "温柔",
+        "route": "r|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn53"
+      },
+      {
+        "x": 825,
+        "y": 640,
+        "type": "condition",
+        "text": "公共 Bad Ending",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 550,
+        "type": "option",
+        "text": "为我操心",
+        "route": "l|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn41"
+      },
+      {
+        "x": 225,
+        "y": 670,
+        "type": "selection",
+        "text": "喜欢美佐枝的理由（三）",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 670,
+        "type": "selection",
+        "text": "喜欢美佐枝的理由（三）",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 225,
+        "y": 760,
+        "type": "option",
+        "text": "被窝中的味道很香",
+        "route": "l|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 670,
+        "type": "selection",
+        "text": "喜欢美佐枝的理由（三）",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 625,
+        "y": 760,
+        "type": "option",
+        "text": "战斗力很高",
+        "route": "l|-美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn79"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 670,
+        "type": "selection",
+        "text": "喜欢美佐枝的理由（三）",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 1025,
+        "y": 760,
+        "type": "option",
+        "text": "温柔",
+        "route": "r|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 760,
+        "type": "option",
+        "text": "被窝中的味道很香",
+        "route": "l|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      },
+      {
+        "x": 225,
+        "y": 820,
+        "type": "condition",
+        "text": "美佐枝 Good Ending",
+        "css": "btn",
+        "ref": "divTxtBtn93"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 760,
+        "type": "option",
+        "text": "战斗力很高",
+        "route": "l|-美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn79"
+      },
+      {
+        "x": 825,
+        "y": 850,
+        "type": "condition",
+        "text": "公共 Bad Ending",
+        "css": "btn",
+        "ref": "divTxtBtn97"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 760,
+        "type": "option",
+        "text": "温柔",
+        "route": "r|美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      },
+      {
+        "x": 825,
+        "y": 850,
+        "type": "condition",
+        "text": "公共 Bad Ending",
+        "css": "btn",
+        "ref": "divTxtBtn97"
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 240,
+      "text": "喜欢美佐枝的理由（一）～（三）",
+      "num": "1",
+      "summary": "朋也再次造访美佐枝的房间，他决定正视自己的感情。",
+      "hint": "此处连续三个分支，一共有五个不同的选择项：[严厉]、[战斗力很高]、[温柔]、[为我操心]、[被窝中的味道很香]。与图中流程的表达不同的是，在{喜欢美佐枝的理由（一）}和{喜欢美佐枝的理由（一）}选择了[战斗力很高]或[温柔]，接下来的分支都会出现而不是直接Bad Ending。在下一个分支中，上一次选择了的选项将被[为我操心]、[被窝中的味道很香]依次替代。三个分支只有按顺序选择[严厉]、[为我操心]、[被窝中的味道很香]才能达成美佐枝Good Ending，否则，将在三个分支结束后，进入Bad Ending。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt5"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "misae",
+    "routeC": "相乐 美佐枝",
+    "routeE": "Misae Sagara",
+    "dateC": "4月21日",
+    "dateE": "April 21st",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 880,
+    "page": 26,
+    "ref": "divFt107"
+  },
+  "board": []
+}

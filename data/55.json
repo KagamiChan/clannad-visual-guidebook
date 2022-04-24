@@ -1,0 +1,315 @@
+{
+  "box": [
+    [
+      {
+        "x": 850,
+        "y": 175,
+        "type": "date",
+        "text": "5月11日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "selection",
+        "text": "事发后秋生的动摇",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "option",
+        "text": "你是个很棒的父亲",
+        "route": "l|渚",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 925,
+        "y": 340,
+        "type": "option",
+        "text": "你作为父亲真是失职",
+        "route": "r|渚",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "在舞台上止不住哭泣的渚",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 490,
+        "type": "option",
+        "text": "呼喊",
+        "route": "l|渚",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      },
+      {
+        "x": 725,
+        "y": 490,
+        "type": "option",
+        "text": "沉默地旁观",
+        "route": "r|渚",
+        "css": "btn",
+        "ref": "divTxtBtn31"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 550,
+        "type": "option",
+        "text": "幻想世界（十）",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 580,
+        "type": "condition",
+        "text": "渚 BAD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 610,
+        "type": "condition",
+        "text": "渚 GOOD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn50"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 850,
+        "y": 175,
+        "type": "date",
+        "text": "5月11日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 725,
+        "y": 250,
+        "type": "selection",
+        "text": "事发后秋生的动摇",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "selection",
+        "text": "事发后秋生的动摇",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 525,
+        "y": 340,
+        "type": "option",
+        "text": "你是个很棒的父亲",
+        "route": "l|渚",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "selection",
+        "text": "事发后秋生的动摇",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 925,
+        "y": 340,
+        "type": "option",
+        "text": "你作为父亲真是失职",
+        "route": "r|渚",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "option",
+        "text": "你是个很棒的父亲",
+        "route": "l|渚",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "在舞台上止不住哭泣的渚",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "在舞台上止不住哭泣的渚",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      },
+      {
+        "x": 325,
+        "y": 490,
+        "type": "option",
+        "text": "呼喊",
+        "route": "l|渚",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "在舞台上止不住哭泣的渚",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      },
+      {
+        "x": 725,
+        "y": 490,
+        "type": "option",
+        "text": "沉默地旁观",
+        "route": "r|渚",
+        "css": "btn",
+        "ref": "divTxtBtn31"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 490,
+        "type": "option",
+        "text": "呼喊",
+        "route": "l|渚",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      },
+      {
+        "x": 325,
+        "y": 550,
+        "type": "option",
+        "text": "幻想世界（十）",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 490,
+        "type": "option",
+        "text": "沉默地旁观",
+        "route": "r|渚",
+        "css": "btn",
+        "ref": "divTxtBtn31"
+      },
+      {
+        "x": 725,
+        "y": 580,
+        "type": "condition",
+        "text": "渚 BAD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 340,
+        "type": "option",
+        "text": "你作为父亲真是失职",
+        "route": "r|渚",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      },
+      {
+        "x": 725,
+        "y": 580,
+        "type": "condition",
+        "text": "渚 BAD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 550,
+        "type": "option",
+        "text": "幻想世界（十）",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 325,
+        "y": 610,
+        "type": "condition",
+        "text": "渚 GOOD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn50"
+      }
+    ]
+  ],
+  "comment": [],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "nagisa",
+    "routeC": "古河 渚/幸村 俊夫",
+    "routeE": "Nagisa Furukawa / Toshio Yukimura",
+    "dateC": "5月11日",
+    "dateE": "May 11th",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 640,
+    "page": 55,
+    "ref": "divFt54"
+  },
+  "board": []
+}

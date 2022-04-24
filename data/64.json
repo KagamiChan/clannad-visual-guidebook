@@ -1,0 +1,1584 @@
+{
+  "box": [
+    [
+      {
+        "x": 750,
+        "y": 175,
+        "type": "date",
+        "text": "同栖篇",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "被拜托面包店的事情",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "option",
+        "text": "没有办法只能帮忙",
+        "route": "l|秋生",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 825,
+        "y": 340,
+        "type": "option",
+        "text": "不是不行是根本办不到",
+        "route": "r|秋生",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 400,
+        "type": "condition",
+        "text": "“光”获得数大于11",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 490,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      },
+      {
+        "x": 625,
+        "y": 490,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 550,
+        "type": "selection",
+        "text": "思考的事情",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 640,
+        "type": "option",
+        "text": "秋生的事情",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      },
+      {
+        "x": 425,
+        "y": 640,
+        "type": "option",
+        "text": "H的事情",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 730,
+        "type": "selection",
+        "text": "清晨的问候",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 820,
+        "type": "option",
+        "text": "回答说早上好",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      },
+      {
+        "x": 425,
+        "y": 820,
+        "type": "option",
+        "text": "抱住",
+        "css": "btn",
+        "ref": "divTxtBtn68"
+      },
+      {
+        "x": 825,
+        "y": 820,
+        "type": "condition",
+        "text": "学院篇2日,对待早苗的心情",
+        "css": "btn",
+        "ref": "divTxtBtn74",
+        "num": {
+          "x": 810,
+          "y": 820,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn76"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 810,
+          "text": "条件选择分支 AFTER STORY",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "AFTER STORY继承古河渚学院篇线路的分支选择记录继续游戏,因此,在AFTER STORY中牵涉到学院篇的选择分支,都是最近一次完成渚线并保存记录的过程中,在相应分支做出的选择来判断的.",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt77"
+        }
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 910,
+        "type": "option",
+        "text": "秋生“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn85"
+      },
+      {
+        "x": 625,
+        "y": 910,
+        "type": "selection",
+        "text": "喜欢",
+        "css": "btn",
+        "ref": "divTxtBtn95"
+      },
+      {
+        "x": 1025,
+        "y": 910,
+        "type": "selection",
+        "text": "我已经有渚了",
+        "css": "btn",
+        "ref": "divTxtBtn101"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 970,
+        "type": "condition",
+        "text": "秋生  Good Ending",
+        "css": "btn",
+        "ref": "divTxtBtn107"
+      },
+      {
+        "x": 625,
+        "y": 970,
+        "type": "selection",
+        "text": "早苗询问的回答",
+        "css": "btn",
+        "ref": "divTxtBtn111"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1060,
+        "type": "option",
+        "text": "喜欢",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      },
+      {
+        "x": 825,
+        "y": 1060,
+        "type": "option",
+        "text": "不是那样的",
+        "css": "btn",
+        "ref": "divTxtBtn121"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1150,
+        "type": "option",
+        "text": "早苗“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn127"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1240,
+        "type": "condition",
+        "text": "学院篇20日，芳野寻找助手",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1330,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      },
+      {
+        "x": 825,
+        "y": 1330,
+        "type": "selection",
+        "text": "拒绝",
+        "css": "btn",
+        "ref": "divTxtBtn151"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1390,
+        "type": "selection",
+        "text": "芳野对往事的追问",
+        "css": "btn",
+        "ref": "divTxtBtn157",
+        "num": {
+          "x": 410,
+          "y": 1390,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn159"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1380,
+          "text": "芳野对往事的追问",
+          "num": "2",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "+老实回答|+唱歌|-继续问下去",
+          "icon": "00000001",
+          "iconillu": "公子有条件参与毕业典礼。如果学园篇29日满足在古河面包店前遇见公子，则公子已确定出席毕业典礼，此处的选择没有影响",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt160"
+        }
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1480,
+        "type": "option",
+        "text": "老实回答",
+        "route": "l|芳野",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      },
+      {
+        "x": 625,
+        "y": 1480,
+        "type": "option",
+        "text": "随意糊弄过去",
+        "route": "r|芳野",
+        "css": "btn",
+        "ref": "divTxtBtn170"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1540,
+        "type": "selection",
+        "text": "糟糕的谈话气氛",
+        "css": "btn",
+        "ref": "divTxtBtn177"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1630,
+        "type": "option",
+        "text": "唱歌",
+        "route": "l|芳野",
+        "css": "btn",
+        "ref": "divTxtBtn181"
+      },
+      {
+        "x": 625,
+        "y": 1630,
+        "type": "option",
+        "text": "换个频道",
+        "route": "r|芳野",
+        "css": "btn",
+        "ref": "divTxtBtn186"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1690,
+        "type": "selection",
+        "text": "听芳野谈自己的过去",
+        "css": "btn",
+        "ref": "divTxtBtn193"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1780,
+        "type": "option",
+        "text": "再继续问下去",
+        "route": "l|芳野",
+        "css": "btn",
+        "ref": "divTxtBtn197"
+      },
+      {
+        "x": 625,
+        "y": 1780,
+        "type": "option",
+        "text": "同意",
+        "route": "r|芳野",
+        "css": "btn",
+        "ref": "divTxtBtn202"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1840,
+        "type": "selection",
+        "text": "探望伊吹老师",
+        "css": "btn",
+        "ref": "divTxtBtn209",
+        "num": {
+          "x": 210,
+          "y": 1840,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn211"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1830,
+          "text": "探望伊吹老师",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-等到后天一起去",
+          "icon": "00000001",
+          "iconillu": "公子参与毕业典礼。如果学园篇29日满足在古河面包店前遇见公子，则公子已确定出席毕业典礼，此处的选择没有影响",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt212"
+        }
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1930,
+        "type": "option",
+        "text": "等后天一起去",
+        "css": "btn",
+        "ref": "divTxtBtn215"
+      },
+      {
+        "x": 625,
+        "y": 1930,
+        "type": "option",
+        "text": "让渚一个人去",
+        "css": "btn",
+        "ref": "divTxtBtn219"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 750,
+        "y": 175,
+        "type": "date",
+        "text": "同栖篇",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "被拜托面包店的事情",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "被拜托面包店的事情",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 425,
+        "y": 340,
+        "type": "option",
+        "text": "没有办法只能帮忙",
+        "route": "l|秋生",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "被拜托面包店的事情",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 825,
+        "y": 340,
+        "type": "option",
+        "text": "不是不行是根本办不到",
+        "route": "r|秋生",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "option",
+        "text": "没有办法只能帮忙",
+        "route": "l|秋生",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 425,
+        "y": 400,
+        "type": "condition",
+        "text": "“光”获得数大于11",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 400,
+        "type": "condition",
+        "text": "“光”获得数大于11",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      },
+      {
+        "x": 225,
+        "y": 490,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 400,
+        "type": "condition",
+        "text": "“光”获得数大于11",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      },
+      {
+        "x": 625,
+        "y": 490,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 490,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      },
+      {
+        "x": 225,
+        "y": 550,
+        "type": "selection",
+        "text": "思考的事情",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 550,
+        "type": "selection",
+        "text": "思考的事情",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      },
+      {
+        "x": 25,
+        "y": 640,
+        "type": "option",
+        "text": "秋生的事情",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 550,
+        "type": "selection",
+        "text": "思考的事情",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      },
+      {
+        "x": 425,
+        "y": 640,
+        "type": "option",
+        "text": "H的事情",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 640,
+        "type": "option",
+        "text": "秋生的事情",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      },
+      {
+        "x": 225,
+        "y": 730,
+        "type": "selection",
+        "text": "清晨的问候",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 640,
+        "type": "option",
+        "text": "H的事情",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 225,
+        "y": 730,
+        "type": "selection",
+        "text": "清晨的问候",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 730,
+        "type": "selection",
+        "text": "清晨的问候",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      },
+      {
+        "x": 25,
+        "y": 820,
+        "type": "option",
+        "text": "回答说早上好",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 730,
+        "type": "selection",
+        "text": "清晨的问候",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      },
+      {
+        "x": 425,
+        "y": 820,
+        "type": "option",
+        "text": "抱住",
+        "css": "btn",
+        "ref": "divTxtBtn68"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 340,
+        "type": "option",
+        "text": "不是不行是根本办不到",
+        "route": "r|秋生",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      },
+      {
+        "x": 825,
+        "y": 820,
+        "type": "condition",
+        "text": "学院篇2日,对待早苗的心情",
+        "css": "btn",
+        "ref": "divTxtBtn74",
+        "num": {
+          "x": 810,
+          "y": 820,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn76"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 810,
+          "text": "条件选择分支 AFTER STORY",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "AFTER STORY继承古河渚学院篇线路的分支选择记录继续游戏,因此,在AFTER STORY中牵涉到学院篇的选择分支,都是最近一次完成渚线并保存记录的过程中,在相应分支做出的选择来判断的.",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt77"
+        }
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 490,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      },
+      {
+        "x": 1000,
+        "y": 580
+      },
+      {
+        "x": 825,
+        "y": 820,
+        "type": "condition",
+        "text": "学院篇2日,对待早苗的心情",
+        "css": "btn",
+        "ref": "divTxtBtn74",
+        "num": {
+          "x": 810,
+          "y": 820,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn76"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 810,
+          "text": "条件选择分支 AFTER STORY",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "AFTER STORY继承古河渚学院篇线路的分支选择记录继续游戏,因此,在AFTER STORY中牵涉到学院篇的选择分支,都是最近一次完成渚线并保存记录的过程中,在相应分支做出的选择来判断的.",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt77"
+        }
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 820,
+        "type": "option",
+        "text": "回答说早上好",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      },
+      {
+        "x": 225,
+        "y": 910,
+        "type": "option",
+        "text": "秋生“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn85"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 820,
+        "type": "option",
+        "text": "抱住",
+        "css": "btn",
+        "ref": "divTxtBtn68"
+      },
+      {
+        "x": 225,
+        "y": 910,
+        "type": "option",
+        "text": "秋生“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn85"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 820,
+        "type": "condition",
+        "text": "学院篇2日,对待早苗的心情",
+        "css": "btn",
+        "ref": "divTxtBtn74",
+        "num": {
+          "x": 810,
+          "y": 820,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn76"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 810,
+          "text": "条件选择分支 AFTER STORY",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "AFTER STORY继承古河渚学院篇线路的分支选择记录继续游戏,因此,在AFTER STORY中牵涉到学院篇的选择分支,都是最近一次完成渚线并保存记录的过程中,在相应分支做出的选择来判断的.",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt77"
+        }
+      },
+      {
+        "x": 625,
+        "y": 910,
+        "type": "selection",
+        "text": "喜欢",
+        "css": "btn",
+        "ref": "divTxtBtn95"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 820,
+        "type": "condition",
+        "text": "学院篇2日,对待早苗的心情",
+        "css": "btn",
+        "ref": "divTxtBtn74",
+        "num": {
+          "x": 810,
+          "y": 820,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn76"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 810,
+          "text": "条件选择分支 AFTER STORY",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "AFTER STORY继承古河渚学院篇线路的分支选择记录继续游戏,因此,在AFTER STORY中牵涉到学院篇的选择分支,都是最近一次完成渚线并保存记录的过程中,在相应分支做出的选择来判断的.",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt77"
+        }
+      },
+      {
+        "x": 1025,
+        "y": 910,
+        "type": "selection",
+        "text": "我已经有渚了",
+        "css": "btn",
+        "ref": "divTxtBtn101"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 910,
+        "type": "option",
+        "text": "秋生“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn85"
+      },
+      {
+        "x": 225,
+        "y": 970,
+        "type": "condition",
+        "text": "秋生  Good Ending",
+        "css": "btn",
+        "ref": "divTxtBtn107"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 910,
+        "type": "selection",
+        "text": "喜欢",
+        "css": "btn",
+        "ref": "divTxtBtn95"
+      },
+      {
+        "x": 625,
+        "y": 970,
+        "type": "selection",
+        "text": "早苗询问的回答",
+        "css": "btn",
+        "ref": "divTxtBtn111"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 970,
+        "type": "selection",
+        "text": "早苗询问的回答",
+        "css": "btn",
+        "ref": "divTxtBtn111"
+      },
+      {
+        "x": 425,
+        "y": 1060,
+        "type": "option",
+        "text": "喜欢",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 970,
+        "type": "selection",
+        "text": "早苗询问的回答",
+        "css": "btn",
+        "ref": "divTxtBtn111"
+      },
+      {
+        "x": 825,
+        "y": 1060,
+        "type": "option",
+        "text": "不是那样的",
+        "css": "btn",
+        "ref": "divTxtBtn121"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1060,
+        "type": "option",
+        "text": "喜欢",
+        "css": "btn",
+        "ref": "divTxtBtn115"
+      },
+      {
+        "x": 625,
+        "y": 1150,
+        "type": "option",
+        "text": "早苗“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn127"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1060,
+        "type": "option",
+        "text": "不是那样的",
+        "css": "btn",
+        "ref": "divTxtBtn121"
+      },
+      {
+        "x": 625,
+        "y": 1150,
+        "type": "option",
+        "text": "早苗“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn127"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1150,
+        "type": "option",
+        "text": "早苗“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn127"
+      },
+      {
+        "x": 625,
+        "y": 1240,
+        "type": "condition",
+        "text": "学院篇20日，芳野寻找助手",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 910,
+        "type": "selection",
+        "text": "我已经有渚了",
+        "css": "btn",
+        "ref": "divTxtBtn101"
+      },
+      {
+        "x": 625,
+        "y": 1240,
+        "type": "condition",
+        "text": "学院篇20日，芳野寻找助手",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1240,
+        "type": "condition",
+        "text": "学院篇20日，芳野寻找助手",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      },
+      {
+        "x": 425,
+        "y": 1330,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1240,
+        "type": "condition",
+        "text": "学院篇20日，芳野寻找助手",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      },
+      {
+        "x": 825,
+        "y": 1330,
+        "type": "selection",
+        "text": "拒绝",
+        "css": "btn",
+        "ref": "divTxtBtn151"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1330,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      },
+      {
+        "x": 425,
+        "y": 1390,
+        "type": "selection",
+        "text": "芳野对往事的追问",
+        "css": "btn",
+        "ref": "divTxtBtn157",
+        "num": {
+          "x": 410,
+          "y": 1390,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn159"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1380,
+          "text": "芳野对往事的追问",
+          "num": "2",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "+老实回答|+唱歌|-继续问下去",
+          "icon": "00000001",
+          "iconillu": "公子有条件参与毕业典礼。如果学园篇29日满足在古河面包店前遇见公子，则公子已确定出席毕业典礼，此处的选择没有影响",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt160"
+        }
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1330,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      },
+      {
+        "x": 225,
+        "y": 1480,
+        "type": "option",
+        "text": "老实回答",
+        "route": "l|芳野",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1330,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      },
+      {
+        "x": 625,
+        "y": 1480,
+        "type": "option",
+        "text": "随意糊弄过去",
+        "route": "r|芳野",
+        "css": "btn",
+        "ref": "divTxtBtn170"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1480,
+        "type": "option",
+        "text": "老实回答",
+        "route": "l|芳野",
+        "css": "btn",
+        "ref": "divTxtBtn163"
+      },
+      {
+        "x": 225,
+        "y": 1540,
+        "type": "selection",
+        "text": "糟糕的谈话气氛",
+        "css": "btn",
+        "ref": "divTxtBtn177"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1540,
+        "type": "selection",
+        "text": "糟糕的谈话气氛",
+        "css": "btn",
+        "ref": "divTxtBtn177"
+      },
+      {
+        "x": 225,
+        "y": 1630,
+        "type": "option",
+        "text": "唱歌",
+        "route": "l|芳野",
+        "css": "btn",
+        "ref": "divTxtBtn181"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1540,
+        "type": "selection",
+        "text": "糟糕的谈话气氛",
+        "css": "btn",
+        "ref": "divTxtBtn177"
+      },
+      {
+        "x": 625,
+        "y": 1630,
+        "type": "option",
+        "text": "换个频道",
+        "route": "r|芳野",
+        "css": "btn",
+        "ref": "divTxtBtn186"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1630,
+        "type": "option",
+        "text": "唱歌",
+        "route": "l|芳野",
+        "css": "btn",
+        "ref": "divTxtBtn181"
+      },
+      {
+        "x": 225,
+        "y": 1690,
+        "type": "selection",
+        "text": "听芳野谈自己的过去",
+        "css": "btn",
+        "ref": "divTxtBtn193"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1690,
+        "type": "selection",
+        "text": "听芳野谈自己的过去",
+        "css": "btn",
+        "ref": "divTxtBtn193"
+      },
+      {
+        "x": 225,
+        "y": 1780,
+        "type": "option",
+        "text": "再继续问下去",
+        "route": "l|芳野",
+        "css": "btn",
+        "ref": "divTxtBtn197"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1690,
+        "type": "selection",
+        "text": "听芳野谈自己的过去",
+        "css": "btn",
+        "ref": "divTxtBtn193"
+      },
+      {
+        "x": 625,
+        "y": 1780,
+        "type": "option",
+        "text": "同意",
+        "route": "r|芳野",
+        "css": "btn",
+        "ref": "divTxtBtn202"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1780,
+        "type": "option",
+        "text": "再继续问下去",
+        "route": "l|芳野",
+        "css": "btn",
+        "ref": "divTxtBtn197"
+      },
+      {
+        "x": 225,
+        "y": 1840,
+        "type": "selection",
+        "text": "探望伊吹老师",
+        "css": "btn",
+        "ref": "divTxtBtn209",
+        "num": {
+          "x": 210,
+          "y": 1840,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn211"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1830,
+          "text": "探望伊吹老师",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-等到后天一起去",
+          "icon": "00000001",
+          "iconillu": "公子参与毕业典礼。如果学园篇29日满足在古河面包店前遇见公子，则公子已确定出席毕业典礼，此处的选择没有影响",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt212"
+        }
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1840,
+        "type": "selection",
+        "text": "探望伊吹老师",
+        "css": "btn",
+        "ref": "divTxtBtn209",
+        "num": {
+          "x": 210,
+          "y": 1840,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn211"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1830,
+          "text": "探望伊吹老师",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-等到后天一起去",
+          "icon": "00000001",
+          "iconillu": "公子参与毕业典礼。如果学园篇29日满足在古河面包店前遇见公子，则公子已确定出席毕业典礼，此处的选择没有影响",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt212"
+        }
+      },
+      {
+        "x": 225,
+        "y": 1930,
+        "type": "option",
+        "text": "等后天一起去",
+        "css": "btn",
+        "ref": "divTxtBtn215"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1840,
+        "type": "selection",
+        "text": "探望伊吹老师",
+        "css": "btn",
+        "ref": "divTxtBtn209",
+        "num": {
+          "x": 210,
+          "y": 1840,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn211"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1830,
+          "text": "探望伊吹老师",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-等到后天一起去",
+          "icon": "00000001",
+          "iconillu": "公子参与毕业典礼。如果学园篇29日满足在古河面包店前遇见公子，则公子已确定出席毕业典礼，此处的选择没有影响",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt212"
+        }
+      },
+      {
+        "x": 625,
+        "y": 1930,
+        "type": "option",
+        "text": "让渚一个人去",
+        "css": "btn",
+        "ref": "divTxtBtn219"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1930,
+        "type": "option",
+        "text": "等后天一起去",
+        "css": "btn",
+        "ref": "divTxtBtn215"
+      },
+      {
+        "x": 600,
+        "y": 2020
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1930,
+        "type": "option",
+        "text": "让渚一个人去",
+        "css": "btn",
+        "ref": "divTxtBtn219"
+      },
+      {
+        "x": 600,
+        "y": 2020
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1780,
+        "type": "option",
+        "text": "同意",
+        "route": "r|芳野",
+        "css": "btn",
+        "ref": "divTxtBtn202"
+      },
+      {
+        "x": 1000,
+        "y": 1870
+      },
+      {
+        "x": 600,
+        "y": 2020
+      },
+      {
+        "x": 1000,
+        "y": 2020
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1630,
+        "type": "option",
+        "text": "换个频道",
+        "route": "r|芳野",
+        "css": "btn",
+        "ref": "divTxtBtn186"
+      },
+      {
+        "x": 1000,
+        "y": 1720
+      },
+      {
+        "x": 600,
+        "y": 2020
+      },
+      {
+        "x": 1000,
+        "y": 2020
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1480,
+        "type": "option",
+        "text": "随意糊弄过去",
+        "route": "r|芳野",
+        "css": "btn",
+        "ref": "divTxtBtn170"
+      },
+      {
+        "x": 1000,
+        "y": 1570
+      },
+      {
+        "x": 600,
+        "y": 2020
+      },
+      {
+        "x": 1000,
+        "y": 2020
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1330,
+        "type": "selection",
+        "text": "拒绝",
+        "css": "btn",
+        "ref": "divTxtBtn151"
+      },
+      {
+        "x": 600,
+        "y": 2020
+      },
+      {
+        "x": 1000,
+        "y": 2020
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 2020
+      },
+      {
+        "x": 800,
+        "y": 2020
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 810,
+      "text": "条件选择分支 AFTER STORY",
+      "num": "1",
+      "summary": "",
+      "hint": "",
+      "setsumei": "AFTER STORY继承古河渚学院篇线路的分支选择记录继续游戏,因此,在AFTER STORY中牵涉到学院篇的选择分支,都是最近一次完成渚线并保存记录的过程中,在相应分支做出的选择来判断的.",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt77"
+    },
+    {
+      "x": 1625,
+      "y": 1380,
+      "text": "芳野对往事的追问",
+      "num": "2",
+      "summary": "",
+      "hint": "",
+      "setsumei": "",
+      "option": "+老实回答|+唱歌|-继续问下去",
+      "icon": "00000001",
+      "iconillu": "公子有条件参与毕业典礼。如果学园篇29日满足在古河面包店前遇见公子，则公子已确定出席毕业典礼，此处的选择没有影响",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt160"
+    },
+    {
+      "x": 1625,
+      "y": 1830,
+      "text": "探望伊吹老师",
+      "num": "3",
+      "summary": "",
+      "hint": "",
+      "setsumei": "",
+      "option": "-等到后天一起去",
+      "icon": "00000001",
+      "iconillu": "公子参与毕业典礼。如果学园篇29日满足在古河面包店前遇见公子，则公子已确定出席毕业典礼，此处的选择没有影响",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt212"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "nagisa",
+    "routeC": "AFTER STORY",
+    "routeE": "After Story",
+    "dateC": "同栖篇（一）",
+    "dateE": "Chapter of Conhabitation Life~Part 1",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1963,
+    "page": 64,
+    "ref": "divFt256"
+  },
+  "board": []
+}

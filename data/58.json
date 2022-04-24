@@ -1,0 +1,1277 @@
+{
+  "box": [
+    [
+      {
+        "x": 25,
+        "y": 190,
+        "type": "block",
+        "text": "D",
+        "css": "btn",
+        "ref": "divTxtBtn1",
+        "link": "p58_D"
+      },
+      {
+        "x": 725,
+        "y": 190,
+        "type": "condition",
+        "text": "已经来过旧校舍资料室",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "考虑邀请有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn20",
+        "num": {
+          "x": 410,
+          "y": 340,
+          "type": "ccheck",
+          "text": "5",
+          "css": "check",
+          "ref": "divBtn22"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "考虑邀请有纪宁",
+          "num": "5",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "+不邀请她|-去找美佐枝小姐",
+          "icon": "00000001",
+          "iconillu": "美佐枝参与毕业典礼。如果26日在分支前来探亲的芽衣选择好的，则美佐枝已确定出席毕业典礼，此处的选择没有影响",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt23"
+        }
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 430,
+        "type": "option",
+        "text": "说明",
+        "css": "btn",
+        "ref": "divTxtBtn26"
+      },
+      {
+        "x": 625,
+        "y": 430,
+        "type": "option",
+        "text": "不邀请她",
+        "css": "btn",
+        "ref": "divTxtBtn32"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 490,
+        "type": "option",
+        "text": "有纪宁成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 625,
+        "y": 490,
+        "type": "condition",
+        "text": "15日，宿舍走廊与美佐枝相遇",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 580,
+        "type": "selection",
+        "text": "向她搭话",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 825,
+        "y": 580,
+        "type": "selection",
+        "text": "不去管她",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 640,
+        "type": "selection",
+        "text": "考虑邀请美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn58"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "去找美佐枝小姐",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      },
+      {
+        "x": 825,
+        "y": 730,
+        "type": "option",
+        "text": "这也不行",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 790,
+        "type": "option",
+        "text": "美佐枝成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 820,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn83"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 970,
+        "type": "option",
+        "text": "3对3篮球赛（二）",
+        "css": "btn",
+        "ref": "divTxtBtn100",
+        "link": "p58_33BB2"
+      },
+      {
+        "x": 825,
+        "y": 970,
+        "type": "condition",
+        "text": "28日，没有找到参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn102"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1060,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn106"
+      },
+      {
+        "x": 1125,
+        "y": 1060,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn111"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1120,
+        "type": "condition",
+        "text": "20日，芳野寻求帮手",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1210,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn122"
+      },
+      {
+        "x": 725,
+        "y": 1210,
+        "type": "selection",
+        "text": "拒绝",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn128"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1270,
+        "type": "condition",
+        "text": "26日，在走廊遇到幸村",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1360,
+        "type": "selection",
+        "text": "让幸村加入队伍",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      },
+      {
+        "x": 525,
+        "y": 1360,
+        "type": "selection",
+        "text": "不要他加入",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1420,
+        "type": "option",
+        "text": "芳野成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn152"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1450,
+        "type": "condition",
+        "text": "26日，前来探亲的芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn156"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1540,
+        "type": "selection",
+        "text": "好的",
+        "css": "btn",
+        "ref": "divTxtBtn164"
+      },
+      {
+        "x": 925,
+        "y": 1540,
+        "type": "selection",
+        "text": "自己一个人去吧",
+        "css": "btn",
+        "ref": "divTxtBtn170"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1600,
+        "type": "condition",
+        "text": "28日，明天的计划安排",
+        "css": "btn",
+        "ref": "divTxtBtn176"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1690,
+        "type": "selection",
+        "text": "让她和芽衣玩",
+        "css": "btn",
+        "ref": "divTxtBtn180"
+      },
+      {
+        "x": 725,
+        "y": 1690,
+        "type": "selection",
+        "text": "让她练习",
+        "css": "btn",
+        "ref": "divTxtBtn186"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1750,
+        "type": "option",
+        "text": "秋生成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn192"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1780,
+        "type": "option",
+        "text": "渚成为队员",
+        "css": "btn",
+        "ref": "divTxtBtn196"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 900,
+        "y": 175
+      },
+      {
+        "x": 900,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 250
+      },
+      {
+        "x": 425,
+        "y": 280,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 250
+      },
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 190,
+        "type": "condition",
+        "text": "已经来过旧校舍资料室",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 900,
+        "y": 250
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "考虑邀请有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn20",
+        "num": {
+          "x": 410,
+          "y": 340,
+          "type": "ccheck",
+          "text": "5",
+          "css": "check",
+          "ref": "divBtn22"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "考虑邀请有纪宁",
+          "num": "5",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "+不邀请她|-去找美佐枝小姐",
+          "icon": "00000001",
+          "iconillu": "美佐枝参与毕业典礼。如果26日在分支前来探亲的芽衣选择好的，则美佐枝已确定出席毕业典礼，此处的选择没有影响",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt23"
+        }
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "考虑邀请有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn20",
+        "num": {
+          "x": 410,
+          "y": 340,
+          "type": "ccheck",
+          "text": "5",
+          "css": "check",
+          "ref": "divBtn22"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "考虑邀请有纪宁",
+          "num": "5",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "+不邀请她|-去找美佐枝小姐",
+          "icon": "00000001",
+          "iconillu": "美佐枝参与毕业典礼。如果26日在分支前来探亲的芽衣选择好的，则美佐枝已确定出席毕业典礼，此处的选择没有影响",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt23"
+        }
+      },
+      {
+        "x": 225,
+        "y": 430,
+        "type": "option",
+        "text": "说明",
+        "css": "btn",
+        "ref": "divTxtBtn26"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "考虑邀请有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn20",
+        "num": {
+          "x": 410,
+          "y": 340,
+          "type": "ccheck",
+          "text": "5",
+          "css": "check",
+          "ref": "divBtn22"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "考虑邀请有纪宁",
+          "num": "5",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "+不邀请她|-去找美佐枝小姐",
+          "icon": "00000001",
+          "iconillu": "美佐枝参与毕业典礼。如果26日在分支前来探亲的芽衣选择好的，则美佐枝已确定出席毕业典礼，此处的选择没有影响",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt23"
+        }
+      },
+      {
+        "x": 625,
+        "y": 430,
+        "type": "option",
+        "text": "不邀请她",
+        "css": "btn",
+        "ref": "divTxtBtn32"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 430,
+        "type": "option",
+        "text": "说明",
+        "css": "btn",
+        "ref": "divTxtBtn26"
+      },
+      {
+        "x": 225,
+        "y": 490,
+        "type": "option",
+        "text": "有纪宁成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 430,
+        "type": "option",
+        "text": "不邀请她",
+        "css": "btn",
+        "ref": "divTxtBtn32"
+      },
+      {
+        "x": 625,
+        "y": 490,
+        "type": "condition",
+        "text": "15日，宿舍走廊与美佐枝相遇",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 490,
+        "type": "condition",
+        "text": "15日，宿舍走廊与美佐枝相遇",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      },
+      {
+        "x": 425,
+        "y": 580,
+        "type": "selection",
+        "text": "向她搭话",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 490,
+        "type": "condition",
+        "text": "15日，宿舍走廊与美佐枝相遇",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      },
+      {
+        "x": 825,
+        "y": 580,
+        "type": "selection",
+        "text": "不去管她",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 580,
+        "type": "selection",
+        "text": "向她搭话",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 425,
+        "y": 640,
+        "type": "selection",
+        "text": "考虑邀请美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn58"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 640,
+        "type": "selection",
+        "text": "考虑邀请美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn58"
+      },
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "去找美佐枝小姐",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 640,
+        "type": "selection",
+        "text": "考虑邀请美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn58"
+      },
+      {
+        "x": 825,
+        "y": 730,
+        "type": "option",
+        "text": "这也不行",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "去找美佐枝小姐",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      },
+      {
+        "x": 425,
+        "y": 790,
+        "type": "option",
+        "text": "美佐枝成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 790,
+        "type": "option",
+        "text": "美佐枝成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      },
+      {
+        "x": 600,
+        "y": 850
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 490,
+        "type": "option",
+        "text": "有纪宁成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 600,
+        "y": 850
+      },
+      {
+        "x": 400,
+        "y": 850
+      }
+    ],
+    [
+      {
+        "x": 600,
+        "y": 850
+      },
+      {
+        "x": 600,
+        "y": 850
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 730,
+        "type": "option",
+        "text": "这也不行",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      },
+      {
+        "x": 825,
+        "y": 820,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn83"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 580,
+        "type": "selection",
+        "text": "不去管她",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      },
+      {
+        "x": 1200,
+        "y": 670
+      },
+      {
+        "x": 825,
+        "y": 820,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn83"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      },
+      {
+        "x": 825,
+        "y": 820,
+        "type": "option",
+        "text": "3对3篮球赛（一）",
+        "css": "btn",
+        "ref": "divTxtBtn83"
+      }
+    ],
+    [
+      {
+        "x": 1000,
+        "y": 850
+      },
+      {
+        "x": 1000,
+        "y": 850
+      }
+    ],
+    [
+      {
+        "x": 1000,
+        "y": 955
+      },
+      {
+        "x": 1000,
+        "y": 955
+      }
+    ],
+    [
+      {
+        "x": 900,
+        "y": 1030
+      },
+      {
+        "x": 525,
+        "y": 1060,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn106"
+      }
+    ],
+    [
+      {
+        "x": 900,
+        "y": 1030
+      },
+      {
+        "x": 1125,
+        "y": 1060,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn111"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 970,
+        "type": "condition",
+        "text": "28日，没有找到参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn102"
+      },
+      {
+        "x": 1000,
+        "y": 1030
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1060,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn106"
+      },
+      {
+        "x": 525,
+        "y": 1120,
+        "type": "condition",
+        "text": "20日，芳野寻求帮手",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1120,
+        "type": "condition",
+        "text": "20日，芳野寻求帮手",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      },
+      {
+        "x": 325,
+        "y": 1210,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn122"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1120,
+        "type": "condition",
+        "text": "20日，芳野寻求帮手",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      },
+      {
+        "x": 725,
+        "y": 1210,
+        "type": "selection",
+        "text": "拒绝",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn128"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1210,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn122"
+      },
+      {
+        "x": 325,
+        "y": 1270,
+        "type": "condition",
+        "text": "26日，在走廊遇到幸村",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1270,
+        "type": "condition",
+        "text": "26日，在走廊遇到幸村",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      },
+      {
+        "x": 125,
+        "y": 1360,
+        "type": "selection",
+        "text": "让幸村加入队伍",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1270,
+        "type": "condition",
+        "text": "26日，在走廊遇到幸村",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      },
+      {
+        "x": 525,
+        "y": 1360,
+        "type": "selection",
+        "text": "不要他加入",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1360,
+        "type": "selection",
+        "text": "让幸村加入队伍",
+        "css": "btn",
+        "ref": "divTxtBtn139"
+      },
+      {
+        "x": 125,
+        "y": 1420,
+        "type": "option",
+        "text": "芳野成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn152"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1360,
+        "type": "selection",
+        "text": "不要他加入",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn145"
+      },
+      {
+        "x": 725,
+        "y": 1450,
+        "type": "condition",
+        "text": "26日，前来探亲的芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn156"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1210,
+        "type": "selection",
+        "text": "拒绝",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn128"
+      },
+      {
+        "x": 725,
+        "y": 1450,
+        "type": "condition",
+        "text": "26日，前来探亲的芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn156"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1450,
+        "type": "condition",
+        "text": "26日，前来探亲的芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn156"
+      },
+      {
+        "x": 525,
+        "y": 1540,
+        "type": "selection",
+        "text": "好的",
+        "css": "btn",
+        "ref": "divTxtBtn164"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1450,
+        "type": "condition",
+        "text": "26日，前来探亲的芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn156"
+      },
+      {
+        "x": 925,
+        "y": 1540,
+        "type": "selection",
+        "text": "自己一个人去吧",
+        "css": "btn",
+        "ref": "divTxtBtn170"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1540,
+        "type": "selection",
+        "text": "好的",
+        "css": "btn",
+        "ref": "divTxtBtn164"
+      },
+      {
+        "x": 525,
+        "y": 1600,
+        "type": "condition",
+        "text": "28日，明天的计划安排",
+        "css": "btn",
+        "ref": "divTxtBtn176"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1600,
+        "type": "condition",
+        "text": "28日，明天的计划安排",
+        "css": "btn",
+        "ref": "divTxtBtn176"
+      },
+      {
+        "x": 325,
+        "y": 1690,
+        "type": "selection",
+        "text": "让她和芽衣玩",
+        "css": "btn",
+        "ref": "divTxtBtn180"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1600,
+        "type": "condition",
+        "text": "28日，明天的计划安排",
+        "css": "btn",
+        "ref": "divTxtBtn176"
+      },
+      {
+        "x": 725,
+        "y": 1690,
+        "type": "selection",
+        "text": "让她练习",
+        "css": "btn",
+        "ref": "divTxtBtn186"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1690,
+        "type": "selection",
+        "text": "让她和芽衣玩",
+        "css": "btn",
+        "ref": "divTxtBtn180"
+      },
+      {
+        "x": 325,
+        "y": 1750,
+        "type": "option",
+        "text": "秋生成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn192"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1690,
+        "type": "selection",
+        "text": "让她练习",
+        "css": "btn",
+        "ref": "divTxtBtn186"
+      },
+      {
+        "x": 725,
+        "y": 1780,
+        "type": "option",
+        "text": "渚成为队员",
+        "css": "btn",
+        "ref": "divTxtBtn196"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 1540,
+        "type": "selection",
+        "text": "自己一个人去吧",
+        "css": "btn",
+        "ref": "divTxtBtn170"
+      },
+      {
+        "x": 725,
+        "y": 1780,
+        "type": "option",
+        "text": "渚成为队员",
+        "css": "btn",
+        "ref": "divTxtBtn196"
+      }
+    ],
+    [
+      {
+        "x": 125,
+        "y": 1420,
+        "type": "option",
+        "text": "芳野成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn152"
+      },
+      {
+        "x": 500,
+        "y": 1840
+      },
+      {
+        "x": 700,
+        "y": 1870
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1750,
+        "type": "option",
+        "text": "秋生成为参赛伙伴",
+        "css": "btn",
+        "ref": "divTxtBtn192"
+      },
+      {
+        "x": 700,
+        "y": 1870
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1780,
+        "type": "option",
+        "text": "渚成为队员",
+        "css": "btn",
+        "ref": "divTxtBtn196"
+      },
+      {
+        "x": 700,
+        "y": 1870
+      }
+    ],
+    [
+      {
+        "x": 1125,
+        "y": 1060,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn111"
+      },
+      {
+        "x": 700,
+        "y": 1870
+      },
+      {
+        "x": 1300,
+        "y": 1870
+      }
+    ],
+    [
+      {
+        "x": 1000,
+        "y": 1870
+      },
+      {
+        "x": 1000,
+        "y": 1870
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 330,
+      "text": "考虑邀请有纪宁",
+      "num": "5",
+      "summary": "",
+      "hint": "",
+      "setsumei": "",
+      "option": "+不邀请她|-去找美佐枝小姐",
+      "icon": "00000001",
+      "iconillu": "美佐枝参与毕业典礼。如果26日在分支前来探亲的芽衣选择好的，则美佐枝已确定出席毕业典礼，此处的选择没有影响",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt23"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "nagisa",
+    "routeC": "古河 渚/幸村 俊夫",
+    "routeE": "Nagisa Furukawa / Toshio Yukimura",
+    "dateC": "3对3篮球赛(三)",
+    "dateE": "3 on 3 Basketball Match - Part3",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1900,
+    "page": 58,
+    "ref": "divFt223"
+  },
+  "board": [
+    {
+      "x": 0,
+      "y": 150,
+      "height": 750
+    }
+  ]
+}

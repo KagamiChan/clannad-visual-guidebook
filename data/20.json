@@ -1,0 +1,658 @@
+{
+  "box": [
+    [
+      {
+        "x": 525,
+        "y": 190,
+        "type": "condition",
+        "text": "22日，被春原利用，智代陷入窘境",
+        "css": "btn",
+        "ref": "divTxtBtn1"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 280,
+        "type": "selection",
+        "text": "和春原一起享受",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      },
+      {
+        "x": 825,
+        "y": 280,
+        "type": "selection",
+        "text": "该阻止他了",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 340,
+        "type": "selection",
+        "text": "春原的妹妹打来电话",
+        "css": "btn",
+        "ref": "divTxtBtn18",
+        "num": {
+          "x": 210,
+          "y": 340,
+          "type": "ccheck",
+          "text": "7",
+          "css": "check",
+          "ref": "divBtn20"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "春原的妹妹打来电话",
+          "num": "7",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-代春原接听</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"326\" height=\"42\" valign=\"bottom\" align=\"left\" class=\"commentOri\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Basketball[A].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Graduation[A].png\" style=\"margin-right:0px;\"></td><td width=\"404\"><table border=0 cellpadding=0 cellspacing=0 height=35 background=\"Ori/Comment/Comment_Tips.png\"><tr><td height=35 valign=\"top\" class=\"cmtEvntOri\" width=\"394\">秋生有条件参与3对3篮球赛；芽衣、美佐枝有条件参与毕业典礼（此为美佐枝参与毕业典礼的另一种途径，也是首选途径）</td></tr></table></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\" height=\"5\"></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"243\" height=\"20\" background=\"Ori/Comment/Comment_Option_B.png\" valign=\"bottom\" align=\"center\"><div class=\"cmtoptOri\">不代他接听",
+          "icon": "00000010",
+          "iconillu": "业余棒球进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt21"
+        }
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 430,
+        "type": "option",
+        "text": "代春原接听",
+        "route": "l|芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      },
+      {
+        "x": 625,
+        "y": 430,
+        "type": "option",
+        "text": "不代他接听",
+        "route": "r|芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn29"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 520,
+        "type": "condition",
+        "text": "15日庭院中少女的谈话",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 610,
+        "type": "selection",
+        "text": "是时候离开了",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn44"
+      },
+      {
+        "x": 825,
+        "y": 610,
+        "type": "selection",
+        "text": "在继续谈话",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 670,
+        "type": "selection",
+        "text": "打架的借口",
+        "css": "btn",
+        "ref": "divTxtBtn59"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 760,
+        "type": "option",
+        "text": "那家伙以话剧社为目标",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn63"
+      },
+      {
+        "x": 825,
+        "y": 760,
+        "type": "option",
+        "text": "那家伙休学了很长时间",
+        "route": "l|-智代",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 1225,
+        "y": 760,
+        "type": "option",
+        "text": "那家伙吃过豆沙包",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn75"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 880,
+        "type": "option",
+        "text": "幻想世界（五）",
+        "css": "btn",
+        "ref": "divTxtBtn82"
+      }
+    ],
+    [
+      {
+        "x": 650,
+        "y": 940,
+        "type": "date",
+        "text": "4月24日",
+        "css": "date",
+        "ref": "divBtn99"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 700,
+        "y": 175
+      },
+      {
+        "x": 700,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 190,
+        "type": "condition",
+        "text": "22日，被春原利用，智代陷入窘境",
+        "css": "btn",
+        "ref": "divTxtBtn1"
+      },
+      {
+        "x": 700,
+        "y": 250
+      }
+    ],
+    [
+      {
+        "x": 600,
+        "y": 250
+      },
+      {
+        "x": 225,
+        "y": 280,
+        "type": "selection",
+        "text": "和春原一起享受",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      }
+    ],
+    [
+      {
+        "x": 600,
+        "y": 250
+      },
+      {
+        "x": 825,
+        "y": 280,
+        "type": "selection",
+        "text": "该阻止他了",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 280,
+        "type": "selection",
+        "text": "和春原一起享受",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      },
+      {
+        "x": 225,
+        "y": 340,
+        "type": "selection",
+        "text": "春原的妹妹打来电话",
+        "css": "btn",
+        "ref": "divTxtBtn18",
+        "num": {
+          "x": 210,
+          "y": 340,
+          "type": "ccheck",
+          "text": "7",
+          "css": "check",
+          "ref": "divBtn20"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "春原的妹妹打来电话",
+          "num": "7",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-代春原接听</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"326\" height=\"42\" valign=\"bottom\" align=\"left\" class=\"commentOri\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Basketball[A].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Graduation[A].png\" style=\"margin-right:0px;\"></td><td width=\"404\"><table border=0 cellpadding=0 cellspacing=0 height=35 background=\"Ori/Comment/Comment_Tips.png\"><tr><td height=35 valign=\"top\" class=\"cmtEvntOri\" width=\"394\">秋生有条件参与3对3篮球赛；芽衣、美佐枝有条件参与毕业典礼（此为美佐枝参与毕业典礼的另一种途径，也是首选途径）</td></tr></table></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\" height=\"5\"></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"243\" height=\"20\" background=\"Ori/Comment/Comment_Option_B.png\" valign=\"bottom\" align=\"center\"><div class=\"cmtoptOri\">不代他接听",
+          "icon": "00000010",
+          "iconillu": "业余棒球进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt21"
+        }
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 340,
+        "type": "selection",
+        "text": "春原的妹妹打来电话",
+        "css": "btn",
+        "ref": "divTxtBtn18",
+        "num": {
+          "x": 210,
+          "y": 340,
+          "type": "ccheck",
+          "text": "7",
+          "css": "check",
+          "ref": "divBtn20"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "春原的妹妹打来电话",
+          "num": "7",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-代春原接听</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"326\" height=\"42\" valign=\"bottom\" align=\"left\" class=\"commentOri\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Basketball[A].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Graduation[A].png\" style=\"margin-right:0px;\"></td><td width=\"404\"><table border=0 cellpadding=0 cellspacing=0 height=35 background=\"Ori/Comment/Comment_Tips.png\"><tr><td height=35 valign=\"top\" class=\"cmtEvntOri\" width=\"394\">秋生有条件参与3对3篮球赛；芽衣、美佐枝有条件参与毕业典礼（此为美佐枝参与毕业典礼的另一种途径，也是首选途径）</td></tr></table></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\" height=\"5\"></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"243\" height=\"20\" background=\"Ori/Comment/Comment_Option_B.png\" valign=\"bottom\" align=\"center\"><div class=\"cmtoptOri\">不代他接听",
+          "icon": "00000010",
+          "iconillu": "业余棒球进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt21"
+        }
+      },
+      {
+        "x": 225,
+        "y": 430,
+        "type": "option",
+        "text": "代春原接听",
+        "route": "l|芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 340,
+        "type": "selection",
+        "text": "春原的妹妹打来电话",
+        "css": "btn",
+        "ref": "divTxtBtn18",
+        "num": {
+          "x": 210,
+          "y": 340,
+          "type": "ccheck",
+          "text": "7",
+          "css": "check",
+          "ref": "divBtn20"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 330,
+          "text": "春原的妹妹打来电话",
+          "num": "7",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-代春原接听</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"326\" height=\"42\" valign=\"bottom\" align=\"left\" class=\"commentOri\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Basketball[A].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Graduation[A].png\" style=\"margin-right:0px;\"></td><td width=\"404\"><table border=0 cellpadding=0 cellspacing=0 height=35 background=\"Ori/Comment/Comment_Tips.png\"><tr><td height=35 valign=\"top\" class=\"cmtEvntOri\" width=\"394\">秋生有条件参与3对3篮球赛；芽衣、美佐枝有条件参与毕业典礼（此为美佐枝参与毕业典礼的另一种途径，也是首选途径）</td></tr></table></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\" height=\"5\"></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"243\" height=\"20\" background=\"Ori/Comment/Comment_Option_B.png\" valign=\"bottom\" align=\"center\"><div class=\"cmtoptOri\">不代他接听",
+          "icon": "00000010",
+          "iconillu": "业余棒球进入必选",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt21"
+        }
+      },
+      {
+        "x": 625,
+        "y": 430,
+        "type": "option",
+        "text": "不代他接听",
+        "route": "r|芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn29"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 430,
+        "type": "option",
+        "text": "不代他接听",
+        "route": "r|芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn29"
+      },
+      {
+        "x": 400,
+        "y": 520
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 280,
+        "type": "selection",
+        "text": "该阻止他了",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      },
+      {
+        "x": 825,
+        "y": 520,
+        "type": "condition",
+        "text": "15日庭院中少女的谈话",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 520,
+        "type": "condition",
+        "text": "15日庭院中少女的谈话",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      },
+      {
+        "x": 425,
+        "y": 610,
+        "type": "selection",
+        "text": "是时候离开了",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn44"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 520,
+        "type": "condition",
+        "text": "15日庭院中少女的谈话",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      },
+      {
+        "x": 825,
+        "y": 610,
+        "type": "selection",
+        "text": "在继续谈话",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 610,
+        "type": "selection",
+        "text": "是时候离开了",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn44"
+      },
+      {
+        "x": 400,
+        "y": 700
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 610,
+        "type": "selection",
+        "text": "在继续谈话",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      },
+      {
+        "x": 825,
+        "y": 670,
+        "type": "selection",
+        "text": "打架的借口",
+        "css": "btn",
+        "ref": "divTxtBtn59"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 670,
+        "type": "selection",
+        "text": "打架的借口",
+        "css": "btn",
+        "ref": "divTxtBtn59"
+      },
+      {
+        "x": 425,
+        "y": 760,
+        "type": "option",
+        "text": "那家伙以话剧社为目标",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn63"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 670,
+        "type": "selection",
+        "text": "打架的借口",
+        "css": "btn",
+        "ref": "divTxtBtn59"
+      },
+      {
+        "x": 825,
+        "y": 760,
+        "type": "option",
+        "text": "那家伙休学了很长时间",
+        "route": "l|-智代",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 670,
+        "type": "selection",
+        "text": "打架的借口",
+        "css": "btn",
+        "ref": "divTxtBtn59"
+      },
+      {
+        "x": 1225,
+        "y": 760,
+        "type": "option",
+        "text": "那家伙吃过豆沙包",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn75"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 760,
+        "type": "option",
+        "text": "那家伙以话剧社为目标",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn63"
+      },
+      {
+        "x": 1000,
+        "y": 850
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 760,
+        "type": "option",
+        "text": "那家伙休学了很长时间",
+        "route": "l|-智代",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 1000,
+        "y": 850
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 760,
+        "type": "option",
+        "text": "那家伙吃过豆沙包",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn75"
+      },
+      {
+        "x": 1000,
+        "y": 850
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 430,
+        "type": "option",
+        "text": "代春原接听",
+        "route": "l|芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      },
+      {
+        "x": 1000,
+        "y": 850
+      },
+      {
+        "x": 400,
+        "y": 850
+      }
+    ],
+    [
+      {
+        "x": 700,
+        "y": 850
+      },
+      {
+        "x": 525,
+        "y": 880,
+        "type": "option",
+        "text": "幻想世界（五）",
+        "css": "btn",
+        "ref": "divTxtBtn82"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 880,
+        "type": "option",
+        "text": "幻想世界（五）",
+        "css": "btn",
+        "ref": "divTxtBtn82"
+      },
+      {
+        "x": 650,
+        "y": 940,
+        "type": "date",
+        "text": "4月24日",
+        "css": "date",
+        "ref": "divBtn99"
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 330,
+      "text": "春原的妹妹打来电话",
+      "num": "7",
+      "summary": "",
+      "hint": "",
+      "setsumei": "",
+      "option": "-代春原接听</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"326\" height=\"42\" valign=\"bottom\" align=\"left\" class=\"commentOri\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Basketball[A].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Graduation[A].png\" style=\"margin-right:0px;\"></td><td width=\"404\"><table border=0 cellpadding=0 cellspacing=0 height=35 background=\"Ori/Comment/Comment_Tips.png\"><tr><td height=35 valign=\"top\" class=\"cmtEvntOri\" width=\"394\">秋生有条件参与3对3篮球赛；芽衣、美佐枝有条件参与毕业典礼（此为美佐枝参与毕业典礼的另一种途径，也是首选途径）</td></tr></table></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\" height=\"5\"></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"243\" height=\"20\" background=\"Ori/Comment/Comment_Option_B.png\" valign=\"bottom\" align=\"center\"><div class=\"cmtoptOri\">不代他接听",
+      "icon": "00000010",
+      "iconillu": "业余棒球进入必选",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt21"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "4月23日（三）",
+    "dateE": "April 23th~Part 3",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1030,
+    "page": 20,
+    "ref": "divFt102"
+  },
+  "board": []
+}

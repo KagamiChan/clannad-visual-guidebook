@@ -1,0 +1,1358 @@
+{
+  "box": [
+    [
+      {
+        "x": 25,
+        "y": 190,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn1",
+        "link": "p14_A"
+      },
+      {
+        "x": 725,
+        "y": 190,
+        "type": "selection",
+        "text": "难得早起的朋也决定该做的事",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "option",
+        "text": "迟点再去吧",
+        "route": "l|胜平|-智代",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "option",
+        "text": "认认真真起床上学",
+        "route": "l|-智代|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn15"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "通学路上，身后传来引擎声",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 430,
+        "type": "option",
+        "text": "向右跳",
+        "route": "l|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      },
+      {
+        "x": 425,
+        "y": 430,
+        "type": "option",
+        "text": "站稳等着它",
+        "route": "r|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      },
+      {
+        "x": 825,
+        "y": 430,
+        "type": "option",
+        "text": "向左跳",
+        "route": "r|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 490,
+        "type": "selection",
+        "text": "事发现场，某路人成为受害者",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 580,
+        "type": "option",
+        "text": "离开这里",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      },
+      {
+        "x": 425,
+        "y": 580,
+        "type": "option",
+        "text": "摇一摇他",
+        "css": "btn",
+        "ref": "divTxtBtn55"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 670,
+        "type": "selection",
+        "text": "受害者遗忘的简历",
+        "css": "btn",
+        "ref": "divTxtBtn61"
+      },
+      {
+        "x": 1025,
+        "y": 670,
+        "type": "condition",
+        "text": "19日，春原准备威胁智代",
+        "css": "btn",
+        "ref": "divTxtBtn69"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 760,
+        "type": "option",
+        "text": "查清地址后给他",
+        "route": "l|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn73"
+      },
+      {
+        "x": 425,
+        "y": 760,
+        "type": "option",
+        "text": "撕了扔掉",
+        "route": "r|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn78"
+      },
+      {
+        "x": 825,
+        "y": 760,
+        "type": "selection",
+        "text": "劝他放弃",
+        "css": "btn",
+        "ref": "divTxtBtn85"
+      },
+      {
+        "x": 1225,
+        "y": 760,
+        "type": "selection",
+        "text": "不去管他",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn91"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 820,
+        "type": "selection",
+        "text": "坂道上遇到呆望樱花中的智代",
+        "css": "btn",
+        "ref": "divTxtBtn98"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 910,
+        "type": "option",
+        "text": "打招呼",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn102"
+      },
+      {
+        "x": 1025,
+        "y": 910,
+        "type": "option",
+        "text": "不理她",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn109"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1150,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn168",
+        "link": "p14_B"
+      },
+      {
+        "x": 825,
+        "y": 1150,
+        "type": "condition",
+        "text": "20日，离开美佐枝的房间",
+        "css": "btn",
+        "ref": "divTxtBtn170"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1240,
+        "type": "selection",
+        "text": "问她还可以再来吗",
+        "css": "btn",
+        "ref": "divTxtBtn175"
+      },
+      {
+        "x": 1025,
+        "y": 1240,
+        "type": "selection",
+        "text": "不会再来了",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn181"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1300,
+        "type": "condition",
+        "text": "智代线或者有纪宁线进入",
+        "css": "btn",
+        "ref": "divTxtBtn188",
+        "num": {
+          "x": 610,
+          "y": 1300,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn190"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1290,
+          "text": "智代线进入或有纪宁线进入",
+          "num": "4",
+          "summary": "",
+          "hint": "此处{智代线进入}即下午，在分支{有智代的陪同}选择[的确不错]。没有选择相应选项或者没有触发分支的情况均属于否。<br>{有纪宁线进入}即18日，在分支{逃课选择睡觉的地方}选择[到那里去睡]，在接下来的分支{下课后，走进资料室的女孩}选择[再说几句话]；或者18日在分支{逃课选择睡觉的地方}选择[还是回教室吧]或者未触发这个分支，并且19日在分支{下课后，走进资料室的女孩}选择[再说几句话]。其他情况都属于没有进入有纪宁线。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt191"
+        }
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1390,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn194"
+      },
+      {
+        "x": 825,
+        "y": 1390,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn200"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1450,
+        "type": "selection",
+        "text": "安排晚上如何打发时间",
+        "css": "btn",
+        "ref": "divTxtBtn206",
+        "num": {
+          "x": 410,
+          "y": 1450,
+          "type": "ccheck",
+          "text": "5",
+          "css": "check",
+          "ref": "divBtn208"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1440,
+          "text": "安排晚上如何打发时间",
+          "num": "5",
+          "summary": "一天又快过去，朋也计划着晚上的事，要继续去找美佐枝还是……",
+          "hint": "选择[还是去美佐枝的房间]，则完全进入美佐枝线，并同时退出智代线、有纪宁线以及藤林姐妹线（若已进入）。相乐美佐枝角色剧情攻略请参见P26。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt209"
+        }
+      },
+      {
+        "x": 825,
+        "y": 1450,
+        "type": "condition",
+        "text": "美佐枝线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn212"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1540,
+        "type": "option",
+        "text": "还是去美佐枝的房间",
+        "route": "l|美佐枝|-杏|-椋|-智代|-芽衣|-有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn216"
+      },
+      {
+        "x": 625,
+        "y": 1540,
+        "type": "option",
+        "text": "不去了",
+        "route": "r|-智代|-芽衣|-有纪宁|美佐枝|-杏|-椋",
+        "css": "btn",
+        "ref": "divTxtBtn228"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1600,
+        "type": "condition",
+        "text": "美佐枝线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn240"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 900,
+        "y": 175
+      },
+      {
+        "x": 900,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 250
+      },
+      {
+        "x": 425,
+        "y": 280,
+        "type": "option",
+        "text": "迟点再去吧",
+        "route": "l|胜平|-智代",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 250
+      },
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "option",
+        "text": "认认真真起床上学",
+        "route": "l|-智代|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn15"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 190,
+        "type": "selection",
+        "text": "难得早起的朋也决定该做的事",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 900,
+        "y": 250
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 280,
+        "type": "option",
+        "text": "迟点再去吧",
+        "route": "l|胜平|-智代",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "通学路上，身后传来引擎声",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "通学路上，身后传来引擎声",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      },
+      {
+        "x": 25,
+        "y": 430,
+        "type": "option",
+        "text": "向右跳",
+        "route": "l|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "通学路上，身后传来引擎声",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      },
+      {
+        "x": 425,
+        "y": 430,
+        "type": "option",
+        "text": "站稳等着它",
+        "route": "r|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "selection",
+        "text": "通学路上，身后传来引擎声",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      },
+      {
+        "x": 825,
+        "y": 430,
+        "type": "option",
+        "text": "向左跳",
+        "route": "r|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 430,
+        "type": "option",
+        "text": "向右跳",
+        "route": "l|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      },
+      {
+        "x": 25,
+        "y": 490,
+        "type": "selection",
+        "text": "事发现场，某路人成为受害者",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 490,
+        "type": "selection",
+        "text": "事发现场，某路人成为受害者",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      },
+      {
+        "x": 25,
+        "y": 580,
+        "type": "option",
+        "text": "离开这里",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 490,
+        "type": "selection",
+        "text": "事发现场，某路人成为受害者",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      },
+      {
+        "x": 425,
+        "y": 580,
+        "type": "option",
+        "text": "摇一摇他",
+        "css": "btn",
+        "ref": "divTxtBtn55"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 580,
+        "type": "option",
+        "text": "离开这里",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      },
+      {
+        "x": 25,
+        "y": 670,
+        "type": "selection",
+        "text": "受害者遗忘的简历",
+        "css": "btn",
+        "ref": "divTxtBtn61"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 580,
+        "type": "option",
+        "text": "摇一摇他",
+        "css": "btn",
+        "ref": "divTxtBtn55"
+      },
+      {
+        "x": 25,
+        "y": 670,
+        "type": "selection",
+        "text": "受害者遗忘的简历",
+        "css": "btn",
+        "ref": "divTxtBtn61"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 280,
+        "type": "option",
+        "text": "认认真真起床上学",
+        "route": "l|-智代|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn15"
+      },
+      {
+        "x": 1025,
+        "y": 670,
+        "type": "condition",
+        "text": "19日，春原准备威胁智代",
+        "css": "btn",
+        "ref": "divTxtBtn69"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 670,
+        "type": "selection",
+        "text": "受害者遗忘的简历",
+        "css": "btn",
+        "ref": "divTxtBtn61"
+      },
+      {
+        "x": 25,
+        "y": 760,
+        "type": "option",
+        "text": "查清地址后给他",
+        "route": "l|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn73"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 670,
+        "type": "selection",
+        "text": "受害者遗忘的简历",
+        "css": "btn",
+        "ref": "divTxtBtn61"
+      },
+      {
+        "x": 425,
+        "y": 760,
+        "type": "option",
+        "text": "撕了扔掉",
+        "route": "r|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn78"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 670,
+        "type": "condition",
+        "text": "19日，春原准备威胁智代",
+        "css": "btn",
+        "ref": "divTxtBtn69"
+      },
+      {
+        "x": 825,
+        "y": 760,
+        "type": "selection",
+        "text": "劝他放弃",
+        "css": "btn",
+        "ref": "divTxtBtn85"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 670,
+        "type": "condition",
+        "text": "19日，春原准备威胁智代",
+        "css": "btn",
+        "ref": "divTxtBtn69"
+      },
+      {
+        "x": 1225,
+        "y": 760,
+        "type": "selection",
+        "text": "不去管他",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn91"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 760,
+        "type": "selection",
+        "text": "劝他放弃",
+        "css": "btn",
+        "ref": "divTxtBtn85"
+      },
+      {
+        "x": 825,
+        "y": 820,
+        "type": "selection",
+        "text": "坂道上遇到呆望樱花中的智代",
+        "css": "btn",
+        "ref": "divTxtBtn98"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 820,
+        "type": "selection",
+        "text": "坂道上遇到呆望樱花中的智代",
+        "css": "btn",
+        "ref": "divTxtBtn98"
+      },
+      {
+        "x": 625,
+        "y": 910,
+        "type": "option",
+        "text": "打招呼",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn102"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 820,
+        "type": "selection",
+        "text": "坂道上遇到呆望樱花中的智代",
+        "css": "btn",
+        "ref": "divTxtBtn98"
+      },
+      {
+        "x": 1025,
+        "y": 910,
+        "type": "option",
+        "text": "不理她",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn109"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 910,
+        "type": "option",
+        "text": "打招呼",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn102"
+      },
+      {
+        "x": 1000,
+        "y": 1000
+      },
+      {
+        "x": 1200,
+        "y": 1030
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 910,
+        "type": "option",
+        "text": "不理她",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn109"
+      },
+      {
+        "x": 1000,
+        "y": 1000
+      },
+      {
+        "x": 1200,
+        "y": 1030
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 760,
+        "type": "selection",
+        "text": "不去管他",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn91"
+      },
+      {
+        "x": 1200,
+        "y": 1030
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 760,
+        "type": "option",
+        "text": "查清地址后给他",
+        "route": "l|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn73"
+      },
+      {
+        "x": 400,
+        "y": 850
+      },
+      {
+        "x": 600,
+        "y": 880
+      },
+      {
+        "x": 1200,
+        "y": 1030
+      },
+      {
+        "x": 600,
+        "y": 1030
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 760,
+        "type": "option",
+        "text": "撕了扔掉",
+        "route": "r|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn78"
+      },
+      {
+        "x": 400,
+        "y": 850
+      },
+      {
+        "x": 600,
+        "y": 880
+      },
+      {
+        "x": 1200,
+        "y": 1030
+      },
+      {
+        "x": 600,
+        "y": 1030
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 430,
+        "type": "option",
+        "text": "站稳等着它",
+        "route": "r|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn35"
+      },
+      {
+        "x": 800,
+        "y": 520
+      },
+      {
+        "x": 600,
+        "y": 880
+      },
+      {
+        "x": 1200,
+        "y": 1030
+      },
+      {
+        "x": 600,
+        "y": 1030
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 430,
+        "type": "option",
+        "text": "向左跳",
+        "route": "r|胜平",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      },
+      {
+        "x": 800,
+        "y": 520
+      },
+      {
+        "x": 600,
+        "y": 880
+      },
+      {
+        "x": 1200,
+        "y": 1030
+      },
+      {
+        "x": 600,
+        "y": 1030
+      }
+    ],
+    [
+      {
+        "x": 900,
+        "y": 1030
+      },
+      {
+        "x": 900,
+        "y": 1030
+      }
+    ],
+    [
+      {
+        "x": 1000,
+        "y": 1135
+      },
+      {
+        "x": 1000,
+        "y": 1135
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1150,
+        "type": "condition",
+        "text": "20日，离开美佐枝的房间",
+        "css": "btn",
+        "ref": "divTxtBtn170"
+      },
+      {
+        "x": 625,
+        "y": 1240,
+        "type": "selection",
+        "text": "问她还可以再来吗",
+        "css": "btn",
+        "ref": "divTxtBtn175"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1150,
+        "type": "condition",
+        "text": "20日，离开美佐枝的房间",
+        "css": "btn",
+        "ref": "divTxtBtn170"
+      },
+      {
+        "x": 1025,
+        "y": 1240,
+        "type": "selection",
+        "text": "不会再来了",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn181"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1240,
+        "type": "selection",
+        "text": "问她还可以再来吗",
+        "css": "btn",
+        "ref": "divTxtBtn175"
+      },
+      {
+        "x": 625,
+        "y": 1300,
+        "type": "condition",
+        "text": "智代线或者有纪宁线进入",
+        "css": "btn",
+        "ref": "divTxtBtn188",
+        "num": {
+          "x": 610,
+          "y": 1300,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn190"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1290,
+          "text": "智代线进入或有纪宁线进入",
+          "num": "4",
+          "summary": "",
+          "hint": "此处{智代线进入}即下午，在分支{有智代的陪同}选择[的确不错]。没有选择相应选项或者没有触发分支的情况均属于否。<br>{有纪宁线进入}即18日，在分支{逃课选择睡觉的地方}选择[到那里去睡]，在接下来的分支{下课后，走进资料室的女孩}选择[再说几句话]；或者18日在分支{逃课选择睡觉的地方}选择[还是回教室吧]或者未触发这个分支，并且19日在分支{下课后，走进资料室的女孩}选择[再说几句话]。其他情况都属于没有进入有纪宁线。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt191"
+        }
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1300,
+        "type": "condition",
+        "text": "智代线或者有纪宁线进入",
+        "css": "btn",
+        "ref": "divTxtBtn188",
+        "num": {
+          "x": 610,
+          "y": 1300,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn190"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1290,
+          "text": "智代线进入或有纪宁线进入",
+          "num": "4",
+          "summary": "",
+          "hint": "此处{智代线进入}即下午，在分支{有智代的陪同}选择[的确不错]。没有选择相应选项或者没有触发分支的情况均属于否。<br>{有纪宁线进入}即18日，在分支{逃课选择睡觉的地方}选择[到那里去睡]，在接下来的分支{下课后，走进资料室的女孩}选择[再说几句话]；或者18日在分支{逃课选择睡觉的地方}选择[还是回教室吧]或者未触发这个分支，并且19日在分支{下课后，走进资料室的女孩}选择[再说几句话]。其他情况都属于没有进入有纪宁线。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt191"
+        }
+      },
+      {
+        "x": 425,
+        "y": 1390,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn194"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1300,
+        "type": "condition",
+        "text": "智代线或者有纪宁线进入",
+        "css": "btn",
+        "ref": "divTxtBtn188",
+        "num": {
+          "x": 610,
+          "y": 1300,
+          "type": "ccheck",
+          "text": "4",
+          "css": "check",
+          "ref": "divBtn190"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1290,
+          "text": "智代线进入或有纪宁线进入",
+          "num": "4",
+          "summary": "",
+          "hint": "此处{智代线进入}即下午，在分支{有智代的陪同}选择[的确不错]。没有选择相应选项或者没有触发分支的情况均属于否。<br>{有纪宁线进入}即18日，在分支{逃课选择睡觉的地方}选择[到那里去睡]，在接下来的分支{下课后，走进资料室的女孩}选择[再说几句话]；或者18日在分支{逃课选择睡觉的地方}选择[还是回教室吧]或者未触发这个分支，并且19日在分支{下课后，走进资料室的女孩}选择[再说几句话]。其他情况都属于没有进入有纪宁线。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt191"
+        }
+      },
+      {
+        "x": 825,
+        "y": 1390,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn200"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1390,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn194"
+      },
+      {
+        "x": 425,
+        "y": 1450,
+        "type": "selection",
+        "text": "安排晚上如何打发时间",
+        "css": "btn",
+        "ref": "divTxtBtn206",
+        "num": {
+          "x": 410,
+          "y": 1450,
+          "type": "ccheck",
+          "text": "5",
+          "css": "check",
+          "ref": "divBtn208"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1440,
+          "text": "安排晚上如何打发时间",
+          "num": "5",
+          "summary": "一天又快过去，朋也计划着晚上的事，要继续去找美佐枝还是……",
+          "hint": "选择[还是去美佐枝的房间]，则完全进入美佐枝线，并同时退出智代线、有纪宁线以及藤林姐妹线（若已进入）。相乐美佐枝角色剧情攻略请参见P26。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt209"
+        }
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1390,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn200"
+      },
+      {
+        "x": 825,
+        "y": 1450,
+        "type": "condition",
+        "text": "美佐枝线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn212"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1450,
+        "type": "selection",
+        "text": "安排晚上如何打发时间",
+        "css": "btn",
+        "ref": "divTxtBtn206",
+        "num": {
+          "x": 410,
+          "y": 1450,
+          "type": "ccheck",
+          "text": "5",
+          "css": "check",
+          "ref": "divBtn208"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1440,
+          "text": "安排晚上如何打发时间",
+          "num": "5",
+          "summary": "一天又快过去，朋也计划着晚上的事，要继续去找美佐枝还是……",
+          "hint": "选择[还是去美佐枝的房间]，则完全进入美佐枝线，并同时退出智代线、有纪宁线以及藤林姐妹线（若已进入）。相乐美佐枝角色剧情攻略请参见P26。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt209"
+        }
+      },
+      {
+        "x": 225,
+        "y": 1540,
+        "type": "option",
+        "text": "还是去美佐枝的房间",
+        "route": "l|美佐枝|-杏|-椋|-智代|-芽衣|-有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn216"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1450,
+        "type": "selection",
+        "text": "安排晚上如何打发时间",
+        "css": "btn",
+        "ref": "divTxtBtn206",
+        "num": {
+          "x": 410,
+          "y": 1450,
+          "type": "ccheck",
+          "text": "5",
+          "css": "check",
+          "ref": "divBtn208"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 1440,
+          "text": "安排晚上如何打发时间",
+          "num": "5",
+          "summary": "一天又快过去，朋也计划着晚上的事，要继续去找美佐枝还是……",
+          "hint": "选择[还是去美佐枝的房间]，则完全进入美佐枝线，并同时退出智代线、有纪宁线以及藤林姐妹线（若已进入）。相乐美佐枝角色剧情攻略请参见P26。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt209"
+        }
+      },
+      {
+        "x": 625,
+        "y": 1540,
+        "type": "option",
+        "text": "不去了",
+        "route": "r|-智代|-芽衣|-有纪宁|美佐枝|-杏|-椋",
+        "css": "btn",
+        "ref": "divTxtBtn228"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1540,
+        "type": "option",
+        "text": "还是去美佐枝的房间",
+        "route": "l|美佐枝|-杏|-椋|-智代|-芽衣|-有纪宁",
+        "css": "btn",
+        "ref": "divTxtBtn216"
+      },
+      {
+        "x": 225,
+        "y": 1600,
+        "type": "condition",
+        "text": "美佐枝线完全进入",
+        "css": "btn",
+        "ref": "divTxtBtn240"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1540,
+        "type": "option",
+        "text": "不去了",
+        "route": "r|-智代|-芽衣|-有纪宁|美佐枝|-杏|-椋",
+        "css": "btn",
+        "ref": "divTxtBtn228"
+      },
+      {
+        "x": 800,
+        "y": 1600
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1240,
+        "type": "selection",
+        "text": "不会再来了",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn181"
+      },
+      {
+        "x": 800,
+        "y": 1600
+      },
+      {
+        "x": 1200,
+        "y": 1600
+      }
+    ],
+    [
+      {
+        "x": 1000,
+        "y": 1600
+      },
+      {
+        "x": 1000,
+        "y": 1600
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 1290,
+      "text": "智代线进入或有纪宁线进入",
+      "num": "4",
+      "summary": "",
+      "hint": "此处{智代线进入}即下午，在分支{有智代的陪同}选择[的确不错]。没有选择相应选项或者没有触发分支的情况均属于否。<br>{有纪宁线进入}即18日，在分支{逃课选择睡觉的地方}选择[到那里去睡]，在接下来的分支{下课后，走进资料室的女孩}选择[再说几句话]；或者18日在分支{逃课选择睡觉的地方}选择[还是回教室吧]或者未触发这个分支，并且19日在分支{下课后，走进资料室的女孩}选择[再说几句话]。其他情况都属于没有进入有纪宁线。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt191"
+    },
+    {
+      "x": 1625,
+      "y": 1440,
+      "text": "安排晚上如何打发时间",
+      "num": "5",
+      "summary": "一天又快过去，朋也计划着晚上的事，要继续去找美佐枝还是……",
+      "hint": "选择[还是去美佐枝的房间]，则完全进入美佐枝线，并同时退出智代线、有纪宁线以及藤林姐妹线（若已进入）。相乐美佐枝角色剧情攻略请参见P26。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt209"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "4月21日（二）",
+    "dateE": "April 21st~Part 2",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1630,
+    "page": 14,
+    "ref": "divFt251"
+  },
+  "board": [
+    {
+      "x": 0,
+      "y": 150,
+      "height": 930
+    },
+    {
+      "x": 0,
+      "y": 1110,
+      "height": 570
+    }
+  ]
+}

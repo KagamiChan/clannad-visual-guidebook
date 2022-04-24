@@ -1,0 +1,1475 @@
+{
+  "box": [
+    [
+      {
+        "x": 850,
+        "y": 175,
+        "type": "date",
+        "text": "4月21日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "渚线或风子线进入",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 710,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "渚线或风子线进入",
+          "num": "1",
+          "summary": "",
+          "hint": "此处{渚线进入}即16日，在分支{古河重新创立话剧社}选择[帮忙]；18日，在分支{琴美的邀请与古河的约定}选择[今天还是和以前一样与渚一起吃]或者未触发这个分支。没有选择相应选项或者没有触发前一分支的情况均属于否；前一分支选择正确但没有触发后一分支的情况属于是。<br>{风子线进入}即16日，在分支{古河重新创立话剧社}选择[帮忙]；18日，在分支{独自雕刻的风子}选择[再看一会儿]。两次选择都正确才满足风子线进入的条件。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 925,
+        "y": 340,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn14"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn20",
+        "num": {
+          "x": 510,
+          "y": 400,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn22"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 390,
+          "text": "迟到后的午间",
+          "num": "2",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-赶去学生食堂",
+          "icon": "00100000",
+          "iconillu": "如果21日前未退出渚线也未能使渚参与伪女友事件，此处选择赶去学生食堂，渚仍然有条件参与伪女友事件",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt23"
+        }
+      },
+      {
+        "x": 925,
+        "y": 400,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn26",
+        "link": "p13_retA"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 490,
+        "type": "option",
+        "text": "赶去学生食堂",
+        "route": "l|杏|椋|芽衣|有纪宁|-渚|-风子",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      },
+      {
+        "x": 725,
+        "y": 490,
+        "type": "option",
+        "text": "看看窗外",
+        "route": "r|-渚|-风子|有纪宁|杏|椋|芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 610,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn54"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 700,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      },
+      {
+        "x": 925,
+        "y": 700,
+        "type": "selection",
+        "text": "离开",
+        "css": "btn",
+        "ref": "divTxtBtn78"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 760,
+        "type": "option",
+        "text": "风子大师",
+        "css": "btn",
+        "ref": "divTxtBtn84",
+        "num": {
+          "x": 510,
+          "y": 760,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn86"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 750,
+          "text": "风子大师 / 风子召唤使",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "公共线路前期至伊吹风子线路前期特殊剧情。发生在21日至30日的十天内，共9部分。选择分支的变化与仅与事件内部的分支选择有关，但9部分内容是否都能触发以及剧情变化仍受公共线路中的走向以及某些分支选择的影响，这些相关分支的风子大师图标都高亮显示。风子大师相关攻略请参见P48～P50。",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt87"
+        },
+        "link": "p13_retKFMT1"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 850,
+        "type": "condition",
+        "text": "中午，迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn90"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 940,
+        "type": "selection",
+        "text": "看看窗外",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      },
+      {
+        "x": 1025,
+        "y": 940,
+        "type": "selection",
+        "text": "赶去学生食堂",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn105"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1000,
+        "type": "selection",
+        "text": "与学生会谈判",
+        "css": "btn",
+        "ref": "divTxtBtn113"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1090,
+        "type": "option",
+        "text": "再让古河去一次",
+        "css": "btn",
+        "ref": "divTxtBtn117"
+      },
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "option",
+        "text": "代替她去谈判",
+        "css": "btn",
+        "ref": "divTxtBtn123"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1150,
+        "type": "selection",
+        "text": "代替古河谈判",
+        "css": "btn",
+        "ref": "divTxtBtn129"
+      },
+      {
+        "x": 1025,
+        "y": 1150,
+        "type": "condition",
+        "text": "上午，坂道上遇到呆望樱花中的智代",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1240,
+        "type": "option",
+        "text": "再让她去试试",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      },
+      {
+        "x": 425,
+        "y": 1240,
+        "type": "option",
+        "text": "代替她去",
+        "css": "btn",
+        "ref": "divTxtBtn143"
+      },
+      {
+        "x": 825,
+        "y": 1240,
+        "type": "selection",
+        "text": "打招呼",
+        "css": "btn",
+        "ref": "divTxtBtn149"
+      },
+      {
+        "x": 1225,
+        "y": 1240,
+        "type": "selection",
+        "text": "不理她",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn155"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1300,
+        "type": "selection",
+        "text": "有智代的陪同",
+        "css": "btn",
+        "ref": "divTxtBtn162"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1390,
+        "type": "option",
+        "text": "的确不错",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn166"
+      },
+      {
+        "x": 1025,
+        "y": 1390,
+        "type": "option",
+        "text": "是这样吗",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn173"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1450,
+        "type": "selection",
+        "text": "午饭的解决",
+        "css": "btn",
+        "ref": "divTxtBtn180"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1540,
+        "type": "option",
+        "text": "忍耐",
+        "css": "btn",
+        "ref": "divTxtBtn184"
+      },
+      {
+        "x": 1025,
+        "y": 1540,
+        "type": "option",
+        "text": "硬要吃",
+        "css": "btn",
+        "ref": "divTxtBtn188"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1660,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn194",
+        "link": "p13_retB"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1750,
+        "type": "selection",
+        "text": "幻想世界（四）",
+        "css": "btn",
+        "ref": "divTxtBtn219"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 1810,
+        "type": "date",
+        "text": "4月22日",
+        "css": "date",
+        "ref": "divBtn245"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 850,
+        "y": 175,
+        "type": "date",
+        "text": "4月21日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "渚线或风子线进入",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 710,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "渚线或风子线进入",
+          "num": "1",
+          "summary": "",
+          "hint": "此处{渚线进入}即16日，在分支{古河重新创立话剧社}选择[帮忙]；18日，在分支{琴美的邀请与古河的约定}选择[今天还是和以前一样与渚一起吃]或者未触发这个分支。没有选择相应选项或者没有触发前一分支的情况均属于否；前一分支选择正确但没有触发后一分支的情况属于是。<br>{风子线进入}即16日，在分支{古河重新创立话剧社}选择[帮忙]；18日，在分支{独自雕刻的风子}选择[再看一会儿]。两次选择都正确才满足风子线进入的条件。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "渚线或风子线进入",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 710,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "渚线或风子线进入",
+          "num": "1",
+          "summary": "",
+          "hint": "此处{渚线进入}即16日，在分支{古河重新创立话剧社}选择[帮忙]；18日，在分支{琴美的邀请与古河的约定}选择[今天还是和以前一样与渚一起吃]或者未触发这个分支。没有选择相应选项或者没有触发前一分支的情况均属于否；前一分支选择正确但没有触发后一分支的情况属于是。<br>{风子线进入}即16日，在分支{古河重新创立话剧社}选择[帮忙]；18日，在分支{独自雕刻的风子}选择[再看一会儿]。两次选择都正确才满足风子线进入的条件。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      },
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "condition",
+        "text": "渚线或风子线进入",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 710,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "渚线或风子线进入",
+          "num": "1",
+          "summary": "",
+          "hint": "此处{渚线进入}即16日，在分支{古河重新创立话剧社}选择[帮忙]；18日，在分支{琴美的邀请与古河的约定}选择[今天还是和以前一样与渚一起吃]或者未触发这个分支。没有选择相应选项或者没有触发前一分支的情况均属于否；前一分支选择正确但没有触发后一分支的情况属于是。<br>{风子线进入}即16日，在分支{古河重新创立话剧社}选择[帮忙]；18日，在分支{独自雕刻的风子}选择[再看一会儿]。两次选择都正确才满足风子线进入的条件。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      },
+      {
+        "x": 925,
+        "y": 340,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn14"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "selection",
+        "text": "是",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn20",
+        "num": {
+          "x": 510,
+          "y": 400,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn22"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 390,
+          "text": "迟到后的午间",
+          "num": "2",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-赶去学生食堂",
+          "icon": "00100000",
+          "iconillu": "如果21日前未退出渚线也未能使渚参与伪女友事件，此处选择赶去学生食堂，渚仍然有条件参与伪女友事件",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt23"
+        }
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 340,
+        "type": "selection",
+        "text": "否",
+        "css": "btn",
+        "ref": "divTxtBtn14"
+      },
+      {
+        "x": 925,
+        "y": 400,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn26"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn20",
+        "num": {
+          "x": 510,
+          "y": 400,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn22"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 390,
+          "text": "迟到后的午间",
+          "num": "2",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-赶去学生食堂",
+          "icon": "00100000",
+          "iconillu": "如果21日前未退出渚线也未能使渚参与伪女友事件，此处选择赶去学生食堂，渚仍然有条件参与伪女友事件",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt23"
+        }
+      },
+      {
+        "x": 325,
+        "y": 490,
+        "type": "option",
+        "text": "赶去学生食堂",
+        "route": "l|杏|椋|芽衣|有纪宁|-渚|-风子",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn20",
+        "num": {
+          "x": 510,
+          "y": 400,
+          "type": "ccheck",
+          "text": "2",
+          "css": "check",
+          "ref": "divBtn22"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 390,
+          "text": "迟到后的午间",
+          "num": "2",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-赶去学生食堂",
+          "icon": "00100000",
+          "iconillu": "如果21日前未退出渚线也未能使渚参与伪女友事件，此处选择赶去学生食堂，渚仍然有条件参与伪女友事件",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt23"
+        }
+      },
+      {
+        "x": 725,
+        "y": 490,
+        "type": "option",
+        "text": "看看窗外",
+        "route": "r|-渚|-风子|有纪宁|杏|椋|芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 490,
+        "type": "option",
+        "text": "赶去学生食堂",
+        "route": "l|杏|椋|芽衣|有纪宁|-渚|-风子",
+        "css": "btn",
+        "ref": "divTxtBtn30"
+      },
+      {
+        "x": 700,
+        "y": 580
+      },
+      {
+        "x": 725,
+        "y": 610,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn54"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 490,
+        "type": "option",
+        "text": "看看窗外",
+        "route": "r|-渚|-风子|有纪宁|杏|椋|芽衣",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      },
+      {
+        "x": 700,
+        "y": 580
+      },
+      {
+        "x": 725,
+        "y": 610,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn54"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 400,
+        "type": "block",
+        "text": "A",
+        "css": "btn",
+        "ref": "divTxtBtn26",
+        "link": "p13_retA"
+      },
+      {
+        "x": 725,
+        "y": 610,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn54"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 610,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn54"
+      },
+      {
+        "x": 525,
+        "y": 700,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 610,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn54"
+      },
+      {
+        "x": 925,
+        "y": 700,
+        "type": "selection",
+        "text": "离开",
+        "css": "btn",
+        "ref": "divTxtBtn78"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 700,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn72"
+      },
+      {
+        "x": 525,
+        "y": 760,
+        "type": "option",
+        "text": "风子大师",
+        "css": "btn",
+        "ref": "divTxtBtn84",
+        "num": {
+          "x": 510,
+          "y": 760,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn86"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 750,
+          "text": "风子大师 / 风子召唤使",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "公共线路前期至伊吹风子线路前期特殊剧情。发生在21日至30日的十天内，共9部分。选择分支的变化与仅与事件内部的分支选择有关，但9部分内容是否都能触发以及剧情变化仍受公共线路中的走向以及某些分支选择的影响，这些相关分支的风子大师图标都高亮显示。风子大师相关攻略请参见P48～P50。",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt87"
+        },
+        "link": "p13_retKFMT1"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 760,
+        "type": "option",
+        "text": "风子大师",
+        "css": "btn",
+        "ref": "divTxtBtn84",
+        "num": {
+          "x": 510,
+          "y": 760,
+          "type": "ccheck",
+          "text": "3",
+          "css": "check",
+          "ref": "divBtn86"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 750,
+          "text": "风子大师 / 风子召唤使",
+          "num": "3",
+          "summary": "",
+          "hint": "",
+          "setsumei": "公共线路前期至伊吹风子线路前期特殊剧情。发生在21日至30日的十天内，共9部分。选择分支的变化与仅与事件内部的分支选择有关，但9部分内容是否都能触发以及剧情变化仍受公共线路中的走向以及某些分支选择的影响，这些相关分支的风子大师图标都高亮显示。风子大师相关攻略请参见P48～P50。",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt87"
+        },
+        "link": "p13_retKFMT1"
+      },
+      {
+        "x": 725,
+        "y": 850,
+        "type": "condition",
+        "text": "中午，迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn90"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 700,
+        "type": "selection",
+        "text": "离开",
+        "css": "btn",
+        "ref": "divTxtBtn78"
+      },
+      {
+        "x": 725,
+        "y": 850,
+        "type": "condition",
+        "text": "中午，迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn90"
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 910
+      },
+      {
+        "x": 425,
+        "y": 940,
+        "type": "selection",
+        "text": "看看窗外",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      }
+    ],
+    [
+      {
+        "x": 800,
+        "y": 910
+      },
+      {
+        "x": 1025,
+        "y": 940,
+        "type": "selection",
+        "text": "赶去学生食堂",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn105"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 850,
+        "type": "condition",
+        "text": "中午，迟到后的午间",
+        "css": "btn",
+        "ref": "divTxtBtn90"
+      },
+      {
+        "x": 900,
+        "y": 910
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 940,
+        "type": "selection",
+        "text": "看看窗外",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      },
+      {
+        "x": 425,
+        "y": 1000,
+        "type": "selection",
+        "text": "与学生会谈判",
+        "css": "btn",
+        "ref": "divTxtBtn113"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1000,
+        "type": "selection",
+        "text": "与学生会谈判",
+        "css": "btn",
+        "ref": "divTxtBtn113"
+      },
+      {
+        "x": 225,
+        "y": 1090,
+        "type": "option",
+        "text": "再让古河去一次",
+        "css": "btn",
+        "ref": "divTxtBtn117"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1000,
+        "type": "selection",
+        "text": "与学生会谈判",
+        "css": "btn",
+        "ref": "divTxtBtn113"
+      },
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "option",
+        "text": "代替她去谈判",
+        "css": "btn",
+        "ref": "divTxtBtn123"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1090,
+        "type": "option",
+        "text": "再让古河去一次",
+        "css": "btn",
+        "ref": "divTxtBtn117"
+      },
+      {
+        "x": 225,
+        "y": 1150,
+        "type": "selection",
+        "text": "代替古河谈判",
+        "css": "btn",
+        "ref": "divTxtBtn129"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 940,
+        "type": "selection",
+        "text": "赶去学生食堂",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn105"
+      },
+      {
+        "x": 1025,
+        "y": 1150,
+        "type": "condition",
+        "text": "上午，坂道上遇到呆望樱花中的智代",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1150,
+        "type": "selection",
+        "text": "代替古河谈判",
+        "css": "btn",
+        "ref": "divTxtBtn129"
+      },
+      {
+        "x": 25,
+        "y": 1240,
+        "type": "option",
+        "text": "再让她去试试",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 1150,
+        "type": "selection",
+        "text": "代替古河谈判",
+        "css": "btn",
+        "ref": "divTxtBtn129"
+      },
+      {
+        "x": 425,
+        "y": 1240,
+        "type": "option",
+        "text": "代替她去",
+        "css": "btn",
+        "ref": "divTxtBtn143"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1150,
+        "type": "condition",
+        "text": "上午，坂道上遇到呆望樱花中的智代",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      },
+      {
+        "x": 825,
+        "y": 1240,
+        "type": "selection",
+        "text": "打招呼",
+        "css": "btn",
+        "ref": "divTxtBtn149"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1150,
+        "type": "condition",
+        "text": "上午，坂道上遇到呆望樱花中的智代",
+        "css": "btn",
+        "ref": "divTxtBtn133"
+      },
+      {
+        "x": 1225,
+        "y": 1240,
+        "type": "selection",
+        "text": "不理她",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn155"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1240,
+        "type": "selection",
+        "text": "打招呼",
+        "css": "btn",
+        "ref": "divTxtBtn149"
+      },
+      {
+        "x": 825,
+        "y": 1300,
+        "type": "selection",
+        "text": "有智代的陪同",
+        "css": "btn",
+        "ref": "divTxtBtn162"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1300,
+        "type": "selection",
+        "text": "有智代的陪同",
+        "css": "btn",
+        "ref": "divTxtBtn162"
+      },
+      {
+        "x": 625,
+        "y": 1390,
+        "type": "option",
+        "text": "的确不错",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn166"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1300,
+        "type": "selection",
+        "text": "有智代的陪同",
+        "css": "btn",
+        "ref": "divTxtBtn162"
+      },
+      {
+        "x": 1025,
+        "y": 1390,
+        "type": "option",
+        "text": "是这样吗",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn173"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1390,
+        "type": "option",
+        "text": "的确不错",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn166"
+      },
+      {
+        "x": 625,
+        "y": 1450,
+        "type": "selection",
+        "text": "午饭的解决",
+        "css": "btn",
+        "ref": "divTxtBtn180"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1450,
+        "type": "selection",
+        "text": "午饭的解决",
+        "css": "btn",
+        "ref": "divTxtBtn180"
+      },
+      {
+        "x": 625,
+        "y": 1540,
+        "type": "option",
+        "text": "忍耐",
+        "css": "btn",
+        "ref": "divTxtBtn184"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1450,
+        "type": "selection",
+        "text": "午饭的解决",
+        "css": "btn",
+        "ref": "divTxtBtn180"
+      },
+      {
+        "x": 1025,
+        "y": 1540,
+        "type": "option",
+        "text": "硬要吃",
+        "css": "btn",
+        "ref": "divTxtBtn188"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1540,
+        "type": "option",
+        "text": "忍耐",
+        "css": "btn",
+        "ref": "divTxtBtn184"
+      },
+      {
+        "x": 1000,
+        "y": 1630
+      },
+      {
+        "x": 1025,
+        "y": 1660,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn194",
+        "link": "p13_retB"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1540,
+        "type": "option",
+        "text": "硬要吃",
+        "css": "btn",
+        "ref": "divTxtBtn188"
+      },
+      {
+        "x": 1000,
+        "y": 1630
+      },
+      {
+        "x": 1025,
+        "y": 1660,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn194",
+        "link": "p13_retB"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1390,
+        "type": "option",
+        "text": "是这样吗",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn173"
+      },
+      {
+        "x": 1400,
+        "y": 1480
+      },
+      {
+        "x": 1025,
+        "y": 1660,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn194",
+        "link": "p13_retB"
+      }
+    ],
+    [
+      {
+        "x": 1225,
+        "y": 1240,
+        "type": "selection",
+        "text": "不理她",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn155"
+      },
+      {
+        "x": 1025,
+        "y": 1660,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn194",
+        "link": "p13_retB"
+      }
+    ],
+    [
+      {
+        "x": 900,
+        "y": 1720
+      },
+      {
+        "x": 725,
+        "y": 1750,
+        "type": "selection",
+        "text": "幻想世界（四）",
+        "css": "btn",
+        "ref": "divTxtBtn219"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 1660,
+        "type": "block",
+        "text": "B",
+        "css": "btn",
+        "ref": "divTxtBtn194",
+        "link": "p13_retB"
+      },
+      {
+        "x": 600,
+        "y": 1720
+      },
+      {
+        "x": 1200,
+        "y": 1720
+      }
+    ],
+    [
+      {
+        "x": 25,
+        "y": 1240,
+        "type": "option",
+        "text": "再让她去试试",
+        "css": "btn",
+        "ref": "divTxtBtn137"
+      },
+      {
+        "x": 400,
+        "y": 1330
+      },
+      {
+        "x": 600,
+        "y": 1360
+      },
+      {
+        "x": 600,
+        "y": 1720
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1240,
+        "type": "option",
+        "text": "代替她去",
+        "css": "btn",
+        "ref": "divTxtBtn143"
+      },
+      {
+        "x": 400,
+        "y": 1330
+      },
+      {
+        "x": 600,
+        "y": 1360
+      },
+      {
+        "x": 600,
+        "y": 1720
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1090,
+        "type": "option",
+        "text": "代替她去谈判",
+        "css": "btn",
+        "ref": "divTxtBtn123"
+      },
+      {
+        "x": 600,
+        "y": 1360
+      },
+      {
+        "x": 600,
+        "y": 1720
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1750,
+        "type": "selection",
+        "text": "幻想世界（四）",
+        "css": "btn",
+        "ref": "divTxtBtn219"
+      },
+      {
+        "x": 850,
+        "y": 1810,
+        "type": "date",
+        "text": "4月22日",
+        "css": "date",
+        "ref": "divBtn245"
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 240,
+      "text": "渚线或风子线进入",
+      "num": "1",
+      "summary": "",
+      "hint": "此处{渚线进入}即16日，在分支{古河重新创立话剧社}选择[帮忙]；18日，在分支{琴美的邀请与古河的约定}选择[今天还是和以前一样与渚一起吃]或者未触发这个分支。没有选择相应选项或者没有触发前一分支的情况均属于否；前一分支选择正确但没有触发后一分支的情况属于是。<br>{风子线进入}即16日，在分支{古河重新创立话剧社}选择[帮忙]；18日，在分支{独自雕刻的风子}选择[再看一会儿]。两次选择都正确才满足风子线进入的条件。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt5"
+    },
+    {
+      "x": 1625,
+      "y": 390,
+      "text": "迟到后的午间",
+      "num": "2",
+      "summary": "",
+      "hint": "",
+      "setsumei": "",
+      "option": "-赶去学生食堂",
+      "icon": "00100000",
+      "iconillu": "如果21日前未退出渚线也未能使渚参与伪女友事件，此处选择赶去学生食堂，渚仍然有条件参与伪女友事件",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt23"
+    },
+    {
+      "x": 1625,
+      "y": 750,
+      "text": "风子大师 / 风子召唤使",
+      "num": "3",
+      "summary": "",
+      "hint": "",
+      "setsumei": "公共线路前期至伊吹风子线路前期特殊剧情。发生在21日至30日的十天内，共9部分。选择分支的变化与仅与事件内部的分支选择有关，但9部分内容是否都能触发以及剧情变化仍受公共线路中的走向以及某些分支选择的影响，这些相关分支的风子大师图标都高亮显示。风子大师相关攻略请参见P48～P50。",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt87"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "4月21日（一）",
+    "dateE": "April 21st~Part 1",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1840,
+    "page": 13,
+    "ref": "divFt248"
+  },
+  "board": []
+}

@@ -1,0 +1,763 @@
+{
+  "box": [
+    [
+      {
+        "x": 850,
+        "y": 175,
+        "type": "date",
+        "text": "5月3日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "selection",
+        "text": "朋也对智代的幻想（二）",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "option",
+        "text": "幻想一下",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 925,
+        "y": 340,
+        "type": "option",
+        "text": "算了吧",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "朋也对智代的幻想（三）",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 490,
+        "type": "option",
+        "text": "幻想一下",
+        "css": "btn",
+        "ref": "divTxtBtn22"
+      },
+      {
+        "x": 725,
+        "y": 490,
+        "type": "option",
+        "text": "算了吧",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 610,
+        "type": "selection",
+        "text": "模仿电视中的场景",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 700,
+        "type": "option",
+        "text": "恩…差不多吧",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      },
+      {
+        "x": 925,
+        "y": 700,
+        "type": "option",
+        "text": "不…不是这样",
+        "css": "btn",
+        "ref": "divTxtBtn58"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 790,
+        "type": "date",
+        "text": "5月4日",
+        "css": "date",
+        "ref": "divBtn64"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 925,
+        "type": "date",
+        "text": "5月4日",
+        "css": "date",
+        "ref": "divBtn73"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1000,
+        "type": "condition",
+        "text": "3日，朋也对智代的幻想（二）",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1090,
+        "type": "selection",
+        "text": "幻想一下",
+        "css": "btn",
+        "ref": "divTxtBtn78"
+      },
+      {
+        "x": 925,
+        "y": 1090,
+        "type": "selection",
+        "text": "算了吧",
+        "css": "btn",
+        "ref": "divTxtBtn84"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1150,
+        "type": "selection",
+        "text": "朋也对智代的幻想（四）",
+        "css": "btn",
+        "ref": "divTxtBtn90"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1240,
+        "type": "option",
+        "text": "开始过分的幻想",
+        "css": "btn",
+        "ref": "divTxtBtn94"
+      },
+      {
+        "x": 725,
+        "y": 1240,
+        "type": "option",
+        "text": "说再见然后离开",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 1360,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn106"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1495,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn123"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1570,
+        "type": "selection",
+        "text": "希望和智代的快乐能持续下去",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1660,
+        "type": "option",
+        "text": "这样下去是不行的",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn128"
+      },
+      {
+        "x": 825,
+        "y": 1660,
+        "type": "option",
+        "text": "就这样下去",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1750,
+        "type": "date",
+        "text": "5月6日",
+        "css": "date",
+        "ref": "divBtn142"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 850,
+        "y": 175,
+        "type": "date",
+        "text": "5月3日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 725,
+        "y": 250,
+        "type": "selection",
+        "text": "朋也对智代的幻想（二）",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "selection",
+        "text": "朋也对智代的幻想（二）",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 525,
+        "y": 340,
+        "type": "option",
+        "text": "幻想一下",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "selection",
+        "text": "朋也对智代的幻想（二）",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 925,
+        "y": 340,
+        "type": "option",
+        "text": "算了吧",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "option",
+        "text": "幻想一下",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "朋也对智代的幻想（三）",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "朋也对智代的幻想（三）",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      },
+      {
+        "x": 325,
+        "y": 490,
+        "type": "option",
+        "text": "幻想一下",
+        "css": "btn",
+        "ref": "divTxtBtn22"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "selection",
+        "text": "朋也对智代的幻想（三）",
+        "css": "btn",
+        "ref": "divTxtBtn18"
+      },
+      {
+        "x": 725,
+        "y": 490,
+        "type": "option",
+        "text": "算了吧",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 490,
+        "type": "option",
+        "text": "幻想一下",
+        "css": "btn",
+        "ref": "divTxtBtn22"
+      },
+      {
+        "x": 700,
+        "y": 580
+      },
+      {
+        "x": 725,
+        "y": 610,
+        "type": "selection",
+        "text": "模仿电视中的场景",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 490,
+        "type": "option",
+        "text": "算了吧",
+        "css": "btn",
+        "ref": "divTxtBtn28"
+      },
+      {
+        "x": 700,
+        "y": 580
+      },
+      {
+        "x": 725,
+        "y": 610,
+        "type": "selection",
+        "text": "模仿电视中的场景",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 340,
+        "type": "option",
+        "text": "算了吧",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      },
+      {
+        "x": 725,
+        "y": 610,
+        "type": "selection",
+        "text": "模仿电视中的场景",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 610,
+        "type": "selection",
+        "text": "模仿电视中的场景",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 525,
+        "y": 700,
+        "type": "option",
+        "text": "恩…差不多吧",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 610,
+        "type": "selection",
+        "text": "模仿电视中的场景",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 925,
+        "y": 700,
+        "type": "option",
+        "text": "不…不是这样",
+        "css": "btn",
+        "ref": "divTxtBtn58"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 700,
+        "type": "option",
+        "text": "恩…差不多吧",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      },
+      {
+        "x": 850,
+        "y": 790,
+        "type": "date",
+        "text": "5月4日",
+        "css": "date",
+        "ref": "divBtn64"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 700,
+        "type": "option",
+        "text": "不…不是这样",
+        "css": "btn",
+        "ref": "divTxtBtn58"
+      },
+      {
+        "x": 850,
+        "y": 790,
+        "type": "date",
+        "text": "5月4日",
+        "css": "date",
+        "ref": "divBtn64"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 925,
+        "type": "date",
+        "text": "5月4日",
+        "css": "date",
+        "ref": "divBtn73"
+      },
+      {
+        "x": 725,
+        "y": 1000,
+        "type": "condition",
+        "text": "3日，朋也对智代的幻想（二）",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1000,
+        "type": "condition",
+        "text": "3日，朋也对智代的幻想（二）",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      },
+      {
+        "x": 525,
+        "y": 1090,
+        "type": "selection",
+        "text": "幻想一下",
+        "css": "btn",
+        "ref": "divTxtBtn78"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1000,
+        "type": "condition",
+        "text": "3日，朋也对智代的幻想（二）",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      },
+      {
+        "x": 925,
+        "y": 1090,
+        "type": "selection",
+        "text": "算了吧",
+        "css": "btn",
+        "ref": "divTxtBtn84"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1090,
+        "type": "selection",
+        "text": "幻想一下",
+        "css": "btn",
+        "ref": "divTxtBtn78"
+      },
+      {
+        "x": 525,
+        "y": 1150,
+        "type": "selection",
+        "text": "朋也对智代的幻想（四）",
+        "css": "btn",
+        "ref": "divTxtBtn90"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1150,
+        "type": "selection",
+        "text": "朋也对智代的幻想（四）",
+        "css": "btn",
+        "ref": "divTxtBtn90"
+      },
+      {
+        "x": 325,
+        "y": 1240,
+        "type": "option",
+        "text": "开始过分的幻想",
+        "css": "btn",
+        "ref": "divTxtBtn94"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1150,
+        "type": "selection",
+        "text": "朋也对智代的幻想（四）",
+        "css": "btn",
+        "ref": "divTxtBtn90"
+      },
+      {
+        "x": 725,
+        "y": 1240,
+        "type": "option",
+        "text": "说再见然后离开",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1240,
+        "type": "option",
+        "text": "开始过分的幻想",
+        "css": "btn",
+        "ref": "divTxtBtn94"
+      },
+      {
+        "x": 700,
+        "y": 1330
+      },
+      {
+        "x": 850,
+        "y": 1360,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn106"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1240,
+        "type": "option",
+        "text": "说再见然后离开",
+        "css": "btn",
+        "ref": "divTxtBtn100"
+      },
+      {
+        "x": 700,
+        "y": 1330
+      },
+      {
+        "x": 850,
+        "y": 1360,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn106"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 1090,
+        "type": "selection",
+        "text": "算了吧",
+        "css": "btn",
+        "ref": "divTxtBtn84"
+      },
+      {
+        "x": 850,
+        "y": 1360,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn106"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1495,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn123"
+      },
+      {
+        "x": 625,
+        "y": 1570,
+        "type": "selection",
+        "text": "希望和智代的快乐能持续下去",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1570,
+        "type": "selection",
+        "text": "希望和智代的快乐能持续下去",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      },
+      {
+        "x": 425,
+        "y": 1660,
+        "type": "option",
+        "text": "这样下去是不行的",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn128"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1570,
+        "type": "selection",
+        "text": "希望和智代的快乐能持续下去",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      },
+      {
+        "x": 825,
+        "y": 1660,
+        "type": "option",
+        "text": "就这样下去",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1660,
+        "type": "option",
+        "text": "这样下去是不行的",
+        "route": "l|智代",
+        "css": "btn",
+        "ref": "divTxtBtn128"
+      },
+      {
+        "x": 750,
+        "y": 1750,
+        "type": "date",
+        "text": "5月6日",
+        "css": "date",
+        "ref": "divBtn142"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1660,
+        "type": "option",
+        "text": "就这样下去",
+        "route": "r|智代",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      },
+      {
+        "x": 750,
+        "y": 1750,
+        "type": "date",
+        "text": "5月6日",
+        "css": "date",
+        "ref": "divBtn142"
+      }
+    ]
+  ],
+  "comment": [],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "tomoyo",
+    "routeC": "坂上 智代",
+    "routeE": "Tomoyo Sakagami",
+    "dateC": "5月3日～5月5日",
+    "dateE": "May 3rd~May 5th",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1780,
+    "page": 28,
+    "ref": "divFt151"
+  },
+  "board": []
+}

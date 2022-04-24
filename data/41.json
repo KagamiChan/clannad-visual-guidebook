@@ -1,0 +1,979 @@
+{
+  "box": [
+    [
+      {
+        "x": 750,
+        "y": 175,
+        "type": "date",
+        "text": "4月25日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "杏的邀请",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "option",
+        "text": "老实地呆在这里",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 825,
+        "y": 340,
+        "type": "option",
+        "text": "当然要逃走",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 430,
+        "type": "date",
+        "text": "4月29日",
+        "css": "date",
+        "ref": "divBtn18"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 565,
+        "type": "date",
+        "text": "4月29日",
+        "css": "date",
+        "ref": "divBtn27"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 640,
+        "type": "selection",
+        "text": "假日中的安排",
+        "css": "btn",
+        "ref": "divTxtBtn28",
+        "num": {
+          "x": 610,
+          "y": 640,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn30"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 630,
+          "text": "假日中的安排",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-外出",
+          "icon": "00000100",
+          "iconillu": "琴美好感度上升1点",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt31"
+        }
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "就这样在家呆着",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 825,
+        "y": 730,
+        "type": "option",
+        "text": "外出",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 820,
+        "type": "date",
+        "text": "4月30日",
+        "css": "date",
+        "ref": "divBtn46"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 955,
+        "type": "date",
+        "text": "4月30日",
+        "css": "date",
+        "ref": "divBtn55"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1030,
+        "type": "selection",
+        "text": "琴美的危机",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1120,
+        "type": "option",
+        "text": "去帮助琴美",
+        "route": "l|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 825,
+        "y": 1120,
+        "type": "option",
+        "text": "先看看情况",
+        "route": "r|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn67"
+      }
+    ],
+    [
+      {
+        "x": 550,
+        "y": 1180,
+        "type": "date",
+        "text": "5月3日",
+        "css": "date",
+        "ref": "divBtn74"
+      },
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "condition",
+        "text": "琴美 BAD ENDDING",
+        "css": "btn",
+        "ref": "divTxtBtn77"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1315,
+        "type": "date",
+        "text": "5月3日",
+        "css": "date",
+        "ref": "divBtn81"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1390,
+        "type": "selection",
+        "text": "绅士的询问",
+        "css": "btn",
+        "ref": "divTxtBtn82"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1480,
+        "type": "option",
+        "text": "虽然现在还算不上…",
+        "route": "l|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      },
+      {
+        "x": 825,
+        "y": 1480,
+        "type": "option",
+        "text": "仅仅是朋友",
+        "route": "r|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn93"
+      }
+    ],
+    [
+      {
+        "x": 550,
+        "y": 1540,
+        "type": "date",
+        "text": "5月4日",
+        "css": "date",
+        "ref": "divBtn100"
+      },
+      {
+        "x": 825,
+        "y": 1540,
+        "type": "condition",
+        "text": "琴美 BAD ENDDING",
+        "css": "btn",
+        "ref": "divTxtBtn103"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 1675,
+        "type": "date",
+        "text": "5月4日",
+        "css": "date",
+        "ref": "divBtn107"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1750,
+        "type": "selection",
+        "text": "杏的吐槽搅乱了约会",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1840,
+        "type": "option",
+        "text": "把多余的人赶走",
+        "css": "btn",
+        "ref": "divTxtBtn112"
+      },
+      {
+        "x": 925,
+        "y": 1840,
+        "type": "option",
+        "text": "这样或许也还不错",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1900,
+        "type": "selection",
+        "text": "对付杏一行人的突然出现",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1990,
+        "type": "option",
+        "text": "这是两人的约会啊",
+        "route": "l|-琴美",
+        "css": "btn",
+        "ref": "divTxtBtn128"
+      },
+      {
+        "x": 725,
+        "y": 1990,
+        "type": "option",
+        "text": "这样或许也还不错",
+        "route": "r|-琴美",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 2050,
+        "type": "condition",
+        "text": "琴美 BAD ENDDING",
+        "css": "btn",
+        "ref": "divTxtBtn142"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 2080,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn146"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 750,
+        "y": 175,
+        "type": "date",
+        "text": "4月25日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "杏的邀请",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "杏的邀请",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 425,
+        "y": 340,
+        "type": "option",
+        "text": "老实地呆在这里",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "selection",
+        "text": "杏的邀请",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 825,
+        "y": 340,
+        "type": "option",
+        "text": "当然要逃走",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 340,
+        "type": "option",
+        "text": "老实地呆在这里",
+        "css": "btn",
+        "ref": "divTxtBtn6"
+      },
+      {
+        "x": 750,
+        "y": 430,
+        "type": "date",
+        "text": "4月29日",
+        "css": "date",
+        "ref": "divBtn18"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 340,
+        "type": "option",
+        "text": "当然要逃走",
+        "css": "btn",
+        "ref": "divTxtBtn12"
+      },
+      {
+        "x": 750,
+        "y": 430,
+        "type": "date",
+        "text": "4月29日",
+        "css": "date",
+        "ref": "divBtn18"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 565,
+        "type": "date",
+        "text": "4月29日",
+        "css": "date",
+        "ref": "divBtn27"
+      },
+      {
+        "x": 625,
+        "y": 640,
+        "type": "selection",
+        "text": "假日中的安排",
+        "css": "btn",
+        "ref": "divTxtBtn28",
+        "num": {
+          "x": 610,
+          "y": 640,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn30"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 630,
+          "text": "假日中的安排",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-外出",
+          "icon": "00000100",
+          "iconillu": "琴美好感度上升1点",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt31"
+        }
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 640,
+        "type": "selection",
+        "text": "假日中的安排",
+        "css": "btn",
+        "ref": "divTxtBtn28",
+        "num": {
+          "x": 610,
+          "y": 640,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn30"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 630,
+          "text": "假日中的安排",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-外出",
+          "icon": "00000100",
+          "iconillu": "琴美好感度上升1点",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt31"
+        }
+      },
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "就这样在家呆着",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 640,
+        "type": "selection",
+        "text": "假日中的安排",
+        "css": "btn",
+        "ref": "divTxtBtn28",
+        "num": {
+          "x": 610,
+          "y": 640,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn30"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 630,
+          "text": "假日中的安排",
+          "num": "1",
+          "summary": "",
+          "hint": "",
+          "setsumei": "",
+          "option": "-外出",
+          "icon": "00000100",
+          "iconillu": "琴美好感度上升1点",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt31"
+        }
+      },
+      {
+        "x": 825,
+        "y": 730,
+        "type": "option",
+        "text": "外出",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 730,
+        "type": "option",
+        "text": "就这样在家呆着",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 750,
+        "y": 820,
+        "type": "date",
+        "text": "4月30日",
+        "css": "date",
+        "ref": "divBtn46"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 730,
+        "type": "option",
+        "text": "外出",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      },
+      {
+        "x": 750,
+        "y": 820,
+        "type": "date",
+        "text": "4月30日",
+        "css": "date",
+        "ref": "divBtn46"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 955,
+        "type": "date",
+        "text": "4月30日",
+        "css": "date",
+        "ref": "divBtn55"
+      },
+      {
+        "x": 625,
+        "y": 1030,
+        "type": "selection",
+        "text": "琴美的危机",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1030,
+        "type": "selection",
+        "text": "琴美的危机",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 425,
+        "y": 1120,
+        "type": "option",
+        "text": "去帮助琴美",
+        "route": "l|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1030,
+        "type": "selection",
+        "text": "琴美的危机",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 825,
+        "y": 1120,
+        "type": "option",
+        "text": "先看看情况",
+        "route": "r|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn67"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1120,
+        "type": "option",
+        "text": "去帮助琴美",
+        "route": "l|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 550,
+        "y": 1180,
+        "type": "date",
+        "text": "5月3日",
+        "css": "date",
+        "ref": "divBtn74"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1120,
+        "type": "option",
+        "text": "先看看情况",
+        "route": "r|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn67"
+      },
+      {
+        "x": 825,
+        "y": 1180,
+        "type": "condition",
+        "text": "琴美 BAD ENDDING",
+        "css": "btn",
+        "ref": "divTxtBtn77"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1315,
+        "type": "date",
+        "text": "5月3日",
+        "css": "date",
+        "ref": "divBtn81"
+      },
+      {
+        "x": 625,
+        "y": 1390,
+        "type": "selection",
+        "text": "绅士的询问",
+        "css": "btn",
+        "ref": "divTxtBtn82"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1390,
+        "type": "selection",
+        "text": "绅士的询问",
+        "css": "btn",
+        "ref": "divTxtBtn82"
+      },
+      {
+        "x": 425,
+        "y": 1480,
+        "type": "option",
+        "text": "虽然现在还算不上…",
+        "route": "l|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1390,
+        "type": "selection",
+        "text": "绅士的询问",
+        "css": "btn",
+        "ref": "divTxtBtn82"
+      },
+      {
+        "x": 825,
+        "y": 1480,
+        "type": "option",
+        "text": "仅仅是朋友",
+        "route": "r|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn93"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1480,
+        "type": "option",
+        "text": "虽然现在还算不上…",
+        "route": "l|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      },
+      {
+        "x": 550,
+        "y": 1540,
+        "type": "date",
+        "text": "5月4日",
+        "css": "date",
+        "ref": "divBtn100"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1480,
+        "type": "option",
+        "text": "仅仅是朋友",
+        "route": "r|琴美",
+        "css": "btn",
+        "ref": "divTxtBtn93"
+      },
+      {
+        "x": 825,
+        "y": 1540,
+        "type": "condition",
+        "text": "琴美 BAD ENDDING",
+        "css": "btn",
+        "ref": "divTxtBtn103"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 1675,
+        "type": "date",
+        "text": "5月4日",
+        "css": "date",
+        "ref": "divBtn107"
+      },
+      {
+        "x": 725,
+        "y": 1750,
+        "type": "selection",
+        "text": "杏的吐槽搅乱了约会",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1750,
+        "type": "selection",
+        "text": "杏的吐槽搅乱了约会",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      },
+      {
+        "x": 525,
+        "y": 1840,
+        "type": "option",
+        "text": "把多余的人赶走",
+        "css": "btn",
+        "ref": "divTxtBtn112"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1750,
+        "type": "selection",
+        "text": "杏的吐槽搅乱了约会",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      },
+      {
+        "x": 925,
+        "y": 1840,
+        "type": "option",
+        "text": "这样或许也还不错",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1840,
+        "type": "option",
+        "text": "把多余的人赶走",
+        "css": "btn",
+        "ref": "divTxtBtn112"
+      },
+      {
+        "x": 525,
+        "y": 1900,
+        "type": "selection",
+        "text": "对付杏一行人的突然出现",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1900,
+        "type": "selection",
+        "text": "对付杏一行人的突然出现",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      },
+      {
+        "x": 325,
+        "y": 1990,
+        "type": "option",
+        "text": "这是两人的约会啊",
+        "route": "l|-琴美",
+        "css": "btn",
+        "ref": "divTxtBtn128"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1900,
+        "type": "selection",
+        "text": "对付杏一行人的突然出现",
+        "css": "btn",
+        "ref": "divTxtBtn124"
+      },
+      {
+        "x": 725,
+        "y": 1990,
+        "type": "option",
+        "text": "这样或许也还不错",
+        "route": "r|-琴美",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1990,
+        "type": "option",
+        "text": "这是两人的约会啊",
+        "route": "l|-琴美",
+        "css": "btn",
+        "ref": "divTxtBtn128"
+      },
+      {
+        "x": 325,
+        "y": 2050,
+        "type": "condition",
+        "text": "琴美 BAD ENDDING",
+        "css": "btn",
+        "ref": "divTxtBtn142"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1990,
+        "type": "option",
+        "text": "这样或许也还不错",
+        "route": "r|-琴美",
+        "css": "btn",
+        "ref": "divTxtBtn135"
+      },
+      {
+        "x": 850,
+        "y": 2080,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn146"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 1840,
+        "type": "option",
+        "text": "这样或许也还不错",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      },
+      {
+        "x": 850,
+        "y": 2080,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn146"
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 630,
+      "text": "假日中的安排",
+      "num": "1",
+      "summary": "",
+      "hint": "",
+      "setsumei": "",
+      "option": "-外出",
+      "icon": "00000100",
+      "iconillu": "琴美好感度上升1点",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt31"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "kotomi",
+    "routeC": "一之濑 琴美",
+    "routeE": "Kotomi Ichinose",
+    "dateC": "4月25日～5月4日",
+    "dateE": "April 25th~May 4th",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 2140,
+    "page": 41,
+    "ref": "divFt153"
+  },
+  "board": []
+}

@@ -1,0 +1,739 @@
+{
+  "box": [
+    [
+      {
+        "x": 850,
+        "y": 175,
+        "type": "date",
+        "text": "5月7日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "selection",
+        "text": "杏向春原告白",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 710,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "杏向春原告白",
+          "num": "1",
+          "summary": "感觉奇怪的朋也在放学后前去中庭看看情况，发现杏正在向春原告白。",
+          "hint": "选择[飞奔出去]，通过一系列条件分支后，进入杏GOOD ENDING；选择[走开]或者未通过任一项条件分支，将在13日进入BAD ENDING。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "option",
+        "text": "飞奔出去",
+        "route": "l|杏",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 925,
+        "y": 340,
+        "type": "option",
+        "text": "走开",
+        "route": "r|杏",
+        "css": "btn",
+        "ref": "divTxtBtn15"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "condition",
+        "text": "28日，喜欢女孩的类型",
+        "css": "btn",
+        "ref": "divTxtBtn22"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 490,
+        "type": "selection",
+        "text": "喜欢长头发",
+        "css": "btn",
+        "ref": "divTxtBtn26"
+      },
+      {
+        "x": 725,
+        "y": 490,
+        "type": "selection",
+        "text": "喜欢短头发",
+        "css": "btn",
+        "ref": "divTxtBtn32"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 550,
+        "type": "condition",
+        "text": "3日，杏的唐突建议",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 640,
+        "type": "selection",
+        "text": "练习试试看",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      },
+      {
+        "x": 725,
+        "y": 640,
+        "type": "selection",
+        "text": "默不作声地看着杏",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 700,
+        "type": "condition",
+        "text": "4日，回忆当时椋的选择",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 790,
+        "type": "selection",
+        "text": "紫水晶",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 725,
+        "y": 790,
+        "type": "selection",
+        "text": "坦桑蓝",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 850,
+        "type": "condition",
+        "text": "5日，近距离面对着椋",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 940,
+        "type": "selection",
+        "text": "接吻",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 725,
+        "y": 940,
+        "type": "selection",
+        "text": "不接吻",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1000,
+        "type": "option",
+        "text": "杏“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1030,
+        "type": "condition",
+        "text": "公共 BAD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn84"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1060,
+        "type": "condition",
+        "text": "杏 GOOD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn113"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 850,
+        "y": 175,
+        "type": "date",
+        "text": "5月7日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 725,
+        "y": 250,
+        "type": "selection",
+        "text": "杏向春原告白",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 710,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "杏向春原告白",
+          "num": "1",
+          "summary": "感觉奇怪的朋也在放学后前去中庭看看情况，发现杏正在向春原告白。",
+          "hint": "选择[飞奔出去]，通过一系列条件分支后，进入杏GOOD ENDING；选择[走开]或者未通过任一项条件分支，将在13日进入BAD ENDING。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "selection",
+        "text": "杏向春原告白",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 710,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "杏向春原告白",
+          "num": "1",
+          "summary": "感觉奇怪的朋也在放学后前去中庭看看情况，发现杏正在向春原告白。",
+          "hint": "选择[飞奔出去]，通过一系列条件分支后，进入杏GOOD ENDING；选择[走开]或者未通过任一项条件分支，将在13日进入BAD ENDING。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      },
+      {
+        "x": 525,
+        "y": 340,
+        "type": "option",
+        "text": "飞奔出去",
+        "route": "l|杏",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 250,
+        "type": "selection",
+        "text": "杏向春原告白",
+        "css": "btn",
+        "ref": "divTxtBtn2",
+        "num": {
+          "x": 710,
+          "y": 250,
+          "type": "ccheck",
+          "text": "1",
+          "css": "check",
+          "ref": "divBtn4"
+        },
+        "comment": {
+          "x": 1625,
+          "y": 240,
+          "text": "杏向春原告白",
+          "num": "1",
+          "summary": "感觉奇怪的朋也在放学后前去中庭看看情况，发现杏正在向春原告白。",
+          "hint": "选择[飞奔出去]，通过一系列条件分支后，进入杏GOOD ENDING；选择[走开]或者未通过任一项条件分支，将在13日进入BAD ENDING。",
+          "setsumei": "",
+          "option": "",
+          "icon": "",
+          "iconillu": "",
+          "titlecss": "cmtbtn",
+          "contentcss": "comment",
+          "optioncss": "cmtopt",
+          "eventcss": "cmtEvnt",
+          "ref": "divCmt5"
+        }
+      },
+      {
+        "x": 925,
+        "y": 340,
+        "type": "option",
+        "text": "走开",
+        "route": "r|杏",
+        "css": "btn",
+        "ref": "divTxtBtn15"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 340,
+        "type": "option",
+        "text": "飞奔出去",
+        "route": "l|杏",
+        "css": "btn",
+        "ref": "divTxtBtn8"
+      },
+      {
+        "x": 525,
+        "y": 400,
+        "type": "condition",
+        "text": "28日，喜欢女孩的类型",
+        "css": "btn",
+        "ref": "divTxtBtn22"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "condition",
+        "text": "28日，喜欢女孩的类型",
+        "css": "btn",
+        "ref": "divTxtBtn22"
+      },
+      {
+        "x": 325,
+        "y": 490,
+        "type": "selection",
+        "text": "喜欢长头发",
+        "css": "btn",
+        "ref": "divTxtBtn26"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 400,
+        "type": "condition",
+        "text": "28日，喜欢女孩的类型",
+        "css": "btn",
+        "ref": "divTxtBtn22"
+      },
+      {
+        "x": 725,
+        "y": 490,
+        "type": "selection",
+        "text": "喜欢短头发",
+        "css": "btn",
+        "ref": "divTxtBtn32"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 490,
+        "type": "selection",
+        "text": "喜欢长头发",
+        "css": "btn",
+        "ref": "divTxtBtn26"
+      },
+      {
+        "x": 325,
+        "y": 550,
+        "type": "condition",
+        "text": "3日，杏的唐突建议",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 550,
+        "type": "condition",
+        "text": "3日，杏的唐突建议",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 325,
+        "y": 640,
+        "type": "selection",
+        "text": "练习试试看",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 550,
+        "type": "condition",
+        "text": "3日，杏的唐突建议",
+        "css": "btn",
+        "ref": "divTxtBtn38"
+      },
+      {
+        "x": 725,
+        "y": 640,
+        "type": "selection",
+        "text": "默不作声地看着杏",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 640,
+        "type": "selection",
+        "text": "练习试试看",
+        "css": "btn",
+        "ref": "divTxtBtn42"
+      },
+      {
+        "x": 325,
+        "y": 700,
+        "type": "condition",
+        "text": "4日，回忆当时椋的选择",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 700,
+        "type": "condition",
+        "text": "4日，回忆当时椋的选择",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      },
+      {
+        "x": 325,
+        "y": 790,
+        "type": "selection",
+        "text": "紫水晶",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 700,
+        "type": "condition",
+        "text": "4日，回忆当时椋的选择",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      },
+      {
+        "x": 725,
+        "y": 790,
+        "type": "selection",
+        "text": "坦桑蓝",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 790,
+        "type": "selection",
+        "text": "紫水晶",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 325,
+        "y": 850,
+        "type": "condition",
+        "text": "5日，近距离面对着椋",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 850,
+        "type": "condition",
+        "text": "5日，近距离面对着椋",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      },
+      {
+        "x": 325,
+        "y": 940,
+        "type": "selection",
+        "text": "接吻",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 850,
+        "type": "condition",
+        "text": "5日，近距离面对着椋",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      },
+      {
+        "x": 725,
+        "y": 940,
+        "type": "selection",
+        "text": "不接吻",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 940,
+        "type": "selection",
+        "text": "接吻",
+        "css": "btn",
+        "ref": "divTxtBtn70"
+      },
+      {
+        "x": 325,
+        "y": 1000,
+        "type": "option",
+        "text": "杏“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 940,
+        "type": "selection",
+        "text": "不接吻",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      },
+      {
+        "x": 725,
+        "y": 1030,
+        "type": "condition",
+        "text": "公共 BAD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn84"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 790,
+        "type": "selection",
+        "text": "坦桑蓝",
+        "css": "btn",
+        "ref": "divTxtBtn60"
+      },
+      {
+        "x": 1100,
+        "y": 880
+      },
+      {
+        "x": 725,
+        "y": 1030,
+        "type": "condition",
+        "text": "公共 BAD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn84"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 640,
+        "type": "selection",
+        "text": "默不作声地看着杏",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 1100,
+        "y": 730
+      },
+      {
+        "x": 725,
+        "y": 1030,
+        "type": "condition",
+        "text": "公共 BAD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn84"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 490,
+        "type": "selection",
+        "text": "喜欢短头发",
+        "css": "btn",
+        "ref": "divTxtBtn32"
+      },
+      {
+        "x": 1100,
+        "y": 580
+      },
+      {
+        "x": 725,
+        "y": 1030,
+        "type": "condition",
+        "text": "公共 BAD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn84"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 340,
+        "type": "option",
+        "text": "走开",
+        "route": "r|杏",
+        "css": "btn",
+        "ref": "divTxtBtn15"
+      },
+      {
+        "x": 725,
+        "y": 1030,
+        "type": "condition",
+        "text": "公共 BAD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn84"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1000,
+        "type": "option",
+        "text": "杏“光”获得",
+        "css": "btn",
+        "ref": "divTxtBtn80"
+      },
+      {
+        "x": 325,
+        "y": 1060,
+        "type": "condition",
+        "text": "杏 GOOD ENDING",
+        "css": "btn",
+        "ref": "divTxtBtn113"
+      }
+    ]
+  ],
+  "comment": [
+    {
+      "x": 1625,
+      "y": 240,
+      "text": "杏向春原告白",
+      "num": "1",
+      "summary": "感觉奇怪的朋也在放学后前去中庭看看情况，发现杏正在向春原告白。",
+      "hint": "选择[飞奔出去]，通过一系列条件分支后，进入杏GOOD ENDING；选择[走开]或者未通过任一项条件分支，将在13日进入BAD ENDING。",
+      "setsumei": "",
+      "option": "",
+      "icon": "",
+      "iconillu": "",
+      "titlecss": "cmtbtn",
+      "contentcss": "comment",
+      "optioncss": "cmtopt",
+      "eventcss": "cmtEvnt",
+      "ref": "divCmt5"
+    }
+  ],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "fujibayashi",
+    "routeC": "藤林 杏/藤林 椋",
+    "routeE": "Kyou Fujibayashi/Ryou Fujibayashi",
+    "dateC": "5月7日",
+    "dateE": "May 7th",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1090,
+    "page": 36,
+    "ref": "divFt117"
+  },
+  "board": []
+}

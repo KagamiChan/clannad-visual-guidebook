@@ -1,0 +1,715 @@
+{
+  "box": [
+    [
+      {
+        "x": 750,
+        "y": 175,
+        "type": "date",
+        "text": "渚·后日",
+        "css": "date",
+        "ref": "divBtn1"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "option",
+        "text": "幻想世界（十一）",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 310,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn6"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 445,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn9"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 520,
+        "type": "selection",
+        "text": "生活第一天的兴奋",
+        "css": "btn",
+        "ref": "divTxtBtn10"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 610,
+        "type": "option",
+        "text": "自己冷静下来",
+        "css": "btn",
+        "ref": "divTxtBtn14"
+      },
+      {
+        "x": 825,
+        "y": 610,
+        "type": "option",
+        "text": "不暴露就没关系",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 700,
+        "type": "date",
+        "text": "5月6日",
+        "css": "date",
+        "ref": "divBtn26"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 835,
+        "type": "date",
+        "text": "5月6日",
+        "css": "date",
+        "ref": "divBtn35"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 910,
+        "type": "selection",
+        "text": "工作纪念日的庆祝",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1000,
+        "type": "option",
+        "text": "不，话语以外的…",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      },
+      {
+        "x": 925,
+        "y": 1000,
+        "type": "option",
+        "text": "可以",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1060,
+        "type": "selection",
+        "text": "庆祝形式的选择",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1150,
+        "type": "option",
+        "text": "H的事情…",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 725,
+        "y": 1150,
+        "type": "option",
+        "text": "算了，话语就可以了",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 1270,
+        "type": "date",
+        "text": "5月9日",
+        "css": "date",
+        "ref": "divBtn68"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1405,
+        "type": "date",
+        "text": "5月9日",
+        "css": "date",
+        "ref": "divBtn85"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1480,
+        "type": "selection",
+        "text": "解释尴尬的误会",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1570,
+        "type": "option",
+        "text": "解开误会",
+        "css": "btn",
+        "ref": "divTxtBtn90"
+      },
+      {
+        "x": 825,
+        "y": 1570,
+        "type": "option",
+        "text": "随他们怎么想",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "selection",
+        "text": "渚的普通请求",
+        "css": "btn",
+        "ref": "divTxtBtn102"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1750,
+        "type": "option",
+        "text": "沉默",
+        "css": "btn",
+        "ref": "divTxtBtn112"
+      },
+      {
+        "x": 825,
+        "y": 1750,
+        "type": "option",
+        "text": "拒绝",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1840,
+        "type": "date",
+        "text": "5月12日",
+        "css": "date",
+        "ref": "divBtn124"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 750,
+        "y": 175,
+        "type": "date",
+        "text": "渚·后日",
+        "css": "date",
+        "ref": "divBtn1"
+      },
+      {
+        "x": 625,
+        "y": 250,
+        "type": "option",
+        "text": "幻想世界（十一）",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 250,
+        "type": "option",
+        "text": "幻想世界（十一）",
+        "css": "btn",
+        "ref": "divTxtBtn2"
+      },
+      {
+        "x": 750,
+        "y": 310,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn6"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 445,
+        "type": "date",
+        "text": "5月5日",
+        "css": "date",
+        "ref": "divBtn9"
+      },
+      {
+        "x": 625,
+        "y": 520,
+        "type": "selection",
+        "text": "生活第一天的兴奋",
+        "css": "btn",
+        "ref": "divTxtBtn10"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 520,
+        "type": "selection",
+        "text": "生活第一天的兴奋",
+        "css": "btn",
+        "ref": "divTxtBtn10"
+      },
+      {
+        "x": 425,
+        "y": 610,
+        "type": "option",
+        "text": "自己冷静下来",
+        "css": "btn",
+        "ref": "divTxtBtn14"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 520,
+        "type": "selection",
+        "text": "生活第一天的兴奋",
+        "css": "btn",
+        "ref": "divTxtBtn10"
+      },
+      {
+        "x": 825,
+        "y": 610,
+        "type": "option",
+        "text": "不暴露就没关系",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 610,
+        "type": "option",
+        "text": "自己冷静下来",
+        "css": "btn",
+        "ref": "divTxtBtn14"
+      },
+      {
+        "x": 750,
+        "y": 700,
+        "type": "date",
+        "text": "5月6日",
+        "css": "date",
+        "ref": "divBtn26"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 610,
+        "type": "option",
+        "text": "不暴露就没关系",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      },
+      {
+        "x": 750,
+        "y": 700,
+        "type": "date",
+        "text": "5月6日",
+        "css": "date",
+        "ref": "divBtn26"
+      }
+    ],
+    [
+      {
+        "x": 850,
+        "y": 835,
+        "type": "date",
+        "text": "5月6日",
+        "css": "date",
+        "ref": "divBtn35"
+      },
+      {
+        "x": 725,
+        "y": 910,
+        "type": "selection",
+        "text": "工作纪念日的庆祝",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 910,
+        "type": "selection",
+        "text": "工作纪念日的庆祝",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      },
+      {
+        "x": 525,
+        "y": 1000,
+        "type": "option",
+        "text": "不，话语以外的…",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 910,
+        "type": "selection",
+        "text": "工作纪念日的庆祝",
+        "css": "btn",
+        "ref": "divTxtBtn36"
+      },
+      {
+        "x": 925,
+        "y": 1000,
+        "type": "option",
+        "text": "可以",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1000,
+        "type": "option",
+        "text": "不，话语以外的…",
+        "css": "btn",
+        "ref": "divTxtBtn40"
+      },
+      {
+        "x": 525,
+        "y": 1060,
+        "type": "selection",
+        "text": "庆祝形式的选择",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1060,
+        "type": "selection",
+        "text": "庆祝形式的选择",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      },
+      {
+        "x": 325,
+        "y": 1150,
+        "type": "option",
+        "text": "H的事情…",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 1060,
+        "type": "selection",
+        "text": "庆祝形式的选择",
+        "css": "btn",
+        "ref": "divTxtBtn52"
+      },
+      {
+        "x": 725,
+        "y": 1150,
+        "type": "option",
+        "text": "算了，话语就可以了",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 1150,
+        "type": "option",
+        "text": "H的事情…",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 700,
+        "y": 1240
+      },
+      {
+        "x": 850,
+        "y": 1270,
+        "type": "date",
+        "text": "5月9日",
+        "css": "date",
+        "ref": "divBtn68"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 1150,
+        "type": "option",
+        "text": "算了，话语就可以了",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      },
+      {
+        "x": 700,
+        "y": 1240
+      },
+      {
+        "x": 850,
+        "y": 1270,
+        "type": "date",
+        "text": "5月9日",
+        "css": "date",
+        "ref": "divBtn68"
+      }
+    ],
+    [
+      {
+        "x": 925,
+        "y": 1000,
+        "type": "option",
+        "text": "可以",
+        "css": "btn",
+        "ref": "divTxtBtn46"
+      },
+      {
+        "x": 850,
+        "y": 1270,
+        "type": "date",
+        "text": "5月9日",
+        "css": "date",
+        "ref": "divBtn68"
+      }
+    ],
+    [
+      {
+        "x": 750,
+        "y": 1405,
+        "type": "date",
+        "text": "5月9日",
+        "css": "date",
+        "ref": "divBtn85"
+      },
+      {
+        "x": 625,
+        "y": 1480,
+        "type": "selection",
+        "text": "解释尴尬的误会",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1480,
+        "type": "selection",
+        "text": "解释尴尬的误会",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      },
+      {
+        "x": 425,
+        "y": 1570,
+        "type": "option",
+        "text": "解开误会",
+        "css": "btn",
+        "ref": "divTxtBtn90"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1480,
+        "type": "selection",
+        "text": "解释尴尬的误会",
+        "css": "btn",
+        "ref": "divTxtBtn86"
+      },
+      {
+        "x": 825,
+        "y": 1570,
+        "type": "option",
+        "text": "随他们怎么想",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1570,
+        "type": "option",
+        "text": "解开误会",
+        "css": "btn",
+        "ref": "divTxtBtn90"
+      },
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "selection",
+        "text": "渚的普通请求",
+        "css": "btn",
+        "ref": "divTxtBtn102"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1570,
+        "type": "option",
+        "text": "随他们怎么想",
+        "css": "btn",
+        "ref": "divTxtBtn96"
+      },
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "selection",
+        "text": "渚的普通请求",
+        "css": "btn",
+        "ref": "divTxtBtn102"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "selection",
+        "text": "渚的普通请求",
+        "css": "btn",
+        "ref": "divTxtBtn102"
+      },
+      {
+        "x": 425,
+        "y": 1750,
+        "type": "option",
+        "text": "沉默",
+        "css": "btn",
+        "ref": "divTxtBtn112"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 1660,
+        "type": "selection",
+        "text": "渚的普通请求",
+        "css": "btn",
+        "ref": "divTxtBtn102"
+      },
+      {
+        "x": 825,
+        "y": 1750,
+        "type": "option",
+        "text": "拒绝",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1750,
+        "type": "option",
+        "text": "沉默",
+        "css": "btn",
+        "ref": "divTxtBtn112"
+      },
+      {
+        "x": 750,
+        "y": 1840,
+        "type": "date",
+        "text": "5月12日",
+        "css": "date",
+        "ref": "divBtn124"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1750,
+        "type": "option",
+        "text": "拒绝",
+        "css": "btn",
+        "ref": "divTxtBtn118"
+      },
+      {
+        "x": 750,
+        "y": 1840,
+        "type": "date",
+        "text": "5月12日",
+        "css": "date",
+        "ref": "divBtn124"
+      }
+    ]
+  ],
+  "comment": [],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "nagisa",
+    "routeC": "AFTER STORY",
+    "routeE": "After Story",
+    "dateC": "渚·后日～5月9日",
+    "dateE": "Nagisa·Some Day After~May 9th",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1900,
+    "page": 62,
+    "ref": "divFt133"
+  },
+  "board": []
+}

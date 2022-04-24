@@ -1,0 +1,709 @@
+{
+  "box": [
+    [
+      {
+        "x": 25,
+        "y": 190,
+        "type": "option",
+        "text": "有纪宁的咒语",
+        "css": "btn",
+        "ref": "divTxtBtn1",
+        "link": "p32_YNSP"
+      },
+      {
+        "x": 525,
+        "y": 190,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 280,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      },
+      {
+        "x": 725,
+        "y": 280,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 340,
+        "type": "option",
+        "text": "咒语游戏中遇到风子",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 430,
+        "type": "condition",
+        "text": "18日，遇到困难的智代",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 520,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 825,
+        "y": 520,
+        "type": "selection",
+        "text": "甩开她的手",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn39"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 580,
+        "type": "condition",
+        "text": "22日，回答了智代的询问",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 670,
+        "type": "selection",
+        "text": "添麻烦了",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      },
+      {
+        "x": 625,
+        "y": 670,
+        "type": "selection",
+        "text": "不，不是这个意思",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 730,
+        "type": "option",
+        "text": "咒语游戏中遇到智代",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 760,
+        "type": "condition",
+        "text": "15日，回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 850,
+        "type": "selection",
+        "text": "不在意",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      },
+      {
+        "x": 1025,
+        "y": 850,
+        "type": "selection",
+        "text": "在意",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 910,
+        "type": "condition",
+        "text": "18日，宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn87"
+      },
+      {
+        "x": 1025,
+        "y": 910,
+        "type": "option",
+        "text": "咒语游戏中遇到渚",
+        "css": "btn",
+        "ref": "divTxtBtn91"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1000,
+        "type": "selection",
+        "text": "向她搭话",
+        "css": "btn",
+        "ref": "divTxtBtn95"
+      },
+      {
+        "x": 825,
+        "y": 1000,
+        "type": "selection",
+        "text": "目送她离去",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn101"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1060,
+        "type": "option",
+        "text": "咒语游戏中遇到美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      },
+      {
+        "x": 825,
+        "y": 1060,
+        "type": "option",
+        "text": "咒语游戏中遇到杏、椋",
+        "css": "btn",
+        "ref": "divTxtBtn112"
+      }
+    ]
+  ],
+  "line": [
+    [
+      {
+        "x": 700,
+        "y": 175
+      },
+      {
+        "x": 700,
+        "y": 175
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 190,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 325,
+        "y": 280,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 190,
+        "type": "condition",
+        "text": "18日，独自雕刻的风子",
+        "css": "btn",
+        "ref": "divTxtBtn3"
+      },
+      {
+        "x": 725,
+        "y": 280,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 280,
+        "type": "selection",
+        "text": "再看一会儿",
+        "css": "btn",
+        "ref": "divTxtBtn7"
+      },
+      {
+        "x": 325,
+        "y": 340,
+        "type": "option",
+        "text": "咒语游戏中遇到风子",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      }
+    ],
+    [
+      {
+        "x": 325,
+        "y": 340,
+        "type": "option",
+        "text": "咒语游戏中遇到风子",
+        "css": "btn",
+        "ref": "divTxtBtn20"
+      },
+      {
+        "x": 525,
+        "y": 430,
+        "type": "condition",
+        "text": "18日，遇到困难的智代",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      }
+    ],
+    [
+      {
+        "x": 725,
+        "y": 280,
+        "type": "selection",
+        "text": "离开",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn13"
+      },
+      {
+        "x": 525,
+        "y": 430,
+        "type": "condition",
+        "text": "18日，遇到困难的智代",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      }
+    ],
+    [
+      {
+        "x": 600,
+        "y": 490
+      },
+      {
+        "x": 225,
+        "y": 520,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      }
+    ],
+    [
+      {
+        "x": 600,
+        "y": 490
+      },
+      {
+        "x": 825,
+        "y": 520,
+        "type": "selection",
+        "text": "甩开她的手",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn39"
+      }
+    ],
+    [
+      {
+        "x": 525,
+        "y": 430,
+        "type": "condition",
+        "text": "18日，遇到困难的智代",
+        "css": "btn",
+        "ref": "divTxtBtn24"
+      },
+      {
+        "x": 700,
+        "y": 490
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 520,
+        "type": "selection",
+        "text": "帮忙",
+        "css": "btn",
+        "ref": "divTxtBtn34"
+      },
+      {
+        "x": 225,
+        "y": 580,
+        "type": "condition",
+        "text": "22日，回答了智代的询问",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 580,
+        "type": "condition",
+        "text": "22日，回答了智代的询问",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      },
+      {
+        "x": 225,
+        "y": 670,
+        "type": "selection",
+        "text": "添麻烦了",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 580,
+        "type": "condition",
+        "text": "22日，回答了智代的询问",
+        "css": "btn",
+        "ref": "divTxtBtn47"
+      },
+      {
+        "x": 625,
+        "y": 670,
+        "type": "selection",
+        "text": "不，不是这个意思",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 670,
+        "type": "selection",
+        "text": "添麻烦了",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn51"
+      },
+      {
+        "x": 225,
+        "y": 730,
+        "type": "option",
+        "text": "咒语游戏中遇到智代",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 670,
+        "type": "selection",
+        "text": "不，不是这个意思",
+        "css": "btn",
+        "ref": "divTxtBtn56"
+      },
+      {
+        "x": 825,
+        "y": 760,
+        "type": "condition",
+        "text": "15日，回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 520,
+        "type": "selection",
+        "text": "甩开她的手",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn39"
+      },
+      {
+        "x": 825,
+        "y": 760,
+        "type": "condition",
+        "text": "15日，回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 760,
+        "type": "condition",
+        "text": "15日，回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      },
+      {
+        "x": 625,
+        "y": 850,
+        "type": "selection",
+        "text": "不在意",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 760,
+        "type": "condition",
+        "text": "15日，回想起中午庭院中的女生",
+        "css": "btn",
+        "ref": "divTxtBtn66"
+      },
+      {
+        "x": 1025,
+        "y": 850,
+        "type": "selection",
+        "text": "在意",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 850,
+        "type": "selection",
+        "text": "不在意",
+        "route": "l|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn74"
+      },
+      {
+        "x": 625,
+        "y": 910,
+        "type": "condition",
+        "text": "18日，宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn87"
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 850,
+        "type": "selection",
+        "text": "在意",
+        "css": "btn",
+        "ref": "divTxtBtn81"
+      },
+      {
+        "x": 1025,
+        "y": 910,
+        "type": "option",
+        "text": "咒语游戏中遇到渚",
+        "css": "btn",
+        "ref": "divTxtBtn91"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 910,
+        "type": "condition",
+        "text": "18日，宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn87"
+      },
+      {
+        "x": 425,
+        "y": 1000,
+        "type": "selection",
+        "text": "向她搭话",
+        "css": "btn",
+        "ref": "divTxtBtn95"
+      }
+    ],
+    [
+      {
+        "x": 625,
+        "y": 910,
+        "type": "condition",
+        "text": "18日，宿舍走廊遇见美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn87"
+      },
+      {
+        "x": 825,
+        "y": 1000,
+        "type": "selection",
+        "text": "目送她离去",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn101"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1000,
+        "type": "selection",
+        "text": "向她搭话",
+        "css": "btn",
+        "ref": "divTxtBtn95"
+      },
+      {
+        "x": 425,
+        "y": 1060,
+        "type": "option",
+        "text": "咒语游戏中遇到美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1000,
+        "type": "selection",
+        "text": "目送她离去",
+        "route": "r|+未触发",
+        "css": "btn",
+        "ref": "divTxtBtn101"
+      },
+      {
+        "x": 825,
+        "y": 1060,
+        "type": "option",
+        "text": "咒语游戏中遇到杏、椋",
+        "css": "btn",
+        "ref": "divTxtBtn112"
+      }
+    ],
+    [
+      {
+        "x": 425,
+        "y": 1060,
+        "type": "option",
+        "text": "咒语游戏中遇到美佐枝",
+        "css": "btn",
+        "ref": "divTxtBtn108"
+      },
+      {
+        "x": 800,
+        "y": 1150
+      },
+      {
+        "x": 1000,
+        "y": 1180
+      }
+    ],
+    [
+      {
+        "x": 825,
+        "y": 1060,
+        "type": "option",
+        "text": "咒语游戏中遇到杏、椋",
+        "css": "btn",
+        "ref": "divTxtBtn112"
+      },
+      {
+        "x": 800,
+        "y": 1150
+      },
+      {
+        "x": 1000,
+        "y": 1180
+      }
+    ],
+    [
+      {
+        "x": 1025,
+        "y": 910,
+        "type": "option",
+        "text": "咒语游戏中遇到渚",
+        "css": "btn",
+        "ref": "divTxtBtn91"
+      },
+      {
+        "x": 1000,
+        "y": 1180
+      }
+    ],
+    [
+      {
+        "x": 225,
+        "y": 730,
+        "type": "option",
+        "text": "咒语游戏中遇到智代",
+        "css": "btn",
+        "ref": "divTxtBtn62"
+      },
+      {
+        "x": 1000,
+        "y": 1180
+      },
+      {
+        "x": 400,
+        "y": 1180
+      }
+    ],
+    [
+      {
+        "x": 700,
+        "y": 1180
+      },
+      {
+        "x": 700,
+        "y": 1180
+      }
+    ]
+  ],
+  "comment": [],
+  "header": {
+    "x": 0,
+    "y": 0,
+    "route": "yukine",
+    "routeC": "宫泽 有纪宁",
+    "routeE": "Yukine Miyazawa",
+    "dateC": "有纪宁的咒语",
+    "dateE": "Yukine's Spells",
+    "titlecss": "headerC",
+    "contentcss": "headerE",
+    "ref": "divHd0"
+  },
+  "footer": {
+    "x": 1575,
+    "y": 0,
+    "height": 1210,
+    "page": 32,
+    "ref": "divFt137"
+  },
+  "board": []
+}
