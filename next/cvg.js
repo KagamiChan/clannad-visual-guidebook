@@ -102,18 +102,6 @@ function setScrollLeft(left) {
   }
 }
 
-function lib_bwcheck() {
-  //Browsercheck (needed)
-  this.ver = navigator.appVersion
-  this.agent = navigator.userAgent
-  this.opera5 = this.agent.includes('Opera 5')
-  this.ie7 = this.ver.includes('MSIE 7') && !this.opera5 ? 1 : 0
-  this.ie6 = this.ver.includes('MSIE 6') && !this.opera5 ? 1 : 0
-  this.safari = navigator.userAgent.includes('Safari')
-  return this
-}
-const bw = new lib_bwcheck()
-
 const objArr = new Array() //对象引用存储数组,名字引用
 
 function getObjectRef(name) {
@@ -227,7 +215,7 @@ function addLink(name, linkname) {
 let objCount = 0 //对象计数
 let commentTop = 0 //评论部分当前高度
 const checkImg = false //标记是否进行图片缓存
-const appendix = bw.ie6 && false ? '.gif' : '.png' //图片后缀
+const appendix = '.png' //图片后缀
 let sizeSet //大小设置
 sizeSet = GetRequest()['size']
 if (isNaN(sizeSet)) sizeSet = 0
@@ -650,30 +638,13 @@ function FooterBase(x, y, height, page) {
   this.HTML += `<table id="${this.ref}Table" width=${this.width} border=0 cellpadding=0 cellspacing=0 ref="${this.ref}">`
   this.HTML += `<tr><td height="${COMMENTBGTOPHEIGHT}" align="right" valign="top" style="padding-right:${COMMENTBGPADDINGRIGHT}px;${getBgStr(
     src_footer_top,
-  )}"${
-    bw.ie6
-      ? ' ondblclick="jumpPage()" onmousewheel="mouseWheel(false);" onmouseover="cancelWheel(true);cancelRightClick(true);" onmouseout="cancelWheel(false);cancelRightClick(false);"'
-      : ''
-  }>`
+  )}">`
   if (page != null) {
-    if (bw.ie6)
-      this.HTML += `<div style="margin-top:${COMMENTBGMARGINTOP}px;">${getImgStr(
-        src_footer_page[Math.floor(this.page / 10)],
-        NUMBERWIDTH,
-        NUMBERHEIGHT,
-        'pgImg1',
-      )}${getImgStr(
-        src_footer_page[Math.floor(this.page % 10)],
-        NUMBERWIDTH,
-        NUMBERHEIGHT,
-        'pgImg2',
-      )}</div>`
-    else
-      this.HTML += `<div style="margin-top:${COMMENTBGMARGINTOP}px;"><img id="pgImg1" ondblclick="jumpPage()" onmousewheel="mouseWheel(true);" onmouseover="cancelWheel(true);cancelRightClick(true);" onmouseout="cancelWheel(false);cancelRightClick(false);" src="${
-        src_footer_page[Math.floor(this.page / 10)]
-      }"><img id="pgImg2" ondblclick="jumpPage()" onmousewheel="mouseWheel(false);" onmouseover="cancelWheel(true);cancelRightClick(true);" onmouseout="cancelWheel(false);cancelRightClick(false);" src="${
-        src_footer_page[Math.floor(this.page % 10)]
-      }"></div>`
+    this.HTML += `<div style="margin-top:${COMMENTBGMARGINTOP}px;"><img id="pgImg1" ondblclick="jumpPage()" onmousewheel="mouseWheel(true);" onmouseover="cancelWheel(true);cancelRightClick(true);" onmouseout="cancelWheel(false);cancelRightClick(false);" src="${
+      src_footer_page[Math.floor(this.page / 10)]
+    }"><img id="pgImg2" ondblclick="jumpPage()" onmousewheel="mouseWheel(false);" onmouseover="cancelWheel(true);cancelRightClick(true);" onmouseout="cancelWheel(false);cancelRightClick(false);" src="${
+      src_footer_page[Math.floor(this.page % 10)]
+    }"></div>`
   }
   this.HTML += '</td></tr>'
   for (i = 0; i < this.times; i++) {
@@ -1241,7 +1212,6 @@ function CommentBase(
   this.HTML += '</div>'
   this.HTML += '<script>'
   this.HTML += `tempHeight=getObjectRef("${this.ref}Face").clientHeight;`
-  //if(bw.safari&&this.icon!="")this.HTML+="tempHeight+=40;";
   this.HTML += `commentTop=commentTop+tempHeight+${COMMENTSPACING};`
   this.HTML += '</script>'
   documentWrite(this.HTML)
@@ -2049,38 +2019,12 @@ function getPage(ori, delta) {
 }
 function setPage(page, type) {
   if (type == 'select') {
-    if (bw.ie6) {
-      getObjectRef(
-        'pgImg1',
-      ).style.filter = `progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src=${
-        src_footer_page_select[Math.floor(page / 10)]
-      });`
-      getObjectRef(
-        'pgImg2',
-      ).style.filter = `progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src=${
-        src_footer_page_select[Math.floor(page % 10)]
-      });`
-    } else {
-      getObjectRef('pgImg1').src = src_footer_page_select[Math.floor(page / 10)]
-      getObjectRef('pgImg2').src = src_footer_page_select[Math.floor(page % 10)]
-    }
+    getObjectRef('pgImg1').src = src_footer_page_select[Math.floor(page / 10)]
+    getObjectRef('pgImg2').src = src_footer_page_select[Math.floor(page % 10)]
   }
   if (type == 'jump') {
-    if (bw.ie6) {
-      getObjectRef(
-        'pgImg1',
-      ).style.filter = `progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src=${
-        src_footer_page[Math.floor(page / 10)]
-      });`
-      getObjectRef(
-        'pgImg2',
-      ).style.filter = `progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src=${
-        src_footer_page[Math.floor(page % 10)]
-      });`
-    } else {
-      getObjectRef('pgImg1').src = src_footer_page[Math.floor(page / 10)]
-      getObjectRef('pgImg2').src = src_footer_page[Math.floor(page % 10)]
-    }
+    getObjectRef('pgImg1').src = src_footer_page[Math.floor(page / 10)]
+    getObjectRef('pgImg2').src = src_footer_page[Math.floor(page % 10)]
   }
 }
 function jumpPage() {
@@ -2149,14 +2093,8 @@ function checkBlink() {
 
 //String
 function getBgStr(imgSrc) {
-  if (bw.ie6)
-    return `filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop, src=${imgSrc});`
-  else return `background:url(${imgSrc});`
+  return `background:url(${imgSrc});`
 }
 function getImgStr(imgSrc, width, height, id) {
-  if (bw.ie6)
-    return `<table border=0 cellpadding=0 cellspacing=0 style="display:inline;"><tr><td><div${
-      id ? ` id="${id}"` : ''
-    } style="width:${width}px;height:${height}px;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src=${imgSrc});"></div></td></tr></table>`
-  else return `<img${id ? ` id="${id}"` : ''} src="${imgSrc}" width="${width}" height="${height}">`
+  return `<img${id ? ` id="${id}"` : ''} src="${imgSrc}" width="${width}" height="${height}">`
 }
