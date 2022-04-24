@@ -474,6 +474,11 @@ class PointBase {
   constructor(x, y) {
     this.leftx = x
     this.topy = y
+
+    this.props = {
+      x,
+      y,
+    }
   }
 
   toString = () => `(${this.leftx},${this.topy})`
@@ -541,6 +546,19 @@ class HeaderBase {
     this.ref = `divHd${objCount}`
     objCount++
 
+    this.props = {
+      x,
+      y,
+      route,
+      routeC,
+      routeE,
+      dateC,
+      dateE,
+      titlecss,
+      contentcss,
+      ref: this.ref,
+    }
+
     this.HTML = `<div id="${this.ref}Wrap" style="position:absolute; width:0px; left:${
       this.leftx
     }px; top:${
@@ -601,7 +619,13 @@ class HeaderBase {
 
   remTitle = () => remTitle(`${this.ref}Wrap`)
 
-  addLink = (name) => addLink(`${this.ref}Link`, name)
+  addLink = (name) => {
+    addLink(`${this.ref}Link`, name)
+    this.props = {
+      ...this.props,
+      link: name,
+    }
+  }
 }
 
 //Footer
@@ -617,6 +641,14 @@ function FooterBase(x, y, height, page) {
   this.ref = `divFt${objCount}`
   objCount++
   this.width = COMMENTBGWIDTH
+
+  this.props = {
+    x,
+    y,
+    height,
+    page,
+    ref: this.ref,
+  }
 
   this.HTML += `<div id="${this.ref}Wrap" style="position:absolute; width:0px; left:${this.leftx}px; top:${this.topy}px; height:0px; z-index:${this.zindex}; overflow:visible; visibility:hidden;">`
   this.HTML += `<table id="${this.ref}Table" width=${this.width} border=0 cellpadding=0 cellspacing=0 ref="${this.ref}">`
@@ -789,6 +821,16 @@ function ButtonBase(x, y, type, text, css, adjustw) {
   this.ref = `divBtn${objCount}`
   objCount++
 
+  this.props = {
+    x,
+    y,
+    type,
+    text,
+    css,
+    adjustw,
+    ref: this.ref,
+  }
+
   this.HTML += `<div id="${this.ref}Wrap" style="position:absolute; width:0px; left:${this.leftx}px; top:${this.topy}px; height:0px; z-index:${this.zindex}; overflow:visible; visibility:hidden;"><div id="${this.ref}Link"></div>`
   this.HTML += `<table id="${this.ref}Table" height=${this.height} width=${
     this.width
@@ -848,6 +890,10 @@ function ButtonBase(x, y, type, text, css, adjustw) {
   }
   this.addLink = function (name) {
     addLink(`${this.ref}Link`, name)
+    this.props = {
+      ...this.props,
+      link: name,
+    }
   }
 
   objArr[this.ref] = this
@@ -869,6 +915,16 @@ function TextboxBase(x, y, type, text, route, css) {
 
   this.ref = `divTxtBtn${objCount}`
   objCount++
+
+  this.props = {
+    x,
+    y,
+    type,
+    text,
+    route,
+    css,
+    ref: this.ref,
+  }
 
   this.btn = new ButtonBase(this.leftx, this.topy, this.type, this.title, this.css)
   this.upcenter = this.btn.upcenter
@@ -991,6 +1047,11 @@ function TextboxBase(x, y, type, text, route, css) {
   this.init = function (numObj, commentObj) {
     this.numObj = numObj == null ? null : numObj
     this.commentObj = commentObj == null ? null : commentObj
+    this.props = {
+      ...this.props,
+      num: this.numObj ? this.numObj.props : null,
+      comment: this.commentObj ? this.commentObj.props : null,
+    }
   }
   this.addTitle = function (title) {
     this.btn.addTitle(title)
@@ -1006,6 +1067,10 @@ function TextboxBase(x, y, type, text, route, css) {
   }
   this.addLink = function (name) {
     this.btn.addLink(name)
+    this.props = {
+      ...this.props,
+      link: name,
+    }
   }
 
   objArr[this.ref] = this
@@ -1054,6 +1119,24 @@ function CommentBase(
   this.basebgsrc = src_commentbase_base
   this.commentbgsrc = src_commentbase_comment
   this.eventsrc = src_commentbase_event
+
+  this.props = {
+    x,
+    y,
+    text,
+    num,
+    summary,
+    hint,
+    setsumei,
+    option,
+    icon,
+    iconillu,
+    titlecss,
+    contentcss,
+    optioncss,
+    eventcss,
+    ref: this.ref,
+  }
 
   this.HTML += `<div id="${this.ref}Wrap" style="position:absolute; width:0px; left:${this.leftx}px; top:${this.topy}px; height:0px; z-index:${this.zindex}; overflow:visible; visibility:hidden;"><div id="${this.ref}Link"></div>`
   this.HTML += `<table id="${this.ref}Face" width="${this.width}" border=0 cellpadding=0 cellspacing=0 ref="${this.ref}">`
@@ -1248,6 +1331,10 @@ function CommentBase(
   }
   this.addLink = function (name) {
     addLink(`${this.ref}Link`, name)
+    this.props = {
+      ...this.props,
+      link: name,
+    }
   }
 
   objArr[this.ref] = this
@@ -1280,6 +1367,15 @@ function vmlline(x, y, l, h) {
     this.bgsrc = 'hkuclion'
     this.times = 0
   }
+
+  this.props = {
+    x,
+    y,
+    l,
+    h,
+    ref: this.ref,
+  }
+
   this.HTML = ''
 
   this.HTML += `<div id="${this.ref}Wrap" style="position:absolute; width:0px; left:${
@@ -1372,6 +1468,8 @@ function Linkline() {
   this.Points = new Array()
   args = Linkline.arguments
   if (args[1] == 'Ligueston') args = args[0]
+
+  this.props = [...args].map((r) => ({ ...r.props })).sort((a, b) => a.y - b.y)
 
   if (args[0].upcenter != null) this.Points[this.Points.length] = args[0].upcenter
   else this.Points[this.Points.length] = args[0]
