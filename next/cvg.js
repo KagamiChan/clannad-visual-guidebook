@@ -90,23 +90,14 @@ function include_css(css_file) {
   return false
 }
 function setScrollLeft(left) {
-  // Copied from http://hi.baidu.com/elseif/blog/item/1b55f17ecc38c73a0dd7da65.html with Modification
-  if (typeof window.pageXOffset != 'undefined') {
-    window.pageXOffset = left
-  } else if (typeof document.compatMode != 'undefined' && document.compatMode != 'BackCompat') {
-    document.documentElement.scrollLeft = left
-  } else if (typeof document.body != 'undefined') {
-    document.body.scrollLeft = left
-  }
+  window.scrollX = left
 }
 
 const objArr = new Array() //对象引用存储数组,名字引用
 
 function getObjectRef(name) {
   //照id取对象
-  if (document.getElementById) return document.getElementById(name)
-  else if (document.all) return document.all[name]
-  else return null
+  return document.getElementById(name)
 }
 function show(name) {
   //显示对象if hidden
@@ -478,144 +469,139 @@ document.body.background = src_background
 
 //Object Definition
 //Point
-function PointBase(x, y) {
-  this.leftx = x
-  this.topy = y
-  this.toString = function () {
-    return `(${this.leftx},${this.topy})`
+
+class PointBase {
+  constructor(x, y) {
+    this.leftx = x
+    this.topy = y
   }
+
+  toString = () => `(${this.leftx},${this.topy})`
 }
 
 //Header
-function HeaderBase(x, y, route, routeC, routeE, dateC, dateE, titlecss, contentcss) {
-  switch (route) {
-    case 'public': {
-      this.headsrc = src_route_public
-      break
+class HeaderBase {
+  constructor(x, y, route, routeC, routeE, dateC, dateE, titlecss, contentcss) {
+    switch (route) {
+      case 'public': {
+        this.headsrc = src_route_public
+        break
+      }
+      case 'misae': {
+        this.headsrc = src_route_misae
+        break
+      }
+      case 'tomoyo': {
+        this.headsrc = src_route_tomoyo
+        break
+      }
+      case 'yukine': {
+        this.headsrc = src_route_yukine
+        break
+      }
+      case 'fujibayashi': {
+        this.headsrc = src_route_fujibayashi
+        break
+      }
+      case 'kappei': {
+        this.headsrc = src_route_kappei
+        break
+      }
+      case 'sunohara': {
+        this.headsrc = src_route_sunohara
+        break
+      }
+      case 'kotomi': {
+        this.headsrc = src_route_kotomi
+        break
+      }
+      case 'fuuko': {
+        this.headsrc = src_route_fuuko
+        break
+      }
+      case 'nagisa': {
+        this.headsrc = src_route_nagisa
+        break
+      }
+      case 'gunfight': {
+        this.headsrc = src_route_gunfight
+        break
+      }
     }
-    case 'misae': {
-      this.headsrc = src_route_misae
-      break
-    }
-    case 'tomoyo': {
-      this.headsrc = src_route_tomoyo
-      break
-    }
-    case 'yukine': {
-      this.headsrc = src_route_yukine
-      break
-    }
-    case 'fujibayashi': {
-      this.headsrc = src_route_fujibayashi
-      break
-    }
-    case 'kappei': {
-      this.headsrc = src_route_kappei
-      break
-    }
-    case 'sunohara': {
-      this.headsrc = src_route_sunohara
-      break
-    }
-    case 'kotomi': {
-      this.headsrc = src_route_kotomi
-      break
-    }
-    case 'fuuko': {
-      this.headsrc = src_route_fuuko
-      break
-    }
-    case 'nagisa': {
-      this.headsrc = src_route_nagisa
-      break
-    }
-    case 'gunfight': {
-      this.headsrc = src_route_gunfight
-      break
-    }
-  }
-  this.routeC = routeC
-  this.routeE = routeE
-  this.dateC = dateC
-  this.dateE = dateE
-  this.leftx = x
-  this.topy = y
-  this.height = HEADERHEIGHT
-  this.width = HEADERWIDTH
-  this.titlecss = titlecss
-  this.contentcss = contentcss
-  this.HTML = ''
-  this.ref = `divHd${objCount}`
-  objCount++
+    this.routeC = routeC
+    this.routeE = routeE
+    this.dateC = dateC
+    this.dateE = dateE
+    this.leftx = x
+    this.topy = y
+    this.height = HEADERHEIGHT
+    this.width = HEADERWIDTH
+    this.titlecss = titlecss
+    this.contentcss = contentcss
+    this.ref = `divHd${objCount}`
+    objCount++
 
-  this.HTML += `<div id="${this.ref}Wrap" style="position:absolute; width:0px; left:${this.leftx}px; top:${this.topy}px; height:0px; z-index:2; overflow:visible; visibility:hidden;"><div id="${this.ref}Link"></div>`
-  this.HTML += `<table id="${this.ref}Table" height=${this.height} width=${
-    this.width
-  } border=0 cellpadding=0 cellspacing=0 ref="${this.ref}" style="${getBgStr(src_header_bg)}">`
-  this.HTML += `<tr>\
-<td width="5%"></td>\
-<td align="left" width="8%" id="${this.ref}Img" valign="middle">${getImgStr(
-    this.headsrc,
-    TITLEMARKSIZE,
-    TITLEMARKSIZE,
-  )}</td>\
-<td width="40%" align="left" valign="middle"><div id="${this.ref}routeC" class="${
-    this.titlecss
-  }${sizestr}">${this.routeC}</div><br><div id="${this.ref}routeE" class="${
-    this.contentcss
-  }${sizestr}">${this.routeE}</div></td>\
-<td width="42%" align="left" valign="middle"><div id="${this.ref}dateC" class="${
-    this.titlecss
-  }${sizestr}">${this.dateC}</div><br><div id="${this.ref}dateE" class="${
-    this.contentcss
-  }${sizestr}">${this.dateE}</div></td>\
-<td width="5%"></td>\
-</tr>`
-  this.HTML += '</table>'
-  this.HTML += '</div>'
-  documentWrite(this.HTML)
+    this.HTML = `<div id="${this.ref}Wrap" style="position:absolute; width:0px; left:${
+      this.leftx
+    }px; top:${
+      this.topy
+    }px; height:0px; z-index:2; overflow:visible; visibility:hidden;"><div id="${
+      this.ref
+    }Link"></div>
+    <table id="${this.ref}Table" height=${this.height} width=${
+      this.width
+    } border=0 cellpadding=0 cellspacing=0 ref="${this.ref}" style="${getBgStr(src_header_bg)}">
+    <tr>\
+  <td width="5%"></td>\
+  <td align="left" width="8%" id="${this.ref}Img" valign="middle">${getImgStr(
+      this.headsrc,
+      TITLEMARKSIZE,
+      TITLEMARKSIZE,
+    )}</td>\
+  <td width="40%" align="left" valign="middle"><div id="${this.ref}routeC" class="${
+      this.titlecss
+    }${sizestr}">${this.routeC}</div><br><div id="${this.ref}routeE" class="${
+      this.contentcss
+    }${sizestr}">${this.routeE}</div></td>\
+  <td width="42%" align="left" valign="middle"><div id="${this.ref}dateC" class="${
+      this.titlecss
+    }${sizestr}">${this.dateC}</div><br><div id="${this.ref}dateE" class="${
+      this.contentcss
+    }${sizestr}">${this.dateE}</div></td>\
+  <td width="5%"></td>\
+  </tr>\
+  </table>\
+  </div>`
+    documentWrite(this.HTML)
 
-  this.show = function () {
-    show(`${this.ref}Wrap`)
-  }
-  this.hide = function () {
-    hide(`${this.ref}Wrap`)
-  }
-  this.moveTo = function (x, y) {
-    moveMeTo(`${this.ref}Wrap`, x, y)
-  }
-  this.moveBy = function (x, y) {
-    moveMeBy(`${this.ref}Wrap`, x, y)
-  }
-  this.addClick = function (func) {
-    return addMouseClick(`${this.ref}Table`, func)
-  }
-  this.remClick = function () {
-    remMouseClick(`${this.ref}Table`)
-  }
-  this.addOver = function (func) {
-    return addMouseOver(`${this.ref}Table`, func)
-  }
-  this.remOver = function () {
-    remMouseOver(`${this.ref}Table`)
-  }
-  this.addOut = function (func) {
-    return addMouseOut(`${this.ref}Table`, func)
-  }
-  this.remOut = function () {
-    remMouseOut(`${this.ref}Table`)
-  }
-  this.addTitle = function (title) {
-    addTitle(`${this.ref}Wrap`, title)
-  }
-  this.remTitle = function () {
-    remTitle(`${this.ref}Wrap`)
-  }
-  this.addLink = function (name) {
-    addLink(`${this.ref}Link`, name)
+    objArr[this.ref] = this
   }
 
-  objArr[this.ref] = this
+  show = () => show(`${this.ref}Wrap`)
+
+  hide = () => hide(`${this.ref}Wrap`)
+
+  moveTo = (x, y) => moveMeTo(`${this.ref}Wrap`, x, y)
+
+  moveBy = (x, y) => moveMeBy(`${this.ref}Wrap`, x, y)
+
+  addClick = (func) => addMouseClick(`${this.ref}Table`, func)
+
+  remClick = () => remMouseClick(`${this.ref}Table`)
+
+  addOver = (func) => addMouseOver(`${this.ref}Table`, func)
+
+  remOver = () => remMouseOver(`${this.ref}Table`)
+
+  addOut = (func) => addMouseOut(`${this.ref}Table`, func)
+
+  remOut = () => remMouseOut(`${this.ref}Table`)
+
+  addTitle = (title) => addTitle(`${this.ref}Wrap`, title)
+
+  remTitle = () => remTitle(`${this.ref}Wrap`)
+
+  addLink = (name) => addLink(`${this.ref}Link`, name)
 }
 
 //Footer
