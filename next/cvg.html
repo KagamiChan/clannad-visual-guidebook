@@ -1,0 +1,32 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta http-equiv="Page-Exit" CONTENT="progid:DXImageTransform.Microsoft.GradientWipe(Duration=0.5,GradientSize=0.5,wipestyle=0,motion=forward">
+<title>CVG HTML VERSION</title>
+<link type="text/css" rel="stylesheet" href="cvg.css">
+<script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+</head>
+<!--CVG HTML VER MAIN PAGE/Written By Ligueston@Kamikey-->
+<body onselectstart="return false;">
+<form id="jsform" action="#hkuclion" method="get" style="display:none; ">
+	<input id="jsfile" type="text" name="page" value="">
+	<input id="jssize" type="text" name="size" value="">
+	<input id="jslink" type="text" name="jslink" value="">
+</form>
+<input id="loadingStatus" type="text" size="16" style="display:block; border:0px;" readonly="true" value="脚本读取中...">
+<noscript>如果您禁止脚本运行,将不能看到此页面的内容</noscript>
+<button id="loadingStatusBtn" onClick="skipFileCheck()" style="display:none;">跳过文件缓存</button>
+</body>
+<script language="javascript" src="cvg.js"></script>
+<script language="javascript" src="load.js"></script>
+<script language="javascript">
+
+    $(document).ready(() => {
+        setTimeout(() => {
+            showall();
+            getObjectRef("loadingStatus").style.display="none";
+        }, 1000);
+    })
+
+</script>
+</html>

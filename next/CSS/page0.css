@@ -1,0 +1,71 @@
+/* CVG HTML Data CSS Definition for Menu(page0) */
+
+.menuItemNameOri{
+	font-size:14px;
+	color:white;
+	text-align:center;
+	vertical-align:middle;
+}
+.menuItemContOri{
+	font-size:14px;
+	color:black;
+	text-align:left;
+	vertical-align:middle;
+}
+.menuLOri{
+	font-size:50px;
+	line-height:130%;
+	color:#FFFFFF;
+}
+.menuSCOri{
+	font-size:30px;
+	line-height:130%;
+}
+.menuSEOri{
+	font-size:20px;
+	font-family:"Arial";
+	line-height:100%;
+	margin-left:30px;
+}
+.menuNOri{
+	font-size:30px;
+}
+
+.menuItemNameScreen{
+	font-size:10px;
+	color:white;
+	text-align:center;
+	vertical-align:middle;
+}
+.menuItemContScreen{
+	font-size:10px;
+	color:black;
+	text-align:left;
+	vertical-align:middle;
+}
+.menuLScreen{
+	font-size:30px;
+	line-height:130%;
+	color:#FFFFFF;
+}
+.menuSCScreen{
+	font-size:18px;
+	line-height:130%;
+}
+.menuSEScreen{
+	font-size:12px;
+	font-family:"Arial";
+	line-height:100%;
+	margin-left:18px;
+}
+.menuNScreen{
+	font-size:18px;
+}
+a{
+	text-decoration:none;
+	color:#333333;
+}
+a:hover{
+	text-decoration:none;
+	color:#0099CC;
+}
