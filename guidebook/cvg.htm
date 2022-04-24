@@ -18,22 +18,6 @@
 <button id="loadingStatusBtn" onClick="skipFileCheck()" style="display:none;">跳过文件缓存</button>
 </body>
 <script language="javascript" src="cvg.js"></script>
-<SCRIPT language="VBScript">
-Function bytes2BSTR(vIn)
-    strReturn = ""
-    For i = 1 To LenB(vIn)
-        ThisCharCode = AscB(MidB(vIn,i,1))
-        If ThisCharCode < &H80 Then
-            strReturn = strReturn & Chr(ThisCharCode)
-        Else
-            NextCharCode = AscB(MidB(vIn,i+1,1))
-            strReturn = strReturn & Chr(CLng(ThisCharCode) * &H100 + CInt(NextCharCode))
-            i = i + 1
-        End If
-    Next
-    bytes2BSTR = strReturn
-End Function
-</script>
 <script language="javascript" src="load.js"></script>
 <script language="javascript">
 
@@ -41,8 +25,7 @@ End Function
         setTimeout(() => {
             showall();
             getObjectRef("loadingStatus").style.display="none";
-        }, 100);
-        rightClick();
+        }, 1000);
     })
 
 </script>
