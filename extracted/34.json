@@ -7,7 +7,8 @@
         "type": "date",
         "text": "4月25日",
         "css": "date",
-        "ref": "divBtn1"
+        "ref": "divBtn1",
+        "__type": "button"
       }
     ],
     [
@@ -17,7 +18,8 @@
         "type": "selection",
         "text": "校门口的约定",
         "css": "btn",
-        "ref": "divTxtBtn2"
+        "ref": "divTxtBtn2",
+        "__type": "textbox"
       }
     ],
     [
@@ -28,7 +30,8 @@
         "text": "老老实实地去校门口",
         "route": "l|杏|椋",
         "css": "btn",
-        "ref": "divTxtBtn6"
+        "ref": "divTxtBtn6",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -37,7 +40,8 @@
         "text": "找个地方消磨时间",
         "route": "r|杏|椋",
         "css": "btn",
-        "ref": "divTxtBtn12"
+        "ref": "divTxtBtn12",
+        "__type": "textbox"
       }
     ],
     [
@@ -47,7 +51,8 @@
         "type": "selection",
         "text": "朋也和椋的关系（一）",
         "css": "btn",
-        "ref": "divTxtBtn20"
+        "ref": "divTxtBtn20",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -55,7 +60,8 @@
         "type": "condition",
         "text": "公共 BAD ENDING",
         "css": "btn",
-        "ref": "divTxtBtn24"
+        "ref": "divTxtBtn24",
+        "__type": "textbox"
       }
     ],
     [
@@ -65,7 +71,8 @@
         "type": "option",
         "text": "朋友",
         "css": "btn",
-        "ref": "divTxtBtn28"
+        "ref": "divTxtBtn28",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -73,7 +80,8 @@
         "type": "option",
         "text": "恋人",
         "css": "btn",
-        "ref": "divTxtBtn34"
+        "ref": "divTxtBtn34",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -81,7 +89,8 @@
         "type": "option",
         "text": "夫妇",
         "css": "btn",
-        "ref": "divTxtBtn38"
+        "ref": "divTxtBtn38",
+        "__type": "textbox"
       }
     ],
     [
@@ -91,7 +100,8 @@
         "type": "date",
         "text": "4月26日",
         "css": "date",
-        "ref": "divBtn44"
+        "ref": "divBtn44",
+        "__type": "button"
       }
     ],
     [
@@ -101,7 +111,8 @@
         "type": "date",
         "text": "4月26日",
         "css": "date",
-        "ref": "divBtn55"
+        "ref": "divBtn55",
+        "__type": "button"
       }
     ],
     [
@@ -111,7 +122,8 @@
         "type": "selection",
         "text": "面对椋的主动告白",
         "css": "btn",
-        "ref": "divTxtBtn56"
+        "ref": "divTxtBtn56",
+        "__type": "textbox"
       }
     ],
     [
@@ -122,7 +134,8 @@
         "text": "如果这样也没关系的话...",
         "route": "l|杏|椋",
         "css": "btn",
-        "ref": "divTxtBtn60"
+        "ref": "divTxtBtn60",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -131,7 +144,8 @@
         "text": "所以交往的事还是...",
         "route": "r|杏|椋",
         "css": "btn",
-        "ref": "divTxtBtn68"
+        "ref": "divTxtBtn68",
+        "__type": "textbox"
       }
     ],
     [
@@ -141,7 +155,8 @@
         "type": "date",
         "text": "4月28日",
         "css": "date",
-        "ref": "divBtn76"
+        "ref": "divBtn76",
+        "__type": "button"
       },
       {
         "x": 825,
@@ -150,7 +165,8 @@
         "text": "公共 BAD ENDING",
         "route": "bottom",
         "css": "btn",
-        "ref": "divTxtBtn79"
+        "ref": "divTxtBtn79",
+        "__type": "textbox"
       }
     ],
     [
@@ -160,7 +176,8 @@
         "type": "date",
         "text": "4月28日",
         "css": "date",
-        "ref": "divBtn83"
+        "ref": "divBtn83",
+        "__type": "button"
       }
     ],
     [
@@ -170,7 +187,8 @@
         "type": "selection",
         "text": "通学路上碰见牡丹",
         "css": "btn",
-        "ref": "divTxtBtn84"
+        "ref": "divTxtBtn84",
+        "__type": "textbox"
       }
     ],
     [
@@ -180,7 +198,8 @@
         "type": "option",
         "text": "就这样离开",
         "css": "btn",
-        "ref": "divTxtBtn88"
+        "ref": "divTxtBtn88",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -188,7 +207,8 @@
         "type": "option",
         "text": "还是抱到学校去吧",
         "css": "btn",
-        "ref": "divTxtBtn94"
+        "ref": "divTxtBtn94",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -196,7 +216,8 @@
         "type": "option",
         "text": "把这当作悲剧来演",
         "css": "btn",
-        "ref": "divTxtBtn98"
+        "ref": "divTxtBtn98",
+        "__type": "textbox"
       }
     ],
     [
@@ -206,7 +227,8 @@
         "type": "selection",
         "text": "喜欢女孩的类型",
         "css": "btn",
-        "ref": "divTxtBtn104"
+        "ref": "divTxtBtn104",
+        "__type": "textbox"
       }
     ],
     [
@@ -217,7 +239,8 @@
         "text": "喜欢长头发",
         "route": "l|杏|-椋",
         "css": "btn",
-        "ref": "divTxtBtn116"
+        "ref": "divTxtBtn116",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -226,7 +249,8 @@
         "text": "喜欢短头发",
         "route": "r|-椋|杏",
         "css": "btn",
-        "ref": "divTxtBtn124"
+        "ref": "divTxtBtn124",
+        "__type": "textbox"
       }
     ],
     [
@@ -236,7 +260,8 @@
         "type": "date",
         "text": "5月1日",
         "css": "date",
-        "ref": "divBtn132"
+        "ref": "divBtn132",
+        "__type": "button"
       }
     ],
     [
@@ -246,7 +271,8 @@
         "type": "date",
         "text": "5月1日",
         "css": "date",
-        "ref": "divBtn141"
+        "ref": "divBtn141",
+        "__type": "button"
       }
     ],
     [
@@ -256,7 +282,8 @@
         "type": "selection",
         "text": "椋做的便当",
         "css": "btn",
-        "ref": "divTxtBtn142"
+        "ref": "divTxtBtn142",
+        "__type": "textbox"
       }
     ],
     [
@@ -266,7 +293,8 @@
         "type": "option",
         "text": "很好吃啊...",
         "css": "btn",
-        "ref": "divTxtBtn146"
+        "ref": "divTxtBtn146",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -274,7 +302,8 @@
         "type": "option",
         "text": "很难吃啊...",
         "css": "btn",
-        "ref": "divTxtBtn152"
+        "ref": "divTxtBtn152",
+        "__type": "textbox"
       }
     ],
     [
@@ -284,598 +313,458 @@
         "type": "date",
         "text": "5月3日",
         "css": "date",
-        "ref": "divBtn158"
+        "ref": "divBtn158",
+        "__type": "button"
       }
     ]
   ],
   "line": [
     [
       {
+        "ref": "divBtn1",
         "x": 750,
         "y": 175,
-        "type": "date",
-        "text": "4月25日",
-        "css": "date",
-        "ref": "divBtn1"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "selection",
-        "text": "校门口的约定",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "selection",
-        "text": "校门口的约定",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn6",
         "x": 625,
         "y": 340,
-        "type": "option",
-        "text": "老老实实地去校门口",
-        "route": "l|杏|椋",
-        "css": "btn",
-        "ref": "divTxtBtn6"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "selection",
-        "text": "校门口的约定",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn12",
         "x": 1025,
         "y": 340,
-        "type": "option",
-        "text": "找个地方消磨时间",
-        "route": "r|杏|椋",
-        "css": "btn",
-        "ref": "divTxtBtn12"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn6",
         "x": 625,
         "y": 340,
-        "type": "option",
-        "text": "老老实实地去校门口",
-        "route": "l|杏|椋",
-        "css": "btn",
-        "ref": "divTxtBtn6"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn20",
         "x": 625,
         "y": 400,
-        "type": "selection",
-        "text": "朋也和椋的关系（一）",
-        "css": "btn",
-        "ref": "divTxtBtn20"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn12",
         "x": 1025,
         "y": 340,
-        "type": "option",
-        "text": "找个地方消磨时间",
-        "route": "r|杏|椋",
-        "css": "btn",
-        "ref": "divTxtBtn12"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn24",
         "x": 1025,
         "y": 400,
-        "type": "condition",
-        "text": "公共 BAD ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn24"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn20",
         "x": 625,
         "y": 400,
-        "type": "selection",
-        "text": "朋也和椋的关系（一）",
-        "css": "btn",
-        "ref": "divTxtBtn20"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn28",
         "x": 225,
         "y": 490,
-        "type": "option",
-        "text": "朋友",
-        "css": "btn",
-        "ref": "divTxtBtn28"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn20",
         "x": 625,
         "y": 400,
-        "type": "selection",
-        "text": "朋也和椋的关系（一）",
-        "css": "btn",
-        "ref": "divTxtBtn20"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn34",
         "x": 625,
         "y": 490,
-        "type": "option",
-        "text": "恋人",
-        "css": "btn",
-        "ref": "divTxtBtn34"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn20",
         "x": 625,
         "y": 400,
-        "type": "selection",
-        "text": "朋也和椋的关系（一）",
-        "css": "btn",
-        "ref": "divTxtBtn20"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn38",
         "x": 1025,
         "y": 490,
-        "type": "option",
-        "text": "夫妇",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn28",
         "x": 225,
         "y": 490,
-        "type": "option",
-        "text": "朋友",
-        "css": "btn",
-        "ref": "divTxtBtn28"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn44",
         "x": 750,
         "y": 580,
-        "type": "date",
-        "text": "4月26日",
-        "css": "date",
-        "ref": "divBtn44"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn34",
         "x": 625,
         "y": 490,
-        "type": "option",
-        "text": "恋人",
-        "css": "btn",
-        "ref": "divTxtBtn34"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn44",
         "x": 750,
         "y": 580,
-        "type": "date",
-        "text": "4月26日",
-        "css": "date",
-        "ref": "divBtn44"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn38",
         "x": 1025,
         "y": 490,
-        "type": "option",
-        "text": "夫妇",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn44",
         "x": 750,
         "y": 580,
-        "type": "date",
-        "text": "4月26日",
-        "css": "date",
-        "ref": "divBtn44"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divBtn55",
         "x": 750,
         "y": 715,
-        "type": "date",
-        "text": "4月26日",
-        "css": "date",
-        "ref": "divBtn55"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn56",
         "x": 625,
         "y": 790,
-        "type": "selection",
-        "text": "面对椋的主动告白",
-        "css": "btn",
-        "ref": "divTxtBtn56"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn56",
         "x": 625,
         "y": 790,
-        "type": "selection",
-        "text": "面对椋的主动告白",
-        "css": "btn",
-        "ref": "divTxtBtn56"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn60",
         "x": 425,
         "y": 880,
-        "type": "option",
-        "text": "如果这样也没关系的话...",
-        "route": "l|杏|椋",
-        "css": "btn",
-        "ref": "divTxtBtn60"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn56",
         "x": 625,
         "y": 790,
-        "type": "selection",
-        "text": "面对椋的主动告白",
-        "css": "btn",
-        "ref": "divTxtBtn56"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn68",
         "x": 825,
         "y": 880,
-        "type": "option",
-        "text": "所以交往的事还是...",
-        "route": "r|杏|椋",
-        "css": "btn",
-        "ref": "divTxtBtn68"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn60",
         "x": 425,
         "y": 880,
-        "type": "option",
-        "text": "如果这样也没关系的话...",
-        "route": "l|杏|椋",
-        "css": "btn",
-        "ref": "divTxtBtn60"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn76",
         "x": 550,
         "y": 940,
-        "type": "date",
-        "text": "4月28日",
-        "css": "date",
-        "ref": "divBtn76"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn68",
         "x": 825,
         "y": 880,
-        "type": "option",
-        "text": "所以交往的事还是...",
-        "route": "r|杏|椋",
-        "css": "btn",
-        "ref": "divTxtBtn68"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn79",
         "x": 825,
         "y": 940,
-        "type": "condition",
-        "text": "公共 BAD ENDING",
-        "route": "bottom",
-        "css": "btn",
-        "ref": "divTxtBtn79"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divBtn83",
         "x": 750,
         "y": 1075,
-        "type": "date",
-        "text": "4月28日",
-        "css": "date",
-        "ref": "divBtn83"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn84",
         "x": 625,
         "y": 1150,
-        "type": "selection",
-        "text": "通学路上碰见牡丹",
-        "css": "btn",
-        "ref": "divTxtBtn84"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn84",
         "x": 625,
         "y": 1150,
-        "type": "selection",
-        "text": "通学路上碰见牡丹",
-        "css": "btn",
-        "ref": "divTxtBtn84"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn88",
         "x": 225,
         "y": 1240,
-        "type": "option",
-        "text": "就这样离开",
-        "css": "btn",
-        "ref": "divTxtBtn88"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn84",
         "x": 625,
         "y": 1150,
-        "type": "selection",
-        "text": "通学路上碰见牡丹",
-        "css": "btn",
-        "ref": "divTxtBtn84"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn94",
         "x": 625,
         "y": 1240,
-        "type": "option",
-        "text": "还是抱到学校去吧",
-        "css": "btn",
-        "ref": "divTxtBtn94"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn84",
         "x": 625,
         "y": 1150,
-        "type": "selection",
-        "text": "通学路上碰见牡丹",
-        "css": "btn",
-        "ref": "divTxtBtn84"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn98",
         "x": 1025,
         "y": 1240,
-        "type": "option",
-        "text": "把这当作悲剧来演",
-        "css": "btn",
-        "ref": "divTxtBtn98"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn88",
         "x": 225,
         "y": 1240,
-        "type": "option",
-        "text": "就这样离开",
-        "css": "btn",
-        "ref": "divTxtBtn88"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn104",
         "x": 625,
         "y": 1330,
-        "type": "selection",
-        "text": "喜欢女孩的类型",
-        "css": "btn",
-        "ref": "divTxtBtn104"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn94",
         "x": 625,
         "y": 1240,
-        "type": "option",
-        "text": "还是抱到学校去吧",
-        "css": "btn",
-        "ref": "divTxtBtn94"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn104",
         "x": 625,
         "y": 1330,
-        "type": "selection",
-        "text": "喜欢女孩的类型",
-        "css": "btn",
-        "ref": "divTxtBtn104"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn98",
         "x": 1025,
         "y": 1240,
-        "type": "option",
-        "text": "把这当作悲剧来演",
-        "css": "btn",
-        "ref": "divTxtBtn98"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn104",
         "x": 625,
         "y": 1330,
-        "type": "selection",
-        "text": "喜欢女孩的类型",
-        "css": "btn",
-        "ref": "divTxtBtn104"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn104",
         "x": 625,
         "y": 1330,
-        "type": "selection",
-        "text": "喜欢女孩的类型",
-        "css": "btn",
-        "ref": "divTxtBtn104"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn116",
         "x": 425,
         "y": 1420,
-        "type": "option",
-        "text": "喜欢长头发",
-        "route": "l|杏|-椋",
-        "css": "btn",
-        "ref": "divTxtBtn116"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn104",
         "x": 625,
         "y": 1330,
-        "type": "selection",
-        "text": "喜欢女孩的类型",
-        "css": "btn",
-        "ref": "divTxtBtn104"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn124",
         "x": 825,
         "y": 1420,
-        "type": "option",
-        "text": "喜欢短头发",
-        "route": "r|-椋|杏",
-        "css": "btn",
-        "ref": "divTxtBtn124"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn116",
         "x": 425,
         "y": 1420,
-        "type": "option",
-        "text": "喜欢长头发",
-        "route": "l|杏|-椋",
-        "css": "btn",
-        "ref": "divTxtBtn116"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn132",
         "x": 750,
         "y": 1510,
-        "type": "date",
-        "text": "5月1日",
-        "css": "date",
-        "ref": "divBtn132"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn124",
         "x": 825,
         "y": 1420,
-        "type": "option",
-        "text": "喜欢短头发",
-        "route": "r|-椋|杏",
-        "css": "btn",
-        "ref": "divTxtBtn124"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn132",
         "x": 750,
         "y": 1510,
-        "type": "date",
-        "text": "5月1日",
-        "css": "date",
-        "ref": "divBtn132"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divBtn141",
         "x": 750,
         "y": 1645,
-        "type": "date",
-        "text": "5月1日",
-        "css": "date",
-        "ref": "divBtn141"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn142",
         "x": 625,
         "y": 1720,
-        "type": "selection",
-        "text": "椋做的便当",
-        "css": "btn",
-        "ref": "divTxtBtn142"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn142",
         "x": 625,
         "y": 1720,
-        "type": "selection",
-        "text": "椋做的便当",
-        "css": "btn",
-        "ref": "divTxtBtn142"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn146",
         "x": 425,
         "y": 1810,
-        "type": "option",
-        "text": "很好吃啊...",
-        "css": "btn",
-        "ref": "divTxtBtn146"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn142",
         "x": 625,
         "y": 1720,
-        "type": "selection",
-        "text": "椋做的便当",
-        "css": "btn",
-        "ref": "divTxtBtn142"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn152",
         "x": 825,
         "y": 1810,
-        "type": "option",
-        "text": "很难吃啊...",
-        "css": "btn",
-        "ref": "divTxtBtn152"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn146",
         "x": 425,
         "y": 1810,
-        "type": "option",
-        "text": "很好吃啊...",
-        "css": "btn",
-        "ref": "divTxtBtn146"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn158",
         "x": 750,
         "y": 1900,
-        "type": "date",
-        "text": "5月3日",
-        "css": "date",
-        "ref": "divBtn158"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn152",
         "x": 825,
         "y": 1810,
-        "type": "option",
-        "text": "很难吃啊...",
-        "css": "btn",
-        "ref": "divTxtBtn152"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn158",
         "x": 750,
         "y": 1900,
-        "type": "date",
-        "text": "5月3日",
-        "css": "date",
-        "ref": "divBtn158"
+        "__type": "button"
       }
     ]
   ],
@@ -890,14 +779,16 @@
     "dateE": "April 25th~May 1st",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 1960,
     "page": 34,
-    "ref": "divFt167"
+    "ref": "divFt167",
+    "__type": "footer"
   },
   "board": []
 }

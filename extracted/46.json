@@ -7,7 +7,8 @@
         "type": "date",
         "text": "风子",
         "css": "date",
-        "ref": "divBtn1"
+        "ref": "divBtn1",
+        "__type": "button"
       }
     ],
     [
@@ -17,7 +18,8 @@
         "type": "condition",
         "text": "24日，朋也面对哭泣的渚",
         "css": "btn",
-        "ref": "divTxtBtn2"
+        "ref": "divTxtBtn2",
+        "__type": "textbox"
       }
     ],
     [
@@ -28,7 +30,8 @@
         "text": "就这样注视着她",
         "route": "l|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn6"
+        "ref": "divTxtBtn6",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -36,7 +39,8 @@
         "type": "selection",
         "text": "紧紧抱住她",
         "css": "btn",
-        "ref": "divTxtBtn13"
+        "ref": "divTxtBtn13",
+        "__type": "textbox"
       }
     ],
     [
@@ -46,7 +50,8 @@
         "type": "selection",
         "text": "夜晚的宿舍（一）",
         "css": "btn",
-        "ref": "divTxtBtn19"
+        "ref": "divTxtBtn19",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -54,7 +59,8 @@
         "type": "selection",
         "text": "夜晚的宿舍（二）",
         "css": "btn",
-        "ref": "divTxtBtn23"
+        "ref": "divTxtBtn23",
+        "__type": "textbox"
       }
     ],
     [
@@ -64,7 +70,8 @@
         "type": "option",
         "text": "可以接吻吗？",
         "css": "btn",
-        "ref": "divTxtBtn27"
+        "ref": "divTxtBtn27",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -72,7 +79,8 @@
         "type": "option",
         "text": "可以继续这么待着吗？",
         "css": "btn",
-        "ref": "divTxtBtn33"
+        "ref": "divTxtBtn33",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -81,7 +89,8 @@
         "text": "快点给我闪开",
         "route": "l|-风子",
         "css": "btn",
-        "ref": "divTxtBtn39"
+        "ref": "divTxtBtn39",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -90,7 +99,8 @@
         "text": "可以继续这么待着吗？",
         "route": "r|-风子",
         "css": "btn",
-        "ref": "divTxtBtn46"
+        "ref": "divTxtBtn46",
+        "__type": "textbox"
       }
     ],
     [
@@ -100,7 +110,8 @@
         "type": "condition",
         "text": "风子 BAD ENDING",
         "css": "btn",
-        "ref": "divTxtBtn53"
+        "ref": "divTxtBtn53",
+        "__type": "textbox"
       }
     ],
     [
@@ -110,7 +121,8 @@
         "type": "condition",
         "text": "11日，熟睡的风子",
         "css": "btn",
-        "ref": "divTxtBtn57"
+        "ref": "divTxtBtn57",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -118,7 +130,8 @@
         "type": "condition",
         "text": "11日，熟睡的风子",
         "css": "btn",
-        "ref": "divTxtBtn67"
+        "ref": "divTxtBtn67",
+        "__type": "textbox"
       }
     ],
     [
@@ -128,7 +141,8 @@
         "type": "selection",
         "text": "代替他",
         "css": "btn",
-        "ref": "divTxtBtn71"
+        "ref": "divTxtBtn71",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -136,7 +150,8 @@
         "type": "selection",
         "text": "交给大叔",
         "css": "btn",
-        "ref": "divTxtBtn77"
+        "ref": "divTxtBtn77",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -144,7 +159,8 @@
         "type": "selection",
         "text": "交给大叔",
         "css": "btn",
-        "ref": "divTxtBtn83"
+        "ref": "divTxtBtn83",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -152,7 +168,8 @@
         "type": "selection",
         "text": "代替他",
         "css": "btn",
-        "ref": "divTxtBtn89"
+        "ref": "divTxtBtn89",
+        "__type": "textbox"
       }
     ],
     [
@@ -162,7 +179,8 @@
         "type": "condition",
         "text": "风子，夜晚的宿舍（一）",
         "css": "btn",
-        "ref": "divTxtBtn93"
+        "ref": "divTxtBtn93",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -170,7 +188,8 @@
         "type": "condition",
         "text": "风子 BAD ENDING",
         "css": "btn",
-        "ref": "divTxtBtn97"
+        "ref": "divTxtBtn97",
+        "__type": "textbox"
       }
     ],
     [
@@ -180,7 +199,8 @@
         "type": "selection",
         "text": "可以继续这么待着吗？",
         "css": "btn",
-        "ref": "divTxtBtn107"
+        "ref": "divTxtBtn107",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -188,7 +208,8 @@
         "type": "selection",
         "text": "可以接吻吗？",
         "css": "btn",
-        "ref": "divTxtBtn111"
+        "ref": "divTxtBtn111",
+        "__type": "textbox"
       }
     ],
     [
@@ -199,13 +220,15 @@
         "text": "23日，走廊中看到风子",
         "css": "btn",
         "ref": "divTxtBtn117",
+        "__type": "textbox",
         "num": {
           "x": 410,
           "y": 910,
           "type": "ccheck",
           "text": "1",
           "css": "check",
-          "ref": "divBtn119"
+          "ref": "divBtn119",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -222,7 +245,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt120"
+          "ref": "divCmt120",
+          "__type": "comment"
         }
       }
     ],
@@ -234,7 +258,8 @@
         "text": "不管她",
         "route": "l|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn123"
+        "ref": "divTxtBtn123",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -242,7 +267,8 @@
         "type": "selection",
         "text": "叫住她",
         "css": "btn",
-        "ref": "divTxtBtn128"
+        "ref": "divTxtBtn128",
+        "__type": "textbox"
       }
     ],
     [
@@ -252,7 +278,8 @@
         "type": "condition",
         "text": "24日，午后，走廊上又碰见风子",
         "css": "btn",
-        "ref": "divTxtBtn134"
+        "ref": "divTxtBtn134",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -260,7 +287,8 @@
         "type": "condition",
         "text": "风子 TRUE ENDING",
         "css": "btn",
-        "ref": "divTxtBtn138"
+        "ref": "divTxtBtn138",
+        "__type": "textbox"
       }
     ],
     [
@@ -271,7 +299,8 @@
         "text": "不管她",
         "route": "l|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn142"
+        "ref": "divTxtBtn142",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -279,7 +308,8 @@
         "type": "selection",
         "text": "叫住她",
         "css": "btn",
-        "ref": "divTxtBtn147"
+        "ref": "divTxtBtn147",
+        "__type": "textbox"
       }
     ],
     [
@@ -289,7 +319,8 @@
         "type": "condition",
         "text": "25日，走廊中第N次遇到风子",
         "css": "btn",
-        "ref": "divTxtBtn153"
+        "ref": "divTxtBtn153",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -297,7 +328,8 @@
         "type": "condition",
         "text": "风子 TRUE ENDING",
         "css": "btn",
-        "ref": "divTxtBtn157"
+        "ref": "divTxtBtn157",
+        "__type": "textbox"
       }
     ],
     [
@@ -307,7 +339,8 @@
         "type": "selection",
         "text": "暂时不管她",
         "css": "btn",
-        "ref": "divTxtBtn161"
+        "ref": "divTxtBtn161",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -315,7 +348,8 @@
         "type": "selection",
         "text": "叫住她",
         "css": "btn",
-        "ref": "divTxtBtn165"
+        "ref": "divTxtBtn165",
+        "__type": "textbox"
       }
     ],
     [
@@ -325,7 +359,8 @@
         "type": "condition",
         "text": "23日，走廊中看到风子",
         "css": "btn",
-        "ref": "divTxtBtn171"
+        "ref": "divTxtBtn171",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -333,7 +368,8 @@
         "type": "condition",
         "text": "风子 BAD ENDING",
         "css": "btn",
-        "ref": "divTxtBtn175"
+        "ref": "divTxtBtn175",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -341,7 +377,8 @@
         "type": "condition",
         "text": "风子 TRUE ENDING",
         "css": "btn",
-        "ref": "divTxtBtn179"
+        "ref": "divTxtBtn179",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -349,7 +386,8 @@
         "type": "condition",
         "text": "23日，走廊中看到风子",
         "css": "btn",
-        "ref": "divTxtBtn183"
+        "ref": "divTxtBtn183",
+        "__type": "textbox"
       }
     ],
     [
@@ -360,7 +398,8 @@
         "text": "不管她",
         "route": "l|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn187"
+        "ref": "divTxtBtn187",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -368,7 +407,8 @@
         "type": "selection",
         "text": "叫住她",
         "css": "btn",
-        "ref": "divTxtBtn192"
+        "ref": "divTxtBtn192",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -376,7 +416,8 @@
         "type": "selection",
         "text": "叫住她",
         "css": "btn",
-        "ref": "divTxtBtn198"
+        "ref": "divTxtBtn198",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -385,7 +426,8 @@
         "text": "不管她",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn204"
+        "ref": "divTxtBtn204",
+        "__type": "textbox"
       }
     ],
     [
@@ -395,7 +437,8 @@
         "type": "condition",
         "text": "24日，午后，走廊上又碰见风子",
         "css": "btn",
-        "ref": "divTxtBtn209"
+        "ref": "divTxtBtn209",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -403,7 +446,8 @@
         "type": "condition",
         "text": "风子 GOOD ENDING",
         "css": "btn",
-        "ref": "divTxtBtn213"
+        "ref": "divTxtBtn213",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -411,7 +455,8 @@
         "type": "condition",
         "text": "24日，午后，走廊上又碰见风子",
         "css": "btn",
-        "ref": "divTxtBtn223"
+        "ref": "divTxtBtn223",
+        "__type": "textbox"
       }
     ],
     [
@@ -422,7 +467,8 @@
         "text": "不管她",
         "route": "l|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn227"
+        "ref": "divTxtBtn227",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -430,7 +476,8 @@
         "type": "selection",
         "text": "叫住她",
         "css": "btn",
-        "ref": "divTxtBtn232"
+        "ref": "divTxtBtn232",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -438,7 +485,8 @@
         "type": "selection",
         "text": "叫住她",
         "css": "btn",
-        "ref": "divTxtBtn238"
+        "ref": "divTxtBtn238",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -447,7 +495,8 @@
         "text": "不管她",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn244"
+        "ref": "divTxtBtn244",
+        "__type": "textbox"
       }
     ],
     [
@@ -457,7 +506,8 @@
         "type": "condition",
         "text": "风子 BAD ENDING",
         "css": "btn",
-        "ref": "divTxtBtn249"
+        "ref": "divTxtBtn249",
+        "__type": "textbox"
       }
     ],
     [
@@ -467,7 +517,8 @@
         "type": "condition",
         "text": "25日，走廊中第N次遇到风子",
         "css": "btn",
-        "ref": "divTxtBtn253"
+        "ref": "divTxtBtn253",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -475,7 +526,8 @@
         "type": "condition",
         "text": "风子 GOOD ENDING",
         "css": "btn",
-        "ref": "divTxtBtn257"
+        "ref": "divTxtBtn257",
+        "__type": "textbox"
       }
     ],
     [
@@ -485,7 +537,8 @@
         "type": "selection",
         "text": "暂时不管她",
         "css": "btn",
-        "ref": "divTxtBtn267"
+        "ref": "divTxtBtn267",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -493,7 +546,8 @@
         "type": "selection",
         "text": "叫住她",
         "css": "btn",
-        "ref": "divTxtBtn271"
+        "ref": "divTxtBtn271",
+        "__type": "textbox"
       }
     ],
     [
@@ -503,7 +557,8 @@
         "type": "condition",
         "text": "风子 BAD ENDING",
         "css": "btn",
-        "ref": "divTxtBtn277"
+        "ref": "divTxtBtn277",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -511,1128 +566,808 @@
         "type": "condition",
         "text": "风子 GOOD ENDING",
         "css": "btn",
-        "ref": "divTxtBtn281"
+        "ref": "divTxtBtn281",
+        "__type": "textbox"
       }
     ]
   ],
   "line": [
     [
       {
+        "ref": "divBtn1",
         "x": 750,
         "y": 175,
-        "type": "date",
-        "text": "风子",
-        "css": "date",
-        "ref": "divBtn1"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "condition",
-        "text": "24日，朋也面对哭泣的渚",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "condition",
-        "text": "24日，朋也面对哭泣的渚",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn6",
         "x": 225,
         "y": 340,
-        "type": "selection",
-        "text": "就这样注视着她",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn6"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "condition",
-        "text": "24日，朋也面对哭泣的渚",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn13",
         "x": 1025,
         "y": 340,
-        "type": "selection",
-        "text": "紧紧抱住她",
-        "css": "btn",
-        "ref": "divTxtBtn13"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn6",
         "x": 225,
         "y": 340,
-        "type": "selection",
-        "text": "就这样注视着她",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn6"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn19",
         "x": 225,
         "y": 400,
-        "type": "selection",
-        "text": "夜晚的宿舍（一）",
-        "css": "btn",
-        "ref": "divTxtBtn19"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn13",
         "x": 1025,
         "y": 340,
-        "type": "selection",
-        "text": "紧紧抱住她",
-        "css": "btn",
-        "ref": "divTxtBtn13"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn23",
         "x": 1025,
         "y": 400,
-        "type": "selection",
-        "text": "夜晚的宿舍（二）",
-        "css": "btn",
-        "ref": "divTxtBtn23"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn19",
         "x": 225,
         "y": 400,
-        "type": "selection",
-        "text": "夜晚的宿舍（一）",
-        "css": "btn",
-        "ref": "divTxtBtn19"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn27",
         "x": 25,
         "y": 490,
-        "type": "option",
-        "text": "可以接吻吗？",
-        "css": "btn",
-        "ref": "divTxtBtn27"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn19",
         "x": 225,
         "y": 400,
-        "type": "selection",
-        "text": "夜晚的宿舍（一）",
-        "css": "btn",
-        "ref": "divTxtBtn19"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn33",
         "x": 425,
         "y": 490,
-        "type": "option",
-        "text": "可以继续这么待着吗？",
-        "css": "btn",
-        "ref": "divTxtBtn33"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn23",
         "x": 1025,
         "y": 400,
-        "type": "selection",
-        "text": "夜晚的宿舍（二）",
-        "css": "btn",
-        "ref": "divTxtBtn23"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn39",
         "x": 825,
         "y": 490,
-        "type": "option",
-        "text": "快点给我闪开",
-        "route": "l|-风子",
-        "css": "btn",
-        "ref": "divTxtBtn39"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn23",
         "x": 1025,
         "y": 400,
-        "type": "selection",
-        "text": "夜晚的宿舍（二）",
-        "css": "btn",
-        "ref": "divTxtBtn23"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn46",
         "x": 1225,
         "y": 490,
-        "type": "option",
-        "text": "可以继续这么待着吗？",
-        "route": "r|-风子",
-        "css": "btn",
-        "ref": "divTxtBtn46"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn39",
         "x": 825,
         "y": 490,
-        "type": "option",
-        "text": "快点给我闪开",
-        "route": "l|-风子",
-        "css": "btn",
-        "ref": "divTxtBtn39"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn53",
         "x": 825,
         "y": 550,
-        "type": "condition",
-        "text": "风子 BAD ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn53"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn27",
         "x": 25,
         "y": 490,
-        "type": "option",
-        "text": "可以接吻吗？",
-        "css": "btn",
-        "ref": "divTxtBtn27"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn57",
         "x": 225,
         "y": 580,
-        "type": "condition",
-        "text": "11日，熟睡的风子",
-        "css": "btn",
-        "ref": "divTxtBtn57"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn33",
         "x": 425,
         "y": 490,
-        "type": "option",
-        "text": "可以继续这么待着吗？",
-        "css": "btn",
-        "ref": "divTxtBtn33"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn57",
         "x": 225,
         "y": 580,
-        "type": "condition",
-        "text": "11日，熟睡的风子",
-        "css": "btn",
-        "ref": "divTxtBtn57"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn46",
         "x": 1225,
         "y": 490,
-        "type": "option",
-        "text": "可以继续这么待着吗？",
-        "route": "r|-风子",
-        "css": "btn",
-        "ref": "divTxtBtn46"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn67",
         "x": 1225,
         "y": 580,
-        "type": "condition",
-        "text": "11日，熟睡的风子",
-        "css": "btn",
-        "ref": "divTxtBtn67"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn57",
         "x": 225,
         "y": 580,
-        "type": "condition",
-        "text": "11日，熟睡的风子",
-        "css": "btn",
-        "ref": "divTxtBtn57"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn71",
         "x": 25,
         "y": 670,
-        "type": "selection",
-        "text": "代替他",
-        "css": "btn",
-        "ref": "divTxtBtn71"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn57",
         "x": 225,
         "y": 580,
-        "type": "condition",
-        "text": "11日，熟睡的风子",
-        "css": "btn",
-        "ref": "divTxtBtn57"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn77",
         "x": 425,
         "y": 670,
-        "type": "selection",
-        "text": "交给大叔",
-        "css": "btn",
-        "ref": "divTxtBtn77"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn67",
         "x": 1225,
         "y": 580,
-        "type": "condition",
-        "text": "11日，熟睡的风子",
-        "css": "btn",
-        "ref": "divTxtBtn67"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn83",
         "x": 825,
         "y": 670,
-        "type": "selection",
-        "text": "交给大叔",
-        "css": "btn",
-        "ref": "divTxtBtn83"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn67",
         "x": 1225,
         "y": 580,
-        "type": "condition",
-        "text": "11日，熟睡的风子",
-        "css": "btn",
-        "ref": "divTxtBtn67"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn89",
         "x": 1225,
         "y": 670,
-        "type": "selection",
-        "text": "代替他",
-        "css": "btn",
-        "ref": "divTxtBtn89"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn71",
         "x": 25,
         "y": 670,
-        "type": "selection",
-        "text": "代替他",
-        "css": "btn",
-        "ref": "divTxtBtn71"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn93",
         "x": 25,
         "y": 760,
-        "type": "condition",
-        "text": "风子，夜晚的宿舍（一）",
-        "css": "btn",
-        "ref": "divTxtBtn93"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn77",
         "x": 425,
         "y": 670,
-        "type": "selection",
-        "text": "交给大叔",
-        "css": "btn",
-        "ref": "divTxtBtn77"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn97",
         "x": 625,
         "y": 760,
-        "type": "condition",
-        "text": "风子 BAD ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn97"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn83",
         "x": 825,
         "y": 670,
-        "type": "selection",
-        "text": "交给大叔",
-        "css": "btn",
-        "ref": "divTxtBtn83"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn97",
         "x": 625,
         "y": 760,
-        "type": "condition",
-        "text": "风子 BAD ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn97"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn93",
         "x": 25,
         "y": 760,
-        "type": "condition",
-        "text": "风子，夜晚的宿舍（一）",
-        "css": "btn",
-        "ref": "divTxtBtn93"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn107",
         "x": 25,
         "y": 850,
-        "type": "selection",
-        "text": "可以继续这么待着吗？",
-        "css": "btn",
-        "ref": "divTxtBtn107"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn93",
         "x": 25,
         "y": 760,
-        "type": "condition",
-        "text": "风子，夜晚的宿舍（一）",
-        "css": "btn",
-        "ref": "divTxtBtn93"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn111",
         "x": 425,
         "y": 850,
-        "type": "selection",
-        "text": "可以接吻吗？",
-        "css": "btn",
-        "ref": "divTxtBtn111"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn111",
         "x": 425,
         "y": 850,
-        "type": "selection",
-        "text": "可以接吻吗？",
-        "css": "btn",
-        "ref": "divTxtBtn111"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn117",
         "x": 425,
         "y": 910,
-        "type": "condition",
-        "text": "23日，走廊中看到风子",
-        "css": "btn",
-        "ref": "divTxtBtn117",
-        "num": {
-          "x": 410,
-          "y": 910,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn119"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 900,
-          "text": "23日，走廊中看到风子",
-          "num": "1",
-          "summary": "",
-          "hint": "如果在24日的分支{朋也面对哭泣得渚}中选择[紧紧抱住她]（和渚成为恋人），就只能达成风子GOOD ENDING（参考公共线路24日注释4）。这种情况下，23日至25日最多可能3次在校舍走廊遇见风子（23日，{走廊中看到风子}；24日，{午后，走廊上又碰见风子}；25日，{走廊上第N次遇见风子}），3次中至少有一次选择[叫住她]，是达成风子GOOD ENDING的必要条件，如果一次也没有叫住她，则进入风子BAD ENDING。<br>如果在24日的分支{朋也面对哭泣得渚}中选择[就这样注视着她]（没有和渚成为恋人），则可以达成风子TRUE ENDING（在风子一章的分支{夜晚的校舍（一）}选择[可以接吻吗？]）。这种情况下23日至25日就只有2次在校舍走廊遇见风子的可能（25日的机会消失）。同样，两次至少有一次选择[叫住她]，才能达成风子TRUE ENDING/GOOD ENDING。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt120"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn117",
         "x": 425,
         "y": 910,
-        "type": "condition",
-        "text": "23日，走廊中看到风子",
-        "css": "btn",
-        "ref": "divTxtBtn117",
-        "num": {
-          "x": 410,
-          "y": 910,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn119"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 900,
-          "text": "23日，走廊中看到风子",
-          "num": "1",
-          "summary": "",
-          "hint": "如果在24日的分支{朋也面对哭泣得渚}中选择[紧紧抱住她]（和渚成为恋人），就只能达成风子GOOD ENDING（参考公共线路24日注释4）。这种情况下，23日至25日最多可能3次在校舍走廊遇见风子（23日，{走廊中看到风子}；24日，{午后，走廊上又碰见风子}；25日，{走廊上第N次遇见风子}），3次中至少有一次选择[叫住她]，是达成风子GOOD ENDING的必要条件，如果一次也没有叫住她，则进入风子BAD ENDING。<br>如果在24日的分支{朋也面对哭泣得渚}中选择[就这样注视着她]（没有和渚成为恋人），则可以达成风子TRUE ENDING（在风子一章的分支{夜晚的校舍（一）}选择[可以接吻吗？]）。这种情况下23日至25日就只有2次在校舍走廊遇见风子的可能（25日的机会消失）。同样，两次至少有一次选择[叫住她]，才能达成风子TRUE ENDING/GOOD ENDING。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt120"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn123",
         "x": 425,
         "y": 1000,
-        "type": "selection",
-        "text": "不管她",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn123"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn117",
         "x": 425,
         "y": 910,
-        "type": "condition",
-        "text": "23日，走廊中看到风子",
-        "css": "btn",
-        "ref": "divTxtBtn117",
-        "num": {
-          "x": 410,
-          "y": 910,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn119"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 900,
-          "text": "23日，走廊中看到风子",
-          "num": "1",
-          "summary": "",
-          "hint": "如果在24日的分支{朋也面对哭泣得渚}中选择[紧紧抱住她]（和渚成为恋人），就只能达成风子GOOD ENDING（参考公共线路24日注释4）。这种情况下，23日至25日最多可能3次在校舍走廊遇见风子（23日，{走廊中看到风子}；24日，{午后，走廊上又碰见风子}；25日，{走廊上第N次遇见风子}），3次中至少有一次选择[叫住她]，是达成风子GOOD ENDING的必要条件，如果一次也没有叫住她，则进入风子BAD ENDING。<br>如果在24日的分支{朋也面对哭泣得渚}中选择[就这样注视着她]（没有和渚成为恋人），则可以达成风子TRUE ENDING（在风子一章的分支{夜晚的校舍（一）}选择[可以接吻吗？]）。这种情况下23日至25日就只有2次在校舍走廊遇见风子的可能（25日的机会消失）。同样，两次至少有一次选择[叫住她]，才能达成风子TRUE ENDING/GOOD ENDING。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt120"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn128",
         "x": 825,
         "y": 1000,
-        "type": "selection",
-        "text": "叫住她",
-        "css": "btn",
-        "ref": "divTxtBtn128"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn123",
         "x": 425,
         "y": 1000,
-        "type": "selection",
-        "text": "不管她",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn123"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn134",
         "x": 425,
         "y": 1060,
-        "type": "condition",
-        "text": "24日，午后，走廊上又碰见风子",
-        "css": "btn",
-        "ref": "divTxtBtn134"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn128",
         "x": 825,
         "y": 1000,
-        "type": "selection",
-        "text": "叫住她",
-        "css": "btn",
-        "ref": "divTxtBtn128"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn138",
         "x": 825,
         "y": 1060,
-        "type": "condition",
-        "text": "风子 TRUE ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn138"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn134",
         "x": 425,
         "y": 1060,
-        "type": "condition",
-        "text": "24日，午后，走廊上又碰见风子",
-        "css": "btn",
-        "ref": "divTxtBtn134"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn142",
         "x": 425,
         "y": 1150,
-        "type": "selection",
-        "text": "不管她",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn142"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn134",
         "x": 425,
         "y": 1060,
-        "type": "condition",
-        "text": "24日，午后，走廊上又碰见风子",
-        "css": "btn",
-        "ref": "divTxtBtn134"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn147",
         "x": 825,
         "y": 1150,
-        "type": "selection",
-        "text": "叫住她",
-        "css": "btn",
-        "ref": "divTxtBtn147"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn142",
         "x": 425,
         "y": 1150,
-        "type": "selection",
-        "text": "不管她",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn142"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn153",
         "x": 425,
         "y": 1210,
-        "type": "condition",
-        "text": "25日，走廊中第N次遇到风子",
-        "css": "btn",
-        "ref": "divTxtBtn153"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn147",
         "x": 825,
         "y": 1150,
-        "type": "selection",
-        "text": "叫住她",
-        "css": "btn",
-        "ref": "divTxtBtn147"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn157",
         "x": 825,
         "y": 1210,
-        "type": "condition",
-        "text": "风子 TRUE ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn157"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn153",
         "x": 425,
         "y": 1210,
-        "type": "condition",
-        "text": "25日，走廊中第N次遇到风子",
-        "css": "btn",
-        "ref": "divTxtBtn153"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn161",
         "x": 425,
         "y": 1300,
-        "type": "selection",
-        "text": "暂时不管她",
-        "css": "btn",
-        "ref": "divTxtBtn161"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn153",
         "x": 425,
         "y": 1210,
-        "type": "condition",
-        "text": "25日，走廊中第N次遇到风子",
-        "css": "btn",
-        "ref": "divTxtBtn153"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn165",
         "x": 825,
         "y": 1300,
-        "type": "selection",
-        "text": "叫住她",
-        "css": "btn",
-        "ref": "divTxtBtn165"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn93",
         "x": 25,
         "y": 760,
-        "type": "condition",
-        "text": "风子，夜晚的宿舍（一）",
-        "css": "btn",
-        "ref": "divTxtBtn93"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn171",
         "x": 25,
         "y": 1360,
-        "type": "condition",
-        "text": "23日，走廊中看到风子",
-        "css": "btn",
-        "ref": "divTxtBtn171"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn161",
         "x": 425,
         "y": 1300,
-        "type": "selection",
-        "text": "暂时不管她",
-        "css": "btn",
-        "ref": "divTxtBtn161"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn175",
         "x": 425,
         "y": 1360,
-        "type": "condition",
-        "text": "风子 BAD ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn175"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn165",
         "x": 825,
         "y": 1300,
-        "type": "selection",
-        "text": "叫住她",
-        "css": "btn",
-        "ref": "divTxtBtn165"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn179",
         "x": 825,
         "y": 1360,
-        "type": "condition",
-        "text": "风子 TRUE ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn179"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn89",
         "x": 1225,
         "y": 670,
-        "type": "selection",
-        "text": "代替他",
-        "css": "btn",
-        "ref": "divTxtBtn89"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn183",
         "x": 1225,
         "y": 1360,
-        "type": "condition",
-        "text": "23日，走廊中看到风子",
-        "css": "btn",
-        "ref": "divTxtBtn183"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn171",
         "x": 25,
         "y": 1360,
-        "type": "condition",
-        "text": "23日，走廊中看到风子",
-        "css": "btn",
-        "ref": "divTxtBtn171"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn187",
         "x": 25,
         "y": 1450,
-        "type": "selection",
-        "text": "不管她",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn187"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn171",
         "x": 25,
         "y": 1360,
-        "type": "condition",
-        "text": "23日，走廊中看到风子",
-        "css": "btn",
-        "ref": "divTxtBtn171"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn192",
         "x": 425,
         "y": 1450,
-        "type": "selection",
-        "text": "叫住她",
-        "css": "btn",
-        "ref": "divTxtBtn192"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn183",
         "x": 1225,
         "y": 1360,
-        "type": "condition",
-        "text": "23日，走廊中看到风子",
-        "css": "btn",
-        "ref": "divTxtBtn183"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn198",
         "x": 825,
         "y": 1450,
-        "type": "selection",
-        "text": "叫住她",
-        "css": "btn",
-        "ref": "divTxtBtn198"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn183",
         "x": 1225,
         "y": 1360,
-        "type": "condition",
-        "text": "23日，走廊中看到风子",
-        "css": "btn",
-        "ref": "divTxtBtn183"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn204",
         "x": 1225,
         "y": 1450,
-        "type": "selection",
-        "text": "不管她",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn204"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn187",
         "x": 25,
         "y": 1450,
-        "type": "selection",
-        "text": "不管她",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn187"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn209",
         "x": 25,
         "y": 1540,
-        "type": "condition",
-        "text": "24日，午后，走廊上又碰见风子",
-        "css": "btn",
-        "ref": "divTxtBtn209"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn192",
         "x": 425,
         "y": 1450,
-        "type": "selection",
-        "text": "叫住她",
-        "css": "btn",
-        "ref": "divTxtBtn192"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn213",
         "x": 625,
         "y": 1540,
-        "type": "condition",
-        "text": "风子 GOOD ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn213"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn198",
         "x": 825,
         "y": 1450,
-        "type": "selection",
-        "text": "叫住她",
-        "css": "btn",
-        "ref": "divTxtBtn198"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn213",
         "x": 625,
         "y": 1540,
-        "type": "condition",
-        "text": "风子 GOOD ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn213"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn204",
         "x": 1225,
         "y": 1450,
-        "type": "selection",
-        "text": "不管她",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn204"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn223",
         "x": 1225,
         "y": 1540,
-        "type": "condition",
-        "text": "24日，午后，走廊上又碰见风子",
-        "css": "btn",
-        "ref": "divTxtBtn223"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn209",
         "x": 25,
         "y": 1540,
-        "type": "condition",
-        "text": "24日，午后，走廊上又碰见风子",
-        "css": "btn",
-        "ref": "divTxtBtn209"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn227",
         "x": 25,
         "y": 1630,
-        "type": "selection",
-        "text": "不管她",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn227"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn209",
         "x": 25,
         "y": 1540,
-        "type": "condition",
-        "text": "24日，午后，走廊上又碰见风子",
-        "css": "btn",
-        "ref": "divTxtBtn209"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn232",
         "x": 425,
         "y": 1630,
-        "type": "selection",
-        "text": "叫住她",
-        "css": "btn",
-        "ref": "divTxtBtn232"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn223",
         "x": 1225,
         "y": 1540,
-        "type": "condition",
-        "text": "24日，午后，走廊上又碰见风子",
-        "css": "btn",
-        "ref": "divTxtBtn223"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn238",
         "x": 825,
         "y": 1630,
-        "type": "selection",
-        "text": "叫住她",
-        "css": "btn",
-        "ref": "divTxtBtn238"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn223",
         "x": 1225,
         "y": 1540,
-        "type": "condition",
-        "text": "24日，午后，走廊上又碰见风子",
-        "css": "btn",
-        "ref": "divTxtBtn223"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn244",
         "x": 1225,
         "y": 1630,
-        "type": "selection",
-        "text": "不管她",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn244"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn244",
         "x": 1225,
         "y": 1630,
-        "type": "selection",
-        "text": "不管她",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn244"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn249",
         "x": 1225,
         "y": 1690,
-        "type": "condition",
-        "text": "风子 BAD ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn249"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn227",
         "x": 25,
         "y": 1630,
-        "type": "selection",
-        "text": "不管她",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn227"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn253",
         "x": 25,
         "y": 1720,
-        "type": "condition",
-        "text": "25日，走廊中第N次遇到风子",
-        "css": "btn",
-        "ref": "divTxtBtn253"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn232",
         "x": 425,
         "y": 1630,
-        "type": "selection",
-        "text": "叫住她",
-        "css": "btn",
-        "ref": "divTxtBtn232"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn257",
         "x": 625,
         "y": 1720,
-        "type": "condition",
-        "text": "风子 GOOD ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn257"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn238",
         "x": 825,
         "y": 1630,
-        "type": "selection",
-        "text": "叫住她",
-        "css": "btn",
-        "ref": "divTxtBtn238"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn257",
         "x": 625,
         "y": 1720,
-        "type": "condition",
-        "text": "风子 GOOD ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn257"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn253",
         "x": 25,
         "y": 1720,
-        "type": "condition",
-        "text": "25日，走廊中第N次遇到风子",
-        "css": "btn",
-        "ref": "divTxtBtn253"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn267",
         "x": 25,
         "y": 1810,
-        "type": "selection",
-        "text": "暂时不管她",
-        "css": "btn",
-        "ref": "divTxtBtn267"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn253",
         "x": 25,
         "y": 1720,
-        "type": "condition",
-        "text": "25日，走廊中第N次遇到风子",
-        "css": "btn",
-        "ref": "divTxtBtn253"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn271",
         "x": 425,
         "y": 1810,
-        "type": "selection",
-        "text": "叫住她",
-        "css": "btn",
-        "ref": "divTxtBtn271"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn267",
         "x": 25,
         "y": 1810,
-        "type": "selection",
-        "text": "暂时不管她",
-        "css": "btn",
-        "ref": "divTxtBtn267"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn277",
         "x": 25,
         "y": 1870,
-        "type": "condition",
-        "text": "风子 BAD ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn277"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn271",
         "x": 425,
         "y": 1810,
-        "type": "selection",
-        "text": "叫住她",
-        "css": "btn",
-        "ref": "divTxtBtn271"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn281",
         "x": 425,
         "y": 1870,
-        "type": "condition",
-        "text": "风子 GOOD ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn281"
+        "__type": "textbox"
       }
     ]
   ],
@@ -1652,7 +1387,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt120"
+      "ref": "divCmt120",
+      "__type": "comment"
     }
   ],
   "header": {
@@ -1665,14 +1401,16 @@
     "dateE": "Fuuko",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 1900,
     "page": 46,
-    "ref": "divFt285"
+    "ref": "divFt285",
+    "__type": "footer"
   },
   "board": []
 }

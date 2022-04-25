@@ -8,6 +8,7 @@
         "text": "智代64HIT",
         "css": "btn",
         "ref": "divTxtBtn1",
+        "__type": "textbox",
         "link": "p30_TY64"
       },
       {
@@ -16,7 +17,8 @@
         "type": "condition",
         "text": "6日，纷争之间的处理",
         "css": "btn",
-        "ref": "divTxtBtn3"
+        "ref": "divTxtBtn3",
+        "__type": "textbox"
       }
     ],
     [
@@ -26,7 +28,8 @@
         "type": "selection",
         "text": "插嘴说话",
         "css": "btn",
-        "ref": "divTxtBtn7"
+        "ref": "divTxtBtn7",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -34,7 +37,8 @@
         "type": "selection",
         "text": "保持沉默，交给智代处理",
         "css": "btn",
-        "ref": "divTxtBtn13"
+        "ref": "divTxtBtn13",
+        "__type": "textbox"
       }
     ],
     [
@@ -44,7 +48,8 @@
         "type": "option",
         "text": "杏增加8HIT",
         "css": "btn",
-        "ref": "divTxtBtn19"
+        "ref": "divTxtBtn19",
+        "__type": "textbox"
       }
     ],
     [
@@ -54,7 +59,8 @@
         "type": "condition",
         "text": "18日，独自雕刻的风子",
         "css": "btn",
-        "ref": "divTxtBtn23"
+        "ref": "divTxtBtn23",
+        "__type": "textbox"
       }
     ],
     [
@@ -64,7 +70,8 @@
         "type": "selection",
         "text": "再看一会儿",
         "css": "btn",
-        "ref": "divTxtBtn33"
+        "ref": "divTxtBtn33",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -73,7 +80,8 @@
         "text": "离开",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn39"
+        "ref": "divTxtBtn39",
+        "__type": "textbox"
       }
     ],
     [
@@ -83,7 +91,8 @@
         "type": "option",
         "text": "风子增加8HIT",
         "css": "btn",
-        "ref": "divTxtBtn46"
+        "ref": "divTxtBtn46",
+        "__type": "textbox"
       }
     ],
     [
@@ -93,7 +102,8 @@
         "type": "condition",
         "text": "17日，宿舍走廊遇见美佐枝",
         "css": "btn",
-        "ref": "divTxtBtn50"
+        "ref": "divTxtBtn50",
+        "__type": "textbox"
       }
     ],
     [
@@ -103,7 +113,8 @@
         "type": "selection",
         "text": "向她搭话",
         "css": "btn",
-        "ref": "divTxtBtn60"
+        "ref": "divTxtBtn60",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -112,7 +123,8 @@
         "text": "目送她离去",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn66"
+        "ref": "divTxtBtn66",
+        "__type": "textbox"
       }
     ],
     [
@@ -122,7 +134,8 @@
         "type": "option",
         "text": "美佐枝增加8HIT",
         "css": "btn",
-        "ref": "divTxtBtn73"
+        "ref": "divTxtBtn73",
+        "__type": "textbox"
       }
     ],
     [
@@ -132,7 +145,8 @@
         "type": "condition",
         "text": "18日，逃课选择睡觉的地方",
         "css": "btn",
-        "ref": "divTxtBtn77"
+        "ref": "divTxtBtn77",
+        "__type": "textbox"
       }
     ],
     [
@@ -142,7 +156,8 @@
         "type": "selection",
         "text": "去那里睡",
         "css": "btn",
-        "ref": "divTxtBtn87"
+        "ref": "divTxtBtn87",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -151,7 +166,8 @@
         "text": "还是回教室吧",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn92"
+        "ref": "divTxtBtn92",
+        "__type": "textbox"
       }
     ],
     [
@@ -161,7 +177,8 @@
         "type": "condition",
         "text": "19日，来到旧校舍后的去向（一）",
         "css": "btn",
-        "ref": "divTxtBtn100"
+        "ref": "divTxtBtn100",
+        "__type": "textbox"
       }
     ],
     [
@@ -171,7 +188,8 @@
         "type": "selection",
         "text": "去资料室",
         "css": "btn",
-        "ref": "divTxtBtn104"
+        "ref": "divTxtBtn104",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -179,7 +197,8 @@
         "type": "selection",
         "text": "去图书馆",
         "css": "btn",
-        "ref": "divTxtBtn110"
+        "ref": "divTxtBtn110",
+        "__type": "textbox"
       },
       {
         "x": 1125,
@@ -188,7 +207,8 @@
         "text": "去社团活动室",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn114"
+        "ref": "divTxtBtn114",
+        "__type": "textbox"
       }
     ],
     [
@@ -198,7 +218,8 @@
         "type": "option",
         "text": "有纪宁增加8HIT",
         "css": "btn",
-        "ref": "divTxtBtn121"
+        "ref": "divTxtBtn121",
+        "__type": "textbox"
       }
     ],
     [
@@ -208,7 +229,8 @@
         "type": "condition",
         "text": "15日，回想起中午庭院中的女生",
         "css": "btn",
-        "ref": "divTxtBtn129"
+        "ref": "divTxtBtn129",
+        "__type": "textbox"
       }
     ],
     [
@@ -218,7 +240,8 @@
         "type": "selection",
         "text": "在意",
         "css": "btn",
-        "ref": "divTxtBtn144"
+        "ref": "divTxtBtn144",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -227,7 +250,8 @@
         "text": "不在意",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn150"
+        "ref": "divTxtBtn150",
+        "__type": "textbox"
       }
     ],
     [
@@ -237,7 +261,8 @@
         "type": "option",
         "text": "渚增加8HIT",
         "css": "btn",
-        "ref": "divTxtBtn157"
+        "ref": "divTxtBtn157",
+        "__type": "textbox"
       }
     ],
     [
@@ -247,7 +272,8 @@
         "type": "condition",
         "text": "26日，选择约会吃饭的地方",
         "css": "btn",
-        "ref": "divTxtBtn161"
+        "ref": "divTxtBtn161",
+        "__type": "textbox"
       }
     ],
     [
@@ -257,7 +283,8 @@
         "type": "selection",
         "text": "在食堂吃",
         "css": "btn",
-        "ref": "divTxtBtn171"
+        "ref": "divTxtBtn171",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -265,7 +292,8 @@
         "type": "selection",
         "text": "去外面吃",
         "css": "btn",
-        "ref": "divTxtBtn177"
+        "ref": "divTxtBtn177",
+        "__type": "textbox"
       }
     ],
     [
@@ -275,7 +303,8 @@
         "type": "condition",
         "text": "完成过幸村线",
         "css": "btn",
-        "ref": "divTxtBtn183"
+        "ref": "divTxtBtn183",
+        "__type": "textbox"
       }
     ],
     [
@@ -285,7 +314,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn187"
+        "ref": "divTxtBtn187",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -293,7 +323,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn193"
+        "ref": "divTxtBtn193",
+        "__type": "textbox"
       }
     ],
     [
@@ -303,7 +334,8 @@
         "type": "option",
         "text": "幸村增加8HIT",
         "css": "btn",
-        "ref": "divTxtBtn199"
+        "ref": "divTxtBtn199",
+        "__type": "textbox"
       }
     ]
   ],
@@ -311,763 +343,623 @@
     [
       {
         "x": 600,
-        "y": 175
+        "y": 175,
+        "__type": "point"
       },
       {
         "x": 600,
-        "y": 175
+        "y": 175,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn3",
         "x": 425,
         "y": 190,
-        "type": "condition",
-        "text": "6日，纷争之间的处理",
-        "css": "btn",
-        "ref": "divTxtBtn3"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn7",
         "x": 225,
         "y": 280,
-        "type": "selection",
-        "text": "插嘴说话",
-        "css": "btn",
-        "ref": "divTxtBtn7"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn3",
         "x": 425,
         "y": 190,
-        "type": "condition",
-        "text": "6日，纷争之间的处理",
-        "css": "btn",
-        "ref": "divTxtBtn3"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn13",
         "x": 625,
         "y": 280,
-        "type": "selection",
-        "text": "保持沉默，交给智代处理",
-        "css": "btn",
-        "ref": "divTxtBtn13"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn7",
         "x": 225,
         "y": 280,
-        "type": "selection",
-        "text": "插嘴说话",
-        "css": "btn",
-        "ref": "divTxtBtn7"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn19",
         "x": 225,
         "y": 340,
-        "type": "option",
-        "text": "杏增加8HIT",
-        "css": "btn",
-        "ref": "divTxtBtn19"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn19",
         "x": 225,
         "y": 340,
-        "type": "option",
-        "text": "杏增加8HIT",
-        "css": "btn",
-        "ref": "divTxtBtn19"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn23",
         "x": 425,
         "y": 430,
-        "type": "condition",
-        "text": "18日，独自雕刻的风子",
-        "css": "btn",
-        "ref": "divTxtBtn23"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn13",
         "x": 625,
         "y": 280,
-        "type": "selection",
-        "text": "保持沉默，交给智代处理",
-        "css": "btn",
-        "ref": "divTxtBtn13"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn23",
         "x": 425,
         "y": 430,
-        "type": "condition",
-        "text": "18日，独自雕刻的风子",
-        "css": "btn",
-        "ref": "divTxtBtn23"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn23",
         "x": 425,
         "y": 430,
-        "type": "condition",
-        "text": "18日，独自雕刻的风子",
-        "css": "btn",
-        "ref": "divTxtBtn23"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn33",
         "x": 225,
         "y": 520,
-        "type": "selection",
-        "text": "再看一会儿",
-        "css": "btn",
-        "ref": "divTxtBtn33"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn23",
         "x": 425,
         "y": 430,
-        "type": "condition",
-        "text": "18日，独自雕刻的风子",
-        "css": "btn",
-        "ref": "divTxtBtn23"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn39",
         "x": 625,
         "y": 520,
-        "type": "selection",
-        "text": "离开",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn39"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn33",
         "x": 225,
         "y": 520,
-        "type": "selection",
-        "text": "再看一会儿",
-        "css": "btn",
-        "ref": "divTxtBtn33"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn46",
         "x": 225,
         "y": 580,
-        "type": "option",
-        "text": "风子增加8HIT",
-        "css": "btn",
-        "ref": "divTxtBtn46"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn46",
         "x": 225,
         "y": 580,
-        "type": "option",
-        "text": "风子增加8HIT",
-        "css": "btn",
-        "ref": "divTxtBtn46"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn50",
         "x": 425,
         "y": 670,
-        "type": "condition",
-        "text": "17日，宿舍走廊遇见美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn50"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn39",
         "x": 625,
         "y": 520,
-        "type": "selection",
-        "text": "离开",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn39"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn50",
         "x": 425,
         "y": 670,
-        "type": "condition",
-        "text": "17日，宿舍走廊遇见美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn50"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn50",
         "x": 425,
         "y": 670,
-        "type": "condition",
-        "text": "17日，宿舍走廊遇见美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn50"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn60",
         "x": 225,
         "y": 760,
-        "type": "selection",
-        "text": "向她搭话",
-        "css": "btn",
-        "ref": "divTxtBtn60"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn50",
         "x": 425,
         "y": 670,
-        "type": "condition",
-        "text": "17日，宿舍走廊遇见美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn50"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn66",
         "x": 625,
         "y": 760,
-        "type": "selection",
-        "text": "目送她离去",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn66"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn60",
         "x": 225,
         "y": 760,
-        "type": "selection",
-        "text": "向她搭话",
-        "css": "btn",
-        "ref": "divTxtBtn60"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn73",
         "x": 225,
         "y": 820,
-        "type": "option",
-        "text": "美佐枝增加8HIT",
-        "css": "btn",
-        "ref": "divTxtBtn73"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn73",
         "x": 225,
         "y": 820,
-        "type": "option",
-        "text": "美佐枝增加8HIT",
-        "css": "btn",
-        "ref": "divTxtBtn73"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn77",
         "x": 425,
         "y": 910,
-        "type": "condition",
-        "text": "18日，逃课选择睡觉的地方",
-        "css": "btn",
-        "ref": "divTxtBtn77"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn66",
         "x": 625,
         "y": 760,
-        "type": "selection",
-        "text": "目送她离去",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn66"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn77",
         "x": 425,
         "y": 910,
-        "type": "condition",
-        "text": "18日，逃课选择睡觉的地方",
-        "css": "btn",
-        "ref": "divTxtBtn77"
+        "__type": "textbox"
       }
     ],
     [
       {
         "x": 500,
-        "y": 970
+        "y": 970,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn87",
         "x": 125,
         "y": 1000,
-        "type": "selection",
-        "text": "去那里睡",
-        "css": "btn",
-        "ref": "divTxtBtn87"
+        "__type": "textbox"
       }
     ],
     [
       {
         "x": 500,
-        "y": 970
+        "y": 970,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn92",
         "x": 725,
         "y": 1000,
-        "type": "selection",
-        "text": "还是回教室吧",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn92"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn77",
         "x": 425,
         "y": 910,
-        "type": "condition",
-        "text": "18日，逃课选择睡觉的地方",
-        "css": "btn",
-        "ref": "divTxtBtn77"
+        "__type": "textbox"
       },
       {
         "x": 600,
-        "y": 970
+        "y": 970,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn92",
         "x": 725,
         "y": 1000,
-        "type": "selection",
-        "text": "还是回教室吧",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn92"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn100",
         "x": 725,
         "y": 1060,
-        "type": "condition",
-        "text": "19日，来到旧校舍后的去向（一）",
-        "css": "btn",
-        "ref": "divTxtBtn100"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn100",
         "x": 725,
         "y": 1060,
-        "type": "condition",
-        "text": "19日，来到旧校舍后的去向（一）",
-        "css": "btn",
-        "ref": "divTxtBtn100"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn104",
         "x": 325,
         "y": 1150,
-        "type": "selection",
-        "text": "去资料室",
-        "css": "btn",
-        "ref": "divTxtBtn104"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn100",
         "x": 725,
         "y": 1060,
-        "type": "condition",
-        "text": "19日，来到旧校舍后的去向（一）",
-        "css": "btn",
-        "ref": "divTxtBtn100"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn110",
         "x": 725,
         "y": 1150,
-        "type": "selection",
-        "text": "去图书馆",
-        "css": "btn",
-        "ref": "divTxtBtn110"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn100",
         "x": 725,
         "y": 1060,
-        "type": "condition",
-        "text": "19日，来到旧校舍后的去向（一）",
-        "css": "btn",
-        "ref": "divTxtBtn100"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn114",
         "x": 1125,
         "y": 1150,
-        "type": "selection",
-        "text": "去社团活动室",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn114"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn104",
         "x": 325,
         "y": 1150,
-        "type": "selection",
-        "text": "去资料室",
-        "css": "btn",
-        "ref": "divTxtBtn104"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn121",
         "x": 125,
         "y": 1240,
-        "type": "option",
-        "text": "有纪宁增加8HIT",
-        "css": "btn",
-        "ref": "divTxtBtn121"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn87",
         "x": 125,
         "y": 1000,
-        "type": "selection",
-        "text": "去那里睡",
-        "css": "btn",
-        "ref": "divTxtBtn87"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn121",
         "x": 125,
         "y": 1240,
-        "type": "option",
-        "text": "有纪宁增加8HIT",
-        "css": "btn",
-        "ref": "divTxtBtn121"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn121",
         "x": 125,
         "y": 1240,
-        "type": "option",
-        "text": "有纪宁增加8HIT",
-        "css": "btn",
-        "ref": "divTxtBtn121"
+        "__type": "textbox"
       },
       {
         "x": 300,
-        "y": 1300
+        "y": 1300,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn110",
         "x": 725,
         "y": 1150,
-        "type": "selection",
-        "text": "去图书馆",
-        "css": "btn",
-        "ref": "divTxtBtn110"
+        "__type": "textbox"
       },
       {
         "x": 300,
-        "y": 1300
+        "y": 1300,
+        "__type": "point"
       },
       {
         "x": 900,
-        "y": 1300
+        "y": 1300,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn114",
         "x": 1125,
         "y": 1150,
-        "type": "selection",
-        "text": "去社团活动室",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn114"
+        "__type": "textbox"
       },
       {
         "x": 900,
-        "y": 1240
+        "y": 1240,
+        "__type": "point"
       },
       {
         "x": 300,
-        "y": 1300
+        "y": 1300,
+        "__type": "point"
       },
       {
         "x": 900,
-        "y": 1300
+        "y": 1300,
+        "__type": "point"
       }
     ],
     [
       {
         "x": 600,
-        "y": 1300
+        "y": 1300,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn129",
         "x": 425,
         "y": 1330,
-        "type": "condition",
-        "text": "15日，回想起中午庭院中的女生",
-        "css": "btn",
-        "ref": "divTxtBtn129"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn129",
         "x": 425,
         "y": 1330,
-        "type": "condition",
-        "text": "15日，回想起中午庭院中的女生",
-        "css": "btn",
-        "ref": "divTxtBtn129"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn144",
         "x": 225,
         "y": 1420,
-        "type": "selection",
-        "text": "在意",
-        "css": "btn",
-        "ref": "divTxtBtn144"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn129",
         "x": 425,
         "y": 1330,
-        "type": "condition",
-        "text": "15日，回想起中午庭院中的女生",
-        "css": "btn",
-        "ref": "divTxtBtn129"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn150",
         "x": 625,
         "y": 1420,
-        "type": "selection",
-        "text": "不在意",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn150"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn144",
         "x": 225,
         "y": 1420,
-        "type": "selection",
-        "text": "在意",
-        "css": "btn",
-        "ref": "divTxtBtn144"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn157",
         "x": 225,
         "y": 1480,
-        "type": "option",
-        "text": "渚增加8HIT",
-        "css": "btn",
-        "ref": "divTxtBtn157"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn157",
         "x": 225,
         "y": 1480,
-        "type": "option",
-        "text": "渚增加8HIT",
-        "css": "btn",
-        "ref": "divTxtBtn157"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn161",
         "x": 425,
         "y": 1570,
-        "type": "condition",
-        "text": "26日，选择约会吃饭的地方",
-        "css": "btn",
-        "ref": "divTxtBtn161"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn150",
         "x": 625,
         "y": 1420,
-        "type": "selection",
-        "text": "不在意",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn150"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn161",
         "x": 425,
         "y": 1570,
-        "type": "condition",
-        "text": "26日，选择约会吃饭的地方",
-        "css": "btn",
-        "ref": "divTxtBtn161"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn161",
         "x": 425,
         "y": 1570,
-        "type": "condition",
-        "text": "26日，选择约会吃饭的地方",
-        "css": "btn",
-        "ref": "divTxtBtn161"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn171",
         "x": 225,
         "y": 1660,
-        "type": "selection",
-        "text": "在食堂吃",
-        "css": "btn",
-        "ref": "divTxtBtn171"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn161",
         "x": 425,
         "y": 1570,
-        "type": "condition",
-        "text": "26日，选择约会吃饭的地方",
-        "css": "btn",
-        "ref": "divTxtBtn161"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn177",
         "x": 625,
         "y": 1660,
-        "type": "selection",
-        "text": "去外面吃",
-        "css": "btn",
-        "ref": "divTxtBtn177"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn171",
         "x": 225,
         "y": 1660,
-        "type": "selection",
-        "text": "在食堂吃",
-        "css": "btn",
-        "ref": "divTxtBtn171"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn183",
         "x": 225,
         "y": 1720,
-        "type": "condition",
-        "text": "完成过幸村线",
-        "css": "btn",
-        "ref": "divTxtBtn183"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn183",
         "x": 225,
         "y": 1720,
-        "type": "condition",
-        "text": "完成过幸村线",
-        "css": "btn",
-        "ref": "divTxtBtn183"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn187",
         "x": 25,
         "y": 1810,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn187"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn183",
         "x": 225,
         "y": 1720,
-        "type": "condition",
-        "text": "完成过幸村线",
-        "css": "btn",
-        "ref": "divTxtBtn183"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn193",
         "x": 425,
         "y": 1810,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn193"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn187",
         "x": 25,
         "y": 1810,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn187"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn199",
         "x": 25,
         "y": 1870,
-        "type": "option",
-        "text": "幸村增加8HIT",
-        "css": "btn",
-        "ref": "divTxtBtn199"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn187",
         "x": 25,
         "y": 1810,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn187"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 1960
+        "y": 1960,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn193",
         "x": 425,
         "y": 1810,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn193"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 1960
+        "y": 1960,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn177",
         "x": 625,
         "y": 1660,
-        "type": "selection",
-        "text": "去外面吃",
-        "css": "btn",
-        "ref": "divTxtBtn177"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 1960
+        "y": 1960,
+        "__type": "point"
       },
       {
         "x": 800,
-        "y": 1960
+        "y": 1960,
+        "__type": "point"
       }
     ],
     [
       {
         "x": 600,
-        "y": 1960
+        "y": 1960,
+        "__type": "point"
       },
       {
         "x": 600,
-        "y": 1960
+        "y": 1960,
+        "__type": "point"
       }
     ]
   ],
@@ -1082,14 +974,16 @@
     "dateE": "Tomoyo's 64Hit",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 1990,
     "page": 30,
-    "ref": "divFt216"
+    "ref": "divFt216",
+    "__type": "footer"
   },
   "board": []
 }

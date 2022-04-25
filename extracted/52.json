@@ -7,7 +7,8 @@
         "type": "date",
         "text": "4月28日",
         "css": "date",
-        "ref": "divBtn1"
+        "ref": "divBtn1",
+        "__type": "button"
       }
     ],
     [
@@ -18,13 +19,15 @@
         "text": "3对3篮球赛（一）",
         "css": "btn",
         "ref": "divTxtBtn2",
+        "__type": "textbox",
         "num": {
           "x": 710,
           "y": 250,
           "type": "ccheck",
           "text": "1",
           "css": "check",
-          "ref": "divBtn4"
+          "ref": "divBtn4",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -41,7 +44,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
+          "ref": "divCmt5",
+          "__type": "comment"
         },
         "link": "p52_ret33BB"
       }
@@ -53,7 +57,8 @@
         "type": "condition",
         "text": "26日，前来探亲的芽衣",
         "css": "btn",
-        "ref": "divTxtBtn8"
+        "ref": "divTxtBtn8",
+        "__type": "textbox"
       }
     ],
     [
@@ -63,7 +68,8 @@
         "type": "selection",
         "text": "好的",
         "css": "btn",
-        "ref": "divTxtBtn12"
+        "ref": "divTxtBtn12",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -72,7 +78,8 @@
         "text": "自己一个人去吧",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn17"
+        "ref": "divTxtBtn17",
+        "__type": "textbox"
       }
     ],
     [
@@ -83,13 +90,15 @@
         "text": "上午，没有找到参赛伙伴",
         "css": "btn",
         "ref": "divTxtBtn25",
+        "__type": "textbox",
         "num": {
           "x": 410,
           "y": 460,
           "type": "ccheck",
           "text": "2",
           "css": "check",
-          "ref": "divBtn27"
+          "ref": "divBtn27",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -106,7 +115,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt28"
+          "ref": "divCmt28",
+          "__type": "comment"
         }
       }
     ],
@@ -117,7 +127,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn31"
+        "ref": "divTxtBtn31",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -125,7 +136,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn37"
+        "ref": "divTxtBtn37",
+        "__type": "textbox"
       }
     ],
     [
@@ -136,13 +148,15 @@
         "text": "明天的计划安排",
         "css": "btn",
         "ref": "divTxtBtn43",
+        "__type": "textbox",
         "num": {
           "x": 210,
           "y": 610,
           "type": "ccheck",
           "text": "3",
           "css": "check",
-          "ref": "divBtn45"
+          "ref": "divBtn45",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -159,7 +173,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt46"
+          "ref": "divCmt46",
+          "__type": "comment"
         }
       }
     ],
@@ -170,7 +185,8 @@
         "type": "option",
         "text": "让她练习",
         "css": "btn",
-        "ref": "divTxtBtn49"
+        "ref": "divTxtBtn49",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -178,7 +194,8 @@
         "type": "option",
         "text": "让她和芽衣玩",
         "css": "btn",
-        "ref": "divTxtBtn55"
+        "ref": "divTxtBtn55",
+        "__type": "textbox"
       }
     ],
     [
@@ -188,7 +205,8 @@
         "type": "condition",
         "text": "27日，帮忙打理店铺",
         "css": "btn",
-        "ref": "divTxtBtn61"
+        "ref": "divTxtBtn61",
+        "__type": "textbox"
       }
     ],
     [
@@ -198,7 +216,8 @@
         "type": "selection",
         "text": "不好",
         "css": "btn",
-        "ref": "divTxtBtn69"
+        "ref": "divTxtBtn69",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -206,7 +225,8 @@
         "type": "selection",
         "text": "可以",
         "css": "btn",
-        "ref": "divTxtBtn75"
+        "ref": "divTxtBtn75",
+        "__type": "textbox"
       }
     ],
     [
@@ -216,7 +236,8 @@
         "type": "selection",
         "text": "芽衣莫名的主意",
         "css": "btn",
-        "ref": "divTxtBtn79"
+        "ref": "divTxtBtn79",
+        "__type": "textbox"
       }
     ],
     [
@@ -226,7 +247,8 @@
         "type": "option",
         "text": "随便她",
         "css": "btn",
-        "ref": "divTxtBtn83"
+        "ref": "divTxtBtn83",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -234,7 +256,8 @@
         "type": "option",
         "text": "阻止她",
         "css": "btn",
-        "ref": "divTxtBtn89"
+        "ref": "divTxtBtn89",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -242,7 +265,8 @@
         "type": "condition",
         "text": "上午，没有找到参赛伙伴",
         "css": "btn",
-        "ref": "divTxtBtn93"
+        "ref": "divTxtBtn93",
+        "__type": "textbox"
       }
     ],
     [
@@ -252,7 +276,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn97"
+        "ref": "divTxtBtn97",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -260,7 +285,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn103"
+        "ref": "divTxtBtn103",
+        "__type": "textbox"
       }
     ],
     [
@@ -271,13 +297,15 @@
         "text": "面对练习的想法",
         "css": "btn",
         "ref": "divTxtBtn109",
+        "__type": "textbox",
         "num": {
           "x": 810,
           "y": 1180,
           "type": "ccheck",
           "text": "4",
           "css": "check",
-          "ref": "divBtn111"
+          "ref": "divBtn111",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -294,7 +322,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt112"
+          "ref": "divCmt112",
+          "__type": "comment"
         }
       }
     ],
@@ -305,7 +334,8 @@
         "type": "option",
         "text": "想对策",
         "css": "btn",
-        "ref": "divTxtBtn115"
+        "ref": "divTxtBtn115",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -313,7 +343,8 @@
         "type": "option",
         "text": "练习",
         "css": "btn",
-        "ref": "divTxtBtn121"
+        "ref": "divTxtBtn121",
+        "__type": "textbox"
       }
     ],
     [
@@ -323,864 +354,502 @@
         "type": "date",
         "text": "4月29日",
         "css": "date",
-        "ref": "divBtn127"
+        "ref": "divBtn127",
+        "__type": "button"
       }
     ]
   ],
   "line": [
     [
       {
+        "ref": "divBtn1",
         "x": 850,
         "y": 175,
-        "type": "date",
-        "text": "4月28日",
-        "css": "date",
-        "ref": "divBtn1"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn2",
         "x": 725,
         "y": 250,
-        "type": "option",
-        "text": "3对3篮球赛（一）",
-        "css": "btn",
-        "ref": "divTxtBtn2",
-        "num": {
-          "x": 710,
-          "y": 250,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn4"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 240,
-          "text": "3对3篮球赛",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "古河渚线路前期特殊剧情。发生在28日和30日，分成两部分，28日的内容及选择分支出现的变化与公共线路和渚线的走向和某些分支选择有关，30日的内容没有分支，剧情仍然受之前某些分支选择的影响，这些相关分支的3对3篮球赛图标都高亮显示。3对3篮球赛中的表现影响之后渚线的走向（参考古河渚线路30日注释1）以及AFTER STORY中的一些剧情，相关攻略请参见P56～P58。",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
-        },
-        "link": "p52_ret33BB"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 725,
         "y": 250,
-        "type": "option",
-        "text": "3对3篮球赛（一）",
-        "css": "btn",
-        "ref": "divTxtBtn2",
-        "num": {
-          "x": 710,
-          "y": 250,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn4"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 240,
-          "text": "3对3篮球赛",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "古河渚线路前期特殊剧情。发生在28日和30日，分成两部分，28日的内容及选择分支出现的变化与公共线路和渚线的走向和某些分支选择有关，30日的内容没有分支，剧情仍然受之前某些分支选择的影响，这些相关分支的3对3篮球赛图标都高亮显示。3对3篮球赛中的表现影响之后渚线的走向（参考古河渚线路30日注释1）以及AFTER STORY中的一些剧情，相关攻略请参见P56～P58。",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
-        },
-        "link": "p52_ret33BB"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn8",
         "x": 725,
         "y": 310,
-        "type": "condition",
-        "text": "26日，前来探亲的芽衣",
-        "css": "btn",
-        "ref": "divTxtBtn8"
+        "__type": "textbox"
       }
     ],
     [
       {
         "x": 800,
-        "y": 370
+        "y": 370,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn12",
         "x": 425,
         "y": 400,
-        "type": "selection",
-        "text": "好的",
-        "css": "btn",
-        "ref": "divTxtBtn12"
+        "__type": "textbox"
       }
     ],
     [
       {
         "x": 800,
-        "y": 370
+        "y": 370,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn17",
         "x": 1025,
         "y": 400,
-        "type": "selection",
-        "text": "自己一个人去吧",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn17"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn8",
         "x": 725,
         "y": 310,
-        "type": "condition",
-        "text": "26日，前来探亲的芽衣",
-        "css": "btn",
-        "ref": "divTxtBtn8"
+        "__type": "textbox"
       },
       {
         "x": 900,
-        "y": 370
+        "y": 370,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn12",
         "x": 425,
         "y": 400,
-        "type": "selection",
-        "text": "好的",
-        "css": "btn",
-        "ref": "divTxtBtn12"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn25",
         "x": 425,
         "y": 460,
-        "type": "condition",
-        "text": "上午，没有找到参赛伙伴",
-        "css": "btn",
-        "ref": "divTxtBtn25",
-        "num": {
-          "x": 410,
-          "y": 460,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn27"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 450,
-          "text": "上午，没有找到参赛伙伴",
-          "num": "2",
-          "summary": "",
-          "hint": "{上午，没有找到参赛伙伴}即在3对3篮球赛（一）中没有邀请到杏、椋、智代、风子、美佐枝、有纪宁中的任何一位成为参赛伙伴。3对3篮球赛相关攻略请参见P56～P58。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt28"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn25",
         "x": 425,
         "y": 460,
-        "type": "condition",
-        "text": "上午，没有找到参赛伙伴",
-        "css": "btn",
-        "ref": "divTxtBtn25",
-        "num": {
-          "x": 410,
-          "y": 460,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn27"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 450,
-          "text": "上午，没有找到参赛伙伴",
-          "num": "2",
-          "summary": "",
-          "hint": "{上午，没有找到参赛伙伴}即在3对3篮球赛（一）中没有邀请到杏、椋、智代、风子、美佐枝、有纪宁中的任何一位成为参赛伙伴。3对3篮球赛相关攻略请参见P56～P58。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt28"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn31",
         "x": 225,
         "y": 550,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn31"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn25",
         "x": 425,
         "y": 460,
-        "type": "condition",
-        "text": "上午，没有找到参赛伙伴",
-        "css": "btn",
-        "ref": "divTxtBtn25",
-        "num": {
-          "x": 410,
-          "y": 460,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn27"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 450,
-          "text": "上午，没有找到参赛伙伴",
-          "num": "2",
-          "summary": "",
-          "hint": "{上午，没有找到参赛伙伴}即在3对3篮球赛（一）中没有邀请到杏、椋、智代、风子、美佐枝、有纪宁中的任何一位成为参赛伙伴。3对3篮球赛相关攻略请参见P56～P58。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt28"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn37",
         "x": 625,
         "y": 550,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn37"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn31",
         "x": 225,
         "y": 550,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn31"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn43",
         "x": 225,
         "y": 610,
-        "type": "selection",
-        "text": "明天的计划安排",
-        "css": "btn",
-        "ref": "divTxtBtn43",
-        "num": {
-          "x": 210,
-          "y": 610,
-          "type": "ccheck",
-          "text": "3",
-          "css": "check",
-          "ref": "divBtn45"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 600,
-          "text": "明天的计划安排",
-          "num": "3",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-让她练习",
-          "icon": "00100000",
-          "iconillu": "让她练习",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt46"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn43",
         "x": 225,
         "y": 610,
-        "type": "selection",
-        "text": "明天的计划安排",
-        "css": "btn",
-        "ref": "divTxtBtn43",
-        "num": {
-          "x": 210,
-          "y": 610,
-          "type": "ccheck",
-          "text": "3",
-          "css": "check",
-          "ref": "divBtn45"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 600,
-          "text": "明天的计划安排",
-          "num": "3",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-让她练习",
-          "icon": "00100000",
-          "iconillu": "让她练习",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt46"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn49",
         "x": 25,
         "y": 700,
-        "type": "option",
-        "text": "让她练习",
-        "css": "btn",
-        "ref": "divTxtBtn49"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn43",
         "x": 225,
         "y": 610,
-        "type": "selection",
-        "text": "明天的计划安排",
-        "css": "btn",
-        "ref": "divTxtBtn43",
-        "num": {
-          "x": 210,
-          "y": 610,
-          "type": "ccheck",
-          "text": "3",
-          "css": "check",
-          "ref": "divBtn45"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 600,
-          "text": "明天的计划安排",
-          "num": "3",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-让她练习",
-          "icon": "00100000",
-          "iconillu": "让她练习",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt46"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn55",
         "x": 425,
         "y": 700,
-        "type": "option",
-        "text": "让她和芽衣玩",
-        "css": "btn",
-        "ref": "divTxtBtn55"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn55",
         "x": 425,
         "y": 700,
-        "type": "option",
-        "text": "让她和芽衣玩",
-        "css": "btn",
-        "ref": "divTxtBtn55"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn61",
         "x": 625,
         "y": 790,
-        "type": "condition",
-        "text": "27日，帮忙打理店铺",
-        "css": "btn",
-        "ref": "divTxtBtn61"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn37",
         "x": 625,
         "y": 550,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn37"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn61",
         "x": 625,
         "y": 790,
-        "type": "condition",
-        "text": "27日，帮忙打理店铺",
-        "css": "btn",
-        "ref": "divTxtBtn61"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn61",
         "x": 625,
         "y": 790,
-        "type": "condition",
-        "text": "27日，帮忙打理店铺",
-        "css": "btn",
-        "ref": "divTxtBtn61"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn69",
         "x": 225,
         "y": 880,
-        "type": "selection",
-        "text": "不好",
-        "css": "btn",
-        "ref": "divTxtBtn69"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn61",
         "x": 625,
         "y": 790,
-        "type": "condition",
-        "text": "27日，帮忙打理店铺",
-        "css": "btn",
-        "ref": "divTxtBtn61"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn75",
         "x": 625,
         "y": 880,
-        "type": "selection",
-        "text": "可以",
-        "css": "btn",
-        "ref": "divTxtBtn75"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn75",
         "x": 625,
         "y": 880,
-        "type": "selection",
-        "text": "可以",
-        "css": "btn",
-        "ref": "divTxtBtn75"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn79",
         "x": 625,
         "y": 940,
-        "type": "selection",
-        "text": "芽衣莫名的主意",
-        "css": "btn",
-        "ref": "divTxtBtn79"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn79",
         "x": 625,
         "y": 940,
-        "type": "selection",
-        "text": "芽衣莫名的主意",
-        "css": "btn",
-        "ref": "divTxtBtn79"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn83",
         "x": 225,
         "y": 1030,
-        "type": "option",
-        "text": "随便她",
-        "css": "btn",
-        "ref": "divTxtBtn83"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn79",
         "x": 625,
         "y": 940,
-        "type": "selection",
-        "text": "芽衣莫名的主意",
-        "css": "btn",
-        "ref": "divTxtBtn79"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn89",
         "x": 625,
         "y": 1030,
-        "type": "option",
-        "text": "阻止她",
-        "css": "btn",
-        "ref": "divTxtBtn89"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn17",
         "x": 1025,
         "y": 400,
-        "type": "selection",
-        "text": "自己一个人去吧",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn17"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn93",
         "x": 1025,
         "y": 1030,
-        "type": "condition",
-        "text": "上午，没有找到参赛伙伴",
-        "css": "btn",
-        "ref": "divTxtBtn93"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn93",
         "x": 1025,
         "y": 1030,
-        "type": "condition",
-        "text": "上午，没有找到参赛伙伴",
-        "css": "btn",
-        "ref": "divTxtBtn93"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn97",
         "x": 825,
         "y": 1120,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn97"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn93",
         "x": 1025,
         "y": 1030,
-        "type": "condition",
-        "text": "上午，没有找到参赛伙伴",
-        "css": "btn",
-        "ref": "divTxtBtn93"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn103",
         "x": 1225,
         "y": 1120,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn103"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn97",
         "x": 825,
         "y": 1120,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn97"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn109",
         "x": 825,
         "y": 1180,
-        "type": "selection",
-        "text": "面对练习的想法",
-        "css": "btn",
-        "ref": "divTxtBtn109",
-        "num": {
-          "x": 810,
-          "y": 1180,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn111"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1170,
-          "text": "面对练习的想法",
-          "num": "4",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-想对策",
-          "icon": "00000001",
-          "iconillu": "公子参与毕业典礼（此为公子参与毕业典礼的另一种途径）",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt112"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn109",
         "x": 825,
         "y": 1180,
-        "type": "selection",
-        "text": "面对练习的想法",
-        "css": "btn",
-        "ref": "divTxtBtn109",
-        "num": {
-          "x": 810,
-          "y": 1180,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn111"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1170,
-          "text": "面对练习的想法",
-          "num": "4",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-想对策",
-          "icon": "00000001",
-          "iconillu": "公子参与毕业典礼（此为公子参与毕业典礼的另一种途径）",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt112"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn115",
         "x": 625,
         "y": 1270,
-        "type": "option",
-        "text": "想对策",
-        "css": "btn",
-        "ref": "divTxtBtn115"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn109",
         "x": 825,
         "y": 1180,
-        "type": "selection",
-        "text": "面对练习的想法",
-        "css": "btn",
-        "ref": "divTxtBtn109",
-        "num": {
-          "x": 810,
-          "y": 1180,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn111"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1170,
-          "text": "面对练习的想法",
-          "num": "4",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-想对策",
-          "icon": "00000001",
-          "iconillu": "公子参与毕业典礼（此为公子参与毕业典礼的另一种途径）",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt112"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn121",
         "x": 1025,
         "y": 1270,
-        "type": "option",
-        "text": "练习",
-        "css": "btn",
-        "ref": "divTxtBtn121"
+        "__type": "textbox"
       }
     ],
     [
       {
         "x": 900,
-        "y": 1390
+        "y": 1390,
+        "__type": "point"
       },
       {
+        "ref": "divBtn127",
         "x": 850,
         "y": 1420,
-        "type": "date",
-        "text": "4月29日",
-        "css": "date",
-        "ref": "divBtn127"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn115",
         "x": 625,
         "y": 1270,
-        "type": "option",
-        "text": "想对策",
-        "css": "btn",
-        "ref": "divTxtBtn115"
+        "__type": "textbox"
       },
       {
         "x": 1000,
-        "y": 1360
+        "y": 1360,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 1390
+        "y": 1390,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn121",
         "x": 1025,
         "y": 1270,
-        "type": "option",
-        "text": "练习",
-        "css": "btn",
-        "ref": "divTxtBtn121"
+        "__type": "textbox"
       },
       {
         "x": 1000,
-        "y": 1360
+        "y": 1360,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 1390
+        "y": 1390,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn103",
         "x": 1225,
         "y": 1120,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn103"
+        "__type": "textbox"
       },
       {
         "x": 1200,
-        "y": 1390
+        "y": 1390,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn83",
         "x": 225,
         "y": 1030,
-        "type": "option",
-        "text": "随便她",
-        "css": "btn",
-        "ref": "divTxtBtn83"
+        "__type": "textbox"
       },
       {
         "x": 600,
-        "y": 1120
+        "y": 1120,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 1390
+        "y": 1390,
+        "__type": "point"
       },
       {
         "x": 600,
-        "y": 1390
+        "y": 1390,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn89",
         "x": 625,
         "y": 1030,
-        "type": "option",
-        "text": "阻止她",
-        "css": "btn",
-        "ref": "divTxtBtn89"
+        "__type": "textbox"
       },
       {
         "x": 600,
-        "y": 1120
+        "y": 1120,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 1390
+        "y": 1390,
+        "__type": "point"
       },
       {
         "x": 600,
-        "y": 1390
+        "y": 1390,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn69",
         "x": 225,
         "y": 880,
-        "type": "selection",
-        "text": "不好",
-        "css": "btn",
-        "ref": "divTxtBtn69"
+        "__type": "textbox"
       },
       {
         "x": 200,
-        "y": 970
+        "y": 970,
+        "__type": "point"
       },
       {
         "x": 600,
-        "y": 1150
+        "y": 1150,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 1390
+        "y": 1390,
+        "__type": "point"
       },
       {
         "x": 600,
-        "y": 1390
+        "y": 1390,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn49",
         "x": 25,
         "y": 700,
-        "type": "option",
-        "text": "让她练习",
-        "css": "btn",
-        "ref": "divTxtBtn49"
+        "__type": "textbox"
       },
       {
         "x": 600,
-        "y": 1150
+        "y": 1150,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 1390
+        "y": 1390,
+        "__type": "point"
       },
       {
         "x": 600,
-        "y": 1390
+        "y": 1390,
+        "__type": "point"
       }
     ]
   ],
@@ -1200,7 +869,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt5"
+      "ref": "divCmt5",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -1217,7 +887,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt28"
+      "ref": "divCmt28",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -1234,7 +905,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt46"
+      "ref": "divCmt46",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -1251,7 +923,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt112"
+      "ref": "divCmt112",
+      "__type": "comment"
     }
   ],
   "header": {
@@ -1264,14 +937,16 @@
     "dateE": "April 28th",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 1480,
     "page": 52,
-    "ref": "divFt173"
+    "ref": "divFt173",
+    "__type": "footer"
   },
   "board": []
 }

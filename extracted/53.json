@@ -7,7 +7,8 @@
         "type": "date",
         "text": "4月29日",
         "css": "date",
-        "ref": "divBtn1"
+        "ref": "divBtn1",
+        "__type": "button"
       }
     ],
     [
@@ -17,7 +18,8 @@
         "type": "condition",
         "text": "26日，前来探亲的芽衣",
         "css": "btn",
-        "ref": "divTxtBtn2"
+        "ref": "divTxtBtn2",
+        "__type": "textbox"
       }
     ],
     [
@@ -27,7 +29,8 @@
         "type": "selection",
         "text": "好的",
         "css": "btn",
-        "ref": "divTxtBtn6"
+        "ref": "divTxtBtn6",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -36,7 +39,8 @@
         "text": "自己一个人去吧",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn12"
+        "ref": "divTxtBtn12",
+        "__type": "textbox"
       }
     ],
     [
@@ -46,7 +50,8 @@
         "type": "condition",
         "text": "28日，明天的计划安排",
         "css": "btn",
-        "ref": "divTxtBtn19"
+        "ref": "divTxtBtn19",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -54,7 +59,8 @@
         "type": "condition",
         "text": "28日，面对练习的想法",
         "css": "btn",
-        "ref": "divTxtBtn23"
+        "ref": "divTxtBtn23",
+        "__type": "textbox"
       }
     ],
     [
@@ -65,7 +71,8 @@
         "text": "让她和芽衣玩",
         "route": "l|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn27"
+        "ref": "divTxtBtn27",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -73,7 +80,8 @@
         "type": "selection",
         "text": "让她练习",
         "css": "btn",
-        "ref": "divTxtBtn34"
+        "ref": "divTxtBtn34",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -82,7 +90,8 @@
         "text": "练习",
         "route": "l|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn40"
+        "ref": "divTxtBtn40",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -90,7 +99,8 @@
         "type": "selection",
         "text": "想对策",
         "css": "btn",
-        "ref": "divTxtBtn47"
+        "ref": "divTxtBtn47",
+        "__type": "textbox"
       }
     ],
     [
@@ -100,7 +110,8 @@
         "type": "condition",
         "text": "27日，帮忙打理店铺",
         "css": "btn",
-        "ref": "divTxtBtn53"
+        "ref": "divTxtBtn53",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -109,13 +120,15 @@
         "text": "符合风子“光”消失事件触发条件",
         "css": "btn",
         "ref": "divTxtBtn57",
+        "__type": "textbox",
         "num": {
           "x": 1210,
           "y": 550,
           "type": "ccheck",
           "text": "1",
           "css": "check",
-          "ref": "divBtn59"
+          "ref": "divBtn59",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -132,7 +145,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt60"
+          "ref": "divCmt60",
+          "__type": "comment"
         }
       }
     ],
@@ -143,7 +157,8 @@
         "type": "selection",
         "text": "可以",
         "css": "btn",
-        "ref": "divTxtBtn63"
+        "ref": "divTxtBtn63",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -151,7 +166,8 @@
         "type": "selection",
         "text": "不好",
         "css": "btn",
-        "ref": "divTxtBtn67"
+        "ref": "divTxtBtn67",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -159,7 +175,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn73"
+        "ref": "divTxtBtn73",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -167,7 +184,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn79"
+        "ref": "divTxtBtn79",
+        "__type": "textbox"
       }
     ],
     [
@@ -178,13 +196,15 @@
         "text": "符合风子“光”消失事件触发条件",
         "css": "btn",
         "ref": "divTxtBtn83",
+        "__type": "textbox",
         "num": {
           "x": 10,
           "y": 700,
           "type": "ccheck",
           "text": "1",
           "css": "check",
-          "ref": "divBtn85"
+          "ref": "divBtn85",
+          "__type": "button"
         },
         "comment": null
       },
@@ -195,13 +215,15 @@
         "text": "风子“光”消失事件",
         "css": "btn",
         "ref": "divTxtBtn88",
+        "__type": "textbox",
         "num": {
           "x": 1210,
           "y": 700,
           "type": "ccheck",
           "text": "2",
           "css": "check",
-          "ref": "divBtn90"
+          "ref": "divBtn90",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -218,7 +240,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt91"
+          "ref": "divCmt91",
+          "__type": "comment"
         }
       }
     ],
@@ -229,7 +252,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn94"
+        "ref": "divTxtBtn94",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -237,7 +261,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn98"
+        "ref": "divTxtBtn98",
+        "__type": "textbox"
       }
     ],
     [
@@ -248,13 +273,15 @@
         "text": "风子“光”消失事件",
         "css": "btn",
         "ref": "divTxtBtn104",
+        "__type": "textbox",
         "num": {
           "x": 10,
           "y": 850,
           "type": "ccheck",
           "text": "2",
           "css": "check",
-          "ref": "divBtn106"
+          "ref": "divBtn106",
+          "__type": "button"
         },
         "comment": null
       }
@@ -266,7 +293,8 @@
         "type": "selection",
         "text": "渚奇怪的举动",
         "css": "btn",
-        "ref": "divTxtBtn109"
+        "ref": "divTxtBtn109",
+        "__type": "textbox"
       }
     ],
     [
@@ -276,7 +304,8 @@
         "type": "option",
         "text": "问她到底怎么回事",
         "css": "btn",
-        "ref": "divTxtBtn119"
+        "ref": "divTxtBtn119",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -284,7 +313,8 @@
         "type": "option",
         "text": "拜托再来一次",
         "css": "btn",
-        "ref": "divTxtBtn125"
+        "ref": "divTxtBtn125",
+        "__type": "textbox"
       }
     ],
     [
@@ -294,7 +324,8 @@
         "type": "date",
         "text": "4月30日",
         "css": "date",
-        "ref": "divBtn131"
+        "ref": "divBtn131",
+        "__type": "button"
       }
     ],
     [
@@ -304,7 +335,8 @@
         "type": "date",
         "text": "4月30日",
         "css": "date",
-        "ref": "divBtn173"
+        "ref": "divBtn173",
+        "__type": "button"
       }
     ],
     [
@@ -315,6 +347,7 @@
         "text": "3对3篮球赛（二）",
         "css": "btn",
         "ref": "divTxtBtn174",
+        "__type": "textbox",
         "link": "p53_ret33BB2"
       }
     ],
@@ -326,13 +359,15 @@
         "text": "符合篮球赛可能获胜的条件",
         "css": "btn",
         "ref": "divTxtBtn178",
+        "__type": "textbox",
         "num": {
           "x": 710,
           "y": 1420,
           "type": "ccheck",
           "text": "1",
           "css": "check",
-          "ref": "divBtn180"
+          "ref": "divBtn180",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -349,7 +384,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt181"
+          "ref": "divCmt181",
+          "__type": "comment"
         }
       }
     ],
@@ -360,7 +396,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn184"
+        "ref": "divTxtBtn184",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -368,7 +405,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn190"
+        "ref": "divTxtBtn190",
+        "__type": "textbox"
       }
     ],
     [
@@ -378,7 +416,8 @@
         "type": "selection",
         "text": "最后一球的配合",
         "css": "btn",
-        "ref": "divTxtBtn196"
+        "ref": "divTxtBtn196",
+        "__type": "textbox"
       }
     ],
     [
@@ -389,7 +428,8 @@
         "text": "最后一球给我",
         "route": "l|渚|-幸村",
         "css": "btn",
-        "ref": "divTxtBtn200"
+        "ref": "divTxtBtn200",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -398,7 +438,8 @@
         "text": "最后一球给杏",
         "route": "r|-幸村|渚",
         "css": "btn",
-        "ref": "divTxtBtn208"
+        "ref": "divTxtBtn208",
+        "__type": "textbox"
       }
     ],
     [
@@ -408,7 +449,8 @@
         "type": "date",
         "text": "5月1日",
         "css": "date",
-        "ref": "divBtn216"
+        "ref": "divBtn216",
+        "__type": "button"
       }
     ],
     [
@@ -419,13 +461,15 @@
         "text": "29日，古河面包店前遇见公子",
         "css": "btn",
         "ref": "divTxtBtn219",
+        "__type": "textbox",
         "num": {
           "x": 910,
           "y": 1750,
           "type": "ccheck",
           "text": "2",
           "css": "check",
-          "ref": "divBtn221"
+          "ref": "divBtn221",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -442,7 +486,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt222"
+          "ref": "divCmt222",
+          "__type": "comment"
         }
       }
     ],
@@ -453,7 +498,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn229"
+        "ref": "divTxtBtn229",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -461,7 +507,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn235"
+        "ref": "divTxtBtn235",
+        "__type": "textbox"
       }
     ],
     [
@@ -471,7 +518,8 @@
         "type": "option",
         "text": "幸村“光”获得",
         "css": "btn",
-        "ref": "divTxtBtn239"
+        "ref": "divTxtBtn239",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -479,7 +527,8 @@
         "type": "condition",
         "text": "渚 Bad Ending",
         "css": "btn",
-        "ref": "divTxtBtn243"
+        "ref": "divTxtBtn243",
+        "__type": "textbox"
       }
     ],
     [
@@ -489,1222 +538,689 @@
         "type": "condition",
         "text": "幸村 Good Ending",
         "css": "btn",
-        "ref": "divTxtBtn247"
+        "ref": "divTxtBtn247",
+        "__type": "textbox"
       }
     ]
   ],
   "line": [
     [
       {
+        "ref": "divBtn1",
         "x": 750,
         "y": 175,
-        "type": "date",
-        "text": "4月29日",
-        "css": "date",
-        "ref": "divBtn1"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "condition",
-        "text": "26日，前来探亲的芽衣",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "condition",
-        "text": "26日，前来探亲的芽衣",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn6",
         "x": 225,
         "y": 340,
-        "type": "selection",
-        "text": "好的",
-        "css": "btn",
-        "ref": "divTxtBtn6"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "condition",
-        "text": "26日，前来探亲的芽衣",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn12",
         "x": 1025,
         "y": 340,
-        "type": "selection",
-        "text": "自己一个人去吧",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn12"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn6",
         "x": 225,
         "y": 340,
-        "type": "selection",
-        "text": "好的",
-        "css": "btn",
-        "ref": "divTxtBtn6"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn19",
         "x": 225,
         "y": 400,
-        "type": "condition",
-        "text": "28日，明天的计划安排",
-        "css": "btn",
-        "ref": "divTxtBtn19"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn12",
         "x": 1025,
         "y": 340,
-        "type": "selection",
-        "text": "自己一个人去吧",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn12"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn23",
         "x": 1025,
         "y": 400,
-        "type": "condition",
-        "text": "28日，面对练习的想法",
-        "css": "btn",
-        "ref": "divTxtBtn23"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn19",
         "x": 225,
         "y": 400,
-        "type": "condition",
-        "text": "28日，明天的计划安排",
-        "css": "btn",
-        "ref": "divTxtBtn19"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn27",
         "x": 25,
         "y": 490,
-        "type": "selection",
-        "text": "让她和芽衣玩",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn27"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn19",
         "x": 225,
         "y": 400,
-        "type": "condition",
-        "text": "28日，明天的计划安排",
-        "css": "btn",
-        "ref": "divTxtBtn19"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn34",
         "x": 425,
         "y": 490,
-        "type": "selection",
-        "text": "让她练习",
-        "css": "btn",
-        "ref": "divTxtBtn34"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn23",
         "x": 1025,
         "y": 400,
-        "type": "condition",
-        "text": "28日，面对练习的想法",
-        "css": "btn",
-        "ref": "divTxtBtn23"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn40",
         "x": 825,
         "y": 490,
-        "type": "selection",
-        "text": "练习",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn40"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn23",
         "x": 1025,
         "y": 400,
-        "type": "condition",
-        "text": "28日，面对练习的想法",
-        "css": "btn",
-        "ref": "divTxtBtn23"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn47",
         "x": 1225,
         "y": 490,
-        "type": "selection",
-        "text": "想对策",
-        "css": "btn",
-        "ref": "divTxtBtn47"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn27",
         "x": 25,
         "y": 490,
-        "type": "selection",
-        "text": "让她和芽衣玩",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn27"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn53",
         "x": 25,
         "y": 550,
-        "type": "condition",
-        "text": "27日，帮忙打理店铺",
-        "css": "btn",
-        "ref": "divTxtBtn53"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn47",
         "x": 1225,
         "y": 490,
-        "type": "selection",
-        "text": "想对策",
-        "css": "btn",
-        "ref": "divTxtBtn47"
+        "__type": "textbox"
       },
       {
-        "x": 1225,
-        "y": 550,
-        "type": "condition",
-        "text": "符合风子“光”消失事件触发条件",
-        "css": "btn",
         "ref": "divTxtBtn57",
-        "num": {
-          "x": 1210,
-          "y": 550,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn59"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 540,
-          "text": "符合风子“光”消失事件触发条件",
-          "num": "1",
-          "summary": "",
-          "hint": "{风子“光”消失事件触发条件}包括完成过风子线（达成风子TRUE ENDING或者风子GOOD ENDING）并且至少获得一颗“光”，以及之前没有触发过风子“光”消失事件（即该事件只能触发一次）。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt60"
-        }
+        "x": 1225,
+        "y": 550,
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn53",
         "x": 25,
         "y": 550,
-        "type": "condition",
-        "text": "27日，帮忙打理店铺",
-        "css": "btn",
-        "ref": "divTxtBtn53"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn63",
         "x": 25,
         "y": 640,
-        "type": "selection",
-        "text": "可以",
-        "css": "btn",
-        "ref": "divTxtBtn63"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn53",
         "x": 25,
         "y": 550,
-        "type": "condition",
-        "text": "27日，帮忙打理店铺",
-        "css": "btn",
-        "ref": "divTxtBtn53"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn67",
         "x": 425,
         "y": 640,
-        "type": "selection",
-        "text": "不好",
-        "css": "btn",
-        "ref": "divTxtBtn67"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn57",
         "x": 1225,
         "y": 550,
-        "type": "condition",
-        "text": "符合风子“光”消失事件触发条件",
-        "css": "btn",
-        "ref": "divTxtBtn57",
-        "num": {
-          "x": 1210,
-          "y": 550,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn59"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 540,
-          "text": "符合风子“光”消失事件触发条件",
-          "num": "1",
-          "summary": "",
-          "hint": "{风子“光”消失事件触发条件}包括完成过风子线（达成风子TRUE ENDING或者风子GOOD ENDING）并且至少获得一颗“光”，以及之前没有触发过风子“光”消失事件（即该事件只能触发一次）。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt60"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn73",
         "x": 825,
         "y": 640,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn73"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn57",
         "x": 1225,
         "y": 550,
-        "type": "condition",
-        "text": "符合风子“光”消失事件触发条件",
-        "css": "btn",
-        "ref": "divTxtBtn57",
-        "num": {
-          "x": 1210,
-          "y": 550,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn59"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 540,
-          "text": "符合风子“光”消失事件触发条件",
-          "num": "1",
-          "summary": "",
-          "hint": "{风子“光”消失事件触发条件}包括完成过风子线（达成风子TRUE ENDING或者风子GOOD ENDING）并且至少获得一颗“光”，以及之前没有触发过风子“光”消失事件（即该事件只能触发一次）。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt60"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn79",
         "x": 1225,
         "y": 640,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn79"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn63",
         "x": 25,
         "y": 640,
-        "type": "selection",
-        "text": "可以",
-        "css": "btn",
-        "ref": "divTxtBtn63"
+        "__type": "textbox"
       },
       {
-        "x": 25,
-        "y": 700,
-        "type": "condition",
-        "text": "符合风子“光”消失事件触发条件",
-        "css": "btn",
         "ref": "divTxtBtn83",
-        "num": {
-          "x": 10,
-          "y": 700,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn85"
-        },
-        "comment": null
+        "x": 25,
+        "y": 700,
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn79",
         "x": 1225,
         "y": 640,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn79"
+        "__type": "textbox"
       },
       {
-        "x": 1225,
-        "y": 700,
-        "type": "option",
-        "text": "风子“光”消失事件",
-        "css": "btn",
         "ref": "divTxtBtn88",
-        "num": {
-          "x": 1210,
-          "y": 700,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn90"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 690,
-          "text": "风子“光”消失事件",
-          "num": "2",
-          "summary": "",
-          "hint": "",
-          "setsumei": "古河渚线中期特殊事件。发生于29日下午，对AFTER STORY产生重大影响。用得到的一颗“光”为沉睡中风子许愿，“光”的数量会减少1，并且是AFTER STORY中获得风子和公子的“光”，从而达成TRUE ENDING的必要条件。",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt91"
-        }
+        "x": 1225,
+        "y": 700,
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn83",
         "x": 25,
         "y": 700,
-        "type": "condition",
-        "text": "符合风子“光”消失事件触发条件",
-        "css": "btn",
-        "ref": "divTxtBtn83",
-        "num": {
-          "x": 10,
-          "y": 700,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn85"
-        },
-        "comment": null
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn94",
         "x": 25,
         "y": 790,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn94"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn83",
         "x": 25,
         "y": 700,
-        "type": "condition",
-        "text": "符合风子“光”消失事件触发条件",
-        "css": "btn",
-        "ref": "divTxtBtn83",
-        "num": {
-          "x": 10,
-          "y": 700,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn85"
-        },
-        "comment": null
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn98",
         "x": 425,
         "y": 790,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn98"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn94",
         "x": 25,
         "y": 790,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn94"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn104",
         "x": 25,
         "y": 850,
-        "type": "option",
-        "text": "风子“光”消失事件",
-        "css": "btn",
-        "ref": "divTxtBtn104",
-        "num": {
-          "x": 10,
-          "y": 850,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn106"
-        },
-        "comment": null
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn104",
         "x": 25,
         "y": 850,
-        "type": "option",
-        "text": "风子“光”消失事件",
-        "css": "btn",
-        "ref": "divTxtBtn104",
-        "num": {
-          "x": 10,
-          "y": 850,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn106"
-        },
-        "comment": null
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn109",
         "x": 225,
         "y": 940,
-        "type": "selection",
-        "text": "渚奇怪的举动",
-        "css": "btn",
-        "ref": "divTxtBtn109"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn98",
         "x": 425,
         "y": 790,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn98"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn109",
         "x": 225,
         "y": 940,
-        "type": "selection",
-        "text": "渚奇怪的举动",
-        "css": "btn",
-        "ref": "divTxtBtn109"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn109",
         "x": 225,
         "y": 940,
-        "type": "selection",
-        "text": "渚奇怪的举动",
-        "css": "btn",
-        "ref": "divTxtBtn109"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn119",
         "x": 25,
         "y": 1030,
-        "type": "option",
-        "text": "问她到底怎么回事",
-        "css": "btn",
-        "ref": "divTxtBtn119"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn109",
         "x": 225,
         "y": 940,
-        "type": "selection",
-        "text": "渚奇怪的举动",
-        "css": "btn",
-        "ref": "divTxtBtn109"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn125",
         "x": 425,
         "y": 1030,
-        "type": "option",
-        "text": "拜托再来一次",
-        "css": "btn",
-        "ref": "divTxtBtn125"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn119",
         "x": 25,
         "y": 1030,
-        "type": "option",
-        "text": "问她到底怎么回事",
-        "css": "btn",
-        "ref": "divTxtBtn119"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 1120
+        "y": 1120,
+        "__type": "point"
       },
       {
+        "ref": "divBtn131",
         "x": 750,
         "y": 1150,
-        "type": "date",
-        "text": "4月30日",
-        "css": "date",
-        "ref": "divBtn131"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn125",
         "x": 425,
         "y": 1030,
-        "type": "option",
-        "text": "拜托再来一次",
-        "css": "btn",
-        "ref": "divTxtBtn125"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 1120
+        "y": 1120,
+        "__type": "point"
       },
       {
+        "ref": "divBtn131",
         "x": 750,
         "y": 1150,
-        "type": "date",
-        "text": "4月30日",
-        "css": "date",
-        "ref": "divBtn131"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn67",
         "x": 425,
         "y": 640,
-        "type": "selection",
-        "text": "不好",
-        "css": "btn",
-        "ref": "divTxtBtn67"
+        "__type": "textbox"
       },
       {
         "x": 800,
-        "y": 730
+        "y": 730,
+        "__type": "point"
       },
       {
+        "ref": "divBtn131",
         "x": 750,
         "y": 1150,
-        "type": "date",
-        "text": "4月30日",
-        "css": "date",
-        "ref": "divBtn131"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn73",
         "x": 825,
         "y": 640,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn73"
+        "__type": "textbox"
       },
       {
         "x": 1200,
-        "y": 790
+        "y": 790,
+        "__type": "point"
       },
       {
+        "ref": "divBtn131",
         "x": 750,
         "y": 1150,
-        "type": "date",
-        "text": "4月30日",
-        "css": "date",
-        "ref": "divBtn131"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn88",
         "x": 1225,
         "y": 700,
-        "type": "option",
-        "text": "风子“光”消失事件",
-        "css": "btn",
-        "ref": "divTxtBtn88",
-        "num": {
-          "x": 1210,
-          "y": 700,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn90"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 690,
-          "text": "风子“光”消失事件",
-          "num": "2",
-          "summary": "",
-          "hint": "",
-          "setsumei": "古河渚线中期特殊事件。发生于29日下午，对AFTER STORY产生重大影响。用得到的一颗“光”为沉睡中风子许愿，“光”的数量会减少1，并且是AFTER STORY中获得风子和公子的“光”，从而达成TRUE ENDING的必要条件。",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt91"
-        }
+        "__type": "textbox"
       },
       {
         "x": 1200,
-        "y": 790
+        "y": 790,
+        "__type": "point"
       },
       {
+        "ref": "divBtn131",
         "x": 750,
         "y": 1150,
-        "type": "date",
-        "text": "4月30日",
-        "css": "date",
-        "ref": "divBtn131"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn34",
         "x": 425,
         "y": 490,
-        "type": "selection",
-        "text": "让她练习",
-        "css": "btn",
-        "ref": "divTxtBtn34"
+        "__type": "textbox"
       },
       {
         "x": 800,
-        "y": 580
+        "y": 580,
+        "__type": "point"
       },
       {
+        "ref": "divBtn131",
         "x": 750,
         "y": 1150,
-        "type": "date",
-        "text": "4月30日",
-        "css": "date",
-        "ref": "divBtn131"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn40",
         "x": 825,
         "y": 490,
-        "type": "selection",
-        "text": "练习",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn40"
+        "__type": "textbox"
       },
       {
         "x": 800,
-        "y": 580
+        "y": 580,
+        "__type": "point"
       },
       {
+        "ref": "divBtn131",
         "x": 750,
         "y": 1150,
-        "type": "date",
-        "text": "4月30日",
-        "css": "date",
-        "ref": "divBtn131"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divBtn173",
         "x": 850,
         "y": 1285,
-        "type": "date",
-        "text": "4月30日",
-        "css": "date",
-        "ref": "divBtn173"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn174",
         "x": 725,
         "y": 1360,
-        "type": "option",
-        "text": "3对3篮球赛（二）",
-        "css": "btn",
-        "ref": "divTxtBtn174",
-        "link": "p53_ret33BB2"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn174",
         "x": 725,
         "y": 1360,
-        "type": "option",
-        "text": "3对3篮球赛（二）",
-        "css": "btn",
-        "ref": "divTxtBtn174",
-        "link": "p53_ret33BB2"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn178",
         "x": 725,
         "y": 1420,
-        "type": "condition",
-        "text": "符合篮球赛可能获胜的条件",
-        "css": "btn",
-        "ref": "divTxtBtn178",
-        "num": {
-          "x": 710,
-          "y": 1420,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn180"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1410,
-          "text": "符合篮球赛可能获胜的条件",
-          "num": "1",
-          "summary": "",
-          "hint": "{篮球赛可以获胜的条件}即3对3篮球赛（一）和（二）中邀请到杏、智代、美佐枝、秋生、芳野当中的一位成为参赛伙伴。3对3篮球赛相关攻略请参见P56～P58。<br>邀请到杏为参赛伙伴后，接下来的分支{最后一球的配合}出现的选项为[最后一球给我]和[最后一球给杏]，[最后一球给我]总是不变的而另一个选项因具体参赛伙伴而不同（[最后一球给智代/美佐枝/大叔/芳野先生]）。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt181"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn178",
         "x": 725,
         "y": 1420,
-        "type": "condition",
-        "text": "符合篮球赛可能获胜的条件",
-        "css": "btn",
-        "ref": "divTxtBtn178",
-        "num": {
-          "x": 710,
-          "y": 1420,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn180"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1410,
-          "text": "符合篮球赛可能获胜的条件",
-          "num": "1",
-          "summary": "",
-          "hint": "{篮球赛可以获胜的条件}即3对3篮球赛（一）和（二）中邀请到杏、智代、美佐枝、秋生、芳野当中的一位成为参赛伙伴。3对3篮球赛相关攻略请参见P56～P58。<br>邀请到杏为参赛伙伴后，接下来的分支{最后一球的配合}出现的选项为[最后一球给我]和[最后一球给杏]，[最后一球给我]总是不变的而另一个选项因具体参赛伙伴而不同（[最后一球给智代/美佐枝/大叔/芳野先生]）。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt181"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn184",
         "x": 525,
         "y": 1510,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn184"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn178",
         "x": 725,
         "y": 1420,
-        "type": "condition",
-        "text": "符合篮球赛可能获胜的条件",
-        "css": "btn",
-        "ref": "divTxtBtn178",
-        "num": {
-          "x": 710,
-          "y": 1420,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn180"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1410,
-          "text": "符合篮球赛可能获胜的条件",
-          "num": "1",
-          "summary": "",
-          "hint": "{篮球赛可以获胜的条件}即3对3篮球赛（一）和（二）中邀请到杏、智代、美佐枝、秋生、芳野当中的一位成为参赛伙伴。3对3篮球赛相关攻略请参见P56～P58。<br>邀请到杏为参赛伙伴后，接下来的分支{最后一球的配合}出现的选项为[最后一球给我]和[最后一球给杏]，[最后一球给我]总是不变的而另一个选项因具体参赛伙伴而不同（[最后一球给智代/美佐枝/大叔/芳野先生]）。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt181"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn190",
         "x": 925,
         "y": 1510,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn190"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn184",
         "x": 525,
         "y": 1510,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn184"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn196",
         "x": 525,
         "y": 1570,
-        "type": "selection",
-        "text": "最后一球的配合",
-        "css": "btn",
-        "ref": "divTxtBtn196"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn196",
         "x": 525,
         "y": 1570,
-        "type": "selection",
-        "text": "最后一球的配合",
-        "css": "btn",
-        "ref": "divTxtBtn196"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn200",
         "x": 325,
         "y": 1660,
-        "type": "option",
-        "text": "最后一球给我",
-        "route": "l|渚|-幸村",
-        "css": "btn",
-        "ref": "divTxtBtn200"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn196",
         "x": 525,
         "y": 1570,
-        "type": "selection",
-        "text": "最后一球的配合",
-        "css": "btn",
-        "ref": "divTxtBtn196"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn208",
         "x": 725,
         "y": 1660,
-        "type": "option",
-        "text": "最后一球给杏",
-        "route": "r|-幸村|渚",
-        "css": "btn",
-        "ref": "divTxtBtn208"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn200",
         "x": 325,
         "y": 1660,
-        "type": "option",
-        "text": "最后一球给我",
-        "route": "l|渚|-幸村",
-        "css": "btn",
-        "ref": "divTxtBtn200"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn216",
         "x": 450,
         "y": 1720,
-        "type": "date",
-        "text": "5月1日",
-        "css": "date",
-        "ref": "divBtn216"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn190",
         "x": 925,
         "y": 1510,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn190"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn219",
         "x": 925,
         "y": 1750,
-        "type": "condition",
-        "text": "29日，古河面包店前遇见公子",
-        "css": "btn",
-        "ref": "divTxtBtn219",
-        "num": {
-          "x": 910,
-          "y": 1750,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn221"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1740,
-          "text": "29日，古河面包店前遇见公子",
-          "num": "2",
-          "summary": "",
-          "hint": "{29日，在古河面包店遇见公子}包括26日，在分支{前来探亲的芽衣}选择[好的]；27日，在分支{帮忙打理店铺}选择[可以]以及在29日的分支{明天的计划安排}中选择[让她和芽衣玩]或者未触发这个分支，就能在29日下午的古河面包店遇见公子。也可以在{前来探亲的芽衣}选择[自己一个人去吧]或者未触发这个分支，并且在28日的分支{面对练习的想法}中选择[想对策]，同符合是的条件。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt222"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn208",
         "x": 725,
         "y": 1660,
-        "type": "option",
-        "text": "最后一球给杏",
-        "route": "r|-幸村|渚",
-        "css": "btn",
-        "ref": "divTxtBtn208"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn219",
         "x": 925,
         "y": 1750,
-        "type": "condition",
-        "text": "29日，古河面包店前遇见公子",
-        "css": "btn",
-        "ref": "divTxtBtn219",
-        "num": {
-          "x": 910,
-          "y": 1750,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn221"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1740,
-          "text": "29日，古河面包店前遇见公子",
-          "num": "2",
-          "summary": "",
-          "hint": "{29日，在古河面包店遇见公子}包括26日，在分支{前来探亲的芽衣}选择[好的]；27日，在分支{帮忙打理店铺}选择[可以]以及在29日的分支{明天的计划安排}中选择[让她和芽衣玩]或者未触发这个分支，就能在29日下午的古河面包店遇见公子。也可以在{前来探亲的芽衣}选择[自己一个人去吧]或者未触发这个分支，并且在28日的分支{面对练习的想法}中选择[想对策]，同符合是的条件。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt222"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn219",
         "x": 925,
         "y": 1750,
-        "type": "condition",
-        "text": "29日，古河面包店前遇见公子",
-        "css": "btn",
-        "ref": "divTxtBtn219",
-        "num": {
-          "x": 910,
-          "y": 1750,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn221"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1740,
-          "text": "29日，古河面包店前遇见公子",
-          "num": "2",
-          "summary": "",
-          "hint": "{29日，在古河面包店遇见公子}包括26日，在分支{前来探亲的芽衣}选择[好的]；27日，在分支{帮忙打理店铺}选择[可以]以及在29日的分支{明天的计划安排}中选择[让她和芽衣玩]或者未触发这个分支，就能在29日下午的古河面包店遇见公子。也可以在{前来探亲的芽衣}选择[自己一个人去吧]或者未触发这个分支，并且在28日的分支{面对练习的想法}中选择[想对策]，同符合是的条件。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt222"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn229",
         "x": 525,
         "y": 1840,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn229"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn219",
         "x": 925,
         "y": 1750,
-        "type": "condition",
-        "text": "29日，古河面包店前遇见公子",
-        "css": "btn",
-        "ref": "divTxtBtn219",
-        "num": {
-          "x": 910,
-          "y": 1750,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn221"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1740,
-          "text": "29日，古河面包店前遇见公子",
-          "num": "2",
-          "summary": "",
-          "hint": "{29日，在古河面包店遇见公子}包括26日，在分支{前来探亲的芽衣}选择[好的]；27日，在分支{帮忙打理店铺}选择[可以]以及在29日的分支{明天的计划安排}中选择[让她和芽衣玩]或者未触发这个分支，就能在29日下午的古河面包店遇见公子。也可以在{前来探亲的芽衣}选择[自己一个人去吧]或者未触发这个分支，并且在28日的分支{面对练习的想法}中选择[想对策]，同符合是的条件。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt222"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn235",
         "x": 925,
         "y": 1840,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn235"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn229",
         "x": 525,
         "y": 1840,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn229"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn239",
         "x": 525,
         "y": 1900,
-        "type": "option",
-        "text": "幸村“光”获得",
-        "css": "btn",
-        "ref": "divTxtBtn239"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn235",
         "x": 925,
         "y": 1840,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn235"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn243",
         "x": 925,
         "y": 1900,
-        "type": "condition",
-        "text": "渚 Bad Ending",
-        "css": "btn",
-        "ref": "divTxtBtn243"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn239",
         "x": 525,
         "y": 1900,
-        "type": "option",
-        "text": "幸村“光”获得",
-        "css": "btn",
-        "ref": "divTxtBtn239"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn247",
         "x": 525,
         "y": 1960,
-        "type": "condition",
-        "text": "幸村 Good Ending",
-        "css": "btn",
-        "ref": "divTxtBtn247"
+        "__type": "textbox"
       }
     ]
   ],
@@ -1724,7 +1240,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt60"
+      "ref": "divCmt60",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -1741,7 +1258,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt91"
+      "ref": "divCmt91",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -1758,7 +1276,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt181"
+      "ref": "divCmt181",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -1775,7 +1294,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt222"
+      "ref": "divCmt222",
+      "__type": "comment"
     }
   ],
   "header": {
@@ -1788,14 +1308,16 @@
     "dateE": "May 1st~May 10th",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 1990,
     "page": 53,
-    "ref": "divFt251"
+    "ref": "divFt251",
+    "__type": "footer"
   },
   "board": []
 }

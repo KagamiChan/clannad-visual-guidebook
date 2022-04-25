@@ -7,7 +7,8 @@
         "type": "date",
         "text": "4月15日",
         "css": "date",
-        "ref": "divBtn1"
+        "ref": "divBtn1",
+        "__type": "button"
       }
     ],
     [
@@ -18,13 +19,15 @@
         "text": "面对泪水打转的椋",
         "css": "btn",
         "ref": "divTxtBtn2",
+        "__type": "textbox",
         "num": {
           "x": 710,
           "y": 250,
           "type": "ccheck",
           "text": "1",
           "css": "check",
-          "ref": "divBtn4"
+          "ref": "divBtn4",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -41,7 +44,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
+          "ref": "divCmt5",
+          "__type": "comment"
         }
       }
     ],
@@ -53,7 +57,8 @@
         "text": "道歉",
         "route": "l|杏|椋|-琴美",
         "css": "btn",
-        "ref": "divTxtBtn8"
+        "ref": "divTxtBtn8",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -62,7 +67,8 @@
         "text": "无视",
         "route": "r|杏|椋|-琴美",
         "css": "btn",
-        "ref": "divTxtBtn17"
+        "ref": "divTxtBtn17",
+        "__type": "textbox"
       }
     ],
     [
@@ -73,13 +79,15 @@
         "text": "上午、英语语法课",
         "css": "btn",
         "ref": "divTxtBtn26",
+        "__type": "textbox",
         "num": {
           "x": 710,
           "y": 430,
           "type": "ccheck",
           "text": "2",
           "css": "check",
-          "ref": "divBtn28"
+          "ref": "divBtn28",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -96,7 +104,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt29"
+          "ref": "divCmt29",
+          "__type": "comment"
         }
       }
     ],
@@ -108,7 +117,8 @@
         "text": "逃课",
         "route": "l|琴美",
         "css": "btn",
-        "ref": "divTxtBtn38"
+        "ref": "divTxtBtn38",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -116,7 +126,8 @@
         "type": "option",
         "text": "认认真真上课",
         "css": "btn",
-        "ref": "divTxtBtn45"
+        "ref": "divTxtBtn45",
+        "__type": "textbox"
       }
     ],
     [
@@ -127,13 +138,15 @@
         "text": "被奇怪的女孩邀请吃便当",
         "css": "btn",
         "ref": "divTxtBtn51",
+        "__type": "textbox",
         "num": {
           "x": 510,
           "y": 580,
           "type": "ccheck",
           "text": "3",
           "css": "check",
-          "ref": "divBtn53"
+          "ref": "divBtn53",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -150,7 +163,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt54"
+          "ref": "divCmt54",
+          "__type": "comment"
         }
       }
     ],
@@ -161,7 +175,8 @@
         "type": "option",
         "text": "吃",
         "css": "btn",
-        "ref": "divTxtBtn57"
+        "ref": "divTxtBtn57",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -169,7 +184,8 @@
         "type": "option",
         "text": "不吃",
         "css": "btn",
-        "ref": "divTxtBtn63"
+        "ref": "divTxtBtn63",
+        "__type": "textbox"
       }
     ],
     [
@@ -180,13 +196,15 @@
         "text": "中午，庭院中的少女",
         "css": "btn",
         "ref": "divTxtBtn69",
+        "__type": "textbox",
         "num": {
           "x": 710,
           "y": 790,
           "type": "ccheck",
           "text": "4",
           "css": "check",
-          "ref": "divBtn71"
+          "ref": "divBtn71",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -203,7 +221,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt72"
+          "ref": "divCmt72",
+          "__type": "comment"
         }
       }
     ],
@@ -215,7 +234,8 @@
         "text": "到庭院去",
         "route": "l|渚|风子|琴美|智代",
         "css": "btn",
-        "ref": "divTxtBtn89"
+        "ref": "divTxtBtn89",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -224,7 +244,8 @@
         "text": "不去管她",
         "route": "r|智代|渚|风子|琴美",
         "css": "btn",
-        "ref": "divTxtBtn99"
+        "ref": "divTxtBtn99",
+        "__type": "textbox"
       }
     ],
     [
@@ -234,7 +255,8 @@
         "type": "selection",
         "text": "庭院中与少女的谈话",
         "css": "btn",
-        "ref": "divTxtBtn109"
+        "ref": "divTxtBtn109",
+        "__type": "textbox"
       }
     ],
     [
@@ -245,7 +267,8 @@
         "text": "再继续谈话",
         "route": "l|渚|风子|琴美|智代",
         "css": "btn",
-        "ref": "divTxtBtn113"
+        "ref": "divTxtBtn113",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -254,7 +277,8 @@
         "text": "是时候离开了",
         "route": "r|智代|渚|风子|琴美",
         "css": "btn",
-        "ref": "divTxtBtn123"
+        "ref": "divTxtBtn123",
+        "__type": "textbox"
       }
     ],
     [
@@ -265,13 +289,15 @@
         "text": "校门附近的骚动",
         "css": "btn",
         "ref": "divTxtBtn133",
+        "__type": "textbox",
         "num": {
           "x": 710,
           "y": 1150,
           "type": "ccheck",
           "text": "5",
           "css": "check",
-          "ref": "divBtn135"
+          "ref": "divBtn135",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -288,7 +314,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt136"
+          "ref": "divCmt136",
+          "__type": "comment"
         }
       }
     ],
@@ -300,7 +327,8 @@
         "text": "继续看下去",
         "route": "l|智代",
         "css": "btn",
-        "ref": "divTxtBtn153"
+        "ref": "divTxtBtn153",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -309,7 +337,8 @@
         "text": "出去避难",
         "route": "r|智代",
         "css": "btn",
-        "ref": "divTxtBtn160"
+        "ref": "divTxtBtn160",
+        "__type": "textbox"
       }
     ],
     [
@@ -319,7 +348,8 @@
         "type": "selection",
         "text": "平息骚动的神秘女生",
         "css": "btn",
-        "ref": "divTxtBtn167"
+        "ref": "divTxtBtn167",
+        "__type": "textbox"
       }
     ],
     [
@@ -330,7 +360,8 @@
         "text": "我对此也颇感兴趣",
         "route": "l|智代",
         "css": "btn",
-        "ref": "divTxtBtn171"
+        "ref": "divTxtBtn171",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -339,7 +370,8 @@
         "text": "我对此毫无兴趣",
         "route": "r|智代",
         "css": "btn",
-        "ref": "divTxtBtn178"
+        "ref": "divTxtBtn178",
+        "__type": "textbox"
       }
     ],
     [
@@ -350,13 +382,15 @@
         "text": "中午，庭院中与少女的谈话",
         "css": "btn",
         "ref": "divTxtBtn185",
+        "__type": "textbox",
         "num": {
           "x": 710,
           "y": 1510,
           "type": "ccheck",
           "text": "6",
           "css": "check",
-          "ref": "divBtn187"
+          "ref": "divBtn187",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -373,7 +407,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt188"
+          "ref": "divCmt188",
+          "__type": "comment"
         }
       }
     ],
@@ -384,7 +419,8 @@
         "type": "selection",
         "text": "再继续谈话",
         "css": "btn",
-        "ref": "divTxtBtn205"
+        "ref": "divTxtBtn205",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -392,7 +428,8 @@
         "type": "selection",
         "text": "是时候离开了",
         "css": "btn",
-        "ref": "divTxtBtn211"
+        "ref": "divTxtBtn211",
+        "__type": "textbox"
       }
     ],
     [
@@ -403,13 +440,15 @@
         "text": "回想起中午庭院中的女生",
         "css": "btn",
         "ref": "divTxtBtn217",
+        "__type": "textbox",
         "num": {
           "x": 510,
           "y": 1660,
           "type": "ccheck",
           "text": "7",
           "css": "check",
-          "ref": "divBtn219"
+          "ref": "divBtn219",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -426,7 +465,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt220"
+          "ref": "divCmt220",
+          "__type": "comment"
         }
       }
     ],
@@ -438,7 +478,8 @@
         "text": "在意",
         "route": "l|渚|风子",
         "css": "btn",
-        "ref": "divTxtBtn223"
+        "ref": "divTxtBtn223",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -447,7 +488,8 @@
         "text": "不在意",
         "route": "r|渚|风子",
         "css": "btn",
-        "ref": "divTxtBtn231"
+        "ref": "divTxtBtn231",
+        "__type": "textbox"
       }
     ],
     [
@@ -458,13 +500,15 @@
         "text": "宿舍走廊遇见美佐枝",
         "css": "btn",
         "ref": "divTxtBtn239",
+        "__type": "textbox",
         "num": {
           "x": 710,
           "y": 1870,
           "type": "ccheck",
           "text": "8",
           "css": "check",
-          "ref": "divBtn241"
+          "ref": "divBtn241",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -481,7 +525,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt242"
+          "ref": "divCmt242",
+          "__type": "comment"
         }
       }
     ],
@@ -493,7 +538,8 @@
         "text": "向她搭话",
         "route": "l|美佐枝",
         "css": "btn",
-        "ref": "divTxtBtn259"
+        "ref": "divTxtBtn259",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -502,7 +548,8 @@
         "text": "不去管她",
         "route": "r|美佐枝",
         "css": "btn",
-        "ref": "divTxtBtn266"
+        "ref": "divTxtBtn266",
+        "__type": "textbox"
       }
     ],
     [
@@ -513,13 +560,15 @@
         "text": "幻想世界（一）",
         "css": "btn",
         "ref": "divTxtBtn273",
+        "__type": "textbox",
         "num": {
           "x": 710,
           "y": 2050,
           "type": "ccheck",
           "text": "9",
           "css": "check",
-          "ref": "divBtn275"
+          "ref": "divBtn275",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -536,7 +585,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt276"
+          "ref": "divCmt276",
+          "__type": "comment"
         }
       }
     ],
@@ -547,1727 +597,638 @@
         "type": "date",
         "text": "4月16日",
         "css": "date",
-        "ref": "divBtn285"
+        "ref": "divBtn285",
+        "__type": "button"
       }
     ]
   ],
   "line": [
     [
       {
+        "ref": "divBtn1",
         "x": 850,
         "y": 175,
-        "type": "date",
-        "text": "4月15日",
-        "css": "date",
-        "ref": "divBtn1"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn2",
         "x": 725,
         "y": 250,
-        "type": "selection",
-        "text": "面对泪水打转的椋",
-        "css": "btn",
-        "ref": "divTxtBtn2",
-        "num": {
-          "x": 710,
-          "y": 250,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn4"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 240,
-          "text": "面对泪水打转的椋",
-          "num": "1",
-          "summary": "早晨，心情不爽的朋也对前来发通知并作善意提醒的班长藤林椋说了过分的话……",
-          "hint": "选择[道歉]，则进入藤林姐妹的线路，但17日逃课后不会触发一之濑琴美的剧情而无法继续琴美线。因此，攻略琴美线时须选择[无视]。",
-          "setsumei": "在CLANNAD中，选择分支每个选项都会对日后剧情的内容产生不同的影响，但不一定都改变剧情的走向。",
-          "option": "-无视",
-          "icon": "00100000",
-          "iconillu": "椋成为3对3篮球赛候选",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 725,
         "y": 250,
-        "type": "selection",
-        "text": "面对泪水打转的椋",
-        "css": "btn",
-        "ref": "divTxtBtn2",
-        "num": {
-          "x": 710,
-          "y": 250,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn4"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 240,
-          "text": "面对泪水打转的椋",
-          "num": "1",
-          "summary": "早晨，心情不爽的朋也对前来发通知并作善意提醒的班长藤林椋说了过分的话……",
-          "hint": "选择[道歉]，则进入藤林姐妹的线路，但17日逃课后不会触发一之濑琴美的剧情而无法继续琴美线。因此，攻略琴美线时须选择[无视]。",
-          "setsumei": "在CLANNAD中，选择分支每个选项都会对日后剧情的内容产生不同的影响，但不一定都改变剧情的走向。",
-          "option": "-无视",
-          "icon": "00100000",
-          "iconillu": "椋成为3对3篮球赛候选",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn8",
         "x": 525,
         "y": 340,
-        "type": "option",
-        "text": "道歉",
-        "route": "l|杏|椋|-琴美",
-        "css": "btn",
-        "ref": "divTxtBtn8"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 725,
         "y": 250,
-        "type": "selection",
-        "text": "面对泪水打转的椋",
-        "css": "btn",
-        "ref": "divTxtBtn2",
-        "num": {
-          "x": 710,
-          "y": 250,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn4"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 240,
-          "text": "面对泪水打转的椋",
-          "num": "1",
-          "summary": "早晨，心情不爽的朋也对前来发通知并作善意提醒的班长藤林椋说了过分的话……",
-          "hint": "选择[道歉]，则进入藤林姐妹的线路，但17日逃课后不会触发一之濑琴美的剧情而无法继续琴美线。因此，攻略琴美线时须选择[无视]。",
-          "setsumei": "在CLANNAD中，选择分支每个选项都会对日后剧情的内容产生不同的影响，但不一定都改变剧情的走向。",
-          "option": "-无视",
-          "icon": "00100000",
-          "iconillu": "椋成为3对3篮球赛候选",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn17",
         "x": 925,
         "y": 340,
-        "type": "option",
-        "text": "无视",
-        "route": "r|杏|椋|-琴美",
-        "css": "btn",
-        "ref": "divTxtBtn17"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn8",
         "x": 525,
         "y": 340,
-        "type": "option",
-        "text": "道歉",
-        "route": "l|杏|椋|-琴美",
-        "css": "btn",
-        "ref": "divTxtBtn8"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn26",
         "x": 725,
         "y": 430,
-        "type": "selection",
-        "text": "上午、英语语法课",
-        "css": "btn",
-        "ref": "divTxtBtn26",
-        "num": {
-          "x": 710,
-          "y": 430,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn28"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 420,
-          "text": "上午、英语语法课",
-          "num": "2",
-          "summary": "无聊的学习生活仍在继续，下一节英语语法课，朋也决定是否逃课来打发时间。",
-          "hint": "选择[逃课]，则15日顺利进入一之濑琴美的剧情；若选择[认认真真上课]，则16日还有最后一次认识琴美的机会。15日逃课后，16日的机会就会消失，简而言之，两次机会您只能把握一次。若在之前的分支{面对泪水打转的椋}选择[道歉]，17日即强制退出琴美线。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt29"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn17",
         "x": 925,
         "y": 340,
-        "type": "option",
-        "text": "无视",
-        "route": "r|杏|椋|-琴美",
-        "css": "btn",
-        "ref": "divTxtBtn17"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn26",
         "x": 725,
         "y": 430,
-        "type": "selection",
-        "text": "上午、英语语法课",
-        "css": "btn",
-        "ref": "divTxtBtn26",
-        "num": {
-          "x": 710,
-          "y": 430,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn28"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 420,
-          "text": "上午、英语语法课",
-          "num": "2",
-          "summary": "无聊的学习生活仍在继续，下一节英语语法课，朋也决定是否逃课来打发时间。",
-          "hint": "选择[逃课]，则15日顺利进入一之濑琴美的剧情；若选择[认认真真上课]，则16日还有最后一次认识琴美的机会。15日逃课后，16日的机会就会消失，简而言之，两次机会您只能把握一次。若在之前的分支{面对泪水打转的椋}选择[道歉]，17日即强制退出琴美线。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt29"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn26",
         "x": 725,
         "y": 430,
-        "type": "selection",
-        "text": "上午、英语语法课",
-        "css": "btn",
-        "ref": "divTxtBtn26",
-        "num": {
-          "x": 710,
-          "y": 430,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn28"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 420,
-          "text": "上午、英语语法课",
-          "num": "2",
-          "summary": "无聊的学习生活仍在继续，下一节英语语法课，朋也决定是否逃课来打发时间。",
-          "hint": "选择[逃课]，则15日顺利进入一之濑琴美的剧情；若选择[认认真真上课]，则16日还有最后一次认识琴美的机会。15日逃课后，16日的机会就会消失，简而言之，两次机会您只能把握一次。若在之前的分支{面对泪水打转的椋}选择[道歉]，17日即强制退出琴美线。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt29"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn38",
         "x": 525,
         "y": 520,
-        "type": "option",
-        "text": "逃课",
-        "route": "l|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn26",
         "x": 725,
         "y": 430,
-        "type": "selection",
-        "text": "上午、英语语法课",
-        "css": "btn",
-        "ref": "divTxtBtn26",
-        "num": {
-          "x": 710,
-          "y": 430,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn28"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 420,
-          "text": "上午、英语语法课",
-          "num": "2",
-          "summary": "无聊的学习生活仍在继续，下一节英语语法课，朋也决定是否逃课来打发时间。",
-          "hint": "选择[逃课]，则15日顺利进入一之濑琴美的剧情；若选择[认认真真上课]，则16日还有最后一次认识琴美的机会。15日逃课后，16日的机会就会消失，简而言之，两次机会您只能把握一次。若在之前的分支{面对泪水打转的椋}选择[道歉]，17日即强制退出琴美线。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt29"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn45",
         "x": 925,
         "y": 520,
-        "type": "option",
-        "text": "认认真真上课",
-        "css": "btn",
-        "ref": "divTxtBtn45"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn38",
         "x": 525,
         "y": 520,
-        "type": "option",
-        "text": "逃课",
-        "route": "l|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn51",
         "x": 525,
         "y": 580,
-        "type": "selection",
-        "text": "被奇怪的女孩邀请吃便当",
-        "css": "btn",
-        "ref": "divTxtBtn51",
-        "num": {
-          "x": 510,
-          "y": 580,
-          "type": "ccheck",
-          "text": "3",
-          "css": "check",
-          "ref": "divBtn53"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 570,
-          "text": "图书馆，被奇怪的女孩邀请吃便当",
-          "num": "3",
-          "summary": "",
-          "hint": "",
-          "setsumei": "琴美线是CLANNAD中唯一有好感度系统的线路。请注意不要让好感度过低，否则后续剧情会增加一些可能导致BAD ENDING的选择分支。每次选择了正确的选项之后都能使好感度上升1点。",
-          "option": "-吃",
-          "icon": "00000100",
-          "iconillu": "琴美好感度上升1点",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt54"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn51",
         "x": 525,
         "y": 580,
-        "type": "selection",
-        "text": "被奇怪的女孩邀请吃便当",
-        "css": "btn",
-        "ref": "divTxtBtn51",
-        "num": {
-          "x": 510,
-          "y": 580,
-          "type": "ccheck",
-          "text": "3",
-          "css": "check",
-          "ref": "divBtn53"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 570,
-          "text": "图书馆，被奇怪的女孩邀请吃便当",
-          "num": "3",
-          "summary": "",
-          "hint": "",
-          "setsumei": "琴美线是CLANNAD中唯一有好感度系统的线路。请注意不要让好感度过低，否则后续剧情会增加一些可能导致BAD ENDING的选择分支。每次选择了正确的选项之后都能使好感度上升1点。",
-          "option": "-吃",
-          "icon": "00000100",
-          "iconillu": "琴美好感度上升1点",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt54"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn57",
         "x": 325,
         "y": 670,
-        "type": "option",
-        "text": "吃",
-        "css": "btn",
-        "ref": "divTxtBtn57"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn51",
         "x": 525,
         "y": 580,
-        "type": "selection",
-        "text": "被奇怪的女孩邀请吃便当",
-        "css": "btn",
-        "ref": "divTxtBtn51",
-        "num": {
-          "x": 510,
-          "y": 580,
-          "type": "ccheck",
-          "text": "3",
-          "css": "check",
-          "ref": "divBtn53"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 570,
-          "text": "图书馆，被奇怪的女孩邀请吃便当",
-          "num": "3",
-          "summary": "",
-          "hint": "",
-          "setsumei": "琴美线是CLANNAD中唯一有好感度系统的线路。请注意不要让好感度过低，否则后续剧情会增加一些可能导致BAD ENDING的选择分支。每次选择了正确的选项之后都能使好感度上升1点。",
-          "option": "-吃",
-          "icon": "00000100",
-          "iconillu": "琴美好感度上升1点",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt54"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn63",
         "x": 725,
         "y": 670,
-        "type": "option",
-        "text": "不吃",
-        "css": "btn",
-        "ref": "divTxtBtn63"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn57",
         "x": 325,
         "y": 670,
-        "type": "option",
-        "text": "吃",
-        "css": "btn",
-        "ref": "divTxtBtn57"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 760
+        "y": 760,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn69",
         "x": 725,
         "y": 790,
-        "type": "selection",
-        "text": "中午，庭院中的少女",
-        "css": "btn",
-        "ref": "divTxtBtn69",
-        "num": {
-          "x": 710,
-          "y": 790,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn71"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 780,
-          "text": "庭院中孤单的少女",
-          "num": "4",
-          "summary": "午休时间，朋也在走廊上，看到庭院中独自一人坐着的少女。没错，就是连续两天在坡道上遇见的那个女孩。孤单的她好像并没有朋友的陪伴……",
-          "hint": "选择[到庭院去]并且接下来的分支选择[再继续谈话]，则进入古河渚和伊吹风子的线路，同时这又是琴美线的必选项和能够达成智代线GOOD ENDING的必要前提。",
-          "setsumei": "CLANNAD中，渚线和风子线在公共剧情中重叠部分相对各自与其它线路之间要多很多。它们是关系比较紧密的两条线。除此之外，还有藤林姐妹线和柊胜平线；坂上智代线和相乐美佐枝线。",
-          "option": "+到庭院去|-再继续谈话",
-          "icon": "11010000",
-          "iconillu": "渚有条件参与64HIT、有纪宁的咒语、体育仓库事件和伪女友事件；秋生有条件参与体育仓库事件。",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt72"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn63",
         "x": 725,
         "y": 670,
-        "type": "option",
-        "text": "不吃",
-        "css": "btn",
-        "ref": "divTxtBtn63"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 760
+        "y": 760,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn69",
         "x": 725,
         "y": 790,
-        "type": "selection",
-        "text": "中午，庭院中的少女",
-        "css": "btn",
-        "ref": "divTxtBtn69",
-        "num": {
-          "x": 710,
-          "y": 790,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn71"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 780,
-          "text": "庭院中孤单的少女",
-          "num": "4",
-          "summary": "午休时间，朋也在走廊上，看到庭院中独自一人坐着的少女。没错，就是连续两天在坡道上遇见的那个女孩。孤单的她好像并没有朋友的陪伴……",
-          "hint": "选择[到庭院去]并且接下来的分支选择[再继续谈话]，则进入古河渚和伊吹风子的线路，同时这又是琴美线的必选项和能够达成智代线GOOD ENDING的必要前提。",
-          "setsumei": "CLANNAD中，渚线和风子线在公共剧情中重叠部分相对各自与其它线路之间要多很多。它们是关系比较紧密的两条线。除此之外，还有藤林姐妹线和柊胜平线；坂上智代线和相乐美佐枝线。",
-          "option": "+到庭院去|-再继续谈话",
-          "icon": "11010000",
-          "iconillu": "渚有条件参与64HIT、有纪宁的咒语、体育仓库事件和伪女友事件；秋生有条件参与体育仓库事件。",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt72"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn45",
         "x": 925,
         "y": 520,
-        "type": "option",
-        "text": "认认真真上课",
-        "css": "btn",
-        "ref": "divTxtBtn45"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn69",
         "x": 725,
         "y": 790,
-        "type": "selection",
-        "text": "中午，庭院中的少女",
-        "css": "btn",
-        "ref": "divTxtBtn69",
-        "num": {
-          "x": 710,
-          "y": 790,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn71"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 780,
-          "text": "庭院中孤单的少女",
-          "num": "4",
-          "summary": "午休时间，朋也在走廊上，看到庭院中独自一人坐着的少女。没错，就是连续两天在坡道上遇见的那个女孩。孤单的她好像并没有朋友的陪伴……",
-          "hint": "选择[到庭院去]并且接下来的分支选择[再继续谈话]，则进入古河渚和伊吹风子的线路，同时这又是琴美线的必选项和能够达成智代线GOOD ENDING的必要前提。",
-          "setsumei": "CLANNAD中，渚线和风子线在公共剧情中重叠部分相对各自与其它线路之间要多很多。它们是关系比较紧密的两条线。除此之外，还有藤林姐妹线和柊胜平线；坂上智代线和相乐美佐枝线。",
-          "option": "+到庭院去|-再继续谈话",
-          "icon": "11010000",
-          "iconillu": "渚有条件参与64HIT、有纪宁的咒语、体育仓库事件和伪女友事件；秋生有条件参与体育仓库事件。",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt72"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn69",
         "x": 725,
         "y": 790,
-        "type": "selection",
-        "text": "中午，庭院中的少女",
-        "css": "btn",
-        "ref": "divTxtBtn69",
-        "num": {
-          "x": 710,
-          "y": 790,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn71"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 780,
-          "text": "庭院中孤单的少女",
-          "num": "4",
-          "summary": "午休时间，朋也在走廊上，看到庭院中独自一人坐着的少女。没错，就是连续两天在坡道上遇见的那个女孩。孤单的她好像并没有朋友的陪伴……",
-          "hint": "选择[到庭院去]并且接下来的分支选择[再继续谈话]，则进入古河渚和伊吹风子的线路，同时这又是琴美线的必选项和能够达成智代线GOOD ENDING的必要前提。",
-          "setsumei": "CLANNAD中，渚线和风子线在公共剧情中重叠部分相对各自与其它线路之间要多很多。它们是关系比较紧密的两条线。除此之外，还有藤林姐妹线和柊胜平线；坂上智代线和相乐美佐枝线。",
-          "option": "+到庭院去|-再继续谈话",
-          "icon": "11010000",
-          "iconillu": "渚有条件参与64HIT、有纪宁的咒语、体育仓库事件和伪女友事件；秋生有条件参与体育仓库事件。",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt72"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn89",
         "x": 525,
         "y": 880,
-        "type": "option",
-        "text": "到庭院去",
-        "route": "l|渚|风子|琴美|智代",
-        "css": "btn",
-        "ref": "divTxtBtn89"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn69",
         "x": 725,
         "y": 790,
-        "type": "selection",
-        "text": "中午，庭院中的少女",
-        "css": "btn",
-        "ref": "divTxtBtn69",
-        "num": {
-          "x": 710,
-          "y": 790,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn71"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 780,
-          "text": "庭院中孤单的少女",
-          "num": "4",
-          "summary": "午休时间，朋也在走廊上，看到庭院中独自一人坐着的少女。没错，就是连续两天在坡道上遇见的那个女孩。孤单的她好像并没有朋友的陪伴……",
-          "hint": "选择[到庭院去]并且接下来的分支选择[再继续谈话]，则进入古河渚和伊吹风子的线路，同时这又是琴美线的必选项和能够达成智代线GOOD ENDING的必要前提。",
-          "setsumei": "CLANNAD中，渚线和风子线在公共剧情中重叠部分相对各自与其它线路之间要多很多。它们是关系比较紧密的两条线。除此之外，还有藤林姐妹线和柊胜平线；坂上智代线和相乐美佐枝线。",
-          "option": "+到庭院去|-再继续谈话",
-          "icon": "11010000",
-          "iconillu": "渚有条件参与64HIT、有纪宁的咒语、体育仓库事件和伪女友事件；秋生有条件参与体育仓库事件。",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt72"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn99",
         "x": 925,
         "y": 880,
-        "type": "option",
-        "text": "不去管她",
-        "route": "r|智代|渚|风子|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn99"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn89",
         "x": 525,
         "y": 880,
-        "type": "option",
-        "text": "到庭院去",
-        "route": "l|渚|风子|琴美|智代",
-        "css": "btn",
-        "ref": "divTxtBtn89"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn109",
         "x": 525,
         "y": 940,
-        "type": "selection",
-        "text": "庭院中与少女的谈话",
-        "css": "btn",
-        "ref": "divTxtBtn109"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn109",
         "x": 525,
         "y": 940,
-        "type": "selection",
-        "text": "庭院中与少女的谈话",
-        "css": "btn",
-        "ref": "divTxtBtn109"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn113",
         "x": 325,
         "y": 1030,
-        "type": "option",
-        "text": "再继续谈话",
-        "route": "l|渚|风子|琴美|智代",
-        "css": "btn",
-        "ref": "divTxtBtn113"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn109",
         "x": 525,
         "y": 940,
-        "type": "selection",
-        "text": "庭院中与少女的谈话",
-        "css": "btn",
-        "ref": "divTxtBtn109"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn123",
         "x": 725,
         "y": 1030,
-        "type": "option",
-        "text": "是时候离开了",
-        "route": "r|智代|渚|风子|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn123"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn113",
         "x": 325,
         "y": 1030,
-        "type": "option",
-        "text": "再继续谈话",
-        "route": "l|渚|风子|琴美|智代",
-        "css": "btn",
-        "ref": "divTxtBtn113"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 1120
+        "y": 1120,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn133",
         "x": 725,
         "y": 1150,
-        "type": "selection",
-        "text": "校门附近的骚动",
-        "css": "btn",
-        "ref": "divTxtBtn133",
-        "num": {
-          "x": 710,
-          "y": 1150,
-          "type": "ccheck",
-          "text": "5",
-          "css": "check",
-          "ref": "divBtn135"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1140,
-          "text": "校门前的骚动，平息骚动的神秘女生",
-          "num": "5",
-          "summary": "下午，校门口传来嘈杂声，是工业学校的学生的上门挑衅。此时，一位银发女生在众人的注视下出场了，并在片刻间平息了骚动。好事的春原决定会她一会……",
-          "hint": "选择[继续看下去]并在接下来的分支选择[我也对此颇感兴趣]，则进入坂上智代线。若在之前的分支{中午、庭院中的少女}选择[不去管她]，之后将无法达成智代线GOOD ENDING。",
-          "setsumei": "",
-          "option": "+继续看下去|-我对此也颇感兴趣",
-          "icon": "01110011",
-          "iconillu": "智代有条件参与有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和毕业典礼；业余棒球进入必选",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt136"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn123",
         "x": 725,
         "y": 1030,
-        "type": "option",
-        "text": "是时候离开了",
-        "route": "r|智代|渚|风子|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn123"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 1120
+        "y": 1120,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn133",
         "x": 725,
         "y": 1150,
-        "type": "selection",
-        "text": "校门附近的骚动",
-        "css": "btn",
-        "ref": "divTxtBtn133",
-        "num": {
-          "x": 710,
-          "y": 1150,
-          "type": "ccheck",
-          "text": "5",
-          "css": "check",
-          "ref": "divBtn135"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1140,
-          "text": "校门前的骚动，平息骚动的神秘女生",
-          "num": "5",
-          "summary": "下午，校门口传来嘈杂声，是工业学校的学生的上门挑衅。此时，一位银发女生在众人的注视下出场了，并在片刻间平息了骚动。好事的春原决定会她一会……",
-          "hint": "选择[继续看下去]并在接下来的分支选择[我也对此颇感兴趣]，则进入坂上智代线。若在之前的分支{中午、庭院中的少女}选择[不去管她]，之后将无法达成智代线GOOD ENDING。",
-          "setsumei": "",
-          "option": "+继续看下去|-我对此也颇感兴趣",
-          "icon": "01110011",
-          "iconillu": "智代有条件参与有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和毕业典礼；业余棒球进入必选",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt136"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn99",
         "x": 925,
         "y": 880,
-        "type": "option",
-        "text": "不去管她",
-        "route": "r|智代|渚|风子|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn99"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn133",
         "x": 725,
         "y": 1150,
-        "type": "selection",
-        "text": "校门附近的骚动",
-        "css": "btn",
-        "ref": "divTxtBtn133",
-        "num": {
-          "x": 710,
-          "y": 1150,
-          "type": "ccheck",
-          "text": "5",
-          "css": "check",
-          "ref": "divBtn135"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1140,
-          "text": "校门前的骚动，平息骚动的神秘女生",
-          "num": "5",
-          "summary": "下午，校门口传来嘈杂声，是工业学校的学生的上门挑衅。此时，一位银发女生在众人的注视下出场了，并在片刻间平息了骚动。好事的春原决定会她一会……",
-          "hint": "选择[继续看下去]并在接下来的分支选择[我也对此颇感兴趣]，则进入坂上智代线。若在之前的分支{中午、庭院中的少女}选择[不去管她]，之后将无法达成智代线GOOD ENDING。",
-          "setsumei": "",
-          "option": "+继续看下去|-我对此也颇感兴趣",
-          "icon": "01110011",
-          "iconillu": "智代有条件参与有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和毕业典礼；业余棒球进入必选",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt136"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn133",
         "x": 725,
         "y": 1150,
-        "type": "selection",
-        "text": "校门附近的骚动",
-        "css": "btn",
-        "ref": "divTxtBtn133",
-        "num": {
-          "x": 710,
-          "y": 1150,
-          "type": "ccheck",
-          "text": "5",
-          "css": "check",
-          "ref": "divBtn135"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1140,
-          "text": "校门前的骚动，平息骚动的神秘女生",
-          "num": "5",
-          "summary": "下午，校门口传来嘈杂声，是工业学校的学生的上门挑衅。此时，一位银发女生在众人的注视下出场了，并在片刻间平息了骚动。好事的春原决定会她一会……",
-          "hint": "选择[继续看下去]并在接下来的分支选择[我也对此颇感兴趣]，则进入坂上智代线。若在之前的分支{中午、庭院中的少女}选择[不去管她]，之后将无法达成智代线GOOD ENDING。",
-          "setsumei": "",
-          "option": "+继续看下去|-我对此也颇感兴趣",
-          "icon": "01110011",
-          "iconillu": "智代有条件参与有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和毕业典礼；业余棒球进入必选",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt136"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn153",
         "x": 525,
         "y": 1240,
-        "type": "option",
-        "text": "继续看下去",
-        "route": "l|智代",
-        "css": "btn",
-        "ref": "divTxtBtn153"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn133",
         "x": 725,
         "y": 1150,
-        "type": "selection",
-        "text": "校门附近的骚动",
-        "css": "btn",
-        "ref": "divTxtBtn133",
-        "num": {
-          "x": 710,
-          "y": 1150,
-          "type": "ccheck",
-          "text": "5",
-          "css": "check",
-          "ref": "divBtn135"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1140,
-          "text": "校门前的骚动，平息骚动的神秘女生",
-          "num": "5",
-          "summary": "下午，校门口传来嘈杂声，是工业学校的学生的上门挑衅。此时，一位银发女生在众人的注视下出场了，并在片刻间平息了骚动。好事的春原决定会她一会……",
-          "hint": "选择[继续看下去]并在接下来的分支选择[我也对此颇感兴趣]，则进入坂上智代线。若在之前的分支{中午、庭院中的少女}选择[不去管她]，之后将无法达成智代线GOOD ENDING。",
-          "setsumei": "",
-          "option": "+继续看下去|-我对此也颇感兴趣",
-          "icon": "01110011",
-          "iconillu": "智代有条件参与有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和毕业典礼；业余棒球进入必选",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt136"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn160",
         "x": 925,
         "y": 1240,
-        "type": "option",
-        "text": "出去避难",
-        "route": "r|智代",
-        "css": "btn",
-        "ref": "divTxtBtn160"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn153",
         "x": 525,
         "y": 1240,
-        "type": "option",
-        "text": "继续看下去",
-        "route": "l|智代",
-        "css": "btn",
-        "ref": "divTxtBtn153"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn167",
         "x": 525,
         "y": 1300,
-        "type": "selection",
-        "text": "平息骚动的神秘女生",
-        "css": "btn",
-        "ref": "divTxtBtn167"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn167",
         "x": 525,
         "y": 1300,
-        "type": "selection",
-        "text": "平息骚动的神秘女生",
-        "css": "btn",
-        "ref": "divTxtBtn167"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn171",
         "x": 325,
         "y": 1390,
-        "type": "option",
-        "text": "我对此也颇感兴趣",
-        "route": "l|智代",
-        "css": "btn",
-        "ref": "divTxtBtn171"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn167",
         "x": 525,
         "y": 1300,
-        "type": "selection",
-        "text": "平息骚动的神秘女生",
-        "css": "btn",
-        "ref": "divTxtBtn167"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn178",
         "x": 725,
         "y": 1390,
-        "type": "option",
-        "text": "我对此毫无兴趣",
-        "route": "r|智代",
-        "css": "btn",
-        "ref": "divTxtBtn178"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn171",
         "x": 325,
         "y": 1390,
-        "type": "option",
-        "text": "我对此也颇感兴趣",
-        "route": "l|智代",
-        "css": "btn",
-        "ref": "divTxtBtn171"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 1480
+        "y": 1480,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn185",
         "x": 725,
         "y": 1510,
-        "type": "condition",
-        "text": "中午，庭院中与少女的谈话",
-        "css": "btn",
-        "ref": "divTxtBtn185",
-        "num": {
-          "x": 710,
-          "y": 1510,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn187"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1500,
-          "text": "条件选择分支",
-          "num": "6",
-          "summary": "",
-          "hint": "",
-          "setsumei": "这是游戏中第一次遇到条件选择分支的地方。大多数情况下，我们以是否进入某条线路作为判断条件。CLANNAD中，这种情况是很普遍的。但在某些情况下，只能用特定日期的特定选择来表述。您在攻略时，应当注意每个选择项旁所给出的角标提示，并作适当记录，来确定目前处于哪些角色的线路之中以防止出错。",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt188"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn178",
         "x": 725,
         "y": 1390,
-        "type": "option",
-        "text": "我对此毫无兴趣",
-        "route": "r|智代",
-        "css": "btn",
-        "ref": "divTxtBtn178"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 1480
+        "y": 1480,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn185",
         "x": 725,
         "y": 1510,
-        "type": "condition",
-        "text": "中午，庭院中与少女的谈话",
-        "css": "btn",
-        "ref": "divTxtBtn185",
-        "num": {
-          "x": 710,
-          "y": 1510,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn187"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1500,
-          "text": "条件选择分支",
-          "num": "6",
-          "summary": "",
-          "hint": "",
-          "setsumei": "这是游戏中第一次遇到条件选择分支的地方。大多数情况下，我们以是否进入某条线路作为判断条件。CLANNAD中，这种情况是很普遍的。但在某些情况下，只能用特定日期的特定选择来表述。您在攻略时，应当注意每个选择项旁所给出的角标提示，并作适当记录，来确定目前处于哪些角色的线路之中以防止出错。",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt188"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn160",
         "x": 925,
         "y": 1240,
-        "type": "option",
-        "text": "出去避难",
-        "route": "r|智代",
-        "css": "btn",
-        "ref": "divTxtBtn160"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn185",
         "x": 725,
         "y": 1510,
-        "type": "condition",
-        "text": "中午，庭院中与少女的谈话",
-        "css": "btn",
-        "ref": "divTxtBtn185",
-        "num": {
-          "x": 710,
-          "y": 1510,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn187"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1500,
-          "text": "条件选择分支",
-          "num": "6",
-          "summary": "",
-          "hint": "",
-          "setsumei": "这是游戏中第一次遇到条件选择分支的地方。大多数情况下，我们以是否进入某条线路作为判断条件。CLANNAD中，这种情况是很普遍的。但在某些情况下，只能用特定日期的特定选择来表述。您在攻略时，应当注意每个选择项旁所给出的角标提示，并作适当记录，来确定目前处于哪些角色的线路之中以防止出错。",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt188"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn185",
         "x": 725,
         "y": 1510,
-        "type": "condition",
-        "text": "中午，庭院中与少女的谈话",
-        "css": "btn",
-        "ref": "divTxtBtn185",
-        "num": {
-          "x": 710,
-          "y": 1510,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn187"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1500,
-          "text": "条件选择分支",
-          "num": "6",
-          "summary": "",
-          "hint": "",
-          "setsumei": "这是游戏中第一次遇到条件选择分支的地方。大多数情况下，我们以是否进入某条线路作为判断条件。CLANNAD中，这种情况是很普遍的。但在某些情况下，只能用特定日期的特定选择来表述。您在攻略时，应当注意每个选择项旁所给出的角标提示，并作适当记录，来确定目前处于哪些角色的线路之中以防止出错。",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt188"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn205",
         "x": 525,
         "y": 1600,
-        "type": "selection",
-        "text": "再继续谈话",
-        "css": "btn",
-        "ref": "divTxtBtn205"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn185",
         "x": 725,
         "y": 1510,
-        "type": "condition",
-        "text": "中午，庭院中与少女的谈话",
-        "css": "btn",
-        "ref": "divTxtBtn185",
-        "num": {
-          "x": 710,
-          "y": 1510,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn187"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1500,
-          "text": "条件选择分支",
-          "num": "6",
-          "summary": "",
-          "hint": "",
-          "setsumei": "这是游戏中第一次遇到条件选择分支的地方。大多数情况下，我们以是否进入某条线路作为判断条件。CLANNAD中，这种情况是很普遍的。但在某些情况下，只能用特定日期的特定选择来表述。您在攻略时，应当注意每个选择项旁所给出的角标提示，并作适当记录，来确定目前处于哪些角色的线路之中以防止出错。",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt188"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn211",
         "x": 925,
         "y": 1600,
-        "type": "selection",
-        "text": "是时候离开了",
-        "css": "btn",
-        "ref": "divTxtBtn211"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn205",
         "x": 525,
         "y": 1600,
-        "type": "selection",
-        "text": "再继续谈话",
-        "css": "btn",
-        "ref": "divTxtBtn205"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn217",
         "x": 525,
         "y": 1660,
-        "type": "selection",
-        "text": "回想起中午庭院中的女生",
-        "css": "btn",
-        "ref": "divTxtBtn217",
-        "num": {
-          "x": 510,
-          "y": 1660,
-          "type": "ccheck",
-          "text": "7",
-          "css": "check",
-          "ref": "divBtn219"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1650,
-          "text": "回想起中午庭院中的女生",
-          "num": "7",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-在意",
-          "icon": "01100001",
-          "iconillu": "渚参与64HIT、有纪宁的咒语，有条件参与体育仓库事件、伪女友事件；秋生参与体育仓库事件",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt220"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn217",
         "x": 525,
         "y": 1660,
-        "type": "selection",
-        "text": "回想起中午庭院中的女生",
-        "css": "btn",
-        "ref": "divTxtBtn217",
-        "num": {
-          "x": 510,
-          "y": 1660,
-          "type": "ccheck",
-          "text": "7",
-          "css": "check",
-          "ref": "divBtn219"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1650,
-          "text": "回想起中午庭院中的女生",
-          "num": "7",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-在意",
-          "icon": "01100001",
-          "iconillu": "渚参与64HIT、有纪宁的咒语，有条件参与体育仓库事件、伪女友事件；秋生参与体育仓库事件",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt220"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn223",
         "x": 325,
         "y": 1750,
-        "type": "option",
-        "text": "在意",
-        "route": "l|渚|风子",
-        "css": "btn",
-        "ref": "divTxtBtn223"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn217",
         "x": 525,
         "y": 1660,
-        "type": "selection",
-        "text": "回想起中午庭院中的女生",
-        "css": "btn",
-        "ref": "divTxtBtn217",
-        "num": {
-          "x": 510,
-          "y": 1660,
-          "type": "ccheck",
-          "text": "7",
-          "css": "check",
-          "ref": "divBtn219"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1650,
-          "text": "回想起中午庭院中的女生",
-          "num": "7",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-在意",
-          "icon": "01100001",
-          "iconillu": "渚参与64HIT、有纪宁的咒语，有条件参与体育仓库事件、伪女友事件；秋生参与体育仓库事件",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt220"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn231",
         "x": 725,
         "y": 1750,
-        "type": "option",
-        "text": "不在意",
-        "route": "r|渚|风子",
-        "css": "btn",
-        "ref": "divTxtBtn231"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn223",
         "x": 325,
         "y": 1750,
-        "type": "option",
-        "text": "在意",
-        "route": "l|渚|风子",
-        "css": "btn",
-        "ref": "divTxtBtn223"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 1840
+        "y": 1840,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn239",
         "x": 725,
         "y": 1870,
-        "type": "selection",
-        "text": "宿舍走廊遇见美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn239",
-        "num": {
-          "x": 710,
-          "y": 1870,
-          "type": "ccheck",
-          "text": "8",
-          "css": "check",
-          "ref": "divBtn241"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1800,
-          "text": "宿舍走廊遇见美佐枝",
-          "num": "8",
-          "summary": "放学后照例来到春原宿舍楼的朋也，在走廊上遇到了正追赶捣乱学生的宿舍管理员——相乐美佐枝。",
-          "hint": "选择[向她搭话]，则进入相乐美佐枝线。",
-          "setsumei": "",
-          "option": "-向她搭话",
-          "icon": "01100001",
-          "iconillu": "美佐枝有条件参与有纪宁的咒语、3对3篮球赛和毕业典礼。",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt242"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn231",
         "x": 725,
         "y": 1750,
-        "type": "option",
-        "text": "不在意",
-        "route": "r|渚|风子",
-        "css": "btn",
-        "ref": "divTxtBtn231"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 1840
+        "y": 1840,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn239",
         "x": 725,
         "y": 1870,
-        "type": "selection",
-        "text": "宿舍走廊遇见美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn239",
-        "num": {
-          "x": 710,
-          "y": 1870,
-          "type": "ccheck",
-          "text": "8",
-          "css": "check",
-          "ref": "divBtn241"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1800,
-          "text": "宿舍走廊遇见美佐枝",
-          "num": "8",
-          "summary": "放学后照例来到春原宿舍楼的朋也，在走廊上遇到了正追赶捣乱学生的宿舍管理员——相乐美佐枝。",
-          "hint": "选择[向她搭话]，则进入相乐美佐枝线。",
-          "setsumei": "",
-          "option": "-向她搭话",
-          "icon": "01100001",
-          "iconillu": "美佐枝有条件参与有纪宁的咒语、3对3篮球赛和毕业典礼。",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt242"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn211",
         "x": 925,
         "y": 1600,
-        "type": "selection",
-        "text": "是时候离开了",
-        "css": "btn",
-        "ref": "divTxtBtn211"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn239",
         "x": 725,
         "y": 1870,
-        "type": "selection",
-        "text": "宿舍走廊遇见美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn239",
-        "num": {
-          "x": 710,
-          "y": 1870,
-          "type": "ccheck",
-          "text": "8",
-          "css": "check",
-          "ref": "divBtn241"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1800,
-          "text": "宿舍走廊遇见美佐枝",
-          "num": "8",
-          "summary": "放学后照例来到春原宿舍楼的朋也，在走廊上遇到了正追赶捣乱学生的宿舍管理员——相乐美佐枝。",
-          "hint": "选择[向她搭话]，则进入相乐美佐枝线。",
-          "setsumei": "",
-          "option": "-向她搭话",
-          "icon": "01100001",
-          "iconillu": "美佐枝有条件参与有纪宁的咒语、3对3篮球赛和毕业典礼。",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt242"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn239",
         "x": 725,
         "y": 1870,
-        "type": "selection",
-        "text": "宿舍走廊遇见美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn239",
-        "num": {
-          "x": 710,
-          "y": 1870,
-          "type": "ccheck",
-          "text": "8",
-          "css": "check",
-          "ref": "divBtn241"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1800,
-          "text": "宿舍走廊遇见美佐枝",
-          "num": "8",
-          "summary": "放学后照例来到春原宿舍楼的朋也，在走廊上遇到了正追赶捣乱学生的宿舍管理员——相乐美佐枝。",
-          "hint": "选择[向她搭话]，则进入相乐美佐枝线。",
-          "setsumei": "",
-          "option": "-向她搭话",
-          "icon": "01100001",
-          "iconillu": "美佐枝有条件参与有纪宁的咒语、3对3篮球赛和毕业典礼。",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt242"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn259",
         "x": 525,
         "y": 1960,
-        "type": "option",
-        "text": "向她搭话",
-        "route": "l|美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn259"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn239",
         "x": 725,
         "y": 1870,
-        "type": "selection",
-        "text": "宿舍走廊遇见美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn239",
-        "num": {
-          "x": 710,
-          "y": 1870,
-          "type": "ccheck",
-          "text": "8",
-          "css": "check",
-          "ref": "divBtn241"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1800,
-          "text": "宿舍走廊遇见美佐枝",
-          "num": "8",
-          "summary": "放学后照例来到春原宿舍楼的朋也，在走廊上遇到了正追赶捣乱学生的宿舍管理员——相乐美佐枝。",
-          "hint": "选择[向她搭话]，则进入相乐美佐枝线。",
-          "setsumei": "",
-          "option": "-向她搭话",
-          "icon": "01100001",
-          "iconillu": "美佐枝有条件参与有纪宁的咒语、3对3篮球赛和毕业典礼。",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt242"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn266",
         "x": 925,
         "y": 1960,
-        "type": "option",
-        "text": "不去管她",
-        "route": "r|美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn266"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn259",
         "x": 525,
         "y": 1960,
-        "type": "option",
-        "text": "向她搭话",
-        "route": "l|美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn259"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn273",
         "x": 725,
         "y": 2050,
-        "type": "option",
-        "text": "幻想世界（一）",
-        "css": "btn",
-        "ref": "divTxtBtn273",
-        "num": {
-          "x": 710,
-          "y": 2050,
-          "type": "ccheck",
-          "text": "9",
-          "css": "check",
-          "ref": "divBtn275"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1980,
-          "text": "幻想世界",
-          "num": "9",
-          "summary": "",
-          "hint": "",
-          "setsumei": "在CLANNAD中，幻想世界是一部分特殊的剧情。幻想世界体现了CLANNAD的背景世界观，是有别于游戏中现实世界的另一个世界，且与渚线路有紧密的联系。幻想世界全篇共十二章，其中在学园篇最多出现十章，后两章将在AFTER STORY中，其作用将在AFTER STORY时得到体现。只有在攻略渚线时，您才能看到完整的幻想世界学园篇部分。幻想世界中没有选择分支。",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt276"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn266",
         "x": 925,
         "y": 1960,
-        "type": "option",
-        "text": "不去管她",
-        "route": "r|美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn266"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn273",
         "x": 725,
         "y": 2050,
-        "type": "option",
-        "text": "幻想世界（一）",
-        "css": "btn",
-        "ref": "divTxtBtn273",
-        "num": {
-          "x": 710,
-          "y": 2050,
-          "type": "ccheck",
-          "text": "9",
-          "css": "check",
-          "ref": "divBtn275"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1980,
-          "text": "幻想世界",
-          "num": "9",
-          "summary": "",
-          "hint": "",
-          "setsumei": "在CLANNAD中，幻想世界是一部分特殊的剧情。幻想世界体现了CLANNAD的背景世界观，是有别于游戏中现实世界的另一个世界，且与渚线路有紧密的联系。幻想世界全篇共十二章，其中在学园篇最多出现十章，后两章将在AFTER STORY中，其作用将在AFTER STORY时得到体现。只有在攻略渚线时，您才能看到完整的幻想世界学园篇部分。幻想世界中没有选择分支。",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt276"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn273",
         "x": 725,
         "y": 2050,
-        "type": "option",
-        "text": "幻想世界（一）",
-        "css": "btn",
-        "ref": "divTxtBtn273",
-        "num": {
-          "x": 710,
-          "y": 2050,
-          "type": "ccheck",
-          "text": "9",
-          "css": "check",
-          "ref": "divBtn275"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1980,
-          "text": "幻想世界",
-          "num": "9",
-          "summary": "",
-          "hint": "",
-          "setsumei": "在CLANNAD中，幻想世界是一部分特殊的剧情。幻想世界体现了CLANNAD的背景世界观，是有别于游戏中现实世界的另一个世界，且与渚线路有紧密的联系。幻想世界全篇共十二章，其中在学园篇最多出现十章，后两章将在AFTER STORY中，其作用将在AFTER STORY时得到体现。只有在攻略渚线时，您才能看到完整的幻想世界学园篇部分。幻想世界中没有选择分支。",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt276"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn285",
         "x": 850,
         "y": 2110,
-        "type": "date",
-        "text": "4月16日",
-        "css": "date",
-        "ref": "divBtn285"
+        "__type": "button"
       }
     ]
   ],
@@ -2287,7 +1248,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt5"
+      "ref": "divCmt5",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2304,7 +1266,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt29"
+      "ref": "divCmt29",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2321,7 +1284,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt54"
+      "ref": "divCmt54",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2338,7 +1302,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt72"
+      "ref": "divCmt72",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2355,7 +1320,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt136"
+      "ref": "divCmt136",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2372,7 +1338,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt188"
+      "ref": "divCmt188",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2389,7 +1356,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt220"
+      "ref": "divCmt220",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2406,7 +1374,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt242"
+      "ref": "divCmt242",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2423,7 +1392,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt276"
+      "ref": "divCmt276",
+      "__type": "comment"
     }
   ],
   "header": {
@@ -2436,14 +1406,16 @@
     "dateE": "April 15th",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 2200,
     "page": 2,
-    "ref": "divFt288"
+    "ref": "divFt288",
+    "__type": "footer"
   },
   "board": []
 }

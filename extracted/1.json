@@ -8,7 +8,8 @@
         "text": "文字",
         "route": "l|文字|-文字",
         "css": "btn",
-        "ref": "divTxtBtn1"
+        "ref": "divTxtBtn1",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -17,7 +18,8 @@
         "text": "<span class=hilight0Ori>一般选择项</span>（简称选项）以及<span class=hilight0Ori>事件</span>。绿色<span class=hilight0Ori>角标</span>表示此选项为进入相应角色的线路的必选选项；红色角标表示选择此选项退出相应角色的线路。",
         "css": "btn0414",
         "adjustw": 875,
-        "ref": "divBtn7"
+        "ref": "divBtn7",
+        "__type": "button"
       }
     ],
     [
@@ -29,13 +31,15 @@
         "route": "l|+文字",
         "css": "btn",
         "ref": "divTxtBtn8",
+        "__type": "textbox",
         "num": {
           "x": 110,
           "y": 340,
           "type": "ccheck",
           "text": "0",
           "css": "check",
-          "ref": "divBtn11"
+          "ref": "divBtn11",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -52,7 +56,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt12"
+          "ref": "divCmt12",
+          "__type": "comment"
         }
       },
       {
@@ -62,7 +67,8 @@
         "text": "<span class=hilight0Ori>一般选择分支</span>（简称分支）以及<span class=hilight0Ori>条件选择性</span>。蓝色的<span class=hilight0Ori>注释标志</span>表示此选项分支有相应注释说明，内容请参见注释栏与之同号的注释。蓝色角标表示条件选择分支中的分支没有触发时的等同路线走向。",
         "css": "btn0414",
         "adjustw": 875,
-        "ref": "divBtn15"
+        "ref": "divBtn15",
+        "__type": "button"
       }
     ],
     [
@@ -72,7 +78,8 @@
         "type": "condition",
         "text": "文字",
         "css": "btn",
-        "ref": "divTxtBtn16"
+        "ref": "divTxtBtn16",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -81,7 +88,8 @@
         "text": "<span class=hilight0Ori>条件选择分支</span>（简称条件分支）。用于判断剧情转向导致选择分支产生变化的条件。",
         "css": "btn0414",
         "adjustw": 875,
-        "ref": "divBtn20"
+        "ref": "divBtn20",
+        "__type": "button"
       }
     ],
     [
@@ -91,7 +99,8 @@
         "type": "block",
         "text": "文字",
         "css": "btn",
-        "ref": "divTxtBtn21"
+        "ref": "divTxtBtn21",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -100,7 +109,8 @@
         "text": "<span class=hilight0Ori>区块提示</span>。由于选择分支复杂导致流程宽度过大。将一部分流程从主流程中提取出来，并在这部分的位置上用区块提示代替。",
         "css": "btn0414",
         "adjustw": 875,
-        "ref": "divBtn25"
+        "ref": "divBtn25",
+        "__type": "button"
       }
     ],
     [
@@ -110,7 +120,8 @@
         "type": "condition",
         "text": "文字",
         "css": "btn",
-        "ref": "divTxtBtn26"
+        "ref": "divTxtBtn26",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -119,7 +130,8 @@
         "text": "<span class=hilight0Ori>流程终止提示</span>。由公共剧情完全进入相应角色剧情时，公共流程相应终结的提示；剧情完结的提示，包括Good Ending和Bad Ending；以及事件流程完结回到原流程的提示。",
         "css": "btn0414",
         "adjustw": 875,
-        "ref": "divBtn29"
+        "ref": "divBtn29",
+        "__type": "button"
       }
     ],
     [
@@ -129,7 +141,8 @@
         "type": "date",
         "text": "X月XX日",
         "css": "date",
-        "ref": "divBtn30"
+        "ref": "divBtn30",
+        "__type": "button"
       },
       {
         "x": 350,
@@ -137,7 +150,8 @@
         "type": "date",
         "text": "X月XX日",
         "css": "date",
-        "ref": "divBtn32"
+        "ref": "divBtn32",
+        "__type": "button"
       },
       {
         "x": 625,
@@ -146,7 +160,8 @@
         "text": "<span class=hilight0Ori>日期／剧情段起讫提示</span>。",
         "css": "btn0414",
         "adjustw": 875,
-        "ref": "divBtn34"
+        "ref": "divBtn34",
+        "__type": "button"
       },
       {
         "x": 1625,
@@ -155,7 +170,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"96%\"><tr><td colspan=2 style=\"line-height:200%;\" align=\"left\"><span class=hilight0414Ori>特殊事件图标</span>提示该分支所影响的特殊事件。共有8个特殊事件。</td></tr><tr><td width=25% align=\"left\"><img src=\"Ori/Comment/Comment_Mark_64HIT[A].png\" width=\"40\" height=\"40\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" width=\"40\" height=\"40\"></td><td style=\"line-height:200%;\" align=\"left\"><span class=hilight0414Ori>智代64HIT</span>相关/无关标志。</td></tr><tr><td width=25% align=\"left\"><img src=\"Ori/Comment/Comment_Mark_Spell[A].png\" width=\"40\" height=\"40\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" width=\"40\" height=\"40\"></td><td style=\"line-height:200%;\" align=\"left\"><span class=hilight0414Ori>有纪宁的咒语/体育仓库事件</span>相关/无关标志。</td></tr><tr><td width=25% align=\"left\"><img src=\"Ori/Comment/Comment_Mark_Basketball[A].png\" width=\"40\" height=\"40\"><img src=\"Ori/Comment/Comment_Mark_Basketball[B].png\" width=\"40\" height=\"40\"></td><td style=\"line-height:200%;\" align=\"left\"><span class=hilight0414Ori>3对3篮球赛</span>相关/无关标志。</td></tr><tr><td width=25% align=\"left\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[A].png\" width=\"40\" height=\"40\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[B].png\" width=\"40\" height=\"40\"></td><td style=\"line-height:200%;\" align=\"left\"><span class=hilight0414Ori>伪女友事件</span>相关/无关标志。</td></tr><tr><td width=25% align=\"left\"><img src=\"Ori/Comment/Comment_Mark_Master[A].png\" width=\"40\" height=\"40\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" width=\"40\" height=\"40\"></td><td style=\"line-height:200%;\" align=\"left\"><span class=hilight0414Ori>风子大师</span>相关/无关标志。</td></tr><tr><td width=25% align=\"left\"><img src=\"Ori/Comment/Comment_Mark_Impression[A].png\" width=\"40\" height=\"40\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" width=\"40\" height=\"40\"></td><td style=\"line-height:200%;\" align=\"left\"><span class=hilight0414Ori>琴美好感度</span>相关/无关标志。</td></tr><tr><td width=25% align=\"left\"><img src=\"Ori/Comment/Comment_Mark_Baseball[A].png\" width=\"40\" height=\"40\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" width=\"40\" height=\"40\"></td><td style=\"line-height:200%;\" align=\"left\"><span class=hilight0414Ori>枪战游戏/业余棒球</span>相关/无关标志。</td></tr><tr><td width=25% align=\"left\"><img src=\"Ori/Comment/Comment_Mark_Graduation[A].png\" width=\"40\" height=\"40\"><img src=\"Ori/Comment/Comment_Mark_Graduation[B].png\" width=\"40\" height=\"40\"></td><td style=\"line-height:200%;\" align=\"left\"><span class=hilight0414Ori>毕业典礼（AFTER STORY）</span>相关/无关标志。</td></tr></table>",
         "css": "comment",
         "adjustw": 750,
-        "ref": "divBtn35"
+        "ref": "divBtn35",
+        "__type": "button"
       },
       {
         "x": 0,
@@ -168,6 +184,7 @@
         "titlecss": "headerC",
         "contentcss": "headerE",
         "ref": "divHd36",
+        "__type": "header",
         "link": "p1_header2"
       }
     ],
@@ -178,7 +195,8 @@
         "type": "date",
         "text": "4月14日",
         "css": "date",
-        "ref": "divBtn37"
+        "ref": "divBtn37",
+        "__type": "button"
       }
     ],
     [
@@ -189,13 +207,15 @@
         "text": "插着磁带的录音机",
         "css": "btn",
         "ref": "divTxtBtn38",
+        "__type": "textbox",
         "num": {
           "x": 810,
           "y": 1120,
           "type": "ccheck",
           "text": "1",
           "css": "check",
-          "ref": "divBtn40"
+          "ref": "divBtn40",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -212,7 +232,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt41"
+          "ref": "divCmt41",
+          "__type": "comment"
         }
       }
     ],
@@ -223,7 +244,8 @@
         "type": "option",
         "text": "录点什么上去",
         "css": "btn",
-        "ref": "divTxtBtn44"
+        "ref": "divTxtBtn44",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -231,7 +253,8 @@
         "type": "option",
         "text": "不理他",
         "css": "btn",
-        "ref": "divTxtBtn50"
+        "ref": "divTxtBtn50",
+        "__type": "textbox"
       }
     ],
     [
@@ -241,7 +264,8 @@
         "type": "condition",
         "text": "第一次开始游戏",
         "css": "btn",
-        "ref": "divTxtBtn56"
+        "ref": "divTxtBtn56",
+        "__type": "textbox"
       }
     ],
     [
@@ -251,7 +275,8 @@
         "type": "option",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn60"
+        "ref": "divTxtBtn60",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -259,7 +284,8 @@
         "type": "option",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn66"
+        "ref": "divTxtBtn66",
+        "__type": "textbox"
       }
     ],
     [
@@ -270,13 +296,15 @@
         "text": "献给春原的说唱",
         "css": "btn",
         "ref": "divTxtBtn72",
+        "__type": "textbox",
         "num": {
           "x": 410,
           "y": 1420,
           "type": "ccheck",
           "text": "2",
           "css": "check",
-          "ref": "divBtn74"
+          "ref": "divBtn74",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -293,7 +321,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt75"
+          "ref": "divCmt75",
+          "__type": "comment"
         }
       }
     ],
@@ -304,7 +333,8 @@
         "type": "option",
         "text": "不玩了，太傻",
         "css": "btn",
-        "ref": "divTxtBtn78"
+        "ref": "divTxtBtn78",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -312,7 +342,8 @@
         "type": "option",
         "text": "随便说几句",
         "css": "btn",
-        "ref": "divTxtBtn84"
+        "ref": "divTxtBtn84",
+        "__type": "textbox"
       }
     ],
     [
@@ -322,7 +353,8 @@
         "type": "date",
         "text": "4月15日",
         "css": "date",
-        "ref": "divBtn90"
+        "ref": "divBtn90",
+        "__type": "button"
       }
     ]
   ],
@@ -332,480 +364,294 @@
       "y": 235,
       "l": 0,
       "h": 0,
-      "ref": "divLine5"
+      "ref": "divLine5",
+      "__type": "line"
     },
     {
       "x": 300,
       "y": 280,
       "l": 0,
       "h": 0,
-      "ref": "divLine6"
+      "ref": "divLine6",
+      "__type": "line"
     },
     {
       "x": 300,
       "y": 325,
       "l": 0,
       "h": 0,
-      "ref": "divLine13"
+      "ref": "divLine13",
+      "__type": "line"
     },
     {
       "x": 300,
       "y": 370,
       "l": 0,
       "h": 0,
-      "ref": "divLine14"
+      "ref": "divLine14",
+      "__type": "line"
     },
     {
       "x": 300,
       "y": 415,
       "l": 0,
       "h": 0,
-      "ref": "divLine18"
+      "ref": "divLine18",
+      "__type": "line"
     },
     {
       "x": 300,
       "y": 460,
       "l": 0,
       "h": 0,
-      "ref": "divLine19"
+      "ref": "divLine19",
+      "__type": "line"
     },
     {
       "x": 300,
       "y": 505,
       "l": 0,
       "h": 0,
-      "ref": "divLine23"
+      "ref": "divLine23",
+      "__type": "line"
     },
     {
       "x": 300,
       "y": 550,
       "l": 0,
       "h": 0,
-      "ref": "divLine24"
+      "ref": "divLine24",
+      "__type": "line"
     },
     {
       "x": 300,
       "y": 595,
       "l": 0,
       "h": 0,
-      "ref": "divLine28"
+      "ref": "divLine28",
+      "__type": "line"
     },
     {
       "x": 400,
       "y": 730,
       "l": 0,
       "h": 0,
-      "ref": "divLine31"
+      "ref": "divLine31",
+      "__type": "line"
     },
     {
       "x": 400,
       "y": 685,
       "l": 0,
       "h": 0,
-      "ref": "divLine33"
+      "ref": "divLine33",
+      "__type": "line"
     },
     [
       {
+        "ref": "divBtn37",
         "x": 950,
         "y": 1045,
-        "type": "date",
-        "text": "4月14日",
-        "css": "date",
-        "ref": "divBtn37"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn38",
         "x": 825,
         "y": 1120,
-        "type": "selection",
-        "text": "插着磁带的录音机",
-        "css": "btn",
-        "ref": "divTxtBtn38",
-        "num": {
-          "x": 810,
-          "y": 1120,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn40"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1110,
-          "text": "献给挚友春原的说唱（一）",
-          "num": "1",
-          "summary": "春原有事离开，朋也一个人在寝室里。录音机里的磁带放出老掉牙的摇滚，朋也决定……",
-          "hint": "选择[录点什么上去]，若您是第一次开始此游戏，接下来的分支将不会出现。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt41"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn38",
         "x": 825,
         "y": 1120,
-        "type": "selection",
-        "text": "插着磁带的录音机",
-        "css": "btn",
-        "ref": "divTxtBtn38",
-        "num": {
-          "x": 810,
-          "y": 1120,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn40"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1110,
-          "text": "献给挚友春原的说唱（一）",
-          "num": "1",
-          "summary": "春原有事离开，朋也一个人在寝室里。录音机里的磁带放出老掉牙的摇滚，朋也决定……",
-          "hint": "选择[录点什么上去]，若您是第一次开始此游戏，接下来的分支将不会出现。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt41"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn44",
         "x": 625,
         "y": 1210,
-        "type": "option",
-        "text": "录点什么上去",
-        "css": "btn",
-        "ref": "divTxtBtn44"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn38",
         "x": 825,
         "y": 1120,
-        "type": "selection",
-        "text": "插着磁带的录音机",
-        "css": "btn",
-        "ref": "divTxtBtn38",
-        "num": {
-          "x": 810,
-          "y": 1120,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn40"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1110,
-          "text": "献给挚友春原的说唱（一）",
-          "num": "1",
-          "summary": "春原有事离开，朋也一个人在寝室里。录音机里的磁带放出老掉牙的摇滚，朋也决定……",
-          "hint": "选择[录点什么上去]，若您是第一次开始此游戏，接下来的分支将不会出现。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt41"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn50",
         "x": 1025,
         "y": 1210,
-        "type": "option",
-        "text": "不理他",
-        "css": "btn",
-        "ref": "divTxtBtn50"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn44",
         "x": 625,
         "y": 1210,
-        "type": "option",
-        "text": "录点什么上去",
-        "css": "btn",
-        "ref": "divTxtBtn44"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn56",
         "x": 625,
         "y": 1270,
-        "type": "condition",
-        "text": "第一次开始游戏",
-        "css": "btn",
-        "ref": "divTxtBtn56"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn56",
         "x": 625,
         "y": 1270,
-        "type": "condition",
-        "text": "第一次开始游戏",
-        "css": "btn",
-        "ref": "divTxtBtn56"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn60",
         "x": 425,
         "y": 1360,
-        "type": "option",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn60"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn56",
         "x": 625,
         "y": 1270,
-        "type": "condition",
-        "text": "第一次开始游戏",
-        "css": "btn",
-        "ref": "divTxtBtn56"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn66",
         "x": 825,
         "y": 1360,
-        "type": "option",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn66"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn60",
         "x": 425,
         "y": 1360,
-        "type": "option",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn60"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn72",
         "x": 425,
         "y": 1420,
-        "type": "selection",
-        "text": "献给春原的说唱",
-        "css": "btn",
-        "ref": "divTxtBtn72",
-        "num": {
-          "x": 410,
-          "y": 1420,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn74"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1410,
-          "text": "献给挚友春原的说唱（二）",
-          "num": "2",
-          "summary": "朋也决定先给春原一首即兴说唱，他按下了录音键。",
-          "hint": "当您再次开始此游戏，并在前面的分支选择[录点什么上去]，紧接着就会出现这个分支。选择[随便说几句]，就能欣赏到“献给挚友春原的说唱”，第二天课前春原会因此而抱怨。",
-          "setsumei": "“说唱”一共有七个版本内容，当一个版本剧情触发后，将游戏进行到15日中午左右（即听完春原的抱怨后），则下次重新开始游戏时，您就会听到不同版本的“说唱”。七个版本全部触发后，下次重新开始游戏则回到第一个版本，如此循环……",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt75"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn72",
         "x": 425,
         "y": 1420,
-        "type": "selection",
-        "text": "献给春原的说唱",
-        "css": "btn",
-        "ref": "divTxtBtn72",
-        "num": {
-          "x": 410,
-          "y": 1420,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn74"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1410,
-          "text": "献给挚友春原的说唱（二）",
-          "num": "2",
-          "summary": "朋也决定先给春原一首即兴说唱，他按下了录音键。",
-          "hint": "当您再次开始此游戏，并在前面的分支选择[录点什么上去]，紧接着就会出现这个分支。选择[随便说几句]，就能欣赏到“献给挚友春原的说唱”，第二天课前春原会因此而抱怨。",
-          "setsumei": "“说唱”一共有七个版本内容，当一个版本剧情触发后，将游戏进行到15日中午左右（即听完春原的抱怨后），则下次重新开始游戏时，您就会听到不同版本的“说唱”。七个版本全部触发后，下次重新开始游戏则回到第一个版本，如此循环……",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt75"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn78",
         "x": 225,
         "y": 1510,
-        "type": "option",
-        "text": "不玩了，太傻",
-        "css": "btn",
-        "ref": "divTxtBtn78"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn72",
         "x": 425,
         "y": 1420,
-        "type": "selection",
-        "text": "献给春原的说唱",
-        "css": "btn",
-        "ref": "divTxtBtn72",
-        "num": {
-          "x": 410,
-          "y": 1420,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn74"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1410,
-          "text": "献给挚友春原的说唱（二）",
-          "num": "2",
-          "summary": "朋也决定先给春原一首即兴说唱，他按下了录音键。",
-          "hint": "当您再次开始此游戏，并在前面的分支选择[录点什么上去]，紧接着就会出现这个分支。选择[随便说几句]，就能欣赏到“献给挚友春原的说唱”，第二天课前春原会因此而抱怨。",
-          "setsumei": "“说唱”一共有七个版本内容，当一个版本剧情触发后，将游戏进行到15日中午左右（即听完春原的抱怨后），则下次重新开始游戏时，您就会听到不同版本的“说唱”。七个版本全部触发后，下次重新开始游戏则回到第一个版本，如此循环……",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt75"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn84",
         "x": 625,
         "y": 1510,
-        "type": "option",
-        "text": "随便说几句",
-        "css": "btn",
-        "ref": "divTxtBtn84"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn78",
         "x": 225,
         "y": 1510,
-        "type": "option",
-        "text": "不玩了，太傻",
-        "css": "btn",
-        "ref": "divTxtBtn78"
+        "__type": "textbox"
       },
       {
         "x": 600,
-        "y": 1600
+        "y": 1600,
+        "__type": "point"
       },
       {
         "x": 800,
-        "y": 1630
+        "y": 1630,
+        "__type": "point"
       },
       {
+        "ref": "divBtn90",
         "x": 950,
         "y": 1660,
-        "type": "date",
-        "text": "4月15日",
-        "css": "date",
-        "ref": "divBtn90"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn84",
         "x": 625,
         "y": 1510,
-        "type": "option",
-        "text": "随便说几句",
-        "css": "btn",
-        "ref": "divTxtBtn84"
+        "__type": "textbox"
       },
       {
         "x": 600,
-        "y": 1600
+        "y": 1600,
+        "__type": "point"
       },
       {
         "x": 800,
-        "y": 1630
+        "y": 1630,
+        "__type": "point"
       },
       {
+        "ref": "divBtn90",
         "x": 950,
         "y": 1660,
-        "type": "date",
-        "text": "4月15日",
-        "css": "date",
-        "ref": "divBtn90"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn66",
         "x": 825,
         "y": 1360,
-        "type": "option",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn66"
+        "__type": "textbox"
       },
       {
         "x": 800,
-        "y": 1630
+        "y": 1630,
+        "__type": "point"
       },
       {
+        "ref": "divBtn90",
         "x": 950,
         "y": 1660,
-        "type": "date",
-        "text": "4月15日",
-        "css": "date",
-        "ref": "divBtn90"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn50",
         "x": 1025,
         "y": 1210,
-        "type": "option",
-        "text": "不理他",
-        "css": "btn",
-        "ref": "divTxtBtn50"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn90",
         "x": 950,
         "y": 1660,
-        "type": "date",
-        "text": "4月15日",
-        "css": "date",
-        "ref": "divBtn90"
+        "__type": "button"
       }
     ]
   ],
@@ -825,7 +671,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt12"
+      "ref": "divCmt12",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -834,7 +681,8 @@
       "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"96%\"><tr><td colspan=2 style=\"line-height:200%;\" align=\"left\"><span class=hilight0414Ori>特殊事件图标</span>提示该分支所影响的特殊事件。共有8个特殊事件。</td></tr><tr><td width=25% align=\"left\"><img src=\"Ori/Comment/Comment_Mark_64HIT[A].png\" width=\"40\" height=\"40\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" width=\"40\" height=\"40\"></td><td style=\"line-height:200%;\" align=\"left\"><span class=hilight0414Ori>智代64HIT</span>相关/无关标志。</td></tr><tr><td width=25% align=\"left\"><img src=\"Ori/Comment/Comment_Mark_Spell[A].png\" width=\"40\" height=\"40\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" width=\"40\" height=\"40\"></td><td style=\"line-height:200%;\" align=\"left\"><span class=hilight0414Ori>有纪宁的咒语/体育仓库事件</span>相关/无关标志。</td></tr><tr><td width=25% align=\"left\"><img src=\"Ori/Comment/Comment_Mark_Basketball[A].png\" width=\"40\" height=\"40\"><img src=\"Ori/Comment/Comment_Mark_Basketball[B].png\" width=\"40\" height=\"40\"></td><td style=\"line-height:200%;\" align=\"left\"><span class=hilight0414Ori>3对3篮球赛</span>相关/无关标志。</td></tr><tr><td width=25% align=\"left\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[A].png\" width=\"40\" height=\"40\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[B].png\" width=\"40\" height=\"40\"></td><td style=\"line-height:200%;\" align=\"left\"><span class=hilight0414Ori>伪女友事件</span>相关/无关标志。</td></tr><tr><td width=25% align=\"left\"><img src=\"Ori/Comment/Comment_Mark_Master[A].png\" width=\"40\" height=\"40\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" width=\"40\" height=\"40\"></td><td style=\"line-height:200%;\" align=\"left\"><span class=hilight0414Ori>风子大师</span>相关/无关标志。</td></tr><tr><td width=25% align=\"left\"><img src=\"Ori/Comment/Comment_Mark_Impression[A].png\" width=\"40\" height=\"40\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" width=\"40\" height=\"40\"></td><td style=\"line-height:200%;\" align=\"left\"><span class=hilight0414Ori>琴美好感度</span>相关/无关标志。</td></tr><tr><td width=25% align=\"left\"><img src=\"Ori/Comment/Comment_Mark_Baseball[A].png\" width=\"40\" height=\"40\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" width=\"40\" height=\"40\"></td><td style=\"line-height:200%;\" align=\"left\"><span class=hilight0414Ori>枪战游戏/业余棒球</span>相关/无关标志。</td></tr><tr><td width=25% align=\"left\"><img src=\"Ori/Comment/Comment_Mark_Graduation[A].png\" width=\"40\" height=\"40\"><img src=\"Ori/Comment/Comment_Mark_Graduation[B].png\" width=\"40\" height=\"40\"></td><td style=\"line-height:200%;\" align=\"left\"><span class=hilight0414Ori>毕业典礼（AFTER STORY）</span>相关/无关标志。</td></tr></table>",
       "css": "comment",
       "adjustw": 750,
-      "ref": "divBtn35"
+      "ref": "divBtn35",
+      "__type": "button"
     },
     {
       "x": 1625,
@@ -851,7 +699,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt41"
+      "ref": "divCmt41",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -868,7 +717,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt75"
+      "ref": "divCmt75",
+      "__type": "comment"
     }
   ],
   "header": {
@@ -882,6 +732,7 @@
     "titlecss": "headerC",
     "contentcss": "headerE",
     "ref": "divHd0",
+    "__type": "header",
     "link": "p1_header"
   },
   "footer": {
@@ -889,7 +740,8 @@
     "y": 0,
     "height": 1750,
     "page": 1,
-    "ref": "divFt117"
+    "ref": "divFt117",
+    "__type": "footer"
   },
   "board": []
 }

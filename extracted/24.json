@@ -8,6 +8,7 @@
         "text": "心跳☆高中",
         "css": "btn",
         "ref": "divTxtBtn1",
+        "__type": "textbox",
         "link": "p24_XTGZ"
       },
       {
@@ -16,7 +17,8 @@
         "type": "selection",
         "text": "校门前相遇",
         "css": "btn",
-        "ref": "divTxtBtn3"
+        "ref": "divTxtBtn3",
+        "__type": "textbox"
       }
     ],
     [
@@ -26,7 +28,8 @@
         "type": "option",
         "text": "目送她离去",
         "css": "btn",
-        "ref": "divTxtBtn7"
+        "ref": "divTxtBtn7",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -34,7 +37,8 @@
         "type": "option",
         "text": "向她表白",
         "css": "btn",
-        "ref": "divTxtBtn13"
+        "ref": "divTxtBtn13",
+        "__type": "textbox"
       }
     ],
     [
@@ -44,7 +48,8 @@
         "type": "selection",
         "text": "食堂里相遇",
         "css": "btn",
-        "ref": "divTxtBtn19"
+        "ref": "divTxtBtn19",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -52,7 +57,8 @@
         "type": "condition",
         "text": "Game Over",
         "css": "btn",
-        "ref": "divTxtBtn23"
+        "ref": "divTxtBtn23",
+        "__type": "textbox"
       }
     ],
     [
@@ -62,7 +68,8 @@
         "type": "option",
         "text": "偷偷注视着她",
         "css": "btn",
-        "ref": "divTxtBtn27"
+        "ref": "divTxtBtn27",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -70,7 +77,8 @@
         "type": "option",
         "text": "向她表白",
         "css": "btn",
-        "ref": "divTxtBtn31"
+        "ref": "divTxtBtn31",
+        "__type": "textbox"
       }
     ],
     [
@@ -80,7 +88,8 @@
         "type": "selection",
         "text": "放学时相遇",
         "css": "btn",
-        "ref": "divTxtBtn37"
+        "ref": "divTxtBtn37",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -88,7 +97,8 @@
         "type": "condition",
         "text": "Game Over",
         "css": "btn",
-        "ref": "divTxtBtn41"
+        "ref": "divTxtBtn41",
+        "__type": "textbox"
       }
     ],
     [
@@ -98,7 +108,8 @@
         "type": "option",
         "text": "向她表白",
         "css": "btn",
-        "ref": "divTxtBtn45"
+        "ref": "divTxtBtn45",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -106,7 +117,8 @@
         "type": "option",
         "text": "目送她离去",
         "css": "btn",
-        "ref": "divTxtBtn49"
+        "ref": "divTxtBtn49",
+        "__type": "textbox"
       }
     ],
     [
@@ -116,7 +128,8 @@
         "type": "selection",
         "text": "雪野的攻击",
         "css": "btn",
-        "ref": "divTxtBtn55"
+        "ref": "divTxtBtn55",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -124,7 +137,8 @@
         "type": "condition",
         "text": "Game Over",
         "css": "btn",
-        "ref": "divTxtBtn59"
+        "ref": "divTxtBtn59",
+        "__type": "textbox"
       }
     ],
     [
@@ -134,7 +148,8 @@
         "type": "option",
         "text": "挣脱她",
         "css": "btn",
-        "ref": "divTxtBtn63"
+        "ref": "divTxtBtn63",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -142,7 +157,8 @@
         "type": "option",
         "text": "拥抱她",
         "css": "btn",
-        "ref": "divTxtBtn67"
+        "ref": "divTxtBtn67",
+        "__type": "textbox"
       }
     ],
     [
@@ -152,7 +168,8 @@
         "type": "selection",
         "text": "史蒂夫登场",
         "css": "btn",
-        "ref": "divTxtBtn73"
+        "ref": "divTxtBtn73",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -160,7 +177,8 @@
         "type": "condition",
         "text": "Game Over",
         "css": "btn",
-        "ref": "divTxtBtn77"
+        "ref": "divTxtBtn77",
+        "__type": "textbox"
       }
     ],
     [
@@ -170,7 +188,8 @@
         "type": "option",
         "text": "跟史蒂夫一起走",
         "css": "btn",
-        "ref": "divTxtBtn81"
+        "ref": "divTxtBtn81",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -178,7 +197,8 @@
         "type": "option",
         "text": "自己一个人走",
         "css": "btn",
-        "ref": "divTxtBtn85"
+        "ref": "divTxtBtn85",
+        "__type": "textbox"
       }
     ],
     [
@@ -188,7 +208,8 @@
         "type": "selection",
         "text": "狗破窗而入",
         "css": "btn",
-        "ref": "divTxtBtn91"
+        "ref": "divTxtBtn91",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -196,7 +217,8 @@
         "type": "condition",
         "text": "Game Over",
         "css": "btn",
-        "ref": "divTxtBtn95"
+        "ref": "divTxtBtn95",
+        "__type": "textbox"
       }
     ],
     [
@@ -206,7 +228,8 @@
         "type": "option",
         "text": "自己亲自战斗",
         "css": "btn",
-        "ref": "divTxtBtn99"
+        "ref": "divTxtBtn99",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -214,7 +237,8 @@
         "type": "option",
         "text": "这里交给史蒂夫",
         "css": "btn",
-        "ref": "divTxtBtn103"
+        "ref": "divTxtBtn103",
+        "__type": "textbox"
       }
     ],
     [
@@ -224,7 +248,8 @@
         "type": "selection",
         "text": "寻找血清",
         "css": "btn",
-        "ref": "divTxtBtn109"
+        "ref": "divTxtBtn109",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -232,7 +257,8 @@
         "type": "condition",
         "text": "Game Over",
         "css": "btn",
-        "ref": "divTxtBtn113"
+        "ref": "divTxtBtn113",
+        "__type": "textbox"
       }
     ],
     [
@@ -242,7 +268,8 @@
         "type": "option",
         "text": "打开",
         "css": "btn",
-        "ref": "divTxtBtn117"
+        "ref": "divTxtBtn117",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -250,7 +277,8 @@
         "type": "option",
         "text": "不打开",
         "css": "btn",
-        "ref": "divTxtBtn123"
+        "ref": "divTxtBtn123",
+        "__type": "textbox"
       }
     ],
     [
@@ -260,7 +288,8 @@
         "type": "selection",
         "text": "三叉口",
         "css": "btn",
-        "ref": "divTxtBtn129"
+        "ref": "divTxtBtn129",
+        "__type": "textbox"
       }
     ],
     [
@@ -270,7 +299,8 @@
         "type": "option",
         "text": "向左走",
         "css": "btn",
-        "ref": "divTxtBtn133"
+        "ref": "divTxtBtn133",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -278,7 +308,8 @@
         "type": "option",
         "text": "向前走",
         "css": "btn",
-        "ref": "divTxtBtn139"
+        "ref": "divTxtBtn139",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -286,7 +317,8 @@
         "type": "option",
         "text": "向右走",
         "css": "btn",
-        "ref": "divTxtBtn143"
+        "ref": "divTxtBtn143",
+        "__type": "textbox"
       }
     ],
     [
@@ -296,7 +328,8 @@
         "type": "selection",
         "text": "史蒂夫拥抱",
         "css": "btn",
-        "ref": "divTxtBtn149"
+        "ref": "divTxtBtn149",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -304,7 +337,8 @@
         "type": "condition",
         "text": "The End",
         "css": "btn",
-        "ref": "divTxtBtn153"
+        "ref": "divTxtBtn153",
+        "__type": "textbox"
       }
     ],
     [
@@ -314,7 +348,8 @@
         "type": "condition",
         "text": "Game Over",
         "css": "btn",
-        "ref": "divTxtBtn157"
+        "ref": "divTxtBtn157",
+        "__type": "textbox"
       }
     ],
     [
@@ -324,7 +359,8 @@
         "type": "option",
         "text": "挣脱他",
         "css": "btn",
-        "ref": "divTxtBtn167"
+        "ref": "divTxtBtn167",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -332,7 +368,8 @@
         "type": "option",
         "text": "拥抱他",
         "css": "btn",
-        "ref": "divTxtBtn171"
+        "ref": "divTxtBtn171",
+        "__type": "textbox"
       }
     ],
     [
@@ -342,7 +379,8 @@
         "type": "selection",
         "text": "露丝登场",
         "css": "btn",
-        "ref": "divTxtBtn177"
+        "ref": "divTxtBtn177",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -350,7 +388,8 @@
         "type": "condition",
         "text": "Game Over",
         "css": "btn",
-        "ref": "divTxtBtn181"
+        "ref": "divTxtBtn181",
+        "__type": "textbox"
       }
     ],
     [
@@ -360,7 +399,8 @@
         "type": "option",
         "text": "挣脱她",
         "css": "btn",
-        "ref": "divTxtBtn185"
+        "ref": "divTxtBtn185",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -368,7 +408,8 @@
         "type": "option",
         "text": "一起行动",
         "css": "btn",
-        "ref": "divTxtBtn189"
+        "ref": "divTxtBtn189",
+        "__type": "textbox"
       }
     ],
     [
@@ -378,7 +419,8 @@
         "type": "condition",
         "text": "放弃阅读，强制Escape",
         "css": "btn",
-        "ref": "divTxtBtn195"
+        "ref": "divTxtBtn195",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -386,7 +428,8 @@
         "type": "condition",
         "text": "Game Over",
         "css": "btn",
-        "ref": "divTxtBtn199"
+        "ref": "divTxtBtn199",
+        "__type": "textbox"
       }
     ]
   ],
@@ -394,767 +437,601 @@
     [
       {
         "x": 800,
-        "y": 175
+        "y": 175,
+        "__type": "point"
       },
       {
         "x": 800,
-        "y": 175
+        "y": 175,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn3",
         "x": 625,
         "y": 190,
-        "type": "selection",
-        "text": "校门前相遇",
-        "css": "btn",
-        "ref": "divTxtBtn3"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn7",
         "x": 425,
         "y": 280,
-        "type": "option",
-        "text": "目送她离去",
-        "css": "btn",
-        "ref": "divTxtBtn7"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn3",
         "x": 625,
         "y": 190,
-        "type": "selection",
-        "text": "校门前相遇",
-        "css": "btn",
-        "ref": "divTxtBtn3"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn13",
         "x": 825,
         "y": 280,
-        "type": "option",
-        "text": "向她表白",
-        "css": "btn",
-        "ref": "divTxtBtn13"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn7",
         "x": 425,
         "y": 280,
-        "type": "option",
-        "text": "目送她离去",
-        "css": "btn",
-        "ref": "divTxtBtn7"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn19",
         "x": 425,
         "y": 340,
-        "type": "selection",
-        "text": "食堂里相遇",
-        "css": "btn",
-        "ref": "divTxtBtn19"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn13",
         "x": 825,
         "y": 280,
-        "type": "option",
-        "text": "向她表白",
-        "css": "btn",
-        "ref": "divTxtBtn13"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn23",
         "x": 825,
         "y": 340,
-        "type": "condition",
-        "text": "Game Over",
-        "css": "btn",
-        "ref": "divTxtBtn23"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn19",
         "x": 425,
         "y": 340,
-        "type": "selection",
-        "text": "食堂里相遇",
-        "css": "btn",
-        "ref": "divTxtBtn19"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn27",
         "x": 425,
         "y": 430,
-        "type": "option",
-        "text": "偷偷注视着她",
-        "css": "btn",
-        "ref": "divTxtBtn27"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn19",
         "x": 425,
         "y": 340,
-        "type": "selection",
-        "text": "食堂里相遇",
-        "css": "btn",
-        "ref": "divTxtBtn19"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn31",
         "x": 825,
         "y": 430,
-        "type": "option",
-        "text": "向她表白",
-        "css": "btn",
-        "ref": "divTxtBtn31"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn27",
         "x": 425,
         "y": 430,
-        "type": "option",
-        "text": "偷偷注视着她",
-        "css": "btn",
-        "ref": "divTxtBtn27"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn37",
         "x": 425,
         "y": 490,
-        "type": "selection",
-        "text": "放学时相遇",
-        "css": "btn",
-        "ref": "divTxtBtn37"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn31",
         "x": 825,
         "y": 430,
-        "type": "option",
-        "text": "向她表白",
-        "css": "btn",
-        "ref": "divTxtBtn31"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn41",
         "x": 825,
         "y": 490,
-        "type": "condition",
-        "text": "Game Over",
-        "css": "btn",
-        "ref": "divTxtBtn41"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn37",
         "x": 425,
         "y": 490,
-        "type": "selection",
-        "text": "放学时相遇",
-        "css": "btn",
-        "ref": "divTxtBtn37"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn45",
         "x": 425,
         "y": 580,
-        "type": "option",
-        "text": "向她表白",
-        "css": "btn",
-        "ref": "divTxtBtn45"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn37",
         "x": 425,
         "y": 490,
-        "type": "selection",
-        "text": "放学时相遇",
-        "css": "btn",
-        "ref": "divTxtBtn37"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn49",
         "x": 825,
         "y": 580,
-        "type": "option",
-        "text": "目送她离去",
-        "css": "btn",
-        "ref": "divTxtBtn49"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn45",
         "x": 425,
         "y": 580,
-        "type": "option",
-        "text": "向她表白",
-        "css": "btn",
-        "ref": "divTxtBtn45"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn55",
         "x": 425,
         "y": 640,
-        "type": "selection",
-        "text": "雪野的攻击",
-        "css": "btn",
-        "ref": "divTxtBtn55"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn49",
         "x": 825,
         "y": 580,
-        "type": "option",
-        "text": "目送她离去",
-        "css": "btn",
-        "ref": "divTxtBtn49"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn59",
         "x": 825,
         "y": 640,
-        "type": "condition",
-        "text": "Game Over",
-        "css": "btn",
-        "ref": "divTxtBtn59"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn55",
         "x": 425,
         "y": 640,
-        "type": "selection",
-        "text": "雪野的攻击",
-        "css": "btn",
-        "ref": "divTxtBtn55"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn63",
         "x": 425,
         "y": 730,
-        "type": "option",
-        "text": "挣脱她",
-        "css": "btn",
-        "ref": "divTxtBtn63"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn55",
         "x": 425,
         "y": 640,
-        "type": "selection",
-        "text": "雪野的攻击",
-        "css": "btn",
-        "ref": "divTxtBtn55"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn67",
         "x": 825,
         "y": 730,
-        "type": "option",
-        "text": "拥抱她",
-        "css": "btn",
-        "ref": "divTxtBtn67"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn63",
         "x": 425,
         "y": 730,
-        "type": "option",
-        "text": "挣脱她",
-        "css": "btn",
-        "ref": "divTxtBtn63"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn73",
         "x": 425,
         "y": 790,
-        "type": "selection",
-        "text": "史蒂夫登场",
-        "css": "btn",
-        "ref": "divTxtBtn73"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn67",
         "x": 825,
         "y": 730,
-        "type": "option",
-        "text": "拥抱她",
-        "css": "btn",
-        "ref": "divTxtBtn67"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn77",
         "x": 825,
         "y": 790,
-        "type": "condition",
-        "text": "Game Over",
-        "css": "btn",
-        "ref": "divTxtBtn77"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn73",
         "x": 425,
         "y": 790,
-        "type": "selection",
-        "text": "史蒂夫登场",
-        "css": "btn",
-        "ref": "divTxtBtn73"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn81",
         "x": 425,
         "y": 880,
-        "type": "option",
-        "text": "跟史蒂夫一起走",
-        "css": "btn",
-        "ref": "divTxtBtn81"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn73",
         "x": 425,
         "y": 790,
-        "type": "selection",
-        "text": "史蒂夫登场",
-        "css": "btn",
-        "ref": "divTxtBtn73"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn85",
         "x": 825,
         "y": 880,
-        "type": "option",
-        "text": "自己一个人走",
-        "css": "btn",
-        "ref": "divTxtBtn85"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn81",
         "x": 425,
         "y": 880,
-        "type": "option",
-        "text": "跟史蒂夫一起走",
-        "css": "btn",
-        "ref": "divTxtBtn81"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn91",
         "x": 425,
         "y": 940,
-        "type": "selection",
-        "text": "狗破窗而入",
-        "css": "btn",
-        "ref": "divTxtBtn91"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn85",
         "x": 825,
         "y": 880,
-        "type": "option",
-        "text": "自己一个人走",
-        "css": "btn",
-        "ref": "divTxtBtn85"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn95",
         "x": 825,
         "y": 940,
-        "type": "condition",
-        "text": "Game Over",
-        "css": "btn",
-        "ref": "divTxtBtn95"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn91",
         "x": 425,
         "y": 940,
-        "type": "selection",
-        "text": "狗破窗而入",
-        "css": "btn",
-        "ref": "divTxtBtn91"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn99",
         "x": 425,
         "y": 1030,
-        "type": "option",
-        "text": "自己亲自战斗",
-        "css": "btn",
-        "ref": "divTxtBtn99"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn91",
         "x": 425,
         "y": 940,
-        "type": "selection",
-        "text": "狗破窗而入",
-        "css": "btn",
-        "ref": "divTxtBtn91"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn103",
         "x": 825,
         "y": 1030,
-        "type": "option",
-        "text": "这里交给史蒂夫",
-        "css": "btn",
-        "ref": "divTxtBtn103"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn99",
         "x": 425,
         "y": 1030,
-        "type": "option",
-        "text": "自己亲自战斗",
-        "css": "btn",
-        "ref": "divTxtBtn99"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn109",
         "x": 425,
         "y": 1090,
-        "type": "selection",
-        "text": "寻找血清",
-        "css": "btn",
-        "ref": "divTxtBtn109"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn103",
         "x": 825,
         "y": 1030,
-        "type": "option",
-        "text": "这里交给史蒂夫",
-        "css": "btn",
-        "ref": "divTxtBtn103"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn113",
         "x": 825,
         "y": 1090,
-        "type": "condition",
-        "text": "Game Over",
-        "css": "btn",
-        "ref": "divTxtBtn113"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn109",
         "x": 425,
         "y": 1090,
-        "type": "selection",
-        "text": "寻找血清",
-        "css": "btn",
-        "ref": "divTxtBtn109"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn117",
         "x": 25,
         "y": 1180,
-        "type": "option",
-        "text": "打开",
-        "css": "btn",
-        "ref": "divTxtBtn117"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn109",
         "x": 425,
         "y": 1090,
-        "type": "selection",
-        "text": "寻找血清",
-        "css": "btn",
-        "ref": "divTxtBtn109"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn123",
         "x": 825,
         "y": 1180,
-        "type": "option",
-        "text": "不打开",
-        "css": "btn",
-        "ref": "divTxtBtn123"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn123",
         "x": 825,
         "y": 1180,
-        "type": "option",
-        "text": "不打开",
-        "css": "btn",
-        "ref": "divTxtBtn123"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn129",
         "x": 825,
         "y": 1240,
-        "type": "selection",
-        "text": "三叉口",
-        "css": "btn",
-        "ref": "divTxtBtn129"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn129",
         "x": 825,
         "y": 1240,
-        "type": "selection",
-        "text": "三叉口",
-        "css": "btn",
-        "ref": "divTxtBtn129"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn133",
         "x": 425,
         "y": 1330,
-        "type": "option",
-        "text": "向左走",
-        "css": "btn",
-        "ref": "divTxtBtn133"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn129",
         "x": 825,
         "y": 1240,
-        "type": "selection",
-        "text": "三叉口",
-        "css": "btn",
-        "ref": "divTxtBtn129"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn139",
         "x": 825,
         "y": 1330,
-        "type": "option",
-        "text": "向前走",
-        "css": "btn",
-        "ref": "divTxtBtn139"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn129",
         "x": 825,
         "y": 1240,
-        "type": "selection",
-        "text": "三叉口",
-        "css": "btn",
-        "ref": "divTxtBtn129"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn143",
         "x": 1225,
         "y": 1330,
-        "type": "option",
-        "text": "向右走",
-        "css": "btn",
-        "ref": "divTxtBtn143"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn117",
         "x": 25,
         "y": 1180,
-        "type": "option",
-        "text": "打开",
-        "css": "btn",
-        "ref": "divTxtBtn117"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn149",
         "x": 25,
         "y": 1390,
-        "type": "selection",
-        "text": "史蒂夫拥抱",
-        "css": "btn",
-        "ref": "divTxtBtn149"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn133",
         "x": 425,
         "y": 1330,
-        "type": "option",
-        "text": "向左走",
-        "css": "btn",
-        "ref": "divTxtBtn133"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn153",
         "x": 425,
         "y": 1390,
-        "type": "condition",
-        "text": "The End",
-        "css": "btn",
-        "ref": "divTxtBtn153"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn139",
         "x": 825,
         "y": 1330,
-        "type": "option",
-        "text": "向前走",
-        "css": "btn",
-        "ref": "divTxtBtn139"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn157",
         "x": 1025,
         "y": 1420,
-        "type": "condition",
-        "text": "Game Over",
-        "css": "btn",
-        "ref": "divTxtBtn157"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn143",
         "x": 1225,
         "y": 1330,
-        "type": "option",
-        "text": "向右走",
-        "css": "btn",
-        "ref": "divTxtBtn143"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn157",
         "x": 1025,
         "y": 1420,
-        "type": "condition",
-        "text": "Game Over",
-        "css": "btn",
-        "ref": "divTxtBtn157"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn149",
         "x": 25,
         "y": 1390,
-        "type": "selection",
-        "text": "史蒂夫拥抱",
-        "css": "btn",
-        "ref": "divTxtBtn149"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn167",
         "x": 25,
         "y": 1480,
-        "type": "option",
-        "text": "挣脱他",
-        "css": "btn",
-        "ref": "divTxtBtn167"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn149",
         "x": 25,
         "y": 1390,
-        "type": "selection",
-        "text": "史蒂夫拥抱",
-        "css": "btn",
-        "ref": "divTxtBtn149"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn171",
         "x": 425,
         "y": 1480,
-        "type": "option",
-        "text": "拥抱他",
-        "css": "btn",
-        "ref": "divTxtBtn171"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn167",
         "x": 25,
         "y": 1480,
-        "type": "option",
-        "text": "挣脱他",
-        "css": "btn",
-        "ref": "divTxtBtn167"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn177",
         "x": 25,
         "y": 1540,
-        "type": "selection",
-        "text": "露丝登场",
-        "css": "btn",
-        "ref": "divTxtBtn177"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn171",
         "x": 425,
         "y": 1480,
-        "type": "option",
-        "text": "拥抱他",
-        "css": "btn",
-        "ref": "divTxtBtn171"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn181",
         "x": 425,
         "y": 1540,
-        "type": "condition",
-        "text": "Game Over",
-        "css": "btn",
-        "ref": "divTxtBtn181"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn177",
         "x": 25,
         "y": 1540,
-        "type": "selection",
-        "text": "露丝登场",
-        "css": "btn",
-        "ref": "divTxtBtn177"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn185",
         "x": 25,
         "y": 1630,
-        "type": "option",
-        "text": "挣脱她",
-        "css": "btn",
-        "ref": "divTxtBtn185"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn177",
         "x": 25,
         "y": 1540,
-        "type": "selection",
-        "text": "露丝登场",
-        "css": "btn",
-        "ref": "divTxtBtn177"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn189",
         "x": 425,
         "y": 1630,
-        "type": "option",
-        "text": "一起行动",
-        "css": "btn",
-        "ref": "divTxtBtn189"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn185",
         "x": 25,
         "y": 1630,
-        "type": "option",
-        "text": "挣脱她",
-        "css": "btn",
-        "ref": "divTxtBtn185"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn195",
         "x": 25,
         "y": 1690,
-        "type": "condition",
-        "text": "放弃阅读，强制Escape",
-        "css": "btn",
-        "ref": "divTxtBtn195"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn189",
         "x": 425,
         "y": 1630,
-        "type": "option",
-        "text": "一起行动",
-        "css": "btn",
-        "ref": "divTxtBtn189"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn199",
         "x": 425,
         "y": 1690,
-        "type": "condition",
-        "text": "Game Over",
-        "css": "btn",
-        "ref": "divTxtBtn199"
+        "__type": "textbox"
       }
     ]
   ],
@@ -1169,14 +1046,16 @@
     "dateE": "Heartbeat☆High School",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 1780,
     "page": 24,
-    "ref": "divFt203"
+    "ref": "divFt203",
+    "__type": "footer"
   },
   "board": []
 }

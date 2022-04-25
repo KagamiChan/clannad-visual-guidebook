@@ -7,7 +7,8 @@
         "type": "date",
         "text": "4月25日",
         "css": "date",
-        "ref": "divBtn1"
+        "ref": "divBtn1",
+        "__type": "button"
       }
     ],
     [
@@ -17,7 +18,8 @@
         "type": "selection",
         "text": "早晨朋也被智代唤醒",
         "css": "btn",
-        "ref": "divTxtBtn2"
+        "ref": "divTxtBtn2",
+        "__type": "textbox"
       }
     ],
     [
@@ -27,7 +29,8 @@
         "type": "option",
         "text": "开始准备",
         "css": "btn",
-        "ref": "divTxtBtn6"
+        "ref": "divTxtBtn6",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -35,7 +38,8 @@
         "type": "option",
         "text": "坚持要求接吻",
         "css": "btn",
-        "ref": "divTxtBtn12"
+        "ref": "divTxtBtn12",
+        "__type": "textbox"
       }
     ],
     [
@@ -45,7 +49,8 @@
         "type": "date",
         "text": "4月26日",
         "css": "date",
-        "ref": "divBtn18"
+        "ref": "divBtn18",
+        "__type": "button"
       }
     ],
     [
@@ -55,7 +60,8 @@
         "type": "date",
         "text": "4月26日",
         "css": "date",
-        "ref": "divBtn27"
+        "ref": "divBtn27",
+        "__type": "button"
       }
     ],
     [
@@ -66,13 +72,15 @@
         "text": "选择约会吃饭的地方",
         "css": "btn",
         "ref": "divTxtBtn28",
+        "__type": "textbox",
         "num": {
           "x": 610,
           "y": 640,
           "type": "ccheck",
           "text": "1",
           "css": "check",
-          "ref": "divBtn30"
+          "ref": "divBtn30",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -89,7 +97,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt31"
+          "ref": "divCmt31",
+          "__type": "comment"
         }
       }
     ],
@@ -100,7 +109,8 @@
         "type": "option",
         "text": "去外面吃",
         "css": "btn",
-        "ref": "divTxtBtn34"
+        "ref": "divTxtBtn34",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -108,7 +118,8 @@
         "type": "option",
         "text": "在食堂里吃",
         "css": "btn",
-        "ref": "divTxtBtn40"
+        "ref": "divTxtBtn40",
+        "__type": "textbox"
       }
     ],
     [
@@ -118,7 +129,8 @@
         "type": "date",
         "text": "5月2日",
         "css": "date",
-        "ref": "divBtn46"
+        "ref": "divBtn46",
+        "__type": "button"
       }
     ],
     [
@@ -128,7 +140,8 @@
         "type": "date",
         "text": "5月2日",
         "css": "date",
-        "ref": "divBtn55"
+        "ref": "divBtn55",
+        "__type": "button"
       }
     ],
     [
@@ -138,7 +151,8 @@
         "type": "selection",
         "text": "朋也对智代的幻想（一）",
         "css": "btn",
-        "ref": "divTxtBtn56"
+        "ref": "divTxtBtn56",
+        "__type": "textbox"
       }
     ],
     [
@@ -148,7 +162,8 @@
         "type": "option",
         "text": "那么，不如现在…",
         "css": "btn",
-        "ref": "divTxtBtn60"
+        "ref": "divTxtBtn60",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -156,7 +171,8 @@
         "type": "option",
         "text": "那你也想象一下吧",
         "css": "btn",
-        "ref": "divTxtBtn66"
+        "ref": "divTxtBtn66",
+        "__type": "textbox"
       }
     ],
     [
@@ -166,7 +182,8 @@
         "type": "selection",
         "text": "奇怪的要求",
         "css": "btn",
-        "ref": "divTxtBtn72"
+        "ref": "divTxtBtn72",
+        "__type": "textbox"
       }
     ],
     [
@@ -176,7 +193,8 @@
         "type": "option",
         "text": "做色色的事情",
         "css": "btn",
-        "ref": "divTxtBtn76"
+        "ref": "divTxtBtn76",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -184,7 +202,8 @@
         "type": "option",
         "text": "做柔软体操",
         "css": "btn",
-        "ref": "divTxtBtn82"
+        "ref": "divTxtBtn82",
+        "__type": "textbox"
       }
     ],
     [
@@ -194,434 +213,286 @@
         "type": "date",
         "text": "5月3日",
         "css": "date",
-        "ref": "divBtn88"
+        "ref": "divBtn88",
+        "__type": "button"
       }
     ]
   ],
   "line": [
     [
       {
+        "ref": "divBtn1",
         "x": 750,
         "y": 175,
-        "type": "date",
-        "text": "4月25日",
-        "css": "date",
-        "ref": "divBtn1"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "selection",
-        "text": "早晨朋也被智代唤醒",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "selection",
-        "text": "早晨朋也被智代唤醒",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn6",
         "x": 425,
         "y": 340,
-        "type": "option",
-        "text": "开始准备",
-        "css": "btn",
-        "ref": "divTxtBtn6"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "selection",
-        "text": "早晨朋也被智代唤醒",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn12",
         "x": 825,
         "y": 340,
-        "type": "option",
-        "text": "坚持要求接吻",
-        "css": "btn",
-        "ref": "divTxtBtn12"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn6",
         "x": 425,
         "y": 340,
-        "type": "option",
-        "text": "开始准备",
-        "css": "btn",
-        "ref": "divTxtBtn6"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn18",
         "x": 750,
         "y": 430,
-        "type": "date",
-        "text": "4月26日",
-        "css": "date",
-        "ref": "divBtn18"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn12",
         "x": 825,
         "y": 340,
-        "type": "option",
-        "text": "坚持要求接吻",
-        "css": "btn",
-        "ref": "divTxtBtn12"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn18",
         "x": 750,
         "y": 430,
-        "type": "date",
-        "text": "4月26日",
-        "css": "date",
-        "ref": "divBtn18"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divBtn27",
         "x": 750,
         "y": 565,
-        "type": "date",
-        "text": "4月26日",
-        "css": "date",
-        "ref": "divBtn27"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn28",
         "x": 625,
         "y": 640,
-        "type": "selection",
-        "text": "选择约会吃饭的地方",
-        "css": "btn",
-        "ref": "divTxtBtn28",
-        "num": {
-          "x": 610,
-          "y": 640,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn30"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 630,
-          "text": "选择约会吃饭的地方",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-在食堂里吃",
-          "icon": "10000000",
-          "iconillu": "幸村参与64HIT（前提为已完成过幸村线）",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt31"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn28",
         "x": 625,
         "y": 640,
-        "type": "selection",
-        "text": "选择约会吃饭的地方",
-        "css": "btn",
-        "ref": "divTxtBtn28",
-        "num": {
-          "x": 610,
-          "y": 640,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn30"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 630,
-          "text": "选择约会吃饭的地方",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-在食堂里吃",
-          "icon": "10000000",
-          "iconillu": "幸村参与64HIT（前提为已完成过幸村线）",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt31"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn34",
         "x": 425,
         "y": 730,
-        "type": "option",
-        "text": "去外面吃",
-        "css": "btn",
-        "ref": "divTxtBtn34"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn28",
         "x": 625,
         "y": 640,
-        "type": "selection",
-        "text": "选择约会吃饭的地方",
-        "css": "btn",
-        "ref": "divTxtBtn28",
-        "num": {
-          "x": 610,
-          "y": 640,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn30"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 630,
-          "text": "选择约会吃饭的地方",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-在食堂里吃",
-          "icon": "10000000",
-          "iconillu": "幸村参与64HIT（前提为已完成过幸村线）",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt31"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn40",
         "x": 825,
         "y": 730,
-        "type": "option",
-        "text": "在食堂里吃",
-        "css": "btn",
-        "ref": "divTxtBtn40"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn34",
         "x": 425,
         "y": 730,
-        "type": "option",
-        "text": "去外面吃",
-        "css": "btn",
-        "ref": "divTxtBtn34"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn46",
         "x": 750,
         "y": 820,
-        "type": "date",
-        "text": "5月2日",
-        "css": "date",
-        "ref": "divBtn46"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn40",
         "x": 825,
         "y": 730,
-        "type": "option",
-        "text": "在食堂里吃",
-        "css": "btn",
-        "ref": "divTxtBtn40"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn46",
         "x": 750,
         "y": 820,
-        "type": "date",
-        "text": "5月2日",
-        "css": "date",
-        "ref": "divBtn46"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divBtn55",
         "x": 850,
         "y": 955,
-        "type": "date",
-        "text": "5月2日",
-        "css": "date",
-        "ref": "divBtn55"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn56",
         "x": 725,
         "y": 1030,
-        "type": "selection",
-        "text": "朋也对智代的幻想（一）",
-        "css": "btn",
-        "ref": "divTxtBtn56"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn56",
         "x": 725,
         "y": 1030,
-        "type": "selection",
-        "text": "朋也对智代的幻想（一）",
-        "css": "btn",
-        "ref": "divTxtBtn56"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn60",
         "x": 525,
         "y": 1120,
-        "type": "option",
-        "text": "那么，不如现在…",
-        "css": "btn",
-        "ref": "divTxtBtn60"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn56",
         "x": 725,
         "y": 1030,
-        "type": "selection",
-        "text": "朋也对智代的幻想（一）",
-        "css": "btn",
-        "ref": "divTxtBtn56"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn66",
         "x": 925,
         "y": 1120,
-        "type": "option",
-        "text": "那你也想象一下吧",
-        "css": "btn",
-        "ref": "divTxtBtn66"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn60",
         "x": 525,
         "y": 1120,
-        "type": "option",
-        "text": "那么，不如现在…",
-        "css": "btn",
-        "ref": "divTxtBtn60"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn72",
         "x": 525,
         "y": 1180,
-        "type": "selection",
-        "text": "奇怪的要求",
-        "css": "btn",
-        "ref": "divTxtBtn72"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn72",
         "x": 525,
         "y": 1180,
-        "type": "selection",
-        "text": "奇怪的要求",
-        "css": "btn",
-        "ref": "divTxtBtn72"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn76",
         "x": 325,
         "y": 1270,
-        "type": "option",
-        "text": "做色色的事情",
-        "css": "btn",
-        "ref": "divTxtBtn76"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn72",
         "x": 525,
         "y": 1180,
-        "type": "selection",
-        "text": "奇怪的要求",
-        "css": "btn",
-        "ref": "divTxtBtn72"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn82",
         "x": 725,
         "y": 1270,
-        "type": "option",
-        "text": "做柔软体操",
-        "css": "btn",
-        "ref": "divTxtBtn82"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn76",
         "x": 325,
         "y": 1270,
-        "type": "option",
-        "text": "做色色的事情",
-        "css": "btn",
-        "ref": "divTxtBtn76"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 1360
+        "y": 1360,
+        "__type": "point"
       },
       {
+        "ref": "divBtn88",
         "x": 850,
         "y": 1390,
-        "type": "date",
-        "text": "5月3日",
-        "css": "date",
-        "ref": "divBtn88"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn82",
         "x": 725,
         "y": 1270,
-        "type": "option",
-        "text": "做柔软体操",
-        "css": "btn",
-        "ref": "divTxtBtn82"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 1360
+        "y": 1360,
+        "__type": "point"
       },
       {
+        "ref": "divBtn88",
         "x": 850,
         "y": 1390,
-        "type": "date",
-        "text": "5月3日",
-        "css": "date",
-        "ref": "divBtn88"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn66",
         "x": 925,
         "y": 1120,
-        "type": "option",
-        "text": "那你也想象一下吧",
-        "css": "btn",
-        "ref": "divTxtBtn66"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn88",
         "x": 850,
         "y": 1390,
-        "type": "date",
-        "text": "5月3日",
-        "css": "date",
-        "ref": "divBtn88"
+        "__type": "button"
       }
     ]
   ],
@@ -641,7 +512,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt31"
+      "ref": "divCmt31",
+      "__type": "comment"
     }
   ],
   "header": {
@@ -654,14 +526,16 @@
     "dateE": "April 25st~May 2nd",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 1420,
     "page": 27,
-    "ref": "divFt105"
+    "ref": "divFt105",
+    "__type": "footer"
   },
   "board": []
 }

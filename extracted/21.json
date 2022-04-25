@@ -7,7 +7,8 @@
         "type": "date",
         "text": "4月24日",
         "css": "date",
-        "ref": "divBtn1"
+        "ref": "divBtn1",
+        "__type": "button"
       }
     ],
     [
@@ -17,7 +18,8 @@
         "type": "condition",
         "text": "21日，迟到后的午间",
         "css": "btn",
-        "ref": "divTxtBtn2"
+        "ref": "divTxtBtn2",
+        "__type": "textbox"
       }
     ],
     [
@@ -27,7 +29,8 @@
         "type": "selection",
         "text": "看看窗外",
         "css": "btn",
-        "ref": "divTxtBtn6"
+        "ref": "divTxtBtn6",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -36,7 +39,8 @@
         "text": "赶去学生食堂",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn12"
+        "ref": "divTxtBtn12",
+        "__type": "textbox"
       }
     ],
     [
@@ -47,6 +51,7 @@
         "text": "A",
         "css": "btn",
         "ref": "divTxtBtn19",
+        "__type": "textbox",
         "link": "p21_retA"
       },
       {
@@ -55,7 +60,8 @@
         "type": "condition",
         "text": "22日，被春原利用，智代陷入窘境",
         "css": "btn",
-        "ref": "divTxtBtn23"
+        "ref": "divTxtBtn23",
+        "__type": "textbox"
       }
     ],
     [
@@ -65,7 +71,8 @@
         "type": "selection",
         "text": "该阻止他了",
         "css": "btn",
-        "ref": "divTxtBtn27"
+        "ref": "divTxtBtn27",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -74,7 +81,8 @@
         "text": "和春原一起享受",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn33"
+        "ref": "divTxtBtn33",
+        "__type": "textbox"
       }
     ],
     [
@@ -84,7 +92,8 @@
         "type": "condition",
         "text": "23日，打架的借口",
         "css": "btn",
-        "ref": "divTxtBtn38"
+        "ref": "divTxtBtn38",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -93,6 +102,7 @@
         "text": "春原的玩笑（三）",
         "css": "btn",
         "ref": "divTxtBtn42",
+        "__type": "textbox",
         "link": "p21_retSNJK3"
       }
     ],
@@ -103,7 +113,8 @@
         "type": "selection",
         "text": "那家伙以话剧社为目标",
         "css": "btn",
-        "ref": "divTxtBtn46"
+        "ref": "divTxtBtn46",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -111,7 +122,8 @@
         "type": "selection",
         "text": "那家伙休学了很长时间",
         "css": "btn",
-        "ref": "divTxtBtn52"
+        "ref": "divTxtBtn52",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -120,7 +132,8 @@
         "text": "那家伙吃过豆沙包",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn56"
+        "ref": "divTxtBtn56",
+        "__type": "textbox"
       }
     ],
     [
@@ -131,13 +144,15 @@
         "text": "对智代的想法",
         "css": "btn",
         "ref": "divTxtBtn63",
+        "__type": "textbox",
         "num": {
           "x": 210,
           "y": 700,
           "type": "ccheck",
           "text": "1",
           "css": "check",
-          "ref": "divBtn65"
+          "ref": "divBtn65",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -154,7 +169,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt66"
+          "ref": "divCmt66",
+          "__type": "comment"
         }
       }
     ],
@@ -166,7 +182,8 @@
         "text": "说不定只是想和智代在一起",
         "route": "l|智代",
         "css": "btn",
-        "ref": "divTxtBtn69"
+        "ref": "divTxtBtn69",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -175,7 +192,8 @@
         "text": "说不定只是把她当作解闷的人罢了",
         "route": "r|智代",
         "css": "btn",
-        "ref": "divTxtBtn74"
+        "ref": "divTxtBtn74",
+        "__type": "textbox"
       }
     ],
     [
@@ -186,6 +204,7 @@
         "text": "B",
         "css": "btn",
         "ref": "divTxtBtn81",
+        "__type": "textbox",
         "link": "p21_retB"
       }
     ],
@@ -196,7 +215,8 @@
         "type": "condition",
         "text": "智代线完全进入",
         "css": "btn",
-        "ref": "divTxtBtn85"
+        "ref": "divTxtBtn85",
+        "__type": "textbox"
       }
     ],
     [
@@ -207,13 +227,15 @@
         "text": "红色闪电佐利恩",
         "css": "btn",
         "ref": "divTxtBtn89",
+        "__type": "textbox",
         "num": {
           "x": 610,
           "y": 910,
           "type": "ccheck",
           "text": "2",
           "css": "check",
-          "ref": "divBtn91"
+          "ref": "divBtn91",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -230,7 +252,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt92"
+          "ref": "divCmt92",
+          "__type": "comment"
         }
       }
     ],
@@ -242,7 +265,8 @@
         "text": "不参加",
         "route": "l|胜平",
         "css": "btn",
-        "ref": "divTxtBtn115"
+        "ref": "divTxtBtn115",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -251,7 +275,8 @@
         "text": "参加",
         "route": "r|胜平",
         "css": "btn",
-        "ref": "divTxtBtn120"
+        "ref": "divTxtBtn120",
+        "__type": "textbox"
       }
     ],
     [
@@ -262,13 +287,15 @@
         "text": "胜平线进入",
         "css": "btn",
         "ref": "divTxtBtn127",
+        "__type": "textbox",
         "num": {
           "x": 610,
           "y": 1060,
           "type": "ccheck",
           "text": "3",
           "css": "check",
-          "ref": "divBtn129"
+          "ref": "divBtn129",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -285,7 +312,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt130"
+          "ref": "divCmt130",
+          "__type": "comment"
         }
       },
       {
@@ -294,7 +322,8 @@
         "type": "condition",
         "text": "枪战游戏/业余棒球线完全进入",
         "css": "btn",
-        "ref": "divTxtBtn133"
+        "ref": "divTxtBtn133",
+        "__type": "textbox"
       }
     ],
     [
@@ -304,7 +333,8 @@
         "type": "condition",
         "text": "23日，面对渚时的困惑",
         "css": "btn",
-        "ref": "divTxtBtn137"
+        "ref": "divTxtBtn137",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -312,7 +342,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn141"
+        "ref": "divTxtBtn141",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -320,7 +351,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn145"
+        "ref": "divTxtBtn145",
+        "__type": "textbox"
       }
     ],
     [
@@ -330,7 +362,8 @@
         "type": "condition",
         "text": "胜平线完全进入",
         "css": "btn",
-        "ref": "divTxtBtn151"
+        "ref": "divTxtBtn151",
+        "__type": "textbox"
       }
     ],
     [
@@ -340,7 +373,8 @@
         "type": "selection",
         "text": "不是的",
         "css": "btn",
-        "ref": "divTxtBtn155"
+        "ref": "divTxtBtn155",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -348,7 +382,8 @@
         "type": "selection",
         "text": "大概是这样吧",
         "css": "btn",
-        "ref": "divTxtBtn159"
+        "ref": "divTxtBtn159",
+        "__type": "textbox"
       }
     ],
     [
@@ -359,13 +394,15 @@
         "text": "朋也面对哭泣的渚",
         "css": "btn",
         "ref": "divTxtBtn165",
+        "__type": "textbox",
         "num": {
           "x": 10,
           "y": 1300,
           "type": "ccheck",
           "text": "4",
           "css": "check",
-          "ref": "divBtn167"
+          "ref": "divBtn167",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -382,7 +419,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt168"
+          "ref": "divCmt168",
+          "__type": "comment"
         }
       }
     ],
@@ -394,7 +432,8 @@
         "text": "就这样注视着她",
         "route": "l|-渚",
         "css": "btn",
-        "ref": "divTxtBtn171"
+        "ref": "divTxtBtn171",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -403,7 +442,8 @@
         "text": "紧紧抱住她",
         "route": "r|-渚",
         "css": "btn",
-        "ref": "divTxtBtn176"
+        "ref": "divTxtBtn176",
+        "__type": "textbox"
       }
     ],
     [
@@ -413,7 +453,8 @@
         "type": "date",
         "text": "4月25日",
         "css": "date",
-        "ref": "divBtn183"
+        "ref": "divBtn183",
+        "__type": "button"
       }
     ],
     [
@@ -424,6 +465,7 @@
         "text": "A",
         "css": "btn",
         "ref": "divTxtBtn198",
+        "__type": "textbox",
         "link": "p21_A"
       },
       {
@@ -432,7 +474,8 @@
         "type": "condition",
         "text": "23日，无聊的午后时光",
         "css": "btn",
-        "ref": "divTxtBtn200"
+        "ref": "divTxtBtn200",
+        "__type": "textbox"
       }
     ],
     [
@@ -442,7 +485,8 @@
         "type": "selection",
         "text": "转换一下心情",
         "css": "btn",
-        "ref": "divTxtBtn205"
+        "ref": "divTxtBtn205",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -451,7 +495,8 @@
         "text": "睡觉",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn211"
+        "ref": "divTxtBtn211",
+        "__type": "textbox"
       }
     ],
     [
@@ -461,7 +506,8 @@
         "type": "selection",
         "text": "午后，走廊上又碰见风子",
         "css": "btn",
-        "ref": "divTxtBtn218"
+        "ref": "divTxtBtn218",
+        "__type": "textbox"
       }
     ],
     [
@@ -471,7 +517,8 @@
         "type": "option",
         "text": "叫住她",
         "css": "btn",
-        "ref": "divTxtBtn222"
+        "ref": "divTxtBtn222",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -479,7 +526,8 @@
         "type": "option",
         "text": "不管她",
         "css": "btn",
-        "ref": "divTxtBtn228"
+        "ref": "divTxtBtn228",
+        "__type": "textbox"
       }
     ],
     [
@@ -490,6 +538,7 @@
         "text": "风子大师（四）",
         "css": "btn",
         "ref": "divTxtBtn234",
+        "__type": "textbox",
         "link": "p21_retKFMT4"
       }
     ]
@@ -497,1268 +546,702 @@
   "line": [
     [
       {
+        "ref": "divBtn1",
         "x": 750,
         "y": 175,
-        "type": "date",
-        "text": "4月24日",
-        "css": "date",
-        "ref": "divBtn1"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "condition",
-        "text": "21日，迟到后的午间",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "condition",
-        "text": "21日，迟到后的午间",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn6",
         "x": 25,
         "y": 340,
-        "type": "selection",
-        "text": "看看窗外",
-        "css": "btn",
-        "ref": "divTxtBtn6"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "condition",
-        "text": "21日，迟到后的午间",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn12",
         "x": 1225,
         "y": 340,
-        "type": "selection",
-        "text": "赶去学生食堂",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn12"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn6",
         "x": 25,
         "y": 340,
-        "type": "selection",
-        "text": "看看窗外",
-        "css": "btn",
-        "ref": "divTxtBtn6"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn19",
         "x": 25,
         "y": 400,
-        "type": "block",
-        "text": "A",
-        "css": "btn",
-        "ref": "divTxtBtn19"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn12",
         "x": 1225,
         "y": 340,
-        "type": "selection",
-        "text": "赶去学生食堂",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn12"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn23",
         "x": 1225,
         "y": 400,
-        "type": "condition",
-        "text": "22日，被春原利用，智代陷入窘境",
-        "css": "btn",
-        "ref": "divTxtBtn23"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn23",
         "x": 1225,
         "y": 400,
-        "type": "condition",
-        "text": "22日，被春原利用，智代陷入窘境",
-        "css": "btn",
-        "ref": "divTxtBtn23"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn27",
         "x": 625,
         "y": 490,
-        "type": "selection",
-        "text": "该阻止他了",
-        "css": "btn",
-        "ref": "divTxtBtn27"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn23",
         "x": 1225,
         "y": 400,
-        "type": "condition",
-        "text": "22日，被春原利用，智代陷入窘境",
-        "css": "btn",
-        "ref": "divTxtBtn23"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn33",
         "x": 1225,
         "y": 490,
-        "type": "selection",
-        "text": "和春原一起享受",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn33"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn27",
         "x": 625,
         "y": 490,
-        "type": "selection",
-        "text": "该阻止他了",
-        "css": "btn",
-        "ref": "divTxtBtn27"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn38",
         "x": 625,
         "y": 550,
-        "type": "condition",
-        "text": "23日，打架的借口",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn33",
         "x": 1225,
         "y": 490,
-        "type": "selection",
-        "text": "和春原一起享受",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn33"
+        "__type": "textbox"
       },
       {
-        "x": 1225,
-        "y": 550,
-        "type": "option",
-        "text": "春原的玩笑（三）",
-        "css": "btn",
         "ref": "divTxtBtn42",
-        "link": "p21_retSNJK3"
+        "x": 1225,
+        "y": 550,
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn38",
         "x": 625,
         "y": 550,
-        "type": "condition",
-        "text": "23日，打架的借口",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn46",
         "x": 225,
         "y": 640,
-        "type": "selection",
-        "text": "那家伙以话剧社为目标",
-        "css": "btn",
-        "ref": "divTxtBtn46"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn38",
         "x": 625,
         "y": 550,
-        "type": "condition",
-        "text": "23日，打架的借口",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn52",
         "x": 625,
         "y": 640,
-        "type": "selection",
-        "text": "那家伙休学了很长时间",
-        "css": "btn",
-        "ref": "divTxtBtn52"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn38",
         "x": 625,
         "y": 550,
-        "type": "condition",
-        "text": "23日，打架的借口",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn56",
         "x": 1025,
         "y": 640,
-        "type": "selection",
-        "text": "那家伙吃过豆沙包",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn56"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn46",
         "x": 225,
         "y": 640,
-        "type": "selection",
-        "text": "那家伙以话剧社为目标",
-        "css": "btn",
-        "ref": "divTxtBtn46"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn63",
         "x": 225,
         "y": 700,
-        "type": "selection",
-        "text": "对智代的想法",
-        "css": "btn",
-        "ref": "divTxtBtn63",
-        "num": {
-          "x": 210,
-          "y": 700,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn65"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 690,
-          "text": "对智代的想法",
-          "num": "1",
-          "summary": "智代并没有在午饭时来到教室，有些迷茫的朋也思考着智代对自己的意义",
-          "hint": "选择[说不定只是想和智代在一起]，则完全进入智代线，坂上智代角色剧情攻略参见P27～P51。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt66"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn63",
         "x": 225,
         "y": 700,
-        "type": "selection",
-        "text": "对智代的想法",
-        "css": "btn",
-        "ref": "divTxtBtn63",
-        "num": {
-          "x": 210,
-          "y": 700,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn65"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 690,
-          "text": "对智代的想法",
-          "num": "1",
-          "summary": "智代并没有在午饭时来到教室，有些迷茫的朋也思考着智代对自己的意义",
-          "hint": "选择[说不定只是想和智代在一起]，则完全进入智代线，坂上智代角色剧情攻略参见P27～P51。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt66"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn69",
         "x": 225,
         "y": 790,
-        "type": "option",
-        "text": "说不定只是想和智代在一起",
-        "route": "l|智代",
-        "css": "btn",
-        "ref": "divTxtBtn69"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn63",
         "x": 225,
         "y": 700,
-        "type": "selection",
-        "text": "对智代的想法",
-        "css": "btn",
-        "ref": "divTxtBtn63",
-        "num": {
-          "x": 210,
-          "y": 700,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn65"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 690,
-          "text": "对智代的想法",
-          "num": "1",
-          "summary": "智代并没有在午饭时来到教室，有些迷茫的朋也思考着智代对自己的意义",
-          "hint": "选择[说不定只是想和智代在一起]，则完全进入智代线，坂上智代角色剧情攻略参见P27～P51。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt66"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn74",
         "x": 625,
         "y": 790,
-        "type": "option",
-        "text": "说不定只是把她当作解闷的人罢了",
-        "route": "r|智代",
-        "css": "btn",
-        "ref": "divTxtBtn74"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn42",
         "x": 1225,
         "y": 550,
-        "type": "option",
-        "text": "春原的玩笑（三）",
-        "css": "btn",
-        "ref": "divTxtBtn42",
-        "link": "p21_retSNJK3"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn81",
         "x": 1225,
         "y": 820,
-        "type": "block",
-        "text": "B",
-        "css": "btn",
-        "ref": "divTxtBtn81",
-        "link": "p21_retB"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn69",
         "x": 225,
         "y": 790,
-        "type": "option",
-        "text": "说不定只是想和智代在一起",
-        "route": "l|智代",
-        "css": "btn",
-        "ref": "divTxtBtn69"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn85",
         "x": 225,
         "y": 850,
-        "type": "condition",
-        "text": "智代线完全进入",
-        "css": "btn",
-        "ref": "divTxtBtn85"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn74",
         "x": 625,
         "y": 790,
-        "type": "option",
-        "text": "说不定只是把她当作解闷的人罢了",
-        "route": "r|智代",
-        "css": "btn",
-        "ref": "divTxtBtn74"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn89",
         "x": 625,
         "y": 910,
-        "type": "selection",
-        "text": "红色闪电佐利恩",
-        "css": "btn",
-        "ref": "divTxtBtn89",
-        "num": {
-          "x": 610,
-          "y": 910,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn91"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 900,
-          "text": "红色闪电佐利恩",
-          "num": "2",
-          "summary": "春原在玩具店门口被神秘男子拉去参加枪战游戏，春原邀请朋也一起参加。",
-          "hint": "选择[参加]，则进入枪战游戏/业余棒球线。枪战游戏/业余棒球剧情攻略请参见P59～P61。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt92"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn81",
         "x": 1225,
         "y": 820,
-        "type": "block",
-        "text": "B",
-        "css": "btn",
-        "ref": "divTxtBtn81",
-        "link": "p21_retB"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn89",
         "x": 625,
         "y": 910,
-        "type": "selection",
-        "text": "红色闪电佐利恩",
-        "css": "btn",
-        "ref": "divTxtBtn89",
-        "num": {
-          "x": 610,
-          "y": 910,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn91"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 900,
-          "text": "红色闪电佐利恩",
-          "num": "2",
-          "summary": "春原在玩具店门口被神秘男子拉去参加枪战游戏，春原邀请朋也一起参加。",
-          "hint": "选择[参加]，则进入枪战游戏/业余棒球线。枪战游戏/业余棒球剧情攻略请参见P59～P61。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt92"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn52",
         "x": 625,
         "y": 640,
-        "type": "selection",
-        "text": "那家伙休学了很长时间",
-        "css": "btn",
-        "ref": "divTxtBtn52"
+        "__type": "textbox"
       },
       {
         "x": 1000,
-        "y": 730
+        "y": 730,
+        "__type": "point"
       },
       {
         "x": 800,
-        "y": 880
+        "y": 880,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn89",
         "x": 625,
         "y": 910,
-        "type": "selection",
-        "text": "红色闪电佐利恩",
-        "css": "btn",
-        "ref": "divTxtBtn89",
-        "num": {
-          "x": 610,
-          "y": 910,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn91"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 900,
-          "text": "红色闪电佐利恩",
-          "num": "2",
-          "summary": "春原在玩具店门口被神秘男子拉去参加枪战游戏，春原邀请朋也一起参加。",
-          "hint": "选择[参加]，则进入枪战游戏/业余棒球线。枪战游戏/业余棒球剧情攻略请参见P59～P61。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt92"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn56",
         "x": 1025,
         "y": 640,
-        "type": "selection",
-        "text": "那家伙吃过豆沙包",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn56"
+        "__type": "textbox"
       },
       {
         "x": 1000,
-        "y": 730
+        "y": 730,
+        "__type": "point"
       },
       {
         "x": 800,
-        "y": 880
+        "y": 880,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn89",
         "x": 625,
         "y": 910,
-        "type": "selection",
-        "text": "红色闪电佐利恩",
-        "css": "btn",
-        "ref": "divTxtBtn89",
-        "num": {
-          "x": 610,
-          "y": 910,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn91"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 900,
-          "text": "红色闪电佐利恩",
-          "num": "2",
-          "summary": "春原在玩具店门口被神秘男子拉去参加枪战游戏，春原邀请朋也一起参加。",
-          "hint": "选择[参加]，则进入枪战游戏/业余棒球线。枪战游戏/业余棒球剧情攻略请参见P59～P61。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt92"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn89",
         "x": 625,
         "y": 910,
-        "type": "selection",
-        "text": "红色闪电佐利恩",
-        "css": "btn",
-        "ref": "divTxtBtn89",
-        "num": {
-          "x": 610,
-          "y": 910,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn91"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 900,
-          "text": "红色闪电佐利恩",
-          "num": "2",
-          "summary": "春原在玩具店门口被神秘男子拉去参加枪战游戏，春原邀请朋也一起参加。",
-          "hint": "选择[参加]，则进入枪战游戏/业余棒球线。枪战游戏/业余棒球剧情攻略请参见P59～P61。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt92"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn115",
         "x": 625,
         "y": 1000,
-        "type": "option",
-        "text": "不参加",
-        "route": "l|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn115"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn89",
         "x": 625,
         "y": 910,
-        "type": "selection",
-        "text": "红色闪电佐利恩",
-        "css": "btn",
-        "ref": "divTxtBtn89",
-        "num": {
-          "x": 610,
-          "y": 910,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn91"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 900,
-          "text": "红色闪电佐利恩",
-          "num": "2",
-          "summary": "春原在玩具店门口被神秘男子拉去参加枪战游戏，春原邀请朋也一起参加。",
-          "hint": "选择[参加]，则进入枪战游戏/业余棒球线。枪战游戏/业余棒球剧情攻略请参见P59～P61。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt92"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn120",
         "x": 1025,
         "y": 1000,
-        "type": "option",
-        "text": "参加",
-        "route": "r|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn120"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn115",
         "x": 625,
         "y": 1000,
-        "type": "option",
-        "text": "不参加",
-        "route": "l|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn115"
+        "__type": "textbox"
       },
       {
-        "x": 625,
-        "y": 1060,
-        "type": "condition",
-        "text": "胜平线进入",
-        "css": "btn",
         "ref": "divTxtBtn127",
-        "num": {
-          "x": 610,
-          "y": 1060,
-          "type": "ccheck",
-          "text": "3",
-          "css": "check",
-          "ref": "divBtn129"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1050,
-          "text": "胜平线进入",
-          "num": "3",
-          "summary": "",
-          "hint": "此处{胜平线进入}即21日，在分支{受害者遗忘的简历}选择[查清地址后送给他]；22日，在分支{课前，牡丹的处理问题}选择[把牡丹丢还给杏]或者未触发这个分支，在分支{春原求朋也帮忙装备寝室}选择[不帮忙]。没有选择相应选项或者没有触发上述第一、三个分支的情况均属于否；第一、三个分支选择正确但没有触发第二个分支的情况属于是。<br>柊胜平角色剧情攻略请参见P37。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt130"
-        }
+        "x": 625,
+        "y": 1060,
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn120",
         "x": 1025,
         "y": 1000,
-        "type": "option",
-        "text": "参加",
-        "route": "r|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn120"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn133",
         "x": 1025,
         "y": 1060,
-        "type": "condition",
-        "text": "枪战游戏/业余棒球线完全进入",
-        "css": "btn",
-        "ref": "divTxtBtn133"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn19",
         "x": 25,
         "y": 400,
-        "type": "block",
-        "text": "A",
-        "css": "btn",
-        "ref": "divTxtBtn19",
-        "link": "p21_retA"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn137",
         "x": 25,
         "y": 1150,
-        "type": "condition",
-        "text": "23日，面对渚时的困惑",
-        "css": "btn",
-        "ref": "divTxtBtn137"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn127",
         "x": 625,
         "y": 1060,
-        "type": "condition",
-        "text": "胜平线进入",
-        "css": "btn",
-        "ref": "divTxtBtn127",
-        "num": {
-          "x": 610,
-          "y": 1060,
-          "type": "ccheck",
-          "text": "3",
-          "css": "check",
-          "ref": "divBtn129"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1050,
-          "text": "胜平线进入",
-          "num": "3",
-          "summary": "",
-          "hint": "此处{胜平线进入}即21日，在分支{受害者遗忘的简历}选择[查清地址后送给他]；22日，在分支{课前，牡丹的处理问题}选择[把牡丹丢还给杏]或者未触发这个分支，在分支{春原求朋也帮忙装备寝室}选择[不帮忙]。没有选择相应选项或者没有触发上述第一、三个分支的情况均属于否；第一、三个分支选择正确但没有触发第二个分支的情况属于是。<br>柊胜平角色剧情攻略请参见P37。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt130"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn141",
         "x": 625,
         "y": 1150,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn141"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn127",
         "x": 625,
         "y": 1060,
-        "type": "condition",
-        "text": "胜平线进入",
-        "css": "btn",
-        "ref": "divTxtBtn127",
-        "num": {
-          "x": 610,
-          "y": 1060,
-          "type": "ccheck",
-          "text": "3",
-          "css": "check",
-          "ref": "divBtn129"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1050,
-          "text": "胜平线进入",
-          "num": "3",
-          "summary": "",
-          "hint": "此处{胜平线进入}即21日，在分支{受害者遗忘的简历}选择[查清地址后送给他]；22日，在分支{课前，牡丹的处理问题}选择[把牡丹丢还给杏]或者未触发这个分支，在分支{春原求朋也帮忙装备寝室}选择[不帮忙]。没有选择相应选项或者没有触发上述第一、三个分支的情况均属于否；第一、三个分支选择正确但没有触发第二个分支的情况属于是。<br>柊胜平角色剧情攻略请参见P37。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt130"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn145",
         "x": 1025,
         "y": 1150,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn145"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn145",
         "x": 1025,
         "y": 1150,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn145"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn151",
         "x": 1025,
         "y": 1210,
-        "type": "condition",
-        "text": "胜平线完全进入",
-        "css": "btn",
-        "ref": "divTxtBtn151"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn137",
         "x": 25,
         "y": 1150,
-        "type": "condition",
-        "text": "23日，面对渚时的困惑",
-        "css": "btn",
-        "ref": "divTxtBtn137"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn155",
         "x": 25,
         "y": 1240,
-        "type": "selection",
-        "text": "不是的",
-        "css": "btn",
-        "ref": "divTxtBtn155"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn137",
         "x": 25,
         "y": 1150,
-        "type": "condition",
-        "text": "23日，面对渚时的困惑",
-        "css": "btn",
-        "ref": "divTxtBtn137"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn159",
         "x": 425,
         "y": 1240,
-        "type": "selection",
-        "text": "大概是这样吧",
-        "css": "btn",
-        "ref": "divTxtBtn159"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn155",
         "x": 25,
         "y": 1240,
-        "type": "selection",
-        "text": "不是的",
-        "css": "btn",
-        "ref": "divTxtBtn155"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn165",
         "x": 25,
         "y": 1300,
-        "type": "selection",
-        "text": "朋也面对哭泣的渚",
-        "css": "btn",
-        "ref": "divTxtBtn165",
-        "num": {
-          "x": 10,
-          "y": 1300,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn167"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1290,
-          "text": "朋也面对哭泣的渚",
-          "num": "4",
-          "summary": "渚因为话剧社的事遭搁浅而再次受到了打击，站在身边的朋也应该做些什么呢？",
-          "hint": "选择[紧紧抱住她]则继续渚线，否则退出渚线。风子线的攻略中，选择[就这样注视着她]，是达成TRUE ENDING的必要条件之一。",
-          "setsumei": "",
-          "option": "-就这样注视着她",
-          "icon": "00001000",
-          "iconillu": "风子大师达成必选",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt168"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn165",
         "x": 25,
         "y": 1300,
-        "type": "selection",
-        "text": "朋也面对哭泣的渚",
-        "css": "btn",
-        "ref": "divTxtBtn165",
-        "num": {
-          "x": 10,
-          "y": 1300,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn167"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1290,
-          "text": "朋也面对哭泣的渚",
-          "num": "4",
-          "summary": "渚因为话剧社的事遭搁浅而再次受到了打击，站在身边的朋也应该做些什么呢？",
-          "hint": "选择[紧紧抱住她]则继续渚线，否则退出渚线。风子线的攻略中，选择[就这样注视着她]，是达成TRUE ENDING的必要条件之一。",
-          "setsumei": "",
-          "option": "-就这样注视着她",
-          "icon": "00001000",
-          "iconillu": "风子大师达成必选",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt168"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn171",
         "x": 25,
         "y": 1390,
-        "type": "option",
-        "text": "就这样注视着她",
-        "route": "l|-渚",
-        "css": "btn",
-        "ref": "divTxtBtn171"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn165",
         "x": 25,
         "y": 1300,
-        "type": "selection",
-        "text": "朋也面对哭泣的渚",
-        "css": "btn",
-        "ref": "divTxtBtn165",
-        "num": {
-          "x": 10,
-          "y": 1300,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn167"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1290,
-          "text": "朋也面对哭泣的渚",
-          "num": "4",
-          "summary": "渚因为话剧社的事遭搁浅而再次受到了打击，站在身边的朋也应该做些什么呢？",
-          "hint": "选择[紧紧抱住她]则继续渚线，否则退出渚线。风子线的攻略中，选择[就这样注视着她]，是达成TRUE ENDING的必要条件之一。",
-          "setsumei": "",
-          "option": "-就这样注视着她",
-          "icon": "00001000",
-          "iconillu": "风子大师达成必选",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt168"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn176",
         "x": 425,
         "y": 1390,
-        "type": "option",
-        "text": "紧紧抱住她",
-        "route": "r|-渚",
-        "css": "btn",
-        "ref": "divTxtBtn176"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn171",
         "x": 25,
         "y": 1390,
-        "type": "option",
-        "text": "就这样注视着她",
-        "route": "l|-渚",
-        "css": "btn",
-        "ref": "divTxtBtn171"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 1480
+        "y": 1480,
+        "__type": "point"
       },
       {
+        "ref": "divBtn183",
         "x": 750,
         "y": 1510,
-        "type": "date",
-        "text": "4月25日",
-        "css": "date",
-        "ref": "divBtn183"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn176",
         "x": 425,
         "y": 1390,
-        "type": "option",
-        "text": "紧紧抱住她",
-        "route": "r|-渚",
-        "css": "btn",
-        "ref": "divTxtBtn176"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 1480
+        "y": 1480,
+        "__type": "point"
       },
       {
+        "ref": "divBtn183",
         "x": 750,
         "y": 1510,
-        "type": "date",
-        "text": "4月25日",
-        "css": "date",
-        "ref": "divBtn183"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn141",
         "x": 625,
         "y": 1150,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn141"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn183",
         "x": 750,
         "y": 1510,
-        "type": "date",
-        "text": "4月25日",
-        "css": "date",
-        "ref": "divBtn183"
+        "__type": "button"
       }
     ],
     [
       {
         "x": 900,
-        "y": 1645
+        "y": 1645,
+        "__type": "point"
       },
       {
         "x": 900,
-        "y": 1645
+        "y": 1645,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn200",
         "x": 725,
         "y": 1660,
-        "type": "condition",
-        "text": "23日，无聊的午后时光",
-        "css": "btn",
-        "ref": "divTxtBtn200"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn205",
         "x": 525,
         "y": 1750,
-        "type": "selection",
-        "text": "转换一下心情",
-        "css": "btn",
-        "ref": "divTxtBtn205"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn200",
         "x": 725,
         "y": 1660,
-        "type": "condition",
-        "text": "23日，无聊的午后时光",
-        "css": "btn",
-        "ref": "divTxtBtn200"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn211",
         "x": 925,
         "y": 1750,
-        "type": "selection",
-        "text": "睡觉",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn211"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn205",
         "x": 525,
         "y": 1750,
-        "type": "selection",
-        "text": "转换一下心情",
-        "css": "btn",
-        "ref": "divTxtBtn205"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn218",
         "x": 525,
         "y": 1810,
-        "type": "selection",
-        "text": "午后，走廊上又碰见风子",
-        "css": "btn",
-        "ref": "divTxtBtn218"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn218",
         "x": 525,
         "y": 1810,
-        "type": "selection",
-        "text": "午后，走廊上又碰见风子",
-        "css": "btn",
-        "ref": "divTxtBtn218"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn222",
         "x": 325,
         "y": 1900,
-        "type": "option",
-        "text": "叫住她",
-        "css": "btn",
-        "ref": "divTxtBtn222"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn218",
         "x": 525,
         "y": 1810,
-        "type": "selection",
-        "text": "午后，走廊上又碰见风子",
-        "css": "btn",
-        "ref": "divTxtBtn218"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn228",
         "x": 725,
         "y": 1900,
-        "type": "option",
-        "text": "不管她",
-        "css": "btn",
-        "ref": "divTxtBtn228"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn222",
         "x": 325,
         "y": 1900,
-        "type": "option",
-        "text": "叫住她",
-        "css": "btn",
-        "ref": "divTxtBtn222"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn234",
         "x": 325,
         "y": 1960,
-        "type": "option",
-        "text": "风子大师（四）",
-        "css": "btn",
-        "ref": "divTxtBtn234",
-        "link": "p21_retKFMT4"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn234",
         "x": 325,
         "y": 1960,
-        "type": "option",
-        "text": "风子大师（四）",
-        "css": "btn",
-        "ref": "divTxtBtn234",
-        "link": "p21_retKFMT4"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 2050
+        "y": 2050,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn228",
         "x": 725,
         "y": 1900,
-        "type": "option",
-        "text": "不管她",
-        "css": "btn",
-        "ref": "divTxtBtn228"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 2050
+        "y": 2050,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn211",
         "x": 925,
         "y": 1750,
-        "type": "selection",
-        "text": "睡觉",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn211"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 2050
+        "y": 2050,
+        "__type": "point"
       },
       {
         "x": 1100,
-        "y": 2050
+        "y": 2050,
+        "__type": "point"
       }
     ],
     [
       {
         "x": 900,
-        "y": 2050
+        "y": 2050,
+        "__type": "point"
       },
       {
         "x": 900,
-        "y": 2050
+        "y": 2050,
+        "__type": "point"
       }
     ]
   ],
@@ -1778,7 +1261,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt66"
+      "ref": "divCmt66",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -1795,7 +1279,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt92"
+      "ref": "divCmt92",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -1812,7 +1297,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt130"
+      "ref": "divCmt130",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -1829,7 +1315,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt168"
+      "ref": "divCmt168",
+      "__type": "comment"
     }
   ],
   "header": {
@@ -1842,20 +1329,23 @@
     "dateE": "April 24th~Part 1",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 2110,
     "page": 21,
-    "ref": "divFt251"
+    "ref": "divFt251",
+    "__type": "footer"
   },
   "board": [
     {
       "x": 0,
       "y": 1620,
-      "height": 480
+      "height": 480,
+      "__type": "board"
     }
   ]
 }

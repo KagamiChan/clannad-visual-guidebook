@@ -7,7 +7,8 @@
         "type": "date",
         "text": "4月18日",
         "css": "date",
-        "ref": "divBtn1"
+        "ref": "divBtn1",
+        "__type": "button"
       }
     ],
     [
@@ -17,7 +18,8 @@
         "type": "condition",
         "text": "14日，春原挑战智代（四回目）",
         "css": "btn",
-        "ref": "divTxtBtn2"
+        "ref": "divTxtBtn2",
+        "__type": "textbox"
       }
     ],
     [
@@ -27,7 +29,8 @@
         "type": "selection",
         "text": "跟着他去",
         "css": "btn",
-        "ref": "divTxtBtn6"
+        "ref": "divTxtBtn6",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -36,7 +39,8 @@
         "text": "不去管他",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn12"
+        "ref": "divTxtBtn12",
+        "__type": "textbox"
       }
     ],
     [
@@ -47,13 +51,15 @@
         "text": "春原挑战智代（五回目）",
         "css": "btn",
         "ref": "divTxtBtn19",
+        "__type": "textbox",
         "num": {
           "x": 410,
           "y": 400,
           "type": "ccheck",
           "text": "1",
           "css": "check",
-          "ref": "divBtn21"
+          "ref": "divBtn21",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -70,7 +76,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt22"
+          "ref": "divCmt22",
+          "__type": "comment"
         }
       }
     ],
@@ -82,7 +89,8 @@
         "text": "接受",
         "route": "l|智代",
         "css": "btn",
-        "ref": "divTxtBtn25"
+        "ref": "divTxtBtn25",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -91,7 +99,8 @@
         "text": "拒绝",
         "route": "r|智代",
         "css": "btn",
-        "ref": "divTxtBtn32"
+        "ref": "divTxtBtn32",
+        "__type": "textbox"
       }
     ],
     [
@@ -102,13 +111,15 @@
         "text": "被踢飞过来的春原",
         "css": "btn",
         "ref": "divTxtBtn39",
+        "__type": "textbox",
         "num": {
           "x": 210,
           "y": 550,
           "type": "ccheck",
           "text": "2",
           "css": "check",
-          "ref": "divBtn41"
+          "ref": "divBtn41",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -125,7 +136,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt42"
+          "ref": "divCmt42",
+          "__type": "comment"
         }
       }
     ],
@@ -136,7 +148,8 @@
         "type": "option",
         "text": "踢回去",
         "css": "btn",
-        "ref": "divTxtBtn45"
+        "ref": "divTxtBtn45",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -144,7 +157,8 @@
         "type": "option",
         "text": "躲开",
         "css": "btn",
-        "ref": "divTxtBtn51"
+        "ref": "divTxtBtn51",
+        "__type": "textbox"
       }
     ],
     [
@@ -154,7 +168,8 @@
         "type": "condition",
         "text": "15日，面对泪水打转的椋",
         "css": "btn",
-        "ref": "divTxtBtn57"
+        "ref": "divTxtBtn57",
+        "__type": "textbox"
       }
     ],
     [
@@ -164,7 +179,8 @@
         "type": "selection",
         "text": "道歉",
         "css": "btn",
-        "ref": "divTxtBtn85"
+        "ref": "divTxtBtn85",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -172,7 +188,8 @@
         "type": "selection",
         "text": "无视",
         "css": "btn",
-        "ref": "divTxtBtn91"
+        "ref": "divTxtBtn91",
+        "__type": "textbox"
       }
     ],
     [
@@ -182,7 +199,8 @@
         "type": "selection",
         "text": "椋的占卜道具",
         "css": "btn",
-        "ref": "divTxtBtn97"
+        "ref": "divTxtBtn97",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -191,13 +209,15 @@
         "text": "异常灵验的占卜",
         "css": "btn",
         "ref": "divTxtBtn101",
+        "__type": "textbox",
         "num": {
           "x": 1010,
           "y": 940,
           "type": "ccheck",
           "text": "3",
           "css": "check",
-          "ref": "divBtn103"
+          "ref": "divBtn103",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -214,7 +234,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt104"
+          "ref": "divCmt104",
+          "__type": "comment"
         }
       }
     ],
@@ -225,7 +246,8 @@
         "type": "option",
         "text": "胸脯占卜",
         "css": "btn",
-        "ref": "divTxtBtn107"
+        "ref": "divTxtBtn107",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -233,7 +255,8 @@
         "type": "option",
         "text": "扑克占卜",
         "css": "btn",
-        "ref": "divTxtBtn113"
+        "ref": "divTxtBtn113",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -241,7 +264,8 @@
         "type": "option",
         "text": "自己去占卜",
         "css": "btn",
-        "ref": "divTxtBtn119"
+        "ref": "divTxtBtn119",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -249,7 +273,8 @@
         "type": "option",
         "text": "让春原去占卜",
         "css": "btn",
-        "ref": "divTxtBtn125"
+        "ref": "divTxtBtn125",
+        "__type": "textbox"
       }
     ],
     [
@@ -259,7 +284,8 @@
         "type": "condition",
         "text": "17日，和风子说过话",
         "css": "btn",
-        "ref": "divTxtBtn131"
+        "ref": "divTxtBtn131",
+        "__type": "textbox"
       }
     ],
     [
@@ -269,7 +295,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn157"
+        "ref": "divTxtBtn157",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -277,7 +304,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn163"
+        "ref": "divTxtBtn163",
+        "__type": "textbox"
       }
     ],
     [
@@ -287,7 +315,8 @@
         "type": "selection",
         "text": "走廊中与风子擦身而过",
         "css": "btn",
-        "ref": "divTxtBtn169"
+        "ref": "divTxtBtn169",
+        "__type": "textbox"
       }
     ],
     [
@@ -297,7 +326,8 @@
         "type": "option",
         "text": "抓住她",
         "css": "btn",
-        "ref": "divTxtBtn173"
+        "ref": "divTxtBtn173",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -305,7 +335,8 @@
         "type": "option",
         "text": "放走她",
         "css": "btn",
-        "ref": "divTxtBtn179"
+        "ref": "divTxtBtn179",
+        "__type": "textbox"
       }
     ],
     [
@@ -316,13 +347,15 @@
         "text": "琴美线进入或17日，和风子说过话",
         "css": "btn",
         "ref": "divTxtBtn185",
+        "__type": "textbox",
         "num": {
           "x": 810,
           "y": 1540,
           "type": "ccheck",
           "text": "4",
           "css": "check",
-          "ref": "divBtn187"
+          "ref": "divBtn187",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -339,7 +372,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt188"
+          "ref": "divCmt188",
+          "__type": "comment"
         }
       }
     ],
@@ -350,7 +384,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn203"
+        "ref": "divTxtBtn203",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -358,7 +393,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn209"
+        "ref": "divTxtBtn209",
+        "__type": "textbox"
       }
     ],
     [
@@ -369,13 +405,15 @@
         "text": "寻找春原",
         "css": "btn",
         "ref": "divTxtBtn215",
+        "__type": "textbox",
         "num": {
           "x": 410,
           "y": 1690,
           "type": "ccheck",
           "text": "5",
           "css": "check",
-          "ref": "divBtn217"
+          "ref": "divBtn217",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -392,7 +430,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt218"
+          "ref": "divCmt218",
+          "__type": "comment"
         }
       }
     ],
@@ -404,7 +443,8 @@
         "text": "图书馆",
         "route": "l|琴美|-风子",
         "css": "btn",
-        "ref": "divTxtBtn221"
+        "ref": "divTxtBtn221",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -413,7 +453,8 @@
         "text": "空教室",
         "route": "l|风子|-琴美",
         "css": "btn",
-        "ref": "divTxtBtn229"
+        "ref": "divTxtBtn229",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -422,7 +463,8 @@
         "text": "回教室去",
         "route": "r|风子|琴美",
         "css": "btn",
-        "ref": "divTxtBtn235"
+        "ref": "divTxtBtn235",
+        "__type": "textbox"
       }
     ],
     [
@@ -433,6 +475,7 @@
         "text": "A",
         "css": "btn",
         "ref": "divTxtBtn243",
+        "__type": "textbox",
         "link": "p7_retB"
       },
       {
@@ -442,13 +485,15 @@
         "text": "独自雕刻的风子",
         "css": "btn",
         "ref": "divTxtBtn247",
+        "__type": "textbox",
         "num": {
           "x": 410,
           "y": 1840,
           "type": "ccheck",
           "text": "6",
           "css": "check",
-          "ref": "divBtn249"
+          "ref": "divBtn249",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -465,7 +510,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt250"
+          "ref": "divCmt250",
+          "__type": "comment"
         }
       }
     ],
@@ -476,7 +522,8 @@
         "type": "option",
         "text": "再看一会儿",
         "css": "btn",
-        "ref": "divTxtBtn253"
+        "ref": "divTxtBtn253",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -484,7 +531,8 @@
         "type": "option",
         "text": "离开",
         "css": "btn",
-        "ref": "divTxtBtn259"
+        "ref": "divTxtBtn259",
+        "__type": "textbox"
       }
     ],
     [
@@ -494,1500 +542,791 @@
         "type": "block",
         "text": "B",
         "css": "btn",
-        "ref": "divTxtBtn265"
+        "ref": "divTxtBtn265",
+        "__type": "textbox"
       }
     ]
   ],
   "line": [
     [
       {
+        "ref": "divBtn1",
         "x": 750,
         "y": 175,
-        "type": "date",
-        "text": "4月18日",
-        "css": "date",
-        "ref": "divBtn1"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "condition",
-        "text": "14日，春原挑战智代（四回目）",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "condition",
-        "text": "14日，春原挑战智代（四回目）",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn6",
         "x": 425,
         "y": 340,
-        "type": "selection",
-        "text": "跟着他去",
-        "css": "btn",
-        "ref": "divTxtBtn6"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "condition",
-        "text": "14日，春原挑战智代（四回目）",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn12",
         "x": 825,
         "y": 340,
-        "type": "selection",
-        "text": "不去管他",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn12"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn6",
         "x": 425,
         "y": 340,
-        "type": "selection",
-        "text": "跟着他去",
-        "css": "btn",
-        "ref": "divTxtBtn6"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn19",
         "x": 425,
         "y": 400,
-        "type": "selection",
-        "text": "春原挑战智代（五回目）",
-        "css": "btn",
-        "ref": "divTxtBtn19",
-        "num": {
-          "x": 410,
-          "y": 400,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn21"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 390,
-          "text": "春原挑战智代（五回目）",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-接受",
-          "icon": "01000000",
-          "iconillu": "智代有条件参与有纪宁的咒语、体育仓库事件",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt22"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn19",
         "x": 425,
         "y": 400,
-        "type": "selection",
-        "text": "春原挑战智代（五回目）",
-        "css": "btn",
-        "ref": "divTxtBtn19",
-        "num": {
-          "x": 410,
-          "y": 400,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn21"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 390,
-          "text": "春原挑战智代（五回目）",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-接受",
-          "icon": "01000000",
-          "iconillu": "智代有条件参与有纪宁的咒语、体育仓库事件",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt22"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn25",
         "x": 225,
         "y": 490,
-        "type": "option",
-        "text": "接受",
-        "route": "l|智代",
-        "css": "btn",
-        "ref": "divTxtBtn25"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn19",
         "x": 425,
         "y": 400,
-        "type": "selection",
-        "text": "春原挑战智代（五回目）",
-        "css": "btn",
-        "ref": "divTxtBtn19",
-        "num": {
-          "x": 410,
-          "y": 400,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn21"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 390,
-          "text": "春原挑战智代（五回目）",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-接受",
-          "icon": "01000000",
-          "iconillu": "智代有条件参与有纪宁的咒语、体育仓库事件",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt22"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn32",
         "x": 625,
         "y": 490,
-        "type": "option",
-        "text": "拒绝",
-        "route": "r|智代",
-        "css": "btn",
-        "ref": "divTxtBtn32"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn25",
         "x": 225,
         "y": 490,
-        "type": "option",
-        "text": "接受",
-        "route": "l|智代",
-        "css": "btn",
-        "ref": "divTxtBtn25"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn39",
         "x": 225,
         "y": 550,
-        "type": "selection",
-        "text": "被踢飞过来的春原",
-        "css": "btn",
-        "ref": "divTxtBtn39",
-        "num": {
-          "x": 210,
-          "y": 550,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn41"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 540,
-          "text": "被踢飞过来的春原",
-          "num": "2",
-          "summary": "春原被智代踢飞在空中，并向朋也飞来……",
-          "hint": "选择[踢回去]，发动智代的连击。",
-          "setsumei": "随着剧情深入，发动智代连击的机会会增加，连击次数也会增加。若连击次数超过以往最大值就会显示NEW RECORD。重新开始游戏时，纪录仍然保存。",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt42"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn39",
         "x": 225,
         "y": 550,
-        "type": "selection",
-        "text": "被踢飞过来的春原",
-        "css": "btn",
-        "ref": "divTxtBtn39",
-        "num": {
-          "x": 210,
-          "y": 550,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn41"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 540,
-          "text": "被踢飞过来的春原",
-          "num": "2",
-          "summary": "春原被智代踢飞在空中，并向朋也飞来……",
-          "hint": "选择[踢回去]，发动智代的连击。",
-          "setsumei": "随着剧情深入，发动智代连击的机会会增加，连击次数也会增加。若连击次数超过以往最大值就会显示NEW RECORD。重新开始游戏时，纪录仍然保存。",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt42"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn45",
         "x": 25,
         "y": 640,
-        "type": "option",
-        "text": "踢回去",
-        "css": "btn",
-        "ref": "divTxtBtn45"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn39",
         "x": 225,
         "y": 550,
-        "type": "selection",
-        "text": "被踢飞过来的春原",
-        "css": "btn",
-        "ref": "divTxtBtn39",
-        "num": {
-          "x": 210,
-          "y": 550,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn41"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 540,
-          "text": "被踢飞过来的春原",
-          "num": "2",
-          "summary": "春原被智代踢飞在空中，并向朋也飞来……",
-          "hint": "选择[踢回去]，发动智代的连击。",
-          "setsumei": "随着剧情深入，发动智代连击的机会会增加，连击次数也会增加。若连击次数超过以往最大值就会显示NEW RECORD。重新开始游戏时，纪录仍然保存。",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt42"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn51",
         "x": 425,
         "y": 640,
-        "type": "option",
-        "text": "躲开",
-        "css": "btn",
-        "ref": "divTxtBtn51"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn45",
         "x": 25,
         "y": 640,
-        "type": "option",
-        "text": "踢回去",
-        "css": "btn",
-        "ref": "divTxtBtn45"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 730
+        "y": 730,
+        "__type": "point"
       },
       {
         "x": 600,
-        "y": 760
+        "y": 760,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn57",
         "x": 625,
         "y": 790,
-        "type": "condition",
-        "text": "15日，面对泪水打转的椋",
-        "css": "btn",
-        "ref": "divTxtBtn57"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn51",
         "x": 425,
         "y": 640,
-        "type": "option",
-        "text": "躲开",
-        "css": "btn",
-        "ref": "divTxtBtn51"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 730
+        "y": 730,
+        "__type": "point"
       },
       {
         "x": 600,
-        "y": 760
+        "y": 760,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn57",
         "x": 625,
         "y": 790,
-        "type": "condition",
-        "text": "15日，面对泪水打转的椋",
-        "css": "btn",
-        "ref": "divTxtBtn57"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn32",
         "x": 625,
         "y": 490,
-        "type": "option",
-        "text": "拒绝",
-        "route": "r|智代",
-        "css": "btn",
-        "ref": "divTxtBtn32"
+        "__type": "textbox"
       },
       {
         "x": 600,
-        "y": 760
+        "y": 760,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn57",
         "x": 625,
         "y": 790,
-        "type": "condition",
-        "text": "15日，面对泪水打转的椋",
-        "css": "btn",
-        "ref": "divTxtBtn57"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn12",
         "x": 825,
         "y": 340,
-        "type": "selection",
-        "text": "不去管他",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn12"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn57",
         "x": 625,
         "y": 790,
-        "type": "condition",
-        "text": "15日，面对泪水打转的椋",
-        "css": "btn",
-        "ref": "divTxtBtn57"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn57",
         "x": 625,
         "y": 790,
-        "type": "condition",
-        "text": "15日，面对泪水打转的椋",
-        "css": "btn",
-        "ref": "divTxtBtn57"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn85",
         "x": 225,
         "y": 880,
-        "type": "selection",
-        "text": "道歉",
-        "css": "btn",
-        "ref": "divTxtBtn85"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn57",
         "x": 625,
         "y": 790,
-        "type": "condition",
-        "text": "15日，面对泪水打转的椋",
-        "css": "btn",
-        "ref": "divTxtBtn57"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn91",
         "x": 1025,
         "y": 880,
-        "type": "selection",
-        "text": "无视",
-        "css": "btn",
-        "ref": "divTxtBtn91"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn85",
         "x": 225,
         "y": 880,
-        "type": "selection",
-        "text": "道歉",
-        "css": "btn",
-        "ref": "divTxtBtn85"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn97",
         "x": 225,
         "y": 940,
-        "type": "selection",
-        "text": "椋的占卜道具",
-        "css": "btn",
-        "ref": "divTxtBtn97"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn91",
         "x": 1025,
         "y": 880,
-        "type": "selection",
-        "text": "无视",
-        "css": "btn",
-        "ref": "divTxtBtn91"
+        "__type": "textbox"
       },
       {
-        "x": 1025,
-        "y": 940,
-        "type": "selection",
-        "text": "异常灵验的占卜",
-        "css": "btn",
         "ref": "divTxtBtn101",
-        "num": {
-          "x": 1010,
-          "y": 940,
-          "type": "ccheck",
-          "text": "3",
-          "css": "check",
-          "ref": "divBtn103"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 930,
-          "text": "椋的占卜道具 / 异常灵验的占卜",
-          "num": "3",
-          "summary": "椋又被女生们围住要求占卜，而杏在谈到椋的占卜时却表现得有些奇怪，而且要求朋也和春原去试试。",
-          "hint": "选择[胸脯占卜]或者[自己去占卜]，在16日的分支{古河重新创立话剧社}中选择让[她一个人做]，并且如果20日没有进入美佐枝线，当日就有可能触发隐藏剧情。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt104"
-        }
+        "x": 1025,
+        "y": 940,
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn97",
         "x": 225,
         "y": 940,
-        "type": "selection",
-        "text": "椋的占卜道具",
-        "css": "btn",
-        "ref": "divTxtBtn97"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn107",
         "x": 25,
         "y": 1030,
-        "type": "option",
-        "text": "胸脯占卜",
-        "css": "btn",
-        "ref": "divTxtBtn107"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn97",
         "x": 225,
         "y": 940,
-        "type": "selection",
-        "text": "椋的占卜道具",
-        "css": "btn",
-        "ref": "divTxtBtn97"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn113",
         "x": 425,
         "y": 1030,
-        "type": "option",
-        "text": "扑克占卜",
-        "css": "btn",
-        "ref": "divTxtBtn113"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn101",
         "x": 1025,
         "y": 940,
-        "type": "selection",
-        "text": "异常灵验的占卜",
-        "css": "btn",
-        "ref": "divTxtBtn101",
-        "num": {
-          "x": 1010,
-          "y": 940,
-          "type": "ccheck",
-          "text": "3",
-          "css": "check",
-          "ref": "divBtn103"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 930,
-          "text": "椋的占卜道具 / 异常灵验的占卜",
-          "num": "3",
-          "summary": "椋又被女生们围住要求占卜，而杏在谈到椋的占卜时却表现得有些奇怪，而且要求朋也和春原去试试。",
-          "hint": "选择[胸脯占卜]或者[自己去占卜]，在16日的分支{古河重新创立话剧社}中选择让[她一个人做]，并且如果20日没有进入美佐枝线，当日就有可能触发隐藏剧情。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt104"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn119",
         "x": 825,
         "y": 1030,
-        "type": "option",
-        "text": "自己去占卜",
-        "css": "btn",
-        "ref": "divTxtBtn119"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn101",
         "x": 1025,
         "y": 940,
-        "type": "selection",
-        "text": "异常灵验的占卜",
-        "css": "btn",
-        "ref": "divTxtBtn101",
-        "num": {
-          "x": 1010,
-          "y": 940,
-          "type": "ccheck",
-          "text": "3",
-          "css": "check",
-          "ref": "divBtn103"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 930,
-          "text": "椋的占卜道具 / 异常灵验的占卜",
-          "num": "3",
-          "summary": "椋又被女生们围住要求占卜，而杏在谈到椋的占卜时却表现得有些奇怪，而且要求朋也和春原去试试。",
-          "hint": "选择[胸脯占卜]或者[自己去占卜]，在16日的分支{古河重新创立话剧社}中选择让[她一个人做]，并且如果20日没有进入美佐枝线，当日就有可能触发隐藏剧情。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt104"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn125",
         "x": 1225,
         "y": 1030,
-        "type": "option",
-        "text": "让春原去占卜",
-        "css": "btn",
-        "ref": "divTxtBtn125"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn107",
         "x": 25,
         "y": 1030,
-        "type": "option",
-        "text": "胸脯占卜",
-        "css": "btn",
-        "ref": "divTxtBtn107"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 1120
+        "y": 1120,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn131",
         "x": 625,
         "y": 1150,
-        "type": "condition",
-        "text": "17日，和风子说过话",
-        "css": "btn",
-        "ref": "divTxtBtn131"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn113",
         "x": 425,
         "y": 1030,
-        "type": "option",
-        "text": "扑克占卜",
-        "css": "btn",
-        "ref": "divTxtBtn113"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 1120
+        "y": 1120,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn131",
         "x": 625,
         "y": 1150,
-        "type": "condition",
-        "text": "17日，和风子说过话",
-        "css": "btn",
-        "ref": "divTxtBtn131"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn119",
         "x": 825,
         "y": 1030,
-        "type": "option",
-        "text": "自己去占卜",
-        "css": "btn",
-        "ref": "divTxtBtn119"
+        "__type": "textbox"
       },
       {
         "x": 1200,
-        "y": 1120
+        "y": 1120,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn131",
         "x": 625,
         "y": 1150,
-        "type": "condition",
-        "text": "17日，和风子说过话",
-        "css": "btn",
-        "ref": "divTxtBtn131"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn125",
         "x": 1225,
         "y": 1030,
-        "type": "option",
-        "text": "让春原去占卜",
-        "css": "btn",
-        "ref": "divTxtBtn125"
+        "__type": "textbox"
       },
       {
         "x": 1200,
-        "y": 1120
+        "y": 1120,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn131",
         "x": 625,
         "y": 1150,
-        "type": "condition",
-        "text": "17日，和风子说过话",
-        "css": "btn",
-        "ref": "divTxtBtn131"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn131",
         "x": 625,
         "y": 1150,
-        "type": "condition",
-        "text": "17日，和风子说过话",
-        "css": "btn",
-        "ref": "divTxtBtn131"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn157",
         "x": 425,
         "y": 1240,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn157"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn131",
         "x": 625,
         "y": 1150,
-        "type": "condition",
-        "text": "17日，和风子说过话",
-        "css": "btn",
-        "ref": "divTxtBtn131"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn163",
         "x": 825,
         "y": 1240,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn163"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn157",
         "x": 425,
         "y": 1240,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn157"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn169",
         "x": 425,
         "y": 1330,
-        "type": "selection",
-        "text": "走廊中与风子擦身而过",
-        "css": "btn",
-        "ref": "divTxtBtn169"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn169",
         "x": 425,
         "y": 1330,
-        "type": "selection",
-        "text": "走廊中与风子擦身而过",
-        "css": "btn",
-        "ref": "divTxtBtn169"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn173",
         "x": 225,
         "y": 1420,
-        "type": "option",
-        "text": "抓住她",
-        "css": "btn",
-        "ref": "divTxtBtn173"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn169",
         "x": 425,
         "y": 1330,
-        "type": "selection",
-        "text": "走廊中与风子擦身而过",
-        "css": "btn",
-        "ref": "divTxtBtn169"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn179",
         "x": 625,
         "y": 1420,
-        "type": "option",
-        "text": "放走她",
-        "css": "btn",
-        "ref": "divTxtBtn179"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn173",
         "x": 225,
         "y": 1420,
-        "type": "option",
-        "text": "抓住她",
-        "css": "btn",
-        "ref": "divTxtBtn173"
+        "__type": "textbox"
       },
       {
         "x": 600,
-        "y": 1510
+        "y": 1510,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn185",
         "x": 825,
         "y": 1540,
-        "type": "condition",
-        "text": "琴美线进入或17日，和风子说过话",
-        "css": "btn",
-        "ref": "divTxtBtn185",
-        "num": {
-          "x": 810,
-          "y": 1540,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn187"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1530,
-          "text": "条件选择分支",
-          "num": "4",
-          "summary": "",
-          "hint": "此处{琴美线进入}即15日，在分支{面对泪水打转的椋}选择[无视]，分支{庭院中与少女的谈话}选择[再继续谈话]；17日，在分支{走廊上遇到琴美}选择[跟着她去]。没有选择相应选项或者没有触发任一分支的情况均属于否。<br>{17日、和风子说过话}包括风子线已进入时，在分支{隔壁教室里的陌生女孩}选择[向她搭话]，以及风子线未进入时，在分支空教室里的陌生女孩选择向她搭话。只要触发其一，就满足与风子说过话的条件。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt188"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn179",
         "x": 625,
         "y": 1420,
-        "type": "option",
-        "text": "放走她",
-        "css": "btn",
-        "ref": "divTxtBtn179"
+        "__type": "textbox"
       },
       {
         "x": 600,
-        "y": 1510
+        "y": 1510,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn185",
         "x": 825,
         "y": 1540,
-        "type": "condition",
-        "text": "琴美线进入或17日，和风子说过话",
-        "css": "btn",
-        "ref": "divTxtBtn185",
-        "num": {
-          "x": 810,
-          "y": 1540,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn187"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1530,
-          "text": "条件选择分支",
-          "num": "4",
-          "summary": "",
-          "hint": "此处{琴美线进入}即15日，在分支{面对泪水打转的椋}选择[无视]，分支{庭院中与少女的谈话}选择[再继续谈话]；17日，在分支{走廊上遇到琴美}选择[跟着她去]。没有选择相应选项或者没有触发任一分支的情况均属于否。<br>{17日、和风子说过话}包括风子线已进入时，在分支{隔壁教室里的陌生女孩}选择[向她搭话]，以及风子线未进入时，在分支空教室里的陌生女孩选择向她搭话。只要触发其一，就满足与风子说过话的条件。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt188"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn163",
         "x": 825,
         "y": 1240,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn163"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn185",
         "x": 825,
         "y": 1540,
-        "type": "condition",
-        "text": "琴美线进入或17日，和风子说过话",
-        "css": "btn",
-        "ref": "divTxtBtn185",
-        "num": {
-          "x": 810,
-          "y": 1540,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn187"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1530,
-          "text": "条件选择分支",
-          "num": "4",
-          "summary": "",
-          "hint": "此处{琴美线进入}即15日，在分支{面对泪水打转的椋}选择[无视]，分支{庭院中与少女的谈话}选择[再继续谈话]；17日，在分支{走廊上遇到琴美}选择[跟着她去]。没有选择相应选项或者没有触发任一分支的情况均属于否。<br>{17日、和风子说过话}包括风子线已进入时，在分支{隔壁教室里的陌生女孩}选择[向她搭话]，以及风子线未进入时，在分支空教室里的陌生女孩选择向她搭话。只要触发其一，就满足与风子说过话的条件。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt188"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn185",
         "x": 825,
         "y": 1540,
-        "type": "condition",
-        "text": "琴美线进入或17日，和风子说过话",
-        "css": "btn",
-        "ref": "divTxtBtn185",
-        "num": {
-          "x": 810,
-          "y": 1540,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn187"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1530,
-          "text": "条件选择分支",
-          "num": "4",
-          "summary": "",
-          "hint": "此处{琴美线进入}即15日，在分支{面对泪水打转的椋}选择[无视]，分支{庭院中与少女的谈话}选择[再继续谈话]；17日，在分支{走廊上遇到琴美}选择[跟着她去]。没有选择相应选项或者没有触发任一分支的情况均属于否。<br>{17日、和风子说过话}包括风子线已进入时，在分支{隔壁教室里的陌生女孩}选择[向她搭话]，以及风子线未进入时，在分支空教室里的陌生女孩选择向她搭话。只要触发其一，就满足与风子说过话的条件。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt188"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn203",
         "x": 425,
         "y": 1630,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn203"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn185",
         "x": 825,
         "y": 1540,
-        "type": "condition",
-        "text": "琴美线进入或17日，和风子说过话",
-        "css": "btn",
-        "ref": "divTxtBtn185",
-        "num": {
-          "x": 810,
-          "y": 1540,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn187"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1530,
-          "text": "条件选择分支",
-          "num": "4",
-          "summary": "",
-          "hint": "此处{琴美线进入}即15日，在分支{面对泪水打转的椋}选择[无视]，分支{庭院中与少女的谈话}选择[再继续谈话]；17日，在分支{走廊上遇到琴美}选择[跟着她去]。没有选择相应选项或者没有触发任一分支的情况均属于否。<br>{17日、和风子说过话}包括风子线已进入时，在分支{隔壁教室里的陌生女孩}选择[向她搭话]，以及风子线未进入时，在分支空教室里的陌生女孩选择向她搭话。只要触发其一，就满足与风子说过话的条件。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt188"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn209",
         "x": 1225,
         "y": 1630,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn209"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn203",
         "x": 425,
         "y": 1630,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn203"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn215",
         "x": 425,
         "y": 1690,
-        "type": "selection",
-        "text": "寻找春原",
-        "css": "btn",
-        "ref": "divTxtBtn215",
-        "num": {
-          "x": 410,
-          "y": 1690,
-          "type": "ccheck",
-          "text": "5",
-          "css": "check",
-          "ref": "divBtn217"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1680,
-          "text": "寻找春原",
-          "num": "5",
-          "summary": "春原不知去哪儿了，朋也为了逃避老师的责问而跑出了教室，可马上打消了寻找的念头。",
-          "hint": "此处分支选项的个数及内容根据之前的剧情选择有所变化：若您已进入琴美线，则会出现[图书馆]、[回教室去]两个选项；若您17日向风子搭话，则会出现[空教室]、[回教室去]两个选项；同时满足上述条件，则出现[图书馆]、[空教室]、[回教室去]三个选项（若上述情况都不满足，不会进入此分支，请注意前一次条件分支的判断）。<br>选择[图书馆]则继续琴美线、退出风子线并且不会认识风子，否则退出琴美线；选择[空教室]并在之后的分支选择[再看一会]就能认识风子；选择[回教室去]则同时退出琴美线和风子线。",
-          "setsumei": "",
-          "option": "-空教室",
-          "icon": "11111010",
-          "iconillu": "风子有条件参与64HIT、有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和业余棒球；风子大师进入必选",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt218"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn215",
         "x": 425,
         "y": 1690,
-        "type": "selection",
-        "text": "寻找春原",
-        "css": "btn",
-        "ref": "divTxtBtn215",
-        "num": {
-          "x": 410,
-          "y": 1690,
-          "type": "ccheck",
-          "text": "5",
-          "css": "check",
-          "ref": "divBtn217"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1680,
-          "text": "寻找春原",
-          "num": "5",
-          "summary": "春原不知去哪儿了，朋也为了逃避老师的责问而跑出了教室，可马上打消了寻找的念头。",
-          "hint": "此处分支选项的个数及内容根据之前的剧情选择有所变化：若您已进入琴美线，则会出现[图书馆]、[回教室去]两个选项；若您17日向风子搭话，则会出现[空教室]、[回教室去]两个选项；同时满足上述条件，则出现[图书馆]、[空教室]、[回教室去]三个选项（若上述情况都不满足，不会进入此分支，请注意前一次条件分支的判断）。<br>选择[图书馆]则继续琴美线、退出风子线并且不会认识风子，否则退出琴美线；选择[空教室]并在之后的分支选择[再看一会]就能认识风子；选择[回教室去]则同时退出琴美线和风子线。",
-          "setsumei": "",
-          "option": "-空教室",
-          "icon": "11111010",
-          "iconillu": "风子有条件参与64HIT、有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和业余棒球；风子大师进入必选",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt218"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn221",
         "x": 25,
         "y": 1780,
-        "type": "option",
-        "text": "图书馆",
-        "route": "l|琴美|-风子",
-        "css": "btn",
-        "ref": "divTxtBtn221"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn215",
         "x": 425,
         "y": 1690,
-        "type": "selection",
-        "text": "寻找春原",
-        "css": "btn",
-        "ref": "divTxtBtn215",
-        "num": {
-          "x": 410,
-          "y": 1690,
-          "type": "ccheck",
-          "text": "5",
-          "css": "check",
-          "ref": "divBtn217"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1680,
-          "text": "寻找春原",
-          "num": "5",
-          "summary": "春原不知去哪儿了，朋也为了逃避老师的责问而跑出了教室，可马上打消了寻找的念头。",
-          "hint": "此处分支选项的个数及内容根据之前的剧情选择有所变化：若您已进入琴美线，则会出现[图书馆]、[回教室去]两个选项；若您17日向风子搭话，则会出现[空教室]、[回教室去]两个选项；同时满足上述条件，则出现[图书馆]、[空教室]、[回教室去]三个选项（若上述情况都不满足，不会进入此分支，请注意前一次条件分支的判断）。<br>选择[图书馆]则继续琴美线、退出风子线并且不会认识风子，否则退出琴美线；选择[空教室]并在之后的分支选择[再看一会]就能认识风子；选择[回教室去]则同时退出琴美线和风子线。",
-          "setsumei": "",
-          "option": "-空教室",
-          "icon": "11111010",
-          "iconillu": "风子有条件参与64HIT、有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和业余棒球；风子大师进入必选",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt218"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn229",
         "x": 425,
         "y": 1780,
-        "type": "option",
-        "text": "空教室",
-        "route": "l|风子|-琴美",
-        "css": "btn",
-        "ref": "divTxtBtn229"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn215",
         "x": 425,
         "y": 1690,
-        "type": "selection",
-        "text": "寻找春原",
-        "css": "btn",
-        "ref": "divTxtBtn215",
-        "num": {
-          "x": 410,
-          "y": 1690,
-          "type": "ccheck",
-          "text": "5",
-          "css": "check",
-          "ref": "divBtn217"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1680,
-          "text": "寻找春原",
-          "num": "5",
-          "summary": "春原不知去哪儿了，朋也为了逃避老师的责问而跑出了教室，可马上打消了寻找的念头。",
-          "hint": "此处分支选项的个数及内容根据之前的剧情选择有所变化：若您已进入琴美线，则会出现[图书馆]、[回教室去]两个选项；若您17日向风子搭话，则会出现[空教室]、[回教室去]两个选项；同时满足上述条件，则出现[图书馆]、[空教室]、[回教室去]三个选项（若上述情况都不满足，不会进入此分支，请注意前一次条件分支的判断）。<br>选择[图书馆]则继续琴美线、退出风子线并且不会认识风子，否则退出琴美线；选择[空教室]并在之后的分支选择[再看一会]就能认识风子；选择[回教室去]则同时退出琴美线和风子线。",
-          "setsumei": "",
-          "option": "-空教室",
-          "icon": "11111010",
-          "iconillu": "风子有条件参与64HIT、有纪宁的咒语、体育仓库事件、3对3篮球赛、伪女友事件和业余棒球；风子大师进入必选",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt218"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn235",
         "x": 825,
         "y": 1780,
-        "type": "option",
-        "text": "回教室去",
-        "route": "r|风子|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn235"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn221",
         "x": 25,
         "y": 1780,
-        "type": "option",
-        "text": "图书馆",
-        "route": "l|琴美|-风子",
-        "css": "btn",
-        "ref": "divTxtBtn221"
+        "__type": "textbox"
       },
       {
-        "x": 25,
-        "y": 1840,
-        "type": "block",
-        "text": "A",
-        "css": "btn",
         "ref": "divTxtBtn243",
-        "link": "p7_retA"
+        "x": 25,
+        "y": 1840,
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn229",
         "x": 425,
         "y": 1780,
-        "type": "option",
-        "text": "空教室",
-        "route": "l|风子|-琴美",
-        "css": "btn",
-        "ref": "divTxtBtn229"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn247",
         "x": 425,
         "y": 1840,
-        "type": "selection",
-        "text": "独自雕刻的风子",
-        "css": "btn",
-        "ref": "divTxtBtn247",
-        "num": {
-          "x": 410,
-          "y": 1840,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn249"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1830,
-          "text": "独自雕刻的风子",
-          "num": "6",
-          "summary": "朋也担心拿回小刀的风子再次割破自己的手，决定到空教室观察动静。",
-          "hint": "选择再看一会就能认识风子，若已进入风子线（即17日在分支{隔壁教室里的陌生女孩}选择[向她搭话]）则能继续；选择离开则退出。",
-          "setsumei": "",
-          "option": "-再看一会儿",
-          "icon": "11111010",
-          "iconillu": "开始风子大师剧情；风子成为3对3篮球赛和业余棒球成员候选，参与64HIT、有纪宁的咒语、体育仓库事件和伪女友事件",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt250"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn247",
         "x": 425,
         "y": 1840,
-        "type": "selection",
-        "text": "独自雕刻的风子",
-        "css": "btn",
-        "ref": "divTxtBtn247",
-        "num": {
-          "x": 410,
-          "y": 1840,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn249"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1830,
-          "text": "独自雕刻的风子",
-          "num": "6",
-          "summary": "朋也担心拿回小刀的风子再次割破自己的手，决定到空教室观察动静。",
-          "hint": "选择再看一会就能认识风子，若已进入风子线（即17日在分支{隔壁教室里的陌生女孩}选择[向她搭话]）则能继续；选择离开则退出。",
-          "setsumei": "",
-          "option": "-再看一会儿",
-          "icon": "11111010",
-          "iconillu": "开始风子大师剧情；风子成为3对3篮球赛和业余棒球成员候选，参与64HIT、有纪宁的咒语、体育仓库事件和伪女友事件",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt250"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn253",
         "x": 225,
         "y": 1930,
-        "type": "option",
-        "text": "再看一会儿",
-        "css": "btn",
-        "ref": "divTxtBtn253"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn247",
         "x": 425,
         "y": 1840,
-        "type": "selection",
-        "text": "独自雕刻的风子",
-        "css": "btn",
-        "ref": "divTxtBtn247",
-        "num": {
-          "x": 410,
-          "y": 1840,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn249"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1830,
-          "text": "独自雕刻的风子",
-          "num": "6",
-          "summary": "朋也担心拿回小刀的风子再次割破自己的手，决定到空教室观察动静。",
-          "hint": "选择再看一会就能认识风子，若已进入风子线（即17日在分支{隔壁教室里的陌生女孩}选择[向她搭话]）则能继续；选择离开则退出。",
-          "setsumei": "",
-          "option": "-再看一会儿",
-          "icon": "11111010",
-          "iconillu": "开始风子大师剧情；风子成为3对3篮球赛和业余棒球成员候选，参与64HIT、有纪宁的咒语、体育仓库事件和伪女友事件",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt250"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn259",
         "x": 625,
         "y": 1930,
-        "type": "option",
-        "text": "离开",
-        "css": "btn",
-        "ref": "divTxtBtn259"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn253",
         "x": 225,
         "y": 1930,
-        "type": "option",
-        "text": "再看一会儿",
-        "css": "btn",
-        "ref": "divTxtBtn253"
+        "__type": "textbox"
       },
       {
         "x": 600,
-        "y": 2020
+        "y": 2020,
+        "__type": "point"
       },
       {
         "x": 800,
-        "y": 2050
+        "y": 2050,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn265",
         "x": 625,
         "y": 2080,
-        "type": "block",
-        "text": "B",
-        "css": "btn",
-        "ref": "divTxtBtn265"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn259",
         "x": 625,
         "y": 1930,
-        "type": "option",
-        "text": "离开",
-        "css": "btn",
-        "ref": "divTxtBtn259"
+        "__type": "textbox"
       },
       {
         "x": 600,
-        "y": 2020
+        "y": 2020,
+        "__type": "point"
       },
       {
         "x": 800,
-        "y": 2050
+        "y": 2050,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn265",
         "x": 625,
         "y": 2080,
-        "type": "block",
-        "text": "B",
-        "css": "btn",
-        "ref": "divTxtBtn265"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn235",
         "x": 825,
         "y": 1780,
-        "type": "option",
-        "text": "回教室去",
-        "route": "r|风子|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn235"
+        "__type": "textbox"
       },
       {
         "x": 800,
-        "y": 2050
+        "y": 2050,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn265",
         "x": 625,
         "y": 2080,
-        "type": "block",
-        "text": "B",
-        "css": "btn",
-        "ref": "divTxtBtn265"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn209",
         "x": 1225,
         "y": 1630,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn209"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn265",
         "x": 625,
         "y": 2080,
-        "type": "block",
-        "text": "B",
-        "css": "btn",
-        "ref": "divTxtBtn265"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn265",
         "x": 625,
         "y": 2080,
-        "type": "block",
-        "text": "B",
-        "css": "btn",
-        "ref": "divTxtBtn265"
+        "__type": "textbox"
       },
       {
         "x": 800,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn243",
         "x": 25,
         "y": 1840,
-        "type": "block",
-        "text": "A",
-        "css": "btn",
-        "ref": "divTxtBtn243",
-        "link": "p7_retB"
+        "__type": "textbox"
       },
       {
         "x": 800,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       },
       {
         "x": 200,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       }
     ],
     [
       {
         "x": 800,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       },
       {
         "x": 800,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       }
     ]
   ],
@@ -2007,7 +1346,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt22"
+      "ref": "divCmt22",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2024,7 +1364,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt42"
+      "ref": "divCmt42",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2041,7 +1382,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt104"
+      "ref": "divCmt104",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2058,7 +1400,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt188"
+      "ref": "divCmt188",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2075,7 +1418,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt218"
+      "ref": "divCmt218",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2092,7 +1436,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt250"
+      "ref": "divCmt250",
+      "__type": "comment"
     }
   ],
   "header": {
@@ -2105,14 +1450,16 @@
     "dateE": "April 18th~Part 1",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
-    "height": 2208,
+    "height": 2209,
     "page": 7,
-    "ref": "divFt297"
+    "ref": "divFt297",
+    "__type": "footer"
   },
   "board": []
 }

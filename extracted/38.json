@@ -7,7 +7,8 @@
         "type": "date",
         "text": "4月24日",
         "css": "date",
-        "ref": "divBtn1"
+        "ref": "divBtn1",
+        "__type": "button"
       }
     ],
     [
@@ -18,13 +19,15 @@
         "text": "伪女友事件",
         "css": "btn",
         "ref": "divTxtBtn2",
+        "__type": "textbox",
         "num": {
           "x": 610,
           "y": 250,
           "type": "ccheck",
           "text": "1",
           "css": "check",
-          "ref": "divBtn4"
+          "ref": "divBtn4",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -41,7 +44,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
+          "ref": "divCmt5",
+          "__type": "comment"
         },
         "link": "p38_retFAKEGF"
       }
@@ -53,7 +57,8 @@
         "type": "date",
         "text": "芽衣",
         "css": "date",
-        "ref": "divBtn8"
+        "ref": "divBtn8",
+        "__type": "button"
       }
     ],
     [
@@ -63,7 +68,8 @@
         "type": "date",
         "text": "芽衣",
         "css": "date",
-        "ref": "divBtn11"
+        "ref": "divBtn11",
+        "__type": "button"
       }
     ],
     [
@@ -73,7 +79,8 @@
         "type": "condition",
         "text": "20日，野芳寻求帮手",
         "css": "btn",
-        "ref": "divTxtBtn12"
+        "ref": "divTxtBtn12",
+        "__type": "textbox"
       }
     ],
     [
@@ -83,7 +90,8 @@
         "type": "selection",
         "text": "帮助",
         "css": "btn",
-        "ref": "divTxtBtn16"
+        "ref": "divTxtBtn16",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -91,7 +99,8 @@
         "type": "selection",
         "text": "拒绝",
         "css": "btn",
-        "ref": "divTxtBtn22"
+        "ref": "divTxtBtn22",
+        "__type": "textbox"
       }
     ],
     [
@@ -101,7 +110,8 @@
         "type": "selection",
         "text": "憧憬野芳的芽衣",
         "css": "btn",
-        "ref": "divTxtBtn28"
+        "ref": "divTxtBtn28",
+        "__type": "textbox"
       }
     ],
     [
@@ -111,7 +121,8 @@
         "type": "option",
         "text": "从远处看看他会怎么样",
         "css": "btn",
-        "ref": "divTxtBtn32"
+        "ref": "divTxtBtn32",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -119,7 +130,8 @@
         "type": "option",
         "text": "那就算了",
         "css": "btn",
-        "ref": "divTxtBtn38"
+        "ref": "divTxtBtn38",
+        "__type": "textbox"
       }
     ],
     [
@@ -129,7 +141,8 @@
         "type": "option",
         "text": "春原兄妹“光”获得",
         "css": "btn",
-        "ref": "divTxtBtn44"
+        "ref": "divTxtBtn44",
+        "__type": "textbox"
       }
     ],
     [
@@ -139,285 +152,188 @@
         "type": "condition",
         "text": "春原兄妹 GOOD ENDING",
         "css": "btn",
-        "ref": "divTxtBtn62"
+        "ref": "divTxtBtn62",
+        "__type": "textbox"
       }
     ]
   ],
   "line": [
     [
       {
+        "ref": "divBtn1",
         "x": 750,
         "y": 175,
-        "type": "date",
-        "text": "4月24日",
-        "css": "date",
-        "ref": "divBtn1"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "option",
-        "text": "伪女友事件",
-        "css": "btn",
-        "ref": "divTxtBtn2",
-        "num": {
-          "x": 610,
-          "y": 250,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn4"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 240,
-          "text": "伪女友事件",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "春原兄妹路线前期特殊剧情。发生在24日一天之内，内容及选择分支出现的变化与公共路线的走向和某些分支选择有关，同时也和有纪宁的骤雨中部分剧情内容有关，这些相关分支的伪女友事件图标都高亮显示。伪女友事件相关攻略请参见P39",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
-        },
-        "link": "p38_retFAKEGF"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "option",
-        "text": "伪女友事件",
-        "css": "btn",
-        "ref": "divTxtBtn2",
-        "num": {
-          "x": 610,
-          "y": 250,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn4"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 240,
-          "text": "伪女友事件",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "春原兄妹路线前期特殊剧情。发生在24日一天之内，内容及选择分支出现的变化与公共路线的走向和某些分支选择有关，同时也和有纪宁的骤雨中部分剧情内容有关，这些相关分支的伪女友事件图标都高亮显示。伪女友事件相关攻略请参见P39",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
-        },
-        "link": "p38_retFAKEGF"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn8",
         "x": 750,
         "y": 310,
-        "type": "date",
-        "text": "芽衣",
-        "css": "date",
-        "ref": "divBtn8"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divBtn11",
         "x": 850,
         "y": 445,
-        "type": "date",
-        "text": "芽衣",
-        "css": "date",
-        "ref": "divBtn11"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn12",
         "x": 725,
         "y": 520,
-        "type": "condition",
-        "text": "20日，野芳寻求帮手",
-        "css": "btn",
-        "ref": "divTxtBtn12"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn12",
         "x": 725,
         "y": 520,
-        "type": "condition",
-        "text": "20日，野芳寻求帮手",
-        "css": "btn",
-        "ref": "divTxtBtn12"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn16",
         "x": 525,
         "y": 610,
-        "type": "selection",
-        "text": "帮助",
-        "css": "btn",
-        "ref": "divTxtBtn16"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn12",
         "x": 725,
         "y": 520,
-        "type": "condition",
-        "text": "20日，野芳寻求帮手",
-        "css": "btn",
-        "ref": "divTxtBtn12"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn22",
         "x": 925,
         "y": 610,
-        "type": "selection",
-        "text": "拒绝",
-        "css": "btn",
-        "ref": "divTxtBtn22"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn16",
         "x": 525,
         "y": 610,
-        "type": "selection",
-        "text": "帮助",
-        "css": "btn",
-        "ref": "divTxtBtn16"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn28",
         "x": 525,
         "y": 670,
-        "type": "selection",
-        "text": "憧憬野芳的芽衣",
-        "css": "btn",
-        "ref": "divTxtBtn28"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn28",
         "x": 525,
         "y": 670,
-        "type": "selection",
-        "text": "憧憬野芳的芽衣",
-        "css": "btn",
-        "ref": "divTxtBtn28"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn32",
         "x": 325,
         "y": 760,
-        "type": "option",
-        "text": "从远处看看他会怎么样",
-        "css": "btn",
-        "ref": "divTxtBtn32"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn28",
         "x": 525,
         "y": 670,
-        "type": "selection",
-        "text": "憧憬野芳的芽衣",
-        "css": "btn",
-        "ref": "divTxtBtn28"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn38",
         "x": 725,
         "y": 760,
-        "type": "option",
-        "text": "那就算了",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn32",
         "x": 325,
         "y": 760,
-        "type": "option",
-        "text": "从远处看看他会怎么样",
-        "css": "btn",
-        "ref": "divTxtBtn32"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 850
+        "y": 850,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn44",
         "x": 725,
         "y": 880,
-        "type": "option",
-        "text": "春原兄妹“光”获得",
-        "css": "btn",
-        "ref": "divTxtBtn44"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn38",
         "x": 725,
         "y": 760,
-        "type": "option",
-        "text": "那就算了",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 850
+        "y": 850,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn44",
         "x": 725,
         "y": 880,
-        "type": "option",
-        "text": "春原兄妹“光”获得",
-        "css": "btn",
-        "ref": "divTxtBtn44"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn22",
         "x": 925,
         "y": 610,
-        "type": "selection",
-        "text": "拒绝",
-        "css": "btn",
-        "ref": "divTxtBtn22"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn44",
         "x": 725,
         "y": 880,
-        "type": "option",
-        "text": "春原兄妹“光”获得",
-        "css": "btn",
-        "ref": "divTxtBtn44"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn44",
         "x": 725,
         "y": 880,
-        "type": "option",
-        "text": "春原兄妹“光”获得",
-        "css": "btn",
-        "ref": "divTxtBtn44"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn62",
         "x": 725,
         "y": 940,
-        "type": "condition",
-        "text": "春原兄妹 GOOD ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn62"
+        "__type": "textbox"
       }
     ]
   ],
@@ -437,7 +353,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt5"
+      "ref": "divCmt5",
+      "__type": "comment"
     }
   ],
   "header": {
@@ -450,14 +367,16 @@
     "dateE": "April 24th~Mei",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 970,
     "page": 38,
-    "ref": "divFt66"
+    "ref": "divFt66",
+    "__type": "footer"
   },
   "board": []
 }

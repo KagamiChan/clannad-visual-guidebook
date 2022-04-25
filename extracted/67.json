@@ -7,7 +7,8 @@
         "type": "date",
         "text": "诞生篇",
         "css": "date",
-        "ref": "divBtn1"
+        "ref": "divBtn1",
+        "__type": "button"
       }
     ],
     [
@@ -17,7 +18,8 @@
         "type": "condition",
         "text": "“光”获得数等于13颗",
         "css": "btn",
-        "ref": "divTxtBtn4"
+        "ref": "divTxtBtn4",
+        "__type": "textbox"
       }
     ],
     [
@@ -27,7 +29,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn8"
+        "ref": "divTxtBtn8",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -35,7 +38,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn13"
+        "ref": "divTxtBtn13",
+        "__type": "textbox"
       }
     ],
     [
@@ -45,7 +49,8 @@
         "type": "condition",
         "text": "完成过渚 TRUE ENDING",
         "css": "btn",
-        "ref": "divTxtBtn20"
+        "ref": "divTxtBtn20",
+        "__type": "textbox"
       }
     ],
     [
@@ -55,7 +60,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn24"
+        "ref": "divTxtBtn24",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -63,7 +69,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn30"
+        "ref": "divTxtBtn30",
+        "__type": "textbox"
       }
     ],
     [
@@ -73,7 +80,8 @@
         "type": "selection",
         "text": "坂道上的抉择",
         "css": "btn",
-        "ref": "divTxtBtn36"
+        "ref": "divTxtBtn36",
+        "__type": "textbox"
       }
     ],
     [
@@ -84,7 +92,8 @@
         "text": "呼喊",
         "route": "l|-汐|-风子|-公子",
         "css": "btn",
-        "ref": "divTxtBtn40"
+        "ref": "divTxtBtn40",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -93,7 +102,8 @@
         "text": "不呼喊",
         "route": "r|-汐|-风子|-公子",
         "css": "btn",
-        "ref": "divTxtBtn49"
+        "ref": "divTxtBtn49",
+        "__type": "textbox"
       }
     ],
     [
@@ -103,7 +113,8 @@
         "type": "option",
         "text": "结束动画",
         "css": "btn",
-        "ref": "divTxtBtn58"
+        "ref": "divTxtBtn58",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -111,7 +122,8 @@
         "type": "option",
         "text": "坂道下的离别",
         "css": "btn",
-        "ref": "divTxtBtn66"
+        "ref": "divTxtBtn66",
+        "__type": "textbox"
       }
     ],
     [
@@ -121,7 +133,8 @@
         "type": "option",
         "text": "小镇的奇迹",
         "css": "btn",
-        "ref": "divTxtBtn74"
+        "ref": "divTxtBtn74",
+        "__type": "textbox"
       },
       {
         "x": 950,
@@ -129,7 +142,8 @@
         "type": "date",
         "text": "汐",
         "css": "date",
-        "ref": "divBtn78"
+        "ref": "divBtn78",
+        "__type": "button"
       }
     ],
     [
@@ -139,7 +153,8 @@
         "type": "condition",
         "text": "渚 TRUE ENDING",
         "css": "btn",
-        "ref": "divTxtBtn81"
+        "ref": "divTxtBtn81",
+        "__type": "textbox"
       }
     ],
     [
@@ -149,7 +164,8 @@
         "type": "date",
         "text": "汐",
         "css": "date",
-        "ref": "divBtn85"
+        "ref": "divBtn85",
+        "__type": "button"
       }
     ],
     [
@@ -159,7 +175,8 @@
         "type": "option",
         "text": "直幸“光”获得",
         "css": "btn",
-        "ref": "divTxtBtn86"
+        "ref": "divTxtBtn86",
+        "__type": "textbox"
       }
     ],
     [
@@ -169,7 +186,8 @@
         "type": "condition",
         "text": "学院篇，触发风子“光”消失事件",
         "css": "btn",
-        "ref": "divTxtBtn90"
+        "ref": "divTxtBtn90",
+        "__type": "textbox"
       }
     ],
     [
@@ -179,7 +197,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn94"
+        "ref": "divTxtBtn94",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -187,7 +206,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn100"
+        "ref": "divTxtBtn100",
+        "__type": "textbox"
       }
     ],
     [
@@ -197,7 +217,8 @@
         "type": "selection",
         "text": "早苗的拜访",
         "css": "btn",
-        "ref": "divTxtBtn106"
+        "ref": "divTxtBtn106",
+        "__type": "textbox"
       }
     ],
     [
@@ -208,7 +229,8 @@
         "text": "去看看",
         "route": "l|风子|公子",
         "css": "btn",
-        "ref": "divTxtBtn110"
+        "ref": "divTxtBtn110",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -217,7 +239,8 @@
         "text": "在这等着",
         "route": "r|风子|公子",
         "css": "btn",
-        "ref": "divTxtBtn118"
+        "ref": "divTxtBtn118",
+        "__type": "textbox"
       }
     ],
     [
@@ -227,7 +250,8 @@
         "type": "option",
         "text": "风子“光”获得",
         "css": "btn",
-        "ref": "divTxtBtn126"
+        "ref": "divTxtBtn126",
+        "__type": "textbox"
       }
     ],
     [
@@ -237,7 +261,8 @@
         "type": "option",
         "text": "公子“光”获得",
         "css": "btn",
-        "ref": "divTxtBtn130"
+        "ref": "divTxtBtn130",
+        "__type": "textbox"
       }
     ],
     [
@@ -247,7 +272,8 @@
         "type": "option",
         "text": "幻想世界(十二)",
         "css": "btn",
-        "ref": "divTxtBtn134"
+        "ref": "divTxtBtn134",
+        "__type": "textbox"
       }
     ],
     [
@@ -257,571 +283,451 @@
         "type": "condition",
         "text": "汐 ENDING",
         "css": "btn",
-        "ref": "divTxtBtn152"
+        "ref": "divTxtBtn152",
+        "__type": "textbox"
       }
     ]
   ],
   "line": [
     [
       {
+        "ref": "divBtn1",
         "x": 850,
         "y": 175,
-        "type": "date",
-        "text": "诞生篇",
-        "css": "date",
-        "ref": "divBtn1"
+        "__type": "button"
       },
       {
+        "ref": "divBtn1",
         "x": 850,
         "y": 175,
-        "type": "date",
-        "text": "诞生篇",
-        "css": "date",
-        "ref": "divBtn1"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divBtn1",
         "x": 850,
         "y": 175,
-        "type": "date",
-        "text": "诞生篇",
-        "css": "date",
-        "ref": "divBtn1"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn4",
         "x": 725,
         "y": 250,
-        "type": "condition",
-        "text": "“光”获得数等于13颗",
-        "css": "btn",
-        "ref": "divTxtBtn4"
+        "__type": "textbox"
       }
     ],
     [
       {
         "x": 700,
-        "y": 310
+        "y": 310,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn8",
         "x": 425,
         "y": 340,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn8"
+        "__type": "textbox"
       }
     ],
     [
       {
         "x": 800,
-        "y": 310
+        "y": 310,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn13",
         "x": 1025,
         "y": 340,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn13"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn4",
         "x": 725,
         "y": 250,
-        "type": "condition",
-        "text": "“光”获得数等于13颗",
-        "css": "btn",
-        "ref": "divTxtBtn4"
+        "__type": "textbox"
       },
       {
         "x": 900,
-        "y": 310
+        "y": 310,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn8",
         "x": 425,
         "y": 340,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn8"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn20",
         "x": 425,
         "y": 400,
-        "type": "condition",
-        "text": "完成过渚 TRUE ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn20"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn20",
         "x": 425,
         "y": 400,
-        "type": "condition",
-        "text": "完成过渚 TRUE ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn20"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn24",
         "x": 225,
         "y": 490,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn24"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn20",
         "x": 425,
         "y": 400,
-        "type": "condition",
-        "text": "完成过渚 TRUE ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn20"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn30",
         "x": 625,
         "y": 490,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn30"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn30",
         "x": 625,
         "y": 490,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn30"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn36",
         "x": 625,
         "y": 550,
-        "type": "selection",
-        "text": "坂道上的抉择",
-        "css": "btn",
-        "ref": "divTxtBtn36"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn36",
         "x": 625,
         "y": 550,
-        "type": "selection",
-        "text": "坂道上的抉择",
-        "css": "btn",
-        "ref": "divTxtBtn36"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn40",
         "x": 425,
         "y": 640,
-        "type": "option",
-        "text": "呼喊",
-        "route": "l|-汐|-风子|-公子",
-        "css": "btn",
-        "ref": "divTxtBtn40"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn36",
         "x": 625,
         "y": 550,
-        "type": "selection",
-        "text": "坂道上的抉择",
-        "css": "btn",
-        "ref": "divTxtBtn36"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn49",
         "x": 825,
         "y": 640,
-        "type": "option",
-        "text": "不呼喊",
-        "route": "r|-汐|-风子|-公子",
-        "css": "btn",
-        "ref": "divTxtBtn49"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn40",
         "x": 425,
         "y": 640,
-        "type": "option",
-        "text": "呼喊",
-        "route": "l|-汐|-风子|-公子",
-        "css": "btn",
-        "ref": "divTxtBtn40"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn58",
         "x": 425,
         "y": 730,
-        "type": "option",
-        "text": "结束动画",
-        "css": "btn",
-        "ref": "divTxtBtn58"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn24",
         "x": 225,
         "y": 490,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn24"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn58",
         "x": 425,
         "y": 730,
-        "type": "option",
-        "text": "结束动画",
-        "css": "btn",
-        "ref": "divTxtBtn58"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn13",
         "x": 1025,
         "y": 340,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn13"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn66",
         "x": 825,
         "y": 730,
-        "type": "option",
-        "text": "坂道下的离别",
-        "css": "btn",
-        "ref": "divTxtBtn66"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn49",
         "x": 825,
         "y": 640,
-        "type": "option",
-        "text": "不呼喊",
-        "route": "r|-汐|-风子|-公子",
-        "css": "btn",
-        "ref": "divTxtBtn49"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn66",
         "x": 825,
         "y": 730,
-        "type": "option",
-        "text": "坂道下的离别",
-        "css": "btn",
-        "ref": "divTxtBtn66"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn58",
         "x": 425,
         "y": 730,
-        "type": "option",
-        "text": "结束动画",
-        "css": "btn",
-        "ref": "divTxtBtn58"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn74",
         "x": 425,
         "y": 790,
-        "type": "option",
-        "text": "小镇的奇迹",
-        "css": "btn",
-        "ref": "divTxtBtn74"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn66",
         "x": 825,
         "y": 730,
-        "type": "option",
-        "text": "坂道下的离别",
-        "css": "btn",
-        "ref": "divTxtBtn66"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn78",
         "x": 950,
         "y": 790,
-        "type": "date",
-        "text": "汐",
-        "css": "date",
-        "ref": "divBtn78"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn74",
         "x": 425,
         "y": 790,
-        "type": "option",
-        "text": "小镇的奇迹",
-        "css": "btn",
-        "ref": "divTxtBtn74"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn81",
         "x": 425,
         "y": 850,
-        "type": "condition",
-        "text": "渚 TRUE ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn81"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divBtn85",
         "x": 850,
         "y": 985,
-        "type": "date",
-        "text": "汐",
-        "css": "date",
-        "ref": "divBtn85"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn86",
         "x": 725,
         "y": 1060,
-        "type": "option",
-        "text": "直幸“光”获得",
-        "css": "btn",
-        "ref": "divTxtBtn86"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn86",
         "x": 725,
         "y": 1060,
-        "type": "option",
-        "text": "直幸“光”获得",
-        "css": "btn",
-        "ref": "divTxtBtn86"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn90",
         "x": 725,
         "y": 1120,
-        "type": "condition",
-        "text": "学院篇，触发风子“光”消失事件",
-        "css": "btn",
-        "ref": "divTxtBtn90"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn90",
         "x": 725,
         "y": 1120,
-        "type": "condition",
-        "text": "学院篇，触发风子“光”消失事件",
-        "css": "btn",
-        "ref": "divTxtBtn90"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn94",
         "x": 525,
         "y": 1210,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn94"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn90",
         "x": 725,
         "y": 1120,
-        "type": "condition",
-        "text": "学院篇，触发风子“光”消失事件",
-        "css": "btn",
-        "ref": "divTxtBtn90"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn100",
         "x": 925,
         "y": 1210,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn100"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn94",
         "x": 525,
         "y": 1210,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn94"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn106",
         "x": 525,
         "y": 1270,
-        "type": "selection",
-        "text": "早苗的拜访",
-        "css": "btn",
-        "ref": "divTxtBtn106"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn106",
         "x": 525,
         "y": 1270,
-        "type": "selection",
-        "text": "早苗的拜访",
-        "css": "btn",
-        "ref": "divTxtBtn106"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn110",
         "x": 325,
         "y": 1360,
-        "type": "option",
-        "text": "去看看",
-        "route": "l|风子|公子",
-        "css": "btn",
-        "ref": "divTxtBtn110"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn106",
         "x": 525,
         "y": 1270,
-        "type": "selection",
-        "text": "早苗的拜访",
-        "css": "btn",
-        "ref": "divTxtBtn106"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn118",
         "x": 725,
         "y": 1360,
-        "type": "option",
-        "text": "在这等着",
-        "route": "r|风子|公子",
-        "css": "btn",
-        "ref": "divTxtBtn118"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn110",
         "x": 325,
         "y": 1360,
-        "type": "option",
-        "text": "去看看",
-        "route": "l|风子|公子",
-        "css": "btn",
-        "ref": "divTxtBtn110"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn126",
         "x": 325,
         "y": 1420,
-        "type": "option",
-        "text": "风子“光”获得",
-        "css": "btn",
-        "ref": "divTxtBtn126"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn126",
         "x": 325,
         "y": 1420,
-        "type": "option",
-        "text": "风子“光”获得",
-        "css": "btn",
-        "ref": "divTxtBtn126"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn130",
         "x": 325,
         "y": 1480,
-        "type": "option",
-        "text": "公子“光”获得",
-        "css": "btn",
-        "ref": "divTxtBtn130"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn130",
         "x": 325,
         "y": 1480,
-        "type": "option",
-        "text": "公子“光”获得",
-        "css": "btn",
-        "ref": "divTxtBtn130"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 1570
+        "y": 1570,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn134",
         "x": 725,
         "y": 1600,
-        "type": "option",
-        "text": "幻想世界(十二)",
-        "css": "btn",
-        "ref": "divTxtBtn134"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn118",
         "x": 725,
         "y": 1360,
-        "type": "option",
-        "text": "在这等着",
-        "route": "r|风子|公子",
-        "css": "btn",
-        "ref": "divTxtBtn118"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 1570
+        "y": 1570,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn134",
         "x": 725,
         "y": 1600,
-        "type": "option",
-        "text": "幻想世界(十二)",
-        "css": "btn",
-        "ref": "divTxtBtn134"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn100",
         "x": 925,
         "y": 1210,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn100"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn134",
         "x": 725,
         "y": 1600,
-        "type": "option",
-        "text": "幻想世界(十二)",
-        "css": "btn",
-        "ref": "divTxtBtn134"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn134",
         "x": 725,
         "y": 1600,
-        "type": "option",
-        "text": "幻想世界(十二)",
-        "css": "btn",
-        "ref": "divTxtBtn134"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn152",
         "x": 725,
         "y": 1660,
-        "type": "condition",
-        "text": "汐 ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn152"
+        "__type": "textbox"
       }
     ]
   ],
@@ -836,14 +742,16 @@
     "dateE": "Chapter of the Birth ～ Ushio",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 1690,
     "page": 67,
-    "ref": "divFt156"
+    "ref": "divFt156",
+    "__type": "footer"
   },
   "board": []
 }

@@ -7,7 +7,8 @@
         "type": "date",
         "text": "5月5日",
         "css": "date",
-        "ref": "divBtn1"
+        "ref": "divBtn1",
+        "__type": "button"
       }
     ],
     [
@@ -18,13 +19,15 @@
         "text": "两个人的假日",
         "css": "btn",
         "ref": "divTxtBtn2",
+        "__type": "textbox",
         "num": {
           "x": 810,
           "y": 250,
           "type": "ccheck",
           "text": "1",
           "css": "check",
-          "ref": "divBtn4"
+          "ref": "divBtn4",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -41,7 +44,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
+          "ref": "divCmt5",
+          "__type": "comment"
         }
       }
     ],
@@ -52,7 +56,8 @@
         "type": "option",
         "text": "还是算了",
         "css": "btn",
-        "ref": "divTxtBtn8"
+        "ref": "divTxtBtn8",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -60,7 +65,8 @@
         "type": "option",
         "text": "告白",
         "css": "btn",
-        "ref": "divTxtBtn14"
+        "ref": "divTxtBtn14",
+        "__type": "textbox"
       }
     ],
     [
@@ -71,13 +77,15 @@
         "text": "好感度大于5",
         "css": "btn",
         "ref": "divTxtBtn20",
+        "__type": "textbox",
         "num": {
           "x": 610,
           "y": 400,
           "type": "ccheck",
           "text": "2",
           "css": "check",
-          "ref": "divBtn22"
+          "ref": "divBtn22",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -94,7 +102,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt23"
+          "ref": "divCmt23",
+          "__type": "comment"
         }
       }
     ],
@@ -105,7 +114,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn26"
+        "ref": "divTxtBtn26",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -113,7 +123,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn32"
+        "ref": "divTxtBtn32",
+        "__type": "textbox"
       }
     ],
     [
@@ -123,7 +134,8 @@
         "type": "selection",
         "text": "绅士的嘱托",
         "css": "btn",
-        "ref": "divTxtBtn38"
+        "ref": "divTxtBtn38",
+        "__type": "textbox"
       }
     ],
     [
@@ -134,7 +146,8 @@
         "text": "把绅士说的话告诉她",
         "route": "l|-琴美",
         "css": "btn",
-        "ref": "divTxtBtn42"
+        "ref": "divTxtBtn42",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -143,7 +156,8 @@
         "text": "现在还是保持沉默吧",
         "route": "r|-琴美",
         "css": "btn",
-        "ref": "divTxtBtn49"
+        "ref": "divTxtBtn49",
+        "__type": "textbox"
       }
     ],
     [
@@ -153,7 +167,8 @@
         "type": "condition",
         "text": "琴美 BAD ENDDING",
         "css": "btn",
-        "ref": "divTxtBtn56"
+        "ref": "divTxtBtn56",
+        "__type": "textbox"
       }
     ],
     [
@@ -163,7 +178,8 @@
         "type": "date",
         "text": "5月8日",
         "css": "date",
-        "ref": "divBtn60"
+        "ref": "divBtn60",
+        "__type": "button"
       }
     ],
     [
@@ -173,7 +189,8 @@
         "type": "date",
         "text": "5月8日",
         "css": "date",
-        "ref": "divBtn76"
+        "ref": "divBtn76",
+        "__type": "button"
       }
     ],
     [
@@ -183,7 +200,8 @@
         "type": "condition",
         "text": "23日，学校的广播",
         "css": "btn",
-        "ref": "divTxtBtn77"
+        "ref": "divTxtBtn77",
+        "__type": "textbox"
       }
     ],
     [
@@ -193,7 +211,8 @@
         "type": "selection",
         "text": "去办公室看看",
         "css": "btn",
-        "ref": "divTxtBtn81"
+        "ref": "divTxtBtn81",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -201,7 +220,8 @@
         "type": "selection",
         "text": "再等一会儿",
         "css": "btn",
-        "ref": "divTxtBtn87"
+        "ref": "divTxtBtn87",
+        "__type": "textbox"
       }
     ],
     [
@@ -211,7 +231,8 @@
         "type": "selection",
         "text": "老师的询问",
         "css": "btn",
-        "ref": "divTxtBtn93"
+        "ref": "divTxtBtn93",
+        "__type": "textbox"
       }
     ],
     [
@@ -221,7 +242,8 @@
         "type": "option",
         "text": "为什么问这个呢？",
         "css": "btn",
-        "ref": "divTxtBtn97"
+        "ref": "divTxtBtn97",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -229,7 +251,8 @@
         "type": "option",
         "text": "与其说是在交往…",
         "css": "btn",
-        "ref": "divTxtBtn103"
+        "ref": "divTxtBtn103",
+        "__type": "textbox"
       }
     ],
     [
@@ -239,7 +262,8 @@
         "type": "date",
         "text": "琴美",
         "css": "date",
-        "ref": "divBtn109"
+        "ref": "divBtn109",
+        "__type": "button"
       }
     ],
     [
@@ -249,7 +273,8 @@
         "type": "date",
         "text": "琴美",
         "css": "date",
-        "ref": "divBtn126"
+        "ref": "divBtn126",
+        "__type": "button"
       }
     ],
     [
@@ -259,7 +284,8 @@
         "type": "selection",
         "text": "放弃的意念",
         "css": "btn",
-        "ref": "divTxtBtn127"
+        "ref": "divTxtBtn127",
+        "__type": "textbox"
       }
     ],
     [
@@ -270,7 +296,8 @@
         "text": "继续",
         "route": "l|琴美",
         "css": "btn",
-        "ref": "divTxtBtn131"
+        "ref": "divTxtBtn131",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -279,7 +306,8 @@
         "text": "放弃",
         "route": "r|琴美",
         "css": "btn",
-        "ref": "divTxtBtn138"
+        "ref": "divTxtBtn138",
+        "__type": "textbox"
       }
     ],
     [
@@ -289,7 +317,8 @@
         "type": "selection",
         "text": "好友的忙碌",
         "css": "btn",
-        "ref": "divTxtBtn145"
+        "ref": "divTxtBtn145",
+        "__type": "textbox"
       }
     ],
     [
@@ -300,7 +329,8 @@
         "text": "安慰说『别放弃啊』",
         "route": "l|琴美",
         "css": "btn",
-        "ref": "divTxtBtn149"
+        "ref": "divTxtBtn149",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -309,7 +339,8 @@
         "text": "安慰说『只能放弃了』",
         "route": "r|琴美",
         "css": "btn",
-        "ref": "divTxtBtn156"
+        "ref": "divTxtBtn156",
+        "__type": "textbox"
       }
     ],
     [
@@ -319,7 +350,8 @@
         "type": "selection",
         "text": "深夜的执著",
         "css": "btn",
-        "ref": "divTxtBtn163"
+        "ref": "divTxtBtn163",
+        "__type": "textbox"
       }
     ],
     [
@@ -330,7 +362,8 @@
         "text": "继续",
         "route": "l|琴美",
         "css": "btn",
-        "ref": "divTxtBtn167"
+        "ref": "divTxtBtn167",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -339,7 +372,8 @@
         "text": "放弃",
         "route": "r|琴美",
         "css": "btn",
-        "ref": "divTxtBtn174"
+        "ref": "divTxtBtn174",
+        "__type": "textbox"
       }
     ],
     [
@@ -349,7 +383,8 @@
         "type": "option",
         "text": "琴美“光”获得",
         "css": "btn",
-        "ref": "divTxtBtn181"
+        "ref": "divTxtBtn181",
+        "__type": "textbox"
       }
     ],
     [
@@ -359,7 +394,8 @@
         "type": "condition",
         "text": "琴美 BAD ENDDING",
         "css": "btn",
-        "ref": "divTxtBtn185"
+        "ref": "divTxtBtn185",
+        "__type": "textbox"
       }
     ],
     [
@@ -369,839 +405,534 @@
         "type": "condition",
         "text": "琴美 GOOD ENDDING",
         "css": "btn",
-        "ref": "divTxtBtn202"
+        "ref": "divTxtBtn202",
+        "__type": "textbox"
       }
     ]
   ],
   "line": [
     [
       {
+        "ref": "divBtn1",
         "x": 950,
         "y": 175,
-        "type": "date",
-        "text": "5月5日",
-        "css": "date",
-        "ref": "divBtn1"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn2",
         "x": 825,
         "y": 250,
-        "type": "selection",
-        "text": "两个人的假日",
-        "css": "btn",
-        "ref": "divTxtBtn2",
-        "num": {
-          "x": 810,
-          "y": 250,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn4"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 240,
-          "text": "两个人的假日",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-告白",
-          "icon": "00000100",
-          "iconillu": "琴美好感度上升1点",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 825,
         "y": 250,
-        "type": "selection",
-        "text": "两个人的假日",
-        "css": "btn",
-        "ref": "divTxtBtn2",
-        "num": {
-          "x": 810,
-          "y": 250,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn4"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 240,
-          "text": "两个人的假日",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-告白",
-          "icon": "00000100",
-          "iconillu": "琴美好感度上升1点",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn8",
         "x": 625,
         "y": 340,
-        "type": "option",
-        "text": "还是算了",
-        "css": "btn",
-        "ref": "divTxtBtn8"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 825,
         "y": 250,
-        "type": "selection",
-        "text": "两个人的假日",
-        "css": "btn",
-        "ref": "divTxtBtn2",
-        "num": {
-          "x": 810,
-          "y": 250,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn4"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 240,
-          "text": "两个人的假日",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-告白",
-          "icon": "00000100",
-          "iconillu": "琴美好感度上升1点",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn14",
         "x": 1025,
         "y": 340,
-        "type": "option",
-        "text": "告白",
-        "css": "btn",
-        "ref": "divTxtBtn14"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn8",
         "x": 625,
         "y": 340,
-        "type": "option",
-        "text": "还是算了",
-        "css": "btn",
-        "ref": "divTxtBtn8"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn20",
         "x": 625,
         "y": 400,
-        "type": "condition",
-        "text": "好感度大于5",
-        "css": "btn",
-        "ref": "divTxtBtn20",
-        "num": {
-          "x": 610,
-          "y": 400,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn22"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 390,
-          "text": "好感度大于5",
-          "num": "2",
-          "summary": "",
-          "hint": "琴美线中一共有7次提升好感度的机会：15日或16日，在分支{图书馆，被奇怪的女孩邀请吃便当}选择[吃]（两次只能触发一次）；19日，分支{发现琴美进入书店}选择[跟在她后面进入书店]，分支{和琴美离开书店}选择[提出送她回家]；20日，分支{读书的邀请}选择[读书]；21日，分支{介意的琴美}选择[稍稍逗她玩一下]；29日，分支{假日中的安排}选择[外出]；今日，分支{两个人的假日}选择[告白]。<br>此处实际参与判定的只有6次，即除了最后一次以外，抓住了所有提升好感度的机会的话，就不会出现下面可能导致BAD ENDING的分支。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt23"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn20",
         "x": 625,
         "y": 400,
-        "type": "condition",
-        "text": "好感度大于5",
-        "css": "btn",
-        "ref": "divTxtBtn20",
-        "num": {
-          "x": 610,
-          "y": 400,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn22"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 390,
-          "text": "好感度大于5",
-          "num": "2",
-          "summary": "",
-          "hint": "琴美线中一共有7次提升好感度的机会：15日或16日，在分支{图书馆，被奇怪的女孩邀请吃便当}选择[吃]（两次只能触发一次）；19日，分支{发现琴美进入书店}选择[跟在她后面进入书店]，分支{和琴美离开书店}选择[提出送她回家]；20日，分支{读书的邀请}选择[读书]；21日，分支{介意的琴美}选择[稍稍逗她玩一下]；29日，分支{假日中的安排}选择[外出]；今日，分支{两个人的假日}选择[告白]。<br>此处实际参与判定的只有6次，即除了最后一次以外，抓住了所有提升好感度的机会的话，就不会出现下面可能导致BAD ENDING的分支。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt23"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn26",
         "x": 425,
         "y": 490,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn26"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn20",
         "x": 625,
         "y": 400,
-        "type": "condition",
-        "text": "好感度大于5",
-        "css": "btn",
-        "ref": "divTxtBtn20",
-        "num": {
-          "x": 610,
-          "y": 400,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn22"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 390,
-          "text": "好感度大于5",
-          "num": "2",
-          "summary": "",
-          "hint": "琴美线中一共有7次提升好感度的机会：15日或16日，在分支{图书馆，被奇怪的女孩邀请吃便当}选择[吃]（两次只能触发一次）；19日，分支{发现琴美进入书店}选择[跟在她后面进入书店]，分支{和琴美离开书店}选择[提出送她回家]；20日，分支{读书的邀请}选择[读书]；21日，分支{介意的琴美}选择[稍稍逗她玩一下]；29日，分支{假日中的安排}选择[外出]；今日，分支{两个人的假日}选择[告白]。<br>此处实际参与判定的只有6次，即除了最后一次以外，抓住了所有提升好感度的机会的话，就不会出现下面可能导致BAD ENDING的分支。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt23"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn32",
         "x": 825,
         "y": 490,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn32"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn26",
         "x": 425,
         "y": 490,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn26"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn38",
         "x": 425,
         "y": 550,
-        "type": "selection",
-        "text": "绅士的嘱托",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn38",
         "x": 425,
         "y": 550,
-        "type": "selection",
-        "text": "绅士的嘱托",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn42",
         "x": 225,
         "y": 640,
-        "type": "selection",
-        "text": "把绅士说的话告诉她",
-        "route": "l|-琴美",
-        "css": "btn",
-        "ref": "divTxtBtn42"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn38",
         "x": 425,
         "y": 550,
-        "type": "selection",
-        "text": "绅士的嘱托",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn49",
         "x": 625,
         "y": 640,
-        "type": "selection",
-        "text": "现在还是保持沉默吧",
-        "route": "r|-琴美",
-        "css": "btn",
-        "ref": "divTxtBtn49"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn42",
         "x": 225,
         "y": 640,
-        "type": "selection",
-        "text": "把绅士说的话告诉她",
-        "route": "l|-琴美",
-        "css": "btn",
-        "ref": "divTxtBtn42"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn56",
         "x": 225,
         "y": 700,
-        "type": "condition",
-        "text": "琴美 BAD ENDDING",
-        "css": "btn",
-        "ref": "divTxtBtn56"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn49",
         "x": 625,
         "y": 640,
-        "type": "selection",
-        "text": "现在还是保持沉默吧",
-        "route": "r|-琴美",
-        "css": "btn",
-        "ref": "divTxtBtn49"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn60",
         "x": 950,
         "y": 730,
-        "type": "date",
-        "text": "5月8日",
-        "css": "date",
-        "ref": "divBtn60"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn32",
         "x": 825,
         "y": 490,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn32"
+        "__type": "textbox"
       },
       {
         "x": 1200,
-        "y": 580
+        "y": 580,
+        "__type": "point"
       },
       {
+        "ref": "divBtn60",
         "x": 950,
         "y": 730,
-        "type": "date",
-        "text": "5月8日",
-        "css": "date",
-        "ref": "divBtn60"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn14",
         "x": 1025,
         "y": 340,
-        "type": "option",
-        "text": "告白",
-        "css": "btn",
-        "ref": "divTxtBtn14"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn60",
         "x": 950,
         "y": 730,
-        "type": "date",
-        "text": "5月8日",
-        "css": "date",
-        "ref": "divBtn60"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divBtn76",
         "x": 850,
         "y": 865,
-        "type": "date",
-        "text": "5月8日",
-        "css": "date",
-        "ref": "divBtn76"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn77",
         "x": 725,
         "y": 940,
-        "type": "condition",
-        "text": "23日，学校的广播",
-        "css": "btn",
-        "ref": "divTxtBtn77"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn77",
         "x": 725,
         "y": 940,
-        "type": "condition",
-        "text": "23日，学校的广播",
-        "css": "btn",
-        "ref": "divTxtBtn77"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn81",
         "x": 525,
         "y": 1030,
-        "type": "selection",
-        "text": "去办公室看看",
-        "css": "btn",
-        "ref": "divTxtBtn81"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn77",
         "x": 725,
         "y": 940,
-        "type": "condition",
-        "text": "23日，学校的广播",
-        "css": "btn",
-        "ref": "divTxtBtn77"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn87",
         "x": 925,
         "y": 1030,
-        "type": "selection",
-        "text": "再等一会儿",
-        "css": "btn",
-        "ref": "divTxtBtn87"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn81",
         "x": 525,
         "y": 1030,
-        "type": "selection",
-        "text": "去办公室看看",
-        "css": "btn",
-        "ref": "divTxtBtn81"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn93",
         "x": 525,
         "y": 1090,
-        "type": "selection",
-        "text": "老师的询问",
-        "css": "btn",
-        "ref": "divTxtBtn93"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn93",
         "x": 525,
         "y": 1090,
-        "type": "selection",
-        "text": "老师的询问",
-        "css": "btn",
-        "ref": "divTxtBtn93"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn97",
         "x": 325,
         "y": 1180,
-        "type": "option",
-        "text": "为什么问这个呢？",
-        "css": "btn",
-        "ref": "divTxtBtn97"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn93",
         "x": 525,
         "y": 1090,
-        "type": "selection",
-        "text": "老师的询问",
-        "css": "btn",
-        "ref": "divTxtBtn93"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn103",
         "x": 725,
         "y": 1180,
-        "type": "option",
-        "text": "与其说是在交往…",
-        "css": "btn",
-        "ref": "divTxtBtn103"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn97",
         "x": 325,
         "y": 1180,
-        "type": "option",
-        "text": "为什么问这个呢？",
-        "css": "btn",
-        "ref": "divTxtBtn97"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 1270
+        "y": 1270,
+        "__type": "point"
       },
       {
+        "ref": "divBtn109",
         "x": 850,
         "y": 1300,
-        "type": "date",
-        "text": "琴美",
-        "css": "date",
-        "ref": "divBtn109"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn103",
         "x": 725,
         "y": 1180,
-        "type": "option",
-        "text": "与其说是在交往…",
-        "css": "btn",
-        "ref": "divTxtBtn103"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 1270
+        "y": 1270,
+        "__type": "point"
       },
       {
+        "ref": "divBtn109",
         "x": 850,
         "y": 1300,
-        "type": "date",
-        "text": "琴美",
-        "css": "date",
-        "ref": "divBtn109"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn87",
         "x": 925,
         "y": 1030,
-        "type": "selection",
-        "text": "再等一会儿",
-        "css": "btn",
-        "ref": "divTxtBtn87"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn109",
         "x": 850,
         "y": 1300,
-        "type": "date",
-        "text": "琴美",
-        "css": "date",
-        "ref": "divBtn109"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divBtn126",
         "x": 950,
         "y": 1435,
-        "type": "date",
-        "text": "琴美",
-        "css": "date",
-        "ref": "divBtn126"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn127",
         "x": 825,
         "y": 1510,
-        "type": "selection",
-        "text": "放弃的意念",
-        "css": "btn",
-        "ref": "divTxtBtn127"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn127",
         "x": 825,
         "y": 1510,
-        "type": "selection",
-        "text": "放弃的意念",
-        "css": "btn",
-        "ref": "divTxtBtn127"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn131",
         "x": 625,
         "y": 1600,
-        "type": "option",
-        "text": "继续",
-        "route": "l|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn131"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn127",
         "x": 825,
         "y": 1510,
-        "type": "selection",
-        "text": "放弃的意念",
-        "css": "btn",
-        "ref": "divTxtBtn127"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn138",
         "x": 1025,
         "y": 1600,
-        "type": "option",
-        "text": "放弃",
-        "route": "r|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn138"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn131",
         "x": 625,
         "y": 1600,
-        "type": "option",
-        "text": "继续",
-        "route": "l|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn131"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn145",
         "x": 625,
         "y": 1660,
-        "type": "selection",
-        "text": "好友的忙碌",
-        "css": "btn",
-        "ref": "divTxtBtn145"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn145",
         "x": 625,
         "y": 1660,
-        "type": "selection",
-        "text": "好友的忙碌",
-        "css": "btn",
-        "ref": "divTxtBtn145"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn149",
         "x": 425,
         "y": 1750,
-        "type": "option",
-        "text": "安慰说『别放弃啊』",
-        "route": "l|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn149"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn145",
         "x": 625,
         "y": 1660,
-        "type": "selection",
-        "text": "好友的忙碌",
-        "css": "btn",
-        "ref": "divTxtBtn145"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn156",
         "x": 825,
         "y": 1750,
-        "type": "option",
-        "text": "安慰说『只能放弃了』",
-        "route": "r|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn156"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn149",
         "x": 425,
         "y": 1750,
-        "type": "option",
-        "text": "安慰说『别放弃啊』",
-        "route": "l|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn149"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn163",
         "x": 425,
         "y": 1810,
-        "type": "selection",
-        "text": "深夜的执著",
-        "css": "btn",
-        "ref": "divTxtBtn163"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn163",
         "x": 425,
         "y": 1810,
-        "type": "selection",
-        "text": "深夜的执著",
-        "css": "btn",
-        "ref": "divTxtBtn163"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn167",
         "x": 225,
         "y": 1900,
-        "type": "option",
-        "text": "继续",
-        "route": "l|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn167"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn163",
         "x": 425,
         "y": 1810,
-        "type": "selection",
-        "text": "深夜的执著",
-        "css": "btn",
-        "ref": "divTxtBtn163"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn174",
         "x": 625,
         "y": 1900,
-        "type": "option",
-        "text": "放弃",
-        "route": "r|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn174"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn167",
         "x": 225,
         "y": 1900,
-        "type": "option",
-        "text": "继续",
-        "route": "l|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn167"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn181",
         "x": 225,
         "y": 1960,
-        "type": "option",
-        "text": "琴美“光”获得",
-        "css": "btn",
-        "ref": "divTxtBtn181"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn174",
         "x": 625,
         "y": 1900,
-        "type": "option",
-        "text": "放弃",
-        "route": "r|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn174"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn185",
         "x": 825,
         "y": 1990,
-        "type": "condition",
-        "text": "琴美 BAD ENDDING",
-        "css": "btn",
-        "ref": "divTxtBtn185"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn156",
         "x": 825,
         "y": 1750,
-        "type": "option",
-        "text": "安慰说『只能放弃了』",
-        "route": "r|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn156"
+        "__type": "textbox"
       },
       {
         "x": 1200,
-        "y": 1840
+        "y": 1840,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn185",
         "x": 825,
         "y": 1990,
-        "type": "condition",
-        "text": "琴美 BAD ENDDING",
-        "css": "btn",
-        "ref": "divTxtBtn185"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn138",
         "x": 1025,
         "y": 1600,
-        "type": "option",
-        "text": "放弃",
-        "route": "r|琴美",
-        "css": "btn",
-        "ref": "divTxtBtn138"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn185",
         "x": 825,
         "y": 1990,
-        "type": "condition",
-        "text": "琴美 BAD ENDDING",
-        "css": "btn",
-        "ref": "divTxtBtn185"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn181",
         "x": 225,
         "y": 1960,
-        "type": "option",
-        "text": "琴美“光”获得",
-        "css": "btn",
-        "ref": "divTxtBtn181"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn202",
         "x": 225,
         "y": 2020,
-        "type": "condition",
-        "text": "琴美 GOOD ENDDING",
-        "css": "btn",
-        "ref": "divTxtBtn202"
+        "__type": "textbox"
       }
     ]
   ],
@@ -1221,7 +952,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt5"
+      "ref": "divCmt5",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -1238,7 +970,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt23"
+      "ref": "divCmt23",
+      "__type": "comment"
     }
   ],
   "header": {
@@ -1251,14 +984,16 @@
     "dateE": "May 5th~Kotomi",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 2050,
     "page": 42,
-    "ref": "divFt206"
+    "ref": "divFt206",
+    "__type": "footer"
   },
   "board": []
 }

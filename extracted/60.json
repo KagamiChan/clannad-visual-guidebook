@@ -7,7 +7,8 @@
         "type": "date",
         "text": "4月26日",
         "css": "date",
-        "ref": "divBtn1"
+        "ref": "divBtn1",
+        "__type": "button"
       }
     ],
     [
@@ -17,7 +18,8 @@
         "type": "selection",
         "text": "关于幽灵的话题",
         "css": "btn",
-        "ref": "divTxtBtn2"
+        "ref": "divTxtBtn2",
+        "__type": "textbox"
       }
     ],
     [
@@ -27,7 +29,8 @@
         "type": "option",
         "text": "问问看",
         "css": "btn",
-        "ref": "divTxtBtn6"
+        "ref": "divTxtBtn6",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -35,7 +38,8 @@
         "type": "option",
         "text": "没兴趣",
         "css": "btn",
-        "ref": "divTxtBtn12"
+        "ref": "divTxtBtn12",
+        "__type": "textbox"
       }
     ],
     [
@@ -45,7 +49,8 @@
         "type": "condition",
         "text": "23日，春原的妹妹打来电话",
         "css": "btn",
-        "ref": "divTxtBtn18"
+        "ref": "divTxtBtn18",
+        "__type": "textbox"
       }
     ],
     [
@@ -55,7 +60,8 @@
         "type": "selection",
         "text": "不代他接听",
         "css": "btn",
-        "ref": "divTxtBtn28"
+        "ref": "divTxtBtn28",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -63,7 +69,8 @@
         "type": "selection",
         "text": "代春原接听",
         "css": "btn",
-        "ref": "divTxtBtn34"
+        "ref": "divTxtBtn34",
+        "__type": "textbox"
       }
     ],
     [
@@ -73,7 +80,8 @@
         "type": "condition",
         "text": "25日，智代攻击的对策",
         "css": "btn",
-        "ref": "divTxtBtn40"
+        "ref": "divTxtBtn40",
+        "__type": "textbox"
       }
     ],
     [
@@ -83,7 +91,8 @@
         "type": "selection",
         "text": "提出了忠告",
         "css": "btn",
-        "ref": "divTxtBtn44"
+        "ref": "divTxtBtn44",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -92,7 +101,8 @@
         "text": "扣下了扳机",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn50"
+        "ref": "divTxtBtn50",
+        "__type": "textbox"
       }
     ],
     [
@@ -102,7 +112,8 @@
         "type": "condition",
         "text": "枪战平手",
         "css": "btn",
-        "ref": "divTxtBtn57"
+        "ref": "divTxtBtn57",
+        "__type": "textbox"
       }
     ],
     [
@@ -112,7 +123,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn61"
+        "ref": "divTxtBtn61",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -120,7 +132,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn67"
+        "ref": "divTxtBtn67",
+        "__type": "textbox"
       }
     ],
     [
@@ -130,7 +143,8 @@
         "type": "date",
         "text": "4月27日",
         "css": "date",
-        "ref": "divBtn73"
+        "ref": "divBtn73",
+        "__type": "button"
       }
     ],
     [
@@ -140,7 +154,8 @@
         "type": "condition",
         "text": "公共 BAD ENDING",
         "css": "btn",
-        "ref": "divTxtBtn76"
+        "ref": "divTxtBtn76",
+        "__type": "textbox"
       }
     ],
     [
@@ -150,7 +165,8 @@
         "type": "date",
         "text": "4月27日",
         "css": "date",
-        "ref": "divBtn93"
+        "ref": "divBtn93",
+        "__type": "button"
       }
     ],
     [
@@ -160,7 +176,8 @@
         "type": "option",
         "text": "幻想世界（七）",
         "css": "btn",
-        "ref": "divTxtBtn94"
+        "ref": "divTxtBtn94",
+        "__type": "textbox"
       }
     ],
     [
@@ -170,357 +187,281 @@
         "type": "date",
         "text": "4月28日",
         "css": "date",
-        "ref": "divBtn98"
+        "ref": "divBtn98",
+        "__type": "button"
       }
     ]
   ],
   "line": [
     [
       {
+        "ref": "divBtn1",
         "x": 950,
         "y": 175,
-        "type": "date",
-        "text": "4月26日",
-        "css": "date",
-        "ref": "divBtn1"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn2",
         "x": 825,
         "y": 250,
-        "type": "selection",
-        "text": "关于幽灵的话题",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 825,
         "y": 250,
-        "type": "selection",
-        "text": "关于幽灵的话题",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn6",
         "x": 625,
         "y": 340,
-        "type": "option",
-        "text": "问问看",
-        "css": "btn",
-        "ref": "divTxtBtn6"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 825,
         "y": 250,
-        "type": "selection",
-        "text": "关于幽灵的话题",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn12",
         "x": 1025,
         "y": 340,
-        "type": "option",
-        "text": "没兴趣",
-        "css": "btn",
-        "ref": "divTxtBtn12"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn6",
         "x": 625,
         "y": 340,
-        "type": "option",
-        "text": "问问看",
-        "css": "btn",
-        "ref": "divTxtBtn6"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn18",
         "x": 825,
         "y": 430,
-        "type": "condition",
-        "text": "23日，春原的妹妹打来电话",
-        "css": "btn",
-        "ref": "divTxtBtn18"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn12",
         "x": 1025,
         "y": 340,
-        "type": "option",
-        "text": "没兴趣",
-        "css": "btn",
-        "ref": "divTxtBtn12"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn18",
         "x": 825,
         "y": 430,
-        "type": "condition",
-        "text": "23日，春原的妹妹打来电话",
-        "css": "btn",
-        "ref": "divTxtBtn18"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn18",
         "x": 825,
         "y": 430,
-        "type": "condition",
-        "text": "23日，春原的妹妹打来电话",
-        "css": "btn",
-        "ref": "divTxtBtn18"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn28",
         "x": 625,
         "y": 520,
-        "type": "selection",
-        "text": "不代他接听",
-        "css": "btn",
-        "ref": "divTxtBtn28"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn18",
         "x": 825,
         "y": 430,
-        "type": "condition",
-        "text": "23日，春原的妹妹打来电话",
-        "css": "btn",
-        "ref": "divTxtBtn18"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn34",
         "x": 1025,
         "y": 520,
-        "type": "selection",
-        "text": "代春原接听",
-        "css": "btn",
-        "ref": "divTxtBtn34"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn28",
         "x": 625,
         "y": 520,
-        "type": "selection",
-        "text": "不代他接听",
-        "css": "btn",
-        "ref": "divTxtBtn28"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn40",
         "x": 625,
         "y": 580,
-        "type": "condition",
-        "text": "25日，智代攻击的对策",
-        "css": "btn",
-        "ref": "divTxtBtn40"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn40",
         "x": 625,
         "y": 580,
-        "type": "condition",
-        "text": "25日，智代攻击的对策",
-        "css": "btn",
-        "ref": "divTxtBtn40"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn44",
         "x": 425,
         "y": 670,
-        "type": "selection",
-        "text": "提出了忠告",
-        "css": "btn",
-        "ref": "divTxtBtn44"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn40",
         "x": 625,
         "y": 580,
-        "type": "condition",
-        "text": "25日，智代攻击的对策",
-        "css": "btn",
-        "ref": "divTxtBtn40"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn50",
         "x": 825,
         "y": 670,
-        "type": "selection",
-        "text": "扣下了扳机",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn50"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn44",
         "x": 425,
         "y": 670,
-        "type": "selection",
-        "text": "提出了忠告",
-        "css": "btn",
-        "ref": "divTxtBtn44"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn57",
         "x": 425,
         "y": 730,
-        "type": "condition",
-        "text": "枪战平手",
-        "css": "btn",
-        "ref": "divTxtBtn57"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn57",
         "x": 425,
         "y": 730,
-        "type": "condition",
-        "text": "枪战平手",
-        "css": "btn",
-        "ref": "divTxtBtn57"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn61",
         "x": 225,
         "y": 820,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn61"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn57",
         "x": 425,
         "y": 730,
-        "type": "condition",
-        "text": "枪战平手",
-        "css": "btn",
-        "ref": "divTxtBtn57"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn67",
         "x": 625,
         "y": 820,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn67"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn61",
         "x": 225,
         "y": 820,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn61"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn73",
         "x": 350,
         "y": 880,
-        "type": "date",
-        "text": "4月27日",
-        "css": "date",
-        "ref": "divBtn73"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn67",
         "x": 625,
         "y": 820,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn67"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn76",
         "x": 825,
         "y": 910,
-        "type": "condition",
-        "text": "公共 BAD ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn76"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn50",
         "x": 825,
         "y": 670,
-        "type": "selection",
-        "text": "扣下了扳机",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn50"
+        "__type": "textbox"
       },
       {
         "x": 1200,
-        "y": 760
+        "y": 760,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn76",
         "x": 825,
         "y": 910,
-        "type": "condition",
-        "text": "公共 BAD ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn76"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn34",
         "x": 1025,
         "y": 520,
-        "type": "selection",
-        "text": "代春原接听",
-        "css": "btn",
-        "ref": "divTxtBtn34"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn76",
         "x": 825,
         "y": 910,
-        "type": "condition",
-        "text": "公共 BAD ENDING",
-        "css": "btn",
-        "ref": "divTxtBtn76"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divBtn93",
         "x": 750,
         "y": 1045,
-        "type": "date",
-        "text": "4月27日",
-        "css": "date",
-        "ref": "divBtn93"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn94",
         "x": 625,
         "y": 1120,
-        "type": "option",
-        "text": "幻想世界（七）",
-        "css": "btn",
-        "ref": "divTxtBtn94"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn94",
         "x": 625,
         "y": 1120,
-        "type": "option",
-        "text": "幻想世界（七）",
-        "css": "btn",
-        "ref": "divTxtBtn94"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn98",
         "x": 750,
         "y": 1180,
-        "type": "date",
-        "text": "4月28日",
-        "css": "date",
-        "ref": "divBtn98"
+        "__type": "button"
       }
     ]
   ],
@@ -535,14 +476,16 @@
     "dateE": "April 26th~April 27th",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 1240,
     "page": 60,
-    "ref": "divFt101"
+    "ref": "divFt101",
+    "__type": "footer"
   },
   "board": []
 }

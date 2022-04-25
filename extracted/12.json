@@ -7,7 +7,8 @@
         "type": "date",
         "text": "4月20日",
         "css": "date",
-        "ref": "divBtn1"
+        "ref": "divBtn1",
+        "__type": "button"
       }
     ],
     [
@@ -18,13 +19,15 @@
         "text": "渚线或者风子线进入",
         "css": "btn",
         "ref": "divTxtBtn2",
+        "__type": "textbox",
         "num": {
           "x": 510,
           "y": 250,
           "type": "ccheck",
           "text": "1",
           "css": "check",
-          "ref": "divBtn4"
+          "ref": "divBtn4",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -41,7 +44,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
+          "ref": "divCmt5",
+          "__type": "comment"
         }
       }
     ],
@@ -52,7 +56,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn8"
+        "ref": "divTxtBtn8",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -60,7 +65,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn13"
+        "ref": "divTxtBtn13",
+        "__type": "textbox"
       }
     ],
     [
@@ -70,7 +76,8 @@
         "type": "selection",
         "text": "关心古河的身体",
         "css": "btn",
-        "ref": "divTxtBtn20"
+        "ref": "divTxtBtn20",
+        "__type": "textbox"
       }
     ],
     [
@@ -80,7 +87,8 @@
         "type": "option",
         "text": "早苗呢？",
         "css": "btn",
-        "ref": "divTxtBtn24"
+        "ref": "divTxtBtn24",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -88,7 +96,8 @@
         "type": "option",
         "text": "古河的身体情况怎么样？",
         "css": "btn",
-        "ref": "divTxtBtn30"
+        "ref": "divTxtBtn30",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -97,13 +106,15 @@
         "text": "18日，和琴美一起吃午饭",
         "css": "btn",
         "ref": "divTxtBtn36",
+        "__type": "textbox",
         "num": {
           "x": 810,
           "y": 490,
           "type": "ccheck",
           "text": "2",
           "css": "check",
-          "ref": "divBtn38"
+          "ref": "divBtn38",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -120,7 +131,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt39"
+          "ref": "divCmt39",
+          "__type": "comment"
         }
       }
     ],
@@ -131,7 +143,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn42"
+        "ref": "divTxtBtn42",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -139,7 +152,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn48"
+        "ref": "divTxtBtn48",
+        "__type": "textbox"
       }
     ],
     [
@@ -150,13 +164,15 @@
         "text": "周末、图书馆中的琴美",
         "css": "btn",
         "ref": "divTxtBtn54",
+        "__type": "textbox",
         "num": {
           "x": 1010,
           "y": 640,
           "type": "ccheck",
           "text": "3",
           "css": "check",
-          "ref": "divBtn56"
+          "ref": "divBtn56",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -173,7 +189,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt57"
+          "ref": "divCmt57",
+          "__type": "comment"
         }
       }
     ],
@@ -185,13 +202,15 @@
         "text": "去宿舍的路上、被陌生男子叫住",
         "css": "btn",
         "ref": "divTxtBtn60",
+        "__type": "textbox",
         "num": {
           "x": 210,
           "y": 730,
           "type": "ccheck",
           "text": "4",
           "css": "check",
-          "ref": "divBtn62"
+          "ref": "divBtn62",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -208,7 +227,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt63"
+          "ref": "divCmt63",
+          "__type": "comment"
         }
       },
       {
@@ -218,7 +238,8 @@
         "text": "离开图书馆",
         "route": "l|智代|美佐枝|芽衣",
         "css": "btn",
-        "ref": "divTxtBtn79"
+        "ref": "divTxtBtn79",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -227,7 +248,8 @@
         "text": "问可以待在这里吗",
         "route": "r|智代|美佐枝|芽衣",
         "css": "btn",
-        "ref": "divTxtBtn88"
+        "ref": "divTxtBtn88",
+        "__type": "textbox"
       }
     ],
     [
@@ -238,7 +260,8 @@
         "text": "琴美线完全进入",
         "route": "r|-琴美|有纪宁",
         "css": "btn",
-        "ref": "divTxtBtn97"
+        "ref": "divTxtBtn97",
+        "__type": "textbox"
       }
     ],
     [
@@ -249,7 +272,8 @@
         "text": "跟他过去",
         "route": "l|胜平",
         "css": "btn",
-        "ref": "divTxtBtn103"
+        "ref": "divTxtBtn103",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -258,7 +282,8 @@
         "text": "不理他",
         "route": "r|胜平",
         "css": "btn",
-        "ref": "divTxtBtn108"
+        "ref": "divTxtBtn108",
+        "__type": "textbox"
       }
     ],
     [
@@ -268,7 +293,8 @@
         "type": "selection",
         "text": "两人的争吵",
         "css": "btn",
-        "ref": "divTxtBtn115"
+        "ref": "divTxtBtn115",
+        "__type": "textbox"
       }
     ],
     [
@@ -279,7 +305,8 @@
         "text": "再看一会儿",
         "route": "l|胜平",
         "css": "btn",
-        "ref": "divTxtBtn119"
+        "ref": "divTxtBtn119",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -288,7 +315,8 @@
         "text": "离开",
         "route": "r|胜平",
         "css": "btn",
-        "ref": "divTxtBtn124"
+        "ref": "divTxtBtn124",
+        "__type": "textbox"
       }
     ],
     [
@@ -298,7 +326,8 @@
         "type": "selection",
         "text": "芳野寻求帮手",
         "css": "btn",
-        "ref": "divTxtBtn131"
+        "ref": "divTxtBtn131",
+        "__type": "textbox"
       }
     ],
     [
@@ -309,7 +338,8 @@
         "text": "帮忙",
         "route": "l|胜平|-美佐枝",
         "css": "btn",
-        "ref": "divTxtBtn135"
+        "ref": "divTxtBtn135",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -318,7 +348,8 @@
         "text": "拒绝",
         "route": "l|胜平|-美佐枝",
         "css": "btn",
-        "ref": "divTxtBtn141"
+        "ref": "divTxtBtn141",
+        "__type": "textbox"
       }
     ],
     [
@@ -329,6 +360,7 @@
         "text": "A",
         "css": "btn",
         "ref": "divTxtBtn149",
+        "__type": "textbox",
         "link": "p12_retA"
       }
     ],
@@ -339,7 +371,8 @@
         "type": "date",
         "text": "4月21日",
         "css": "date",
-        "ref": "divBtn167"
+        "ref": "divBtn167",
+        "__type": "button"
       }
     ],
     [
@@ -350,6 +383,7 @@
         "text": "A",
         "css": "btn",
         "ref": "divTxtBtn175",
+        "__type": "textbox",
         "link": "p12_A"
       },
       {
@@ -358,7 +392,8 @@
         "type": "condition",
         "text": "18日，宿舍走廊遇见美佐枝",
         "css": "btn",
-        "ref": "divTxtBtn177"
+        "ref": "divTxtBtn177",
+        "__type": "textbox"
       }
     ],
     [
@@ -368,7 +403,8 @@
         "type": "selection",
         "text": "向她搭话",
         "css": "btn",
-        "ref": "divTxtBtn182"
+        "ref": "divTxtBtn182",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -377,7 +413,8 @@
         "text": "目送她离去",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn188"
+        "ref": "divTxtBtn188",
+        "__type": "textbox"
       }
     ],
     [
@@ -388,13 +425,15 @@
         "text": "离开美佐枝的房间",
         "css": "btn",
         "ref": "divTxtBtn195",
+        "__type": "textbox",
         "num": {
           "x": 210,
           "y": 1600,
           "type": "ccheck",
           "text": "5",
           "css": "check",
-          "ref": "divBtn197"
+          "ref": "divBtn197",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -411,7 +450,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt198"
+          "ref": "divCmt198",
+          "__type": "comment"
         }
       },
       {
@@ -421,13 +461,15 @@
         "text": "符合心跳☆高中触发条件",
         "css": "btn",
         "ref": "divTxtBtn201",
+        "__type": "textbox",
         "num": {
           "x": 1010,
           "y": 1600,
           "type": "ccheck",
           "text": "6",
           "css": "check",
-          "ref": "divBtn203"
+          "ref": "divBtn203",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -444,7 +486,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt204"
+          "ref": "divCmt204",
+          "__type": "comment"
         }
       }
     ],
@@ -456,7 +499,8 @@
         "text": "问她还可以再来吗",
         "route": "l|美佐枝",
         "css": "btn",
-        "ref": "divTxtBtn207"
+        "ref": "divTxtBtn207",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -465,7 +509,8 @@
         "text": "不会再来了",
         "route": "r|美佐枝",
         "css": "btn",
-        "ref": "divTxtBtn214"
+        "ref": "divTxtBtn214",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -473,7 +518,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn221"
+        "ref": "divTxtBtn221",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -481,7 +527,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn227"
+        "ref": "divTxtBtn227",
+        "__type": "textbox"
       }
     ],
     [
@@ -492,13 +539,15 @@
         "text": "春原的娱乐书",
         "css": "btn",
         "ref": "divTxtBtn233",
+        "__type": "textbox",
         "num": {
           "x": 810,
           "y": 1750,
           "type": "ccheck",
           "text": "7",
           "css": "check",
-          "ref": "divBtn235"
+          "ref": "divBtn235",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -515,7 +564,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt236"
+          "ref": "divCmt236",
+          "__type": "comment"
         }
       }
     ],
@@ -526,7 +576,8 @@
         "type": "option",
         "text": "玩玩看",
         "css": "btn",
-        "ref": "divTxtBtn239"
+        "ref": "divTxtBtn239",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -534,7 +585,8 @@
         "type": "option",
         "text": "找别的漫画看",
         "css": "btn",
-        "ref": "divTxtBtn245"
+        "ref": "divTxtBtn245",
+        "__type": "textbox"
       }
     ],
     [
@@ -545,13 +597,15 @@
         "text": "心跳☆高中",
         "css": "btn",
         "ref": "divTxtBtn251",
+        "__type": "textbox",
         "num": {
           "x": 610,
           "y": 1900,
           "type": "ccheck",
           "text": "8",
           "css": "check",
-          "ref": "divBtn253"
+          "ref": "divBtn253",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -568,7 +622,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt254"
+          "ref": "divCmt254",
+          "__type": "comment"
         },
         "link": "p12_retXTGZ"
       }
@@ -577,1538 +632,761 @@
   "line": [
     [
       {
+        "ref": "divBtn1",
         "x": 650,
         "y": 175,
-        "type": "date",
-        "text": "4月20日",
-        "css": "date",
-        "ref": "divBtn1"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn2",
         "x": 525,
         "y": 250,
-        "type": "condition",
-        "text": "渚线或者风子线进入",
-        "css": "btn",
-        "ref": "divTxtBtn2",
-        "num": {
-          "x": 510,
-          "y": 250,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn4"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 240,
-          "text": "渚线或者风子线进入",
-          "num": "1",
-          "summary": "",
-          "hint": "此处{渚线进入}即16日，在分支{古河重新创立话剧社}选择[帮忙]；18日，在分支{琴美的邀请与古河的约定}选择[今天还是和以前一样与渚一起吃]或者未触发这个分支。没有选择相应选项或者没有触发前一分支的情况均属于否；前一分支选择正确但没有触发后一分支的情况属于是。<br>{风子线进入}即16日，在分支{古河重新创立话剧社}选择[帮忙]；18日，在分支{独自雕刻的风子}选择[再看一会儿]。两次选择都正确才满足风子线进入的条件。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
         "x": 600,
-        "y": 310
+        "y": 310,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn8",
         "x": 225,
         "y": 340,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn8"
+        "__type": "textbox"
       }
     ],
     [
       {
         "x": 600,
-        "y": 310
+        "y": 310,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn13",
         "x": 825,
         "y": 340,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn13"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 525,
         "y": 250,
-        "type": "condition",
-        "text": "渚线或者风子线进入",
-        "css": "btn",
-        "ref": "divTxtBtn2",
-        "num": {
-          "x": 510,
-          "y": 250,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn4"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 240,
-          "text": "渚线或者风子线进入",
-          "num": "1",
-          "summary": "",
-          "hint": "此处{渚线进入}即16日，在分支{古河重新创立话剧社}选择[帮忙]；18日，在分支{琴美的邀请与古河的约定}选择[今天还是和以前一样与渚一起吃]或者未触发这个分支。没有选择相应选项或者没有触发前一分支的情况均属于否；前一分支选择正确但没有触发后一分支的情况属于是。<br>{风子线进入}即16日，在分支{古河重新创立话剧社}选择[帮忙]；18日，在分支{独自雕刻的风子}选择[再看一会儿]。两次选择都正确才满足风子线进入的条件。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
-        }
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 310
+        "y": 310,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn8",
         "x": 225,
         "y": 340,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn8"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn20",
         "x": 225,
         "y": 400,
-        "type": "selection",
-        "text": "关心古河的身体",
-        "css": "btn",
-        "ref": "divTxtBtn20"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn20",
         "x": 225,
         "y": 400,
-        "type": "selection",
-        "text": "关心古河的身体",
-        "css": "btn",
-        "ref": "divTxtBtn20"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn24",
         "x": 25,
         "y": 490,
-        "type": "option",
-        "text": "早苗呢？",
-        "css": "btn",
-        "ref": "divTxtBtn24"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn20",
         "x": 225,
         "y": 400,
-        "type": "selection",
-        "text": "关心古河的身体",
-        "css": "btn",
-        "ref": "divTxtBtn20"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn30",
         "x": 425,
         "y": 490,
-        "type": "option",
-        "text": "古河的身体情况怎么样？",
-        "css": "btn",
-        "ref": "divTxtBtn30"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn13",
         "x": 825,
         "y": 340,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn13"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn36",
         "x": 825,
         "y": 490,
-        "type": "condition",
-        "text": "18日，和琴美一起吃午饭",
-        "css": "btn",
-        "ref": "divTxtBtn36",
-        "num": {
-          "x": 810,
-          "y": 490,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn38"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 480,
-          "text": "18日，和琴美一起吃午饭",
-          "num": "2",
-          "summary": "",
-          "hint": "{18日，和琴美一起吃午饭}包括18日，在分支{琴美的邀请与古河的约定}选择[在这里和琴美一起吃]；或者虽然没有出现这个分支，但是发生了和琴美一起吃午饭的剧情内容（18日渚、风子线未进入，即16日在分支{古河重新创立话剧社}选择让[她一个人做]或者未触发这个分支的话，在分支{寻找春原和朋也内心的思索}分别选择[图书馆]和[不能就这样不理她]，就会发生和琴美一起吃午饭的剧情内容）。不符合以上条件的情况均属于否。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt39"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn36",
         "x": 825,
         "y": 490,
-        "type": "condition",
-        "text": "18日，和琴美一起吃午饭",
-        "css": "btn",
-        "ref": "divTxtBtn36",
-        "num": {
-          "x": 810,
-          "y": 490,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn38"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 480,
-          "text": "18日，和琴美一起吃午饭",
-          "num": "2",
-          "summary": "",
-          "hint": "{18日，和琴美一起吃午饭}包括18日，在分支{琴美的邀请与古河的约定}选择[在这里和琴美一起吃]；或者虽然没有出现这个分支，但是发生了和琴美一起吃午饭的剧情内容（18日渚、风子线未进入，即16日在分支{古河重新创立话剧社}选择让[她一个人做]或者未触发这个分支的话，在分支{寻找春原和朋也内心的思索}分别选择[图书馆]和[不能就这样不理她]，就会发生和琴美一起吃午饭的剧情内容）。不符合以上条件的情况均属于否。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt39"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn42",
         "x": 625,
         "y": 580,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn42"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn36",
         "x": 825,
         "y": 490,
-        "type": "condition",
-        "text": "18日，和琴美一起吃午饭",
-        "css": "btn",
-        "ref": "divTxtBtn36",
-        "num": {
-          "x": 810,
-          "y": 490,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn38"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 480,
-          "text": "18日，和琴美一起吃午饭",
-          "num": "2",
-          "summary": "",
-          "hint": "{18日，和琴美一起吃午饭}包括18日，在分支{琴美的邀请与古河的约定}选择[在这里和琴美一起吃]；或者虽然没有出现这个分支，但是发生了和琴美一起吃午饭的剧情内容（18日渚、风子线未进入，即16日在分支{古河重新创立话剧社}选择让[她一个人做]或者未触发这个分支的话，在分支{寻找春原和朋也内心的思索}分别选择[图书馆]和[不能就这样不理她]，就会发生和琴美一起吃午饭的剧情内容）。不符合以上条件的情况均属于否。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt39"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn48",
         "x": 1025,
         "y": 580,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn48"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn48",
         "x": 1025,
         "y": 580,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn48"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn54",
         "x": 1025,
         "y": 640,
-        "type": "selection",
-        "text": "周末、图书馆中的琴美",
-        "css": "btn",
-        "ref": "divTxtBtn54",
-        "num": {
-          "x": 1010,
-          "y": 640,
-          "type": "ccheck",
-          "text": "3",
-          "css": "check",
-          "ref": "divBtn56"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 630,
-          "text": "周末、图书馆中的琴美",
-          "num": "3",
-          "summary": "朋也和琴美在学校中相遇并来到了图书馆，看着打扫卫生的琴美，朋也在思考着。",
-          "hint": "选择[可以待在这里吗]，完全进入琴美线。一之濑琴美角色剧情攻略请参见P40～P42。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt57"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn42",
         "x": 625,
         "y": 580,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn42"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 670
+        "y": 670,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn60",
         "x": 225,
         "y": 730,
-        "type": "selection",
-        "text": "去宿舍的路上、被陌生男子叫住",
-        "css": "btn",
-        "ref": "divTxtBtn60",
-        "num": {
-          "x": 210,
-          "y": 730,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn62"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 720,
-          "text": "去宿舍的路上、被陌生男子叫住",
-          "num": "4",
-          "summary": "朋也在找春原的路上被一个不认识的人叫住了，他似乎有很重要的事……",
-          "hint": "选择[跟他过去]，并在之后的分支中分别选择[再看一会儿]、[帮忙]，则可以进入柊胜平线，同时退出美佐枝线（若已进入，即18日分支{宿舍走廊遇见美佐枝}选择[向她搭话]）；如果不这样选择，则继续美佐枝线（若已进入），并且无法再进入柊胜平线。<br>攻略渚线时，在第三个分支{芳野寻求帮手中}选择[帮忙]，则进入AFTER STORY后，才有可能得到芳野的“光”。",
-          "setsumei": "",
-          "option": "+跟他过去|+再看一会儿|-帮忙",
-          "icon": "00100011",
-          "iconillu": "芳野成为3对3篮球和业余棒球成员候选；公子有条件参与毕业典礼",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt63"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn24",
         "x": 25,
         "y": 490,
-        "type": "option",
-        "text": "早苗呢？",
-        "css": "btn",
-        "ref": "divTxtBtn24"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 580
+        "y": 580,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn60",
         "x": 225,
         "y": 730,
-        "type": "selection",
-        "text": "去宿舍的路上、被陌生男子叫住",
-        "css": "btn",
-        "ref": "divTxtBtn60",
-        "num": {
-          "x": 210,
-          "y": 730,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn62"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 720,
-          "text": "去宿舍的路上、被陌生男子叫住",
-          "num": "4",
-          "summary": "朋也在找春原的路上被一个不认识的人叫住了，他似乎有很重要的事……",
-          "hint": "选择[跟他过去]，并在之后的分支中分别选择[再看一会儿]、[帮忙]，则可以进入柊胜平线，同时退出美佐枝线（若已进入，即18日分支{宿舍走廊遇见美佐枝}选择[向她搭话]）；如果不这样选择，则继续美佐枝线（若已进入），并且无法再进入柊胜平线。<br>攻略渚线时，在第三个分支{芳野寻求帮手中}选择[帮忙]，则进入AFTER STORY后，才有可能得到芳野的“光”。",
-          "setsumei": "",
-          "option": "+跟他过去|+再看一会儿|-帮忙",
-          "icon": "00100011",
-          "iconillu": "芳野成为3对3篮球和业余棒球成员候选；公子有条件参与毕业典礼",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt63"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn30",
         "x": 425,
         "y": 490,
-        "type": "option",
-        "text": "古河的身体情况怎么样？",
-        "css": "btn",
-        "ref": "divTxtBtn30"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 580
+        "y": 580,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn60",
         "x": 225,
         "y": 730,
-        "type": "selection",
-        "text": "去宿舍的路上、被陌生男子叫住",
-        "css": "btn",
-        "ref": "divTxtBtn60",
-        "num": {
-          "x": 210,
-          "y": 730,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn62"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 720,
-          "text": "去宿舍的路上、被陌生男子叫住",
-          "num": "4",
-          "summary": "朋也在找春原的路上被一个不认识的人叫住了，他似乎有很重要的事……",
-          "hint": "选择[跟他过去]，并在之后的分支中分别选择[再看一会儿]、[帮忙]，则可以进入柊胜平线，同时退出美佐枝线（若已进入，即18日分支{宿舍走廊遇见美佐枝}选择[向她搭话]）；如果不这样选择，则继续美佐枝线（若已进入），并且无法再进入柊胜平线。<br>攻略渚线时，在第三个分支{芳野寻求帮手中}选择[帮忙]，则进入AFTER STORY后，才有可能得到芳野的“光”。",
-          "setsumei": "",
-          "option": "+跟他过去|+再看一会儿|-帮忙",
-          "icon": "00100011",
-          "iconillu": "芳野成为3对3篮球和业余棒球成员候选；公子有条件参与毕业典礼",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt63"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn54",
         "x": 1025,
         "y": 640,
-        "type": "selection",
-        "text": "周末、图书馆中的琴美",
-        "css": "btn",
-        "ref": "divTxtBtn54",
-        "num": {
-          "x": 1010,
-          "y": 640,
-          "type": "ccheck",
-          "text": "3",
-          "css": "check",
-          "ref": "divBtn56"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 630,
-          "text": "周末、图书馆中的琴美",
-          "num": "3",
-          "summary": "朋也和琴美在学校中相遇并来到了图书馆，看着打扫卫生的琴美，朋也在思考着。",
-          "hint": "选择[可以待在这里吗]，完全进入琴美线。一之濑琴美角色剧情攻略请参见P40～P42。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt57"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn79",
         "x": 825,
         "y": 730,
-        "type": "option",
-        "text": "离开图书馆",
-        "route": "l|智代|美佐枝|芽衣",
-        "css": "btn",
-        "ref": "divTxtBtn79"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn54",
         "x": 1025,
         "y": 640,
-        "type": "selection",
-        "text": "周末、图书馆中的琴美",
-        "css": "btn",
-        "ref": "divTxtBtn54",
-        "num": {
-          "x": 1010,
-          "y": 640,
-          "type": "ccheck",
-          "text": "3",
-          "css": "check",
-          "ref": "divBtn56"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 630,
-          "text": "周末、图书馆中的琴美",
-          "num": "3",
-          "summary": "朋也和琴美在学校中相遇并来到了图书馆，看着打扫卫生的琴美，朋也在思考着。",
-          "hint": "选择[可以待在这里吗]，完全进入琴美线。一之濑琴美角色剧情攻略请参见P40～P42。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt57"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn88",
         "x": 1225,
         "y": 730,
-        "type": "option",
-        "text": "问可以待在这里吗",
-        "route": "r|智代|美佐枝|芽衣",
-        "css": "btn",
-        "ref": "divTxtBtn88"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn88",
         "x": 1225,
         "y": 730,
-        "type": "option",
-        "text": "问可以待在这里吗",
-        "route": "r|智代|美佐枝|芽衣",
-        "css": "btn",
-        "ref": "divTxtBtn88"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn97",
         "x": 1225,
         "y": 790,
-        "type": "condition",
-        "text": "琴美线完全进入",
-        "route": "r|-琴美|有纪宁",
-        "css": "btn",
-        "ref": "divTxtBtn97"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn60",
         "x": 225,
         "y": 730,
-        "type": "selection",
-        "text": "去宿舍的路上、被陌生男子叫住",
-        "css": "btn",
-        "ref": "divTxtBtn60",
-        "num": {
-          "x": 210,
-          "y": 730,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn62"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 720,
-          "text": "去宿舍的路上、被陌生男子叫住",
-          "num": "4",
-          "summary": "朋也在找春原的路上被一个不认识的人叫住了，他似乎有很重要的事……",
-          "hint": "选择[跟他过去]，并在之后的分支中分别选择[再看一会儿]、[帮忙]，则可以进入柊胜平线，同时退出美佐枝线（若已进入，即18日分支{宿舍走廊遇见美佐枝}选择[向她搭话]）；如果不这样选择，则继续美佐枝线（若已进入），并且无法再进入柊胜平线。<br>攻略渚线时，在第三个分支{芳野寻求帮手中}选择[帮忙]，则进入AFTER STORY后，才有可能得到芳野的“光”。",
-          "setsumei": "",
-          "option": "+跟他过去|+再看一会儿|-帮忙",
-          "icon": "00100011",
-          "iconillu": "芳野成为3对3篮球和业余棒球成员候选；公子有条件参与毕业典礼",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt63"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn103",
         "x": 225,
         "y": 820,
-        "type": "option",
-        "text": "跟他过去",
-        "route": "l|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn103"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn60",
         "x": 225,
         "y": 730,
-        "type": "selection",
-        "text": "去宿舍的路上、被陌生男子叫住",
-        "css": "btn",
-        "ref": "divTxtBtn60",
-        "num": {
-          "x": 210,
-          "y": 730,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn62"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 720,
-          "text": "去宿舍的路上、被陌生男子叫住",
-          "num": "4",
-          "summary": "朋也在找春原的路上被一个不认识的人叫住了，他似乎有很重要的事……",
-          "hint": "选择[跟他过去]，并在之后的分支中分别选择[再看一会儿]、[帮忙]，则可以进入柊胜平线，同时退出美佐枝线（若已进入，即18日分支{宿舍走廊遇见美佐枝}选择[向她搭话]）；如果不这样选择，则继续美佐枝线（若已进入），并且无法再进入柊胜平线。<br>攻略渚线时，在第三个分支{芳野寻求帮手中}选择[帮忙]，则进入AFTER STORY后，才有可能得到芳野的“光”。",
-          "setsumei": "",
-          "option": "+跟他过去|+再看一会儿|-帮忙",
-          "icon": "00100011",
-          "iconillu": "芳野成为3对3篮球和业余棒球成员候选；公子有条件参与毕业典礼",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt63"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn108",
         "x": 625,
         "y": 820,
-        "type": "option",
-        "text": "不理他",
-        "route": "r|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn108"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn103",
         "x": 225,
         "y": 820,
-        "type": "option",
-        "text": "跟他过去",
-        "route": "l|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn103"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn115",
         "x": 225,
         "y": 880,
-        "type": "selection",
-        "text": "两人的争吵",
-        "css": "btn",
-        "ref": "divTxtBtn115"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn115",
         "x": 225,
         "y": 880,
-        "type": "selection",
-        "text": "两人的争吵",
-        "css": "btn",
-        "ref": "divTxtBtn115"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn119",
         "x": 225,
         "y": 970,
-        "type": "option",
-        "text": "再看一会儿",
-        "route": "l|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn119"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn115",
         "x": 225,
         "y": 880,
-        "type": "selection",
-        "text": "两人的争吵",
-        "css": "btn",
-        "ref": "divTxtBtn115"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn124",
         "x": 625,
         "y": 970,
-        "type": "option",
-        "text": "离开",
-        "route": "r|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn124"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn119",
         "x": 225,
         "y": 970,
-        "type": "option",
-        "text": "再看一会儿",
-        "route": "l|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn119"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn131",
         "x": 225,
         "y": 1030,
-        "type": "selection",
-        "text": "芳野寻求帮手",
-        "css": "btn",
-        "ref": "divTxtBtn131"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn131",
         "x": 225,
         "y": 1030,
-        "type": "selection",
-        "text": "芳野寻求帮手",
-        "css": "btn",
-        "ref": "divTxtBtn131"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn135",
         "x": 225,
         "y": 1120,
-        "type": "option",
-        "text": "帮忙",
-        "route": "l|胜平|-美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn135"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn131",
         "x": 225,
         "y": 1030,
-        "type": "selection",
-        "text": "芳野寻求帮手",
-        "css": "btn",
-        "ref": "divTxtBtn131"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn141",
         "x": 625,
         "y": 1120,
-        "type": "option",
-        "text": "拒绝",
-        "route": "l|胜平|-美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn141"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn141",
         "x": 625,
         "y": 1120,
-        "type": "option",
-        "text": "拒绝",
-        "route": "l|胜平|-美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn141"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn149",
         "x": 825,
         "y": 1210,
-        "type": "block",
-        "text": "A",
-        "css": "btn",
-        "ref": "divTxtBtn149",
-        "link": "p12_retA"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn79",
         "x": 825,
         "y": 730,
-        "type": "option",
-        "text": "离开图书馆",
-        "route": "l|智代|美佐枝|芽衣",
-        "css": "btn",
-        "ref": "divTxtBtn79"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn149",
         "x": 825,
         "y": 1210,
-        "type": "block",
-        "text": "A",
-        "css": "btn",
-        "ref": "divTxtBtn149",
-        "link": "p12_retA"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn108",
         "x": 625,
         "y": 820,
-        "type": "option",
-        "text": "不理他",
-        "route": "r|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn108"
+        "__type": "textbox"
       },
       {
         "x": 1000,
-        "y": 910
+        "y": 910,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn149",
         "x": 825,
         "y": 1210,
-        "type": "block",
-        "text": "A",
-        "css": "btn",
-        "ref": "divTxtBtn149",
-        "link": "p12_retA"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn124",
         "x": 625,
         "y": 970,
-        "type": "option",
-        "text": "离开",
-        "route": "r|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn124"
+        "__type": "textbox"
       },
       {
         "x": 1000,
-        "y": 1060
+        "y": 1060,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn149",
         "x": 825,
         "y": 1210,
-        "type": "block",
-        "text": "A",
-        "css": "btn",
-        "ref": "divTxtBtn149",
-        "link": "p12_retA"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn135",
         "x": 225,
         "y": 1120,
-        "type": "option",
-        "text": "帮忙",
-        "route": "l|胜平|-美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn135"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 1270
+        "y": 1270,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn149",
         "x": 825,
         "y": 1210,
-        "type": "block",
-        "text": "A",
-        "css": "btn",
-        "ref": "divTxtBtn149",
-        "link": "p12_retA"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 1270
+        "y": 1270,
+        "__type": "point"
       },
       {
         "x": 1000,
-        "y": 1270
+        "y": 1270,
+        "__type": "point"
       }
     ],
     [
       {
         "x": 700,
-        "y": 1270
+        "y": 1270,
+        "__type": "point"
       },
       {
+        "ref": "divBtn167",
         "x": 650,
         "y": 1300,
-        "type": "date",
-        "text": "4月21日",
-        "css": "date",
-        "ref": "divBtn167"
+        "__type": "button"
       }
     ],
     [
       {
         "x": 800,
-        "y": 1435
+        "y": 1435,
+        "__type": "point"
       },
       {
         "x": 800,
-        "y": 1435
+        "y": 1435,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn177",
         "x": 625,
         "y": 1450,
-        "type": "condition",
-        "text": "18日，宿舍走廊遇见美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn177"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn182",
         "x": 225,
         "y": 1540,
-        "type": "selection",
-        "text": "向她搭话",
-        "css": "btn",
-        "ref": "divTxtBtn182"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn177",
         "x": 625,
         "y": 1450,
-        "type": "condition",
-        "text": "18日，宿舍走廊遇见美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn177"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn188",
         "x": 1025,
         "y": 1540,
-        "type": "selection",
-        "text": "目送她离去",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn188"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn182",
         "x": 225,
         "y": 1540,
-        "type": "selection",
-        "text": "向她搭话",
-        "css": "btn",
-        "ref": "divTxtBtn182"
+        "__type": "textbox"
       },
       {
-        "x": 225,
-        "y": 1600,
-        "type": "selection",
-        "text": "离开美佐枝的房间",
-        "css": "btn",
         "ref": "divTxtBtn195",
-        "num": {
-          "x": 210,
-          "y": 1600,
-          "type": "ccheck",
-          "text": "5",
-          "css": "check",
-          "ref": "divBtn197"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1590,
-          "text": "离开美佐枝的房间",
-          "num": "5",
-          "summary": "帮忙找回猫的朋也被美佐枝邀请到她的房间做客，现在朋也将离开这里……",
-          "hint": "选择[还可以再来吗]，如果21日中午之前没有进入或者退出了渚线或风子线并且退出智代线或有纪宁线，那么您已经完全进入美佐枝线，但21日白天仍处在公共线路，晚上开始美佐枝角色剧情。如果21日下午仍然处在智代线或者有纪宁线中，则都会出现一个分支，选择正确同样可以进入美佐枝线；如果处在渚、风子线中（具体参见22日公共线路攻略），意味着失去了进入美佐枝线的机会。其角色剧情攻略请参见P26。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt198"
-        }
+        "x": 225,
+        "y": 1600,
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn188",
         "x": 1025,
         "y": 1540,
-        "type": "selection",
-        "text": "目送她离去",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn188"
+        "__type": "textbox"
       },
       {
-        "x": 1025,
-        "y": 1600,
-        "type": "condition",
-        "text": "符合心跳☆高中触发条件",
-        "css": "btn",
         "ref": "divTxtBtn201",
-        "num": {
-          "x": 1010,
-          "y": 1600,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn203"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1590,
-          "text": "符合心跳☆高中触发条件",
-          "num": "6",
-          "summary": "",
-          "hint": "{符合心跳☆高中触发条件}包括16日，在分支{古河重新创立话剧社}中选择[让她一个人做]；18日，在分支{椋的占卜道具}选择[胸脯占卜]或者在分支{异常灵验的占卜}选择[自己去占卜]。没有选择相应选项或者没有触发前一分支的情况均属于否。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt204"
-        }
+        "x": 1025,
+        "y": 1600,
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn195",
         "x": 225,
         "y": 1600,
-        "type": "selection",
-        "text": "离开美佐枝的房间",
-        "css": "btn",
-        "ref": "divTxtBtn195",
-        "num": {
-          "x": 210,
-          "y": 1600,
-          "type": "ccheck",
-          "text": "5",
-          "css": "check",
-          "ref": "divBtn197"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1590,
-          "text": "离开美佐枝的房间",
-          "num": "5",
-          "summary": "帮忙找回猫的朋也被美佐枝邀请到她的房间做客，现在朋也将离开这里……",
-          "hint": "选择[还可以再来吗]，如果21日中午之前没有进入或者退出了渚线或风子线并且退出智代线或有纪宁线，那么您已经完全进入美佐枝线，但21日白天仍处在公共线路，晚上开始美佐枝角色剧情。如果21日下午仍然处在智代线或者有纪宁线中，则都会出现一个分支，选择正确同样可以进入美佐枝线；如果处在渚、风子线中（具体参见22日公共线路攻略），意味着失去了进入美佐枝线的机会。其角色剧情攻略请参见P26。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt198"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn207",
         "x": 25,
         "y": 1690,
-        "type": "option",
-        "text": "问她还可以再来吗",
-        "route": "l|美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn207"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn195",
         "x": 225,
         "y": 1600,
-        "type": "selection",
-        "text": "离开美佐枝的房间",
-        "css": "btn",
-        "ref": "divTxtBtn195",
-        "num": {
-          "x": 210,
-          "y": 1600,
-          "type": "ccheck",
-          "text": "5",
-          "css": "check",
-          "ref": "divBtn197"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1590,
-          "text": "离开美佐枝的房间",
-          "num": "5",
-          "summary": "帮忙找回猫的朋也被美佐枝邀请到她的房间做客，现在朋也将离开这里……",
-          "hint": "选择[还可以再来吗]，如果21日中午之前没有进入或者退出了渚线或风子线并且退出智代线或有纪宁线，那么您已经完全进入美佐枝线，但21日白天仍处在公共线路，晚上开始美佐枝角色剧情。如果21日下午仍然处在智代线或者有纪宁线中，则都会出现一个分支，选择正确同样可以进入美佐枝线；如果处在渚、风子线中（具体参见22日公共线路攻略），意味着失去了进入美佐枝线的机会。其角色剧情攻略请参见P26。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt198"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn214",
         "x": 425,
         "y": 1690,
-        "type": "option",
-        "text": "不会再来了",
-        "route": "r|美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn214"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn201",
         "x": 1025,
         "y": 1600,
-        "type": "condition",
-        "text": "符合心跳☆高中触发条件",
-        "css": "btn",
-        "ref": "divTxtBtn201",
-        "num": {
-          "x": 1010,
-          "y": 1600,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn203"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1590,
-          "text": "符合心跳☆高中触发条件",
-          "num": "6",
-          "summary": "",
-          "hint": "{符合心跳☆高中触发条件}包括16日，在分支{古河重新创立话剧社}中选择[让她一个人做]；18日，在分支{椋的占卜道具}选择[胸脯占卜]或者在分支{异常灵验的占卜}选择[自己去占卜]。没有选择相应选项或者没有触发前一分支的情况均属于否。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt204"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn221",
         "x": 825,
         "y": 1690,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn221"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn201",
         "x": 1025,
         "y": 1600,
-        "type": "condition",
-        "text": "符合心跳☆高中触发条件",
-        "css": "btn",
-        "ref": "divTxtBtn201",
-        "num": {
-          "x": 1010,
-          "y": 1600,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn203"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1590,
-          "text": "符合心跳☆高中触发条件",
-          "num": "6",
-          "summary": "",
-          "hint": "{符合心跳☆高中触发条件}包括16日，在分支{古河重新创立话剧社}中选择[让她一个人做]；18日，在分支{椋的占卜道具}选择[胸脯占卜]或者在分支{异常灵验的占卜}选择[自己去占卜]。没有选择相应选项或者没有触发前一分支的情况均属于否。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt204"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn227",
         "x": 1225,
         "y": 1690,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn227"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn221",
         "x": 825,
         "y": 1690,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn221"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn233",
         "x": 825,
         "y": 1750,
-        "type": "selection",
-        "text": "春原的娱乐书",
-        "css": "btn",
-        "ref": "divTxtBtn233",
-        "num": {
-          "x": 810,
-          "y": 1750,
-          "type": "ccheck",
-          "text": "7",
-          "css": "check",
-          "ref": "divBtn235"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1740,
-          "text": "春原的娱乐书",
-          "num": "7",
-          "summary": "清闲的周末，朋也惯例地来到了春原的房间，以外地发现了一本使春原废寝忘食的书。",
-          "hint": "选择[玩玩看]，进入隐藏剧情心跳☆高中。隐藏剧情触发与否以及其中的任何分支选择结果均不影响之后剧情走向。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt236"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn233",
         "x": 825,
         "y": 1750,
-        "type": "selection",
-        "text": "春原的娱乐书",
-        "css": "btn",
-        "ref": "divTxtBtn233",
-        "num": {
-          "x": 810,
-          "y": 1750,
-          "type": "ccheck",
-          "text": "7",
-          "css": "check",
-          "ref": "divBtn235"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1740,
-          "text": "春原的娱乐书",
-          "num": "7",
-          "summary": "清闲的周末，朋也惯例地来到了春原的房间，以外地发现了一本使春原废寝忘食的书。",
-          "hint": "选择[玩玩看]，进入隐藏剧情心跳☆高中。隐藏剧情触发与否以及其中的任何分支选择结果均不影响之后剧情走向。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt236"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn239",
         "x": 625,
         "y": 1840,
-        "type": "option",
-        "text": "玩玩看",
-        "css": "btn",
-        "ref": "divTxtBtn239"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn233",
         "x": 825,
         "y": 1750,
-        "type": "selection",
-        "text": "春原的娱乐书",
-        "css": "btn",
-        "ref": "divTxtBtn233",
-        "num": {
-          "x": 810,
-          "y": 1750,
-          "type": "ccheck",
-          "text": "7",
-          "css": "check",
-          "ref": "divBtn235"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1740,
-          "text": "春原的娱乐书",
-          "num": "7",
-          "summary": "清闲的周末，朋也惯例地来到了春原的房间，以外地发现了一本使春原废寝忘食的书。",
-          "hint": "选择[玩玩看]，进入隐藏剧情心跳☆高中。隐藏剧情触发与否以及其中的任何分支选择结果均不影响之后剧情走向。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt236"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn245",
         "x": 1025,
         "y": 1840,
-        "type": "option",
-        "text": "找别的漫画看",
-        "css": "btn",
-        "ref": "divTxtBtn245"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn239",
         "x": 625,
         "y": 1840,
-        "type": "option",
-        "text": "玩玩看",
-        "css": "btn",
-        "ref": "divTxtBtn239"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn251",
         "x": 625,
         "y": 1900,
-        "type": "option",
-        "text": "心跳☆高中",
-        "css": "btn",
-        "ref": "divTxtBtn251",
-        "num": {
-          "x": 610,
-          "y": 1900,
-          "type": "ccheck",
-          "text": "8",
-          "css": "check",
-          "ref": "divBtn253"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1890,
-          "text": "心跳☆高中",
-          "num": "8",
-          "summary": "",
-          "hint": "公共线路中期隐藏剧情。发生于20日上午，触发条件与藤林杏、椋线18日及之前选择有关，所有选项均不影响剧情发展。心跳☆高中相关攻略请参见P24。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt254"
-        },
-        "link": "p12_retXTGZ"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn251",
         "x": 625,
         "y": 1900,
-        "type": "option",
-        "text": "心跳☆高中",
-        "css": "btn",
-        "ref": "divTxtBtn251",
-        "num": {
-          "x": 610,
-          "y": 1900,
-          "type": "ccheck",
-          "text": "8",
-          "css": "check",
-          "ref": "divBtn253"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1890,
-          "text": "心跳☆高中",
-          "num": "8",
-          "summary": "",
-          "hint": "公共线路中期隐藏剧情。发生于20日上午，触发条件与藤林杏、椋线18日及之前选择有关，所有选项均不影响剧情发展。心跳☆高中相关攻略请参见P24。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt254"
-        },
-        "link": "p12_retXTGZ"
+        "__type": "textbox"
       },
       {
         "x": 1000,
-        "y": 1990
+        "y": 1990,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 2020
+        "y": 2020,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn245",
         "x": 1025,
         "y": 1840,
-        "type": "option",
-        "text": "找别的漫画看",
-        "css": "btn",
-        "ref": "divTxtBtn245"
+        "__type": "textbox"
       },
       {
         "x": 1000,
-        "y": 1990
+        "y": 1990,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 2020
+        "y": 2020,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn227",
         "x": 1225,
         "y": 1690,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn227"
+        "__type": "textbox"
       },
       {
         "x": 1200,
-        "y": 2020
+        "y": 2020,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn207",
         "x": 25,
         "y": 1690,
-        "type": "option",
-        "text": "问她还可以再来吗",
-        "route": "l|美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn207"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 1780
+        "y": 1780,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 2020
+        "y": 2020,
+        "__type": "point"
       },
       {
         "x": 400,
-        "y": 2020
+        "y": 2020,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn214",
         "x": 425,
         "y": 1690,
-        "type": "option",
-        "text": "不会再来了",
-        "route": "r|美佐枝",
-        "css": "btn",
-        "ref": "divTxtBtn214"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 1780
+        "y": 1780,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 2020
+        "y": 2020,
+        "__type": "point"
       },
       {
         "x": 400,
-        "y": 2020
+        "y": 2020,
+        "__type": "point"
       }
     ],
     [
       {
         "x": 800,
-        "y": 2020
+        "y": 2020,
+        "__type": "point"
       },
       {
         "x": 800,
-        "y": 2020
+        "y": 2020,
+        "__type": "point"
       }
     ]
   ],
@@ -2128,7 +1406,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt5"
+      "ref": "divCmt5",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2145,7 +1424,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt39"
+      "ref": "divCmt39",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2162,7 +1442,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt57"
+      "ref": "divCmt57",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2179,7 +1460,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt63"
+      "ref": "divCmt63",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2196,7 +1478,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt198"
+      "ref": "divCmt198",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2213,7 +1496,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt204"
+      "ref": "divCmt204",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2230,7 +1514,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt236"
+      "ref": "divCmt236",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -2247,7 +1532,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt254"
+      "ref": "divCmt254",
+      "__type": "comment"
     }
   ],
   "header": {
@@ -2260,20 +1546,23 @@
     "dateE": "April 20th",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 2172,
     "page": 12,
-    "ref": "divFt287"
+    "ref": "divFt287",
+    "__type": "footer"
   },
   "board": [
     {
       "x": 0,
       "y": 1410,
-      "height": 660
+      "height": 660,
+      "__type": "board"
     }
   ]
 }

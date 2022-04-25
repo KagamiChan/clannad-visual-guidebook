@@ -8,6 +8,7 @@
         "text": "B",
         "css": "btn",
         "ref": "divTxtBtn1",
+        "__type": "textbox",
         "link": "p17_B"
       },
       {
@@ -17,13 +18,15 @@
         "text": "18日或19日，在资料室认识有纪宁",
         "css": "btn",
         "ref": "divTxtBtn3",
+        "__type": "textbox",
         "num": {
           "x": 810,
           "y": 190,
           "type": "ccheck",
           "text": "5",
           "css": "check",
-          "ref": "divBtn5"
+          "ref": "divBtn5",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -40,7 +43,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt6"
+          "ref": "divCmt6",
+          "__type": "comment"
         }
       }
     ],
@@ -51,7 +55,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn10"
+        "ref": "divTxtBtn10",
+        "__type": "textbox"
       },
       {
         "x": 1125,
@@ -59,7 +64,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn15"
+        "ref": "divTxtBtn15",
+        "__type": "textbox"
       }
     ],
     [
@@ -69,7 +75,8 @@
         "type": "condition",
         "text": "20日，芳野寻求帮手",
         "css": "btn",
-        "ref": "divTxtBtn22"
+        "ref": "divTxtBtn22",
+        "__type": "textbox"
       }
     ],
     [
@@ -80,7 +87,8 @@
         "text": "拒绝",
         "route": "l|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn26"
+        "ref": "divTxtBtn26",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -88,7 +96,8 @@
         "type": "selection",
         "text": "帮忙",
         "css": "btn",
-        "ref": "divTxtBtn31"
+        "ref": "divTxtBtn31",
+        "__type": "textbox"
       }
     ],
     [
@@ -99,13 +108,15 @@
         "text": "春原去见有纪宁，朋也陪同",
         "css": "btn",
         "ref": "divTxtBtn37",
+        "__type": "textbox",
         "num": {
           "x": 510,
           "y": 490,
           "type": "ccheck",
           "text": "6",
           "css": "check",
-          "ref": "divBtn39"
+          "ref": "divBtn39",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -122,7 +133,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt40"
+          "ref": "divCmt40",
+          "__type": "comment"
         }
       }
     ],
@@ -134,7 +146,8 @@
         "text": "去",
         "route": "l|有纪宁",
         "css": "btn",
-        "ref": "divTxtBtn43"
+        "ref": "divTxtBtn43",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -143,7 +156,8 @@
         "text": "不去",
         "route": "r|有纪宁",
         "css": "btn",
-        "ref": "divTxtBtn48"
+        "ref": "divTxtBtn48",
+        "__type": "textbox"
       }
     ],
     [
@@ -154,13 +168,15 @@
         "text": "朋也帮忙选择施展咒语的目标",
         "css": "btn",
         "ref": "divTxtBtn55",
+        "__type": "textbox",
         "num": {
           "x": 510,
           "y": 640,
           "type": "ccheck",
           "text": "7",
           "css": "check",
-          "ref": "divBtn57"
+          "ref": "divBtn57",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -177,7 +193,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt58"
+          "ref": "divCmt58",
+          "__type": "comment"
         }
       }
     ],
@@ -188,7 +205,8 @@
         "type": "option",
         "text": "智代",
         "css": "btn",
-        "ref": "divTxtBtn61"
+        "ref": "divTxtBtn61",
+        "__type": "textbox"
       },
       {
         "x": 525,
@@ -196,7 +214,8 @@
         "type": "option",
         "text": "杏",
         "css": "btn",
-        "ref": "divTxtBtn67"
+        "ref": "divTxtBtn67",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -204,7 +223,8 @@
         "type": "option",
         "text": "椋",
         "css": "btn",
-        "ref": "divTxtBtn71"
+        "ref": "divTxtBtn71",
+        "__type": "textbox"
       }
     ],
     [
@@ -215,6 +235,7 @@
         "text": "C",
         "css": "btn",
         "ref": "divTxtBtn104",
+        "__type": "textbox",
         "link": "p17_C"
       },
       {
@@ -223,7 +244,8 @@
         "type": "condition",
         "text": "18日，独自雕刻的风子",
         "css": "btn",
-        "ref": "divTxtBtn106"
+        "ref": "divTxtBtn106",
+        "__type": "textbox"
       }
     ],
     [
@@ -233,7 +255,8 @@
         "type": "selection",
         "text": "再看一会儿",
         "css": "btn",
-        "ref": "divTxtBtn111"
+        "ref": "divTxtBtn111",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -242,7 +265,8 @@
         "text": "离开",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn117"
+        "ref": "divTxtBtn117",
+        "__type": "textbox"
       }
     ],
     [
@@ -253,6 +277,7 @@
         "text": "风子大师（二）",
         "css": "btn",
         "ref": "divTxtBtn124",
+        "__type": "textbox",
         "link": "p17_retKFMT2"
       }
     ],
@@ -263,7 +288,8 @@
         "type": "selection",
         "text": "处理风子硬塞给的雕刻",
         "css": "btn",
-        "ref": "divTxtBtn128"
+        "ref": "divTxtBtn128",
+        "__type": "textbox"
       }
     ],
     [
@@ -273,7 +299,8 @@
         "type": "option",
         "text": "把它丢掉",
         "css": "btn",
-        "ref": "divTxtBtn132"
+        "ref": "divTxtBtn132",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -281,7 +308,8 @@
         "type": "option",
         "text": "带回家去",
         "css": "btn",
-        "ref": "divTxtBtn138"
+        "ref": "divTxtBtn138",
+        "__type": "textbox"
       }
     ],
     [
@@ -292,13 +320,15 @@
         "text": "胜平线进入或渚、风子线进入",
         "css": "btn",
         "ref": "divTxtBtn144",
+        "__type": "textbox",
         "num": {
           "x": 710,
           "y": 1360,
           "type": "ccheck",
           "text": "8",
           "css": "check",
-          "ref": "divBtn146"
+          "ref": "divBtn146",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -315,7 +345,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt147"
+          "ref": "divCmt147",
+          "__type": "comment"
         }
       }
     ],
@@ -326,7 +357,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn164"
+        "ref": "divTxtBtn164",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -334,7 +366,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn170"
+        "ref": "divTxtBtn170",
+        "__type": "textbox"
       }
     ],
     [
@@ -344,7 +377,8 @@
         "type": "selection",
         "text": "春原求朋也帮忙装备寝室",
         "css": "btn",
-        "ref": "divTxtBtn176"
+        "ref": "divTxtBtn176",
+        "__type": "textbox"
       }
     ],
     [
@@ -355,7 +389,8 @@
         "text": "不帮忙",
         "route": "l|胜平",
         "css": "btn",
-        "ref": "divTxtBtn180"
+        "ref": "divTxtBtn180",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -364,7 +399,8 @@
         "text": "帮忙",
         "route": "r|胜平",
         "css": "btn",
-        "ref": "divTxtBtn187"
+        "ref": "divTxtBtn187",
+        "__type": "textbox"
       }
     ]
   ],
@@ -372,1012 +408,581 @@
     [
       {
         "x": 1000,
-        "y": 175
+        "y": 175,
+        "__type": "point"
       },
       {
         "x": 1000,
-        "y": 175
+        "y": 175,
+        "__type": "point"
       }
     ],
     [
       {
         "x": 900,
-        "y": 250
+        "y": 250,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn10",
         "x": 525,
         "y": 280,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn10"
+        "__type": "textbox"
       }
     ],
     [
       {
         "x": 900,
-        "y": 250
+        "y": 250,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn15",
         "x": 1125,
         "y": 280,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn15"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn3",
         "x": 825,
         "y": 190,
-        "type": "condition",
-        "text": "18日或19日，在资料室认识有纪宁",
-        "css": "btn",
-        "ref": "divTxtBtn3",
-        "num": {
-          "x": 810,
-          "y": 190,
-          "type": "ccheck",
-          "text": "5",
-          "css": "check",
-          "ref": "divBtn5"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 180,
-          "text": "18日或19日，在资料室认识有纪宁",
-          "num": "5",
-          "summary": "",
-          "hint": "{18日或19日，在资料室认识有纪宁}包括18日，在分支{逃课选择睡觉的地方}选择[到那里去睡]，并且在接下来的分支{下课后，走进资料室的女孩}选择[再说几句话]；或者，18日在分支{逃课选择睡觉的地方}选择[还是回教室吧]或者未触发这个分支，并且在19日的分支{来到旧校舍后的去向（一）}选择[去资料室]，以及在接下来的分支{下课后，走进资料室的女孩}选择[再说几句话]。两种情况均满足认识有纪宁的条件，但只可能遇到其中一种。（同公共线路21日注释2{有纪宁线进入}的相关内容）",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt6"
-        }
+        "__type": "textbox"
       },
       {
         "x": 1000,
-        "y": 250
+        "y": 250,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn10",
         "x": 525,
         "y": 280,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn10"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn22",
         "x": 525,
         "y": 340,
-        "type": "condition",
-        "text": "20日，芳野寻求帮手",
-        "css": "btn",
-        "ref": "divTxtBtn22"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn22",
         "x": 525,
         "y": 340,
-        "type": "condition",
-        "text": "20日，芳野寻求帮手",
-        "css": "btn",
-        "ref": "divTxtBtn22"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn26",
         "x": 525,
         "y": 430,
-        "type": "selection",
-        "text": "拒绝",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn26"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn22",
         "x": 525,
         "y": 340,
-        "type": "condition",
-        "text": "20日，芳野寻求帮手",
-        "css": "btn",
-        "ref": "divTxtBtn22"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn31",
         "x": 925,
         "y": 430,
-        "type": "selection",
-        "text": "帮忙",
-        "css": "btn",
-        "ref": "divTxtBtn31"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn26",
         "x": 525,
         "y": 430,
-        "type": "selection",
-        "text": "拒绝",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn26"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn37",
         "x": 525,
         "y": 490,
-        "type": "selection",
-        "text": "春原去见有纪宁，朋也陪同",
-        "css": "btn",
-        "ref": "divTxtBtn37",
-        "num": {
-          "x": 510,
-          "y": 490,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn39"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 480,
-          "text": "春原去见有纪宁，朋也陪同",
-          "num": "6",
-          "summary": "在午饭后，春原决定前去资料室见有纪宁，让朋也一起前往。",
-          "hint": "若20日，在分支{芳野寻求帮手}中选择了[拒绝]或者未触发这个分支，并且21日在分支{迟到后的午间}选择[赶去学生食堂]或者未触发这个分支，则昨日会有一段没有分支的有纪宁剧情。若不满足上述条件，那么昨日不发生有纪宁剧情，今日这段有分支的有纪宁剧情将被昨日的剧情所替代。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt40"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn37",
         "x": 525,
         "y": 490,
-        "type": "selection",
-        "text": "春原去见有纪宁，朋也陪同",
-        "css": "btn",
-        "ref": "divTxtBtn37",
-        "num": {
-          "x": 510,
-          "y": 490,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn39"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 480,
-          "text": "春原去见有纪宁，朋也陪同",
-          "num": "6",
-          "summary": "在午饭后，春原决定前去资料室见有纪宁，让朋也一起前往。",
-          "hint": "若20日，在分支{芳野寻求帮手}中选择了[拒绝]或者未触发这个分支，并且21日在分支{迟到后的午间}选择[赶去学生食堂]或者未触发这个分支，则昨日会有一段没有分支的有纪宁剧情。若不满足上述条件，那么昨日不发生有纪宁剧情，今日这段有分支的有纪宁剧情将被昨日的剧情所替代。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt40"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn43",
         "x": 525,
         "y": 580,
-        "type": "option",
-        "text": "去",
-        "route": "l|有纪宁",
-        "css": "btn",
-        "ref": "divTxtBtn43"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn37",
         "x": 525,
         "y": 490,
-        "type": "selection",
-        "text": "春原去见有纪宁，朋也陪同",
-        "css": "btn",
-        "ref": "divTxtBtn37",
-        "num": {
-          "x": 510,
-          "y": 490,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn39"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 480,
-          "text": "春原去见有纪宁，朋也陪同",
-          "num": "6",
-          "summary": "在午饭后，春原决定前去资料室见有纪宁，让朋也一起前往。",
-          "hint": "若20日，在分支{芳野寻求帮手}中选择了[拒绝]或者未触发这个分支，并且21日在分支{迟到后的午间}选择[赶去学生食堂]或者未触发这个分支，则昨日会有一段没有分支的有纪宁剧情。若不满足上述条件，那么昨日不发生有纪宁剧情，今日这段有分支的有纪宁剧情将被昨日的剧情所替代。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt40"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn48",
         "x": 925,
         "y": 580,
-        "type": "option",
-        "text": "不去",
-        "route": "r|有纪宁",
-        "css": "btn",
-        "ref": "divTxtBtn48"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn43",
         "x": 525,
         "y": 580,
-        "type": "option",
-        "text": "去",
-        "route": "l|有纪宁",
-        "css": "btn",
-        "ref": "divTxtBtn43"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn55",
         "x": 525,
         "y": 640,
-        "type": "selection",
-        "text": "朋也帮忙选择施展咒语的目标",
-        "css": "btn",
-        "ref": "divTxtBtn55",
-        "num": {
-          "x": 510,
-          "y": 640,
-          "type": "ccheck",
-          "text": "7",
-          "css": "check",
-          "ref": "divBtn57"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 630,
-          "text": "朋也帮忙选择施展咒语的目标",
-          "num": "7",
-          "summary": "有纪宁向春原推荐了条能够让女孩迷上自己的咒语，春原马上决定试一试，朋也帮他选择目标。",
-          "hint": "当且仅当认识智代时（即在16日分支{春原挑战智代（一回目）}选择[去]），选项[智代]才会出现，否则为[杏]、[椋]二项选择。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt58"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn55",
         "x": 525,
         "y": 640,
-        "type": "selection",
-        "text": "朋也帮忙选择施展咒语的目标",
-        "css": "btn",
-        "ref": "divTxtBtn55",
-        "num": {
-          "x": 510,
-          "y": 640,
-          "type": "ccheck",
-          "text": "7",
-          "css": "check",
-          "ref": "divBtn57"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 630,
-          "text": "朋也帮忙选择施展咒语的目标",
-          "num": "7",
-          "summary": "有纪宁向春原推荐了条能够让女孩迷上自己的咒语，春原马上决定试一试，朋也帮他选择目标。",
-          "hint": "当且仅当认识智代时（即在16日分支{春原挑战智代（一回目）}选择[去]），选项[智代]才会出现，否则为[杏]、[椋]二项选择。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt58"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn61",
         "x": 125,
         "y": 730,
-        "type": "option",
-        "text": "智代",
-        "css": "btn",
-        "ref": "divTxtBtn61"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn55",
         "x": 525,
         "y": 640,
-        "type": "selection",
-        "text": "朋也帮忙选择施展咒语的目标",
-        "css": "btn",
-        "ref": "divTxtBtn55",
-        "num": {
-          "x": 510,
-          "y": 640,
-          "type": "ccheck",
-          "text": "7",
-          "css": "check",
-          "ref": "divBtn57"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 630,
-          "text": "朋也帮忙选择施展咒语的目标",
-          "num": "7",
-          "summary": "有纪宁向春原推荐了条能够让女孩迷上自己的咒语，春原马上决定试一试，朋也帮他选择目标。",
-          "hint": "当且仅当认识智代时（即在16日分支{春原挑战智代（一回目）}选择[去]），选项[智代]才会出现，否则为[杏]、[椋]二项选择。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt58"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn67",
         "x": 525,
         "y": 730,
-        "type": "option",
-        "text": "杏",
-        "css": "btn",
-        "ref": "divTxtBtn67"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn55",
         "x": 525,
         "y": 640,
-        "type": "selection",
-        "text": "朋也帮忙选择施展咒语的目标",
-        "css": "btn",
-        "ref": "divTxtBtn55",
-        "num": {
-          "x": 510,
-          "y": 640,
-          "type": "ccheck",
-          "text": "7",
-          "css": "check",
-          "ref": "divBtn57"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 630,
-          "text": "朋也帮忙选择施展咒语的目标",
-          "num": "7",
-          "summary": "有纪宁向春原推荐了条能够让女孩迷上自己的咒语，春原马上决定试一试，朋也帮他选择目标。",
-          "hint": "当且仅当认识智代时（即在16日分支{春原挑战智代（一回目）}选择[去]），选项[智代]才会出现，否则为[杏]、[椋]二项选择。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt58"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn71",
         "x": 925,
         "y": 730,
-        "type": "option",
-        "text": "椋",
-        "css": "btn",
-        "ref": "divTxtBtn71"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn61",
         "x": 125,
         "y": 730,
-        "type": "option",
-        "text": "智代",
-        "css": "btn",
-        "ref": "divTxtBtn61"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 820
+        "y": 820,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn67",
         "x": 525,
         "y": 730,
-        "type": "option",
-        "text": "杏",
-        "css": "btn",
-        "ref": "divTxtBtn67"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 820
+        "y": 820,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn71",
         "x": 925,
         "y": 730,
-        "type": "option",
-        "text": "椋",
-        "css": "btn",
-        "ref": "divTxtBtn71"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 820
+        "y": 820,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn48",
         "x": 925,
         "y": 580,
-        "type": "option",
-        "text": "不去",
-        "route": "r|有纪宁",
-        "css": "btn",
-        "ref": "divTxtBtn48"
+        "__type": "textbox"
       },
       {
         "x": 1300,
-        "y": 670
+        "y": 670,
+        "__type": "point"
       },
       {
         "x": 700,
-        "y": 820
+        "y": 820,
+        "__type": "point"
       },
       {
         "x": 1300,
-        "y": 820
+        "y": 820,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn31",
         "x": 925,
         "y": 430,
-        "type": "selection",
-        "text": "帮忙",
-        "css": "btn",
-        "ref": "divTxtBtn31"
+        "__type": "textbox"
       },
       {
         "x": 1300,
-        "y": 520
+        "y": 520,
+        "__type": "point"
       },
       {
         "x": 700,
-        "y": 820
+        "y": 820,
+        "__type": "point"
       },
       {
         "x": 1300,
-        "y": 820
+        "y": 820,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn15",
         "x": 1125,
         "y": 280,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn15"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 820
+        "y": 820,
+        "__type": "point"
       },
       {
         "x": 1300,
-        "y": 820
+        "y": 820,
+        "__type": "point"
       }
     ],
     [
       {
         "x": 1000,
-        "y": 820
+        "y": 820,
+        "__type": "point"
       },
       {
         "x": 1000,
-        "y": 820
+        "y": 820,
+        "__type": "point"
       }
     ],
     [
       {
         "x": 900,
-        "y": 925
+        "y": 925,
+        "__type": "point"
       },
       {
         "x": 900,
-        "y": 925
+        "y": 925,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn106",
         "x": 725,
         "y": 940,
-        "type": "condition",
-        "text": "18日，独自雕刻的风子",
-        "css": "btn",
-        "ref": "divTxtBtn106"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn111",
         "x": 525,
         "y": 1030,
-        "type": "selection",
-        "text": "再看一会儿",
-        "css": "btn",
-        "ref": "divTxtBtn111"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn106",
         "x": 725,
         "y": 940,
-        "type": "condition",
-        "text": "18日，独自雕刻的风子",
-        "css": "btn",
-        "ref": "divTxtBtn106"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn117",
         "x": 925,
         "y": 1030,
-        "type": "selection",
-        "text": "离开",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn117"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn111",
         "x": 525,
         "y": 1030,
-        "type": "selection",
-        "text": "再看一会儿",
-        "css": "btn",
-        "ref": "divTxtBtn111"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn124",
         "x": 525,
         "y": 1090,
-        "type": "option",
-        "text": "风子大师（二）",
-        "css": "btn",
-        "ref": "divTxtBtn124",
-        "link": "p17_retKFMT2"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn124",
         "x": 525,
         "y": 1090,
-        "type": "option",
-        "text": "风子大师（二）",
-        "css": "btn",
-        "ref": "divTxtBtn124",
-        "link": "p17_retKFMT2"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn128",
         "x": 525,
         "y": 1150,
-        "type": "selection",
-        "text": "处理风子硬塞给的雕刻",
-        "css": "btn",
-        "ref": "divTxtBtn128"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn128",
         "x": 525,
         "y": 1150,
-        "type": "selection",
-        "text": "处理风子硬塞给的雕刻",
-        "css": "btn",
-        "ref": "divTxtBtn128"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn132",
         "x": 325,
         "y": 1240,
-        "type": "option",
-        "text": "把它丢掉",
-        "css": "btn",
-        "ref": "divTxtBtn132"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn128",
         "x": 525,
         "y": 1150,
-        "type": "selection",
-        "text": "处理风子硬塞给的雕刻",
-        "css": "btn",
-        "ref": "divTxtBtn128"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn138",
         "x": 725,
         "y": 1240,
-        "type": "option",
-        "text": "带回家去",
-        "css": "btn",
-        "ref": "divTxtBtn138"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn132",
         "x": 325,
         "y": 1240,
-        "type": "option",
-        "text": "把它丢掉",
-        "css": "btn",
-        "ref": "divTxtBtn132"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 1330
+        "y": 1330,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn144",
         "x": 725,
         "y": 1360,
-        "type": "condition",
-        "text": "胜平线进入或渚、风子线进入",
-        "css": "btn",
-        "ref": "divTxtBtn144",
-        "num": {
-          "x": 710,
-          "y": 1360,
-          "type": "ccheck",
-          "text": "8",
-          "css": "check",
-          "ref": "divBtn146"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1350,
-          "text": "胜平线进入或渚、风子线进入",
-          "num": "8",
-          "summary": "",
-          "hint": "此处{胜平线进入}即21日，在分支{受害者遗忘的简历}选择[查清地址后送给他]，并且在今日上午的分支{课前，牡丹的处理问题}选择[把牡丹丢还给杏]或者未触发这个分支。没有选择相应选项或者没有触发前一分支的情况均属于否；前一分支选择正确但没有触发后一分支的情况属于是。<br>{渚、风子线进入}即21日，在分支{迟到后的午间}选择[看看窗外]。没有选择相应选项或者没有触发分支的情况均属于否。<br>当进入渚、风子线时，无论作何选择，都不能最终达成胜平线GOOD ENDING。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt147"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn138",
         "x": 725,
         "y": 1240,
-        "type": "option",
-        "text": "带回家去",
-        "css": "btn",
-        "ref": "divTxtBtn138"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 1330
+        "y": 1330,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn144",
         "x": 725,
         "y": 1360,
-        "type": "condition",
-        "text": "胜平线进入或渚、风子线进入",
-        "css": "btn",
-        "ref": "divTxtBtn144",
-        "num": {
-          "x": 710,
-          "y": 1360,
-          "type": "ccheck",
-          "text": "8",
-          "css": "check",
-          "ref": "divBtn146"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1350,
-          "text": "胜平线进入或渚、风子线进入",
-          "num": "8",
-          "summary": "",
-          "hint": "此处{胜平线进入}即21日，在分支{受害者遗忘的简历}选择[查清地址后送给他]，并且在今日上午的分支{课前，牡丹的处理问题}选择[把牡丹丢还给杏]或者未触发这个分支。没有选择相应选项或者没有触发前一分支的情况均属于否；前一分支选择正确但没有触发后一分支的情况属于是。<br>{渚、风子线进入}即21日，在分支{迟到后的午间}选择[看看窗外]。没有选择相应选项或者没有触发分支的情况均属于否。<br>当进入渚、风子线时，无论作何选择，都不能最终达成胜平线GOOD ENDING。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt147"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn117",
         "x": 925,
         "y": 1030,
-        "type": "selection",
-        "text": "离开",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn117"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn144",
         "x": 725,
         "y": 1360,
-        "type": "condition",
-        "text": "胜平线进入或渚、风子线进入",
-        "css": "btn",
-        "ref": "divTxtBtn144",
-        "num": {
-          "x": 710,
-          "y": 1360,
-          "type": "ccheck",
-          "text": "8",
-          "css": "check",
-          "ref": "divBtn146"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1350,
-          "text": "胜平线进入或渚、风子线进入",
-          "num": "8",
-          "summary": "",
-          "hint": "此处{胜平线进入}即21日，在分支{受害者遗忘的简历}选择[查清地址后送给他]，并且在今日上午的分支{课前，牡丹的处理问题}选择[把牡丹丢还给杏]或者未触发这个分支。没有选择相应选项或者没有触发前一分支的情况均属于否；前一分支选择正确但没有触发后一分支的情况属于是。<br>{渚、风子线进入}即21日，在分支{迟到后的午间}选择[看看窗外]。没有选择相应选项或者没有触发分支的情况均属于否。<br>当进入渚、风子线时，无论作何选择，都不能最终达成胜平线GOOD ENDING。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt147"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn144",
         "x": 725,
         "y": 1360,
-        "type": "condition",
-        "text": "胜平线进入或渚、风子线进入",
-        "css": "btn",
-        "ref": "divTxtBtn144",
-        "num": {
-          "x": 710,
-          "y": 1360,
-          "type": "ccheck",
-          "text": "8",
-          "css": "check",
-          "ref": "divBtn146"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1350,
-          "text": "胜平线进入或渚、风子线进入",
-          "num": "8",
-          "summary": "",
-          "hint": "此处{胜平线进入}即21日，在分支{受害者遗忘的简历}选择[查清地址后送给他]，并且在今日上午的分支{课前，牡丹的处理问题}选择[把牡丹丢还给杏]或者未触发这个分支。没有选择相应选项或者没有触发前一分支的情况均属于否；前一分支选择正确但没有触发后一分支的情况属于是。<br>{渚、风子线进入}即21日，在分支{迟到后的午间}选择[看看窗外]。没有选择相应选项或者没有触发分支的情况均属于否。<br>当进入渚、风子线时，无论作何选择，都不能最终达成胜平线GOOD ENDING。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt147"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn164",
         "x": 525,
         "y": 1450,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn164"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn144",
         "x": 725,
         "y": 1360,
-        "type": "condition",
-        "text": "胜平线进入或渚、风子线进入",
-        "css": "btn",
-        "ref": "divTxtBtn144",
-        "num": {
-          "x": 710,
-          "y": 1360,
-          "type": "ccheck",
-          "text": "8",
-          "css": "check",
-          "ref": "divBtn146"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1350,
-          "text": "胜平线进入或渚、风子线进入",
-          "num": "8",
-          "summary": "",
-          "hint": "此处{胜平线进入}即21日，在分支{受害者遗忘的简历}选择[查清地址后送给他]，并且在今日上午的分支{课前，牡丹的处理问题}选择[把牡丹丢还给杏]或者未触发这个分支。没有选择相应选项或者没有触发前一分支的情况均属于否；前一分支选择正确但没有触发后一分支的情况属于是。<br>{渚、风子线进入}即21日，在分支{迟到后的午间}选择[看看窗外]。没有选择相应选项或者没有触发分支的情况均属于否。<br>当进入渚、风子线时，无论作何选择，都不能最终达成胜平线GOOD ENDING。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt147"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn170",
         "x": 925,
         "y": 1450,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn170"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn164",
         "x": 525,
         "y": 1450,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn164"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn176",
         "x": 525,
         "y": 1510,
-        "type": "selection",
-        "text": "春原求朋也帮忙装备寝室",
-        "css": "btn",
-        "ref": "divTxtBtn176"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn176",
         "x": 525,
         "y": 1510,
-        "type": "selection",
-        "text": "春原求朋也帮忙装备寝室",
-        "css": "btn",
-        "ref": "divTxtBtn176"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn180",
         "x": 325,
         "y": 1600,
-        "type": "selection",
-        "text": "不帮忙",
-        "route": "l|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn180"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn176",
         "x": 525,
         "y": 1510,
-        "type": "selection",
-        "text": "春原求朋也帮忙装备寝室",
-        "css": "btn",
-        "ref": "divTxtBtn176"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn187",
         "x": 725,
         "y": 1600,
-        "type": "selection",
-        "text": "帮忙",
-        "route": "r|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn187"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn180",
         "x": 325,
         "y": 1600,
-        "type": "selection",
-        "text": "不帮忙",
-        "route": "l|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn180"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 1690
+        "y": 1690,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn187",
         "x": 725,
         "y": 1600,
-        "type": "selection",
-        "text": "帮忙",
-        "route": "r|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn187"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 1690
+        "y": 1690,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn170",
         "x": 925,
         "y": 1450,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn170"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 1690
+        "y": 1690,
+        "__type": "point"
       },
       {
         "x": 1100,
-        "y": 1690
+        "y": 1690,
+        "__type": "point"
       }
     ],
     [
       {
         "x": 900,
-        "y": 1690
+        "y": 1690,
+        "__type": "point"
       },
       {
         "x": 900,
-        "y": 1690
+        "y": 1690,
+        "__type": "point"
       }
     ]
   ],
@@ -1397,7 +1002,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt6"
+      "ref": "divCmt6",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -1414,7 +1020,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt40"
+      "ref": "divCmt40",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -1431,7 +1038,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt58"
+      "ref": "divCmt58",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -1448,7 +1056,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt147"
+      "ref": "divCmt147",
+      "__type": "comment"
     }
   ],
   "header": {
@@ -1461,25 +1070,29 @@
     "dateE": "April 22nd~Part 3",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 1630,
     "page": 17,
-    "ref": "divFt207"
+    "ref": "divFt207",
+    "__type": "footer"
   },
   "board": [
     {
       "x": 0,
       "y": 150,
-      "height": 720
+      "height": 720,
+      "__type": "board"
     },
     {
       "x": 0,
       "y": 900,
-      "height": 840
+      "height": 840,
+      "__type": "board"
     }
   ]
 }

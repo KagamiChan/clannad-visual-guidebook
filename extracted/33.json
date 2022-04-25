@@ -8,6 +8,7 @@
         "text": "体育仓库事件",
         "css": "btn",
         "ref": "divTxtBtn1",
+        "__type": "textbox",
         "link": "p33_GYM"
       },
       {
@@ -16,7 +17,8 @@
         "type": "selection",
         "text": "堆硬币的考验",
         "css": "btn",
-        "ref": "divTxtBtn3"
+        "ref": "divTxtBtn3",
+        "__type": "textbox"
       }
     ],
     [
@@ -26,7 +28,8 @@
         "type": "option",
         "text": "试试看",
         "css": "btn",
-        "ref": "divTxtBtn7"
+        "ref": "divTxtBtn7",
+        "__type": "textbox"
       },
       {
         "x": 1125,
@@ -34,7 +37,8 @@
         "type": "option",
         "text": "给春原",
         "css": "btn",
-        "ref": "divTxtBtn11"
+        "ref": "divTxtBtn11",
+        "__type": "textbox"
       }
     ],
     [
@@ -44,7 +48,8 @@
         "type": "condition",
         "text": "15日，回想起中午庭院中的女生",
         "css": "btn",
-        "ref": "divTxtBtn17"
+        "ref": "divTxtBtn17",
+        "__type": "textbox"
       },
       {
         "x": 1125,
@@ -52,7 +57,8 @@
         "type": "condition",
         "text": "春原仓库剧情 A",
         "css": "btn",
-        "ref": "divTxtBtn21"
+        "ref": "divTxtBtn21",
+        "__type": "textbox"
       }
     ],
     [
@@ -62,7 +68,8 @@
         "type": "selection",
         "text": "在意",
         "css": "btn",
-        "ref": "divTxtBtn25"
+        "ref": "divTxtBtn25",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -71,7 +78,8 @@
         "text": "不在意",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn31"
+        "ref": "divTxtBtn31",
+        "__type": "textbox"
       }
     ],
     [
@@ -81,7 +89,8 @@
         "type": "selection",
         "text": "陪伴的人选（一）",
         "css": "btn",
-        "ref": "divTxtBtn38"
+        "ref": "divTxtBtn38",
+        "__type": "textbox"
       }
     ],
     [
@@ -91,7 +100,8 @@
         "type": "option",
         "text": "古河…",
         "css": "btn",
-        "ref": "divTxtBtn42"
+        "ref": "divTxtBtn42",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -99,7 +109,8 @@
         "type": "option",
         "text": "不是古河…",
         "css": "btn",
-        "ref": "divTxtBtn48"
+        "ref": "divTxtBtn48",
+        "__type": "textbox"
       }
     ],
     [
@@ -110,13 +121,15 @@
         "text": "23日，咒语游戏中遇到渚",
         "css": "btn",
         "ref": "divTxtBtn54",
+        "__type": "textbox",
         "num": {
           "x": 310,
           "y": 640,
           "type": "ccheck",
           "text": "1",
           "css": "check",
-          "ref": "divBtn56"
+          "ref": "divBtn56",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -133,7 +146,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt57"
+          "ref": "divCmt57",
+          "__type": "comment"
         }
       }
     ],
@@ -144,7 +158,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn60"
+        "ref": "divTxtBtn60",
+        "__type": "textbox"
       },
       {
         "x": 525,
@@ -152,7 +167,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn66"
+        "ref": "divTxtBtn66",
+        "__type": "textbox"
       }
     ],
     [
@@ -162,7 +178,8 @@
         "type": "condition",
         "text": "渚仓库剧情",
         "css": "btn",
-        "ref": "divTxtBtn72"
+        "ref": "divTxtBtn72",
+        "__type": "textbox"
       },
       {
         "x": 525,
@@ -170,7 +187,8 @@
         "type": "condition",
         "text": "秋生仓库剧情",
         "css": "btn",
-        "ref": "divTxtBtn76"
+        "ref": "divTxtBtn76",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -178,7 +196,8 @@
         "type": "condition",
         "text": "18日，独自雕刻的风子",
         "css": "btn",
-        "ref": "divTxtBtn80"
+        "ref": "divTxtBtn80",
+        "__type": "textbox"
       }
     ],
     [
@@ -189,7 +208,8 @@
         "text": "离开",
         "route": "l|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn89"
+        "ref": "divTxtBtn89",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -197,7 +217,8 @@
         "type": "selection",
         "text": "再看一会儿",
         "css": "btn",
-        "ref": "divTxtBtn96"
+        "ref": "divTxtBtn96",
+        "__type": "textbox"
       }
     ],
     [
@@ -207,7 +228,8 @@
         "type": "selection",
         "text": "陪伴的人选（二）",
         "css": "btn",
-        "ref": "divTxtBtn100"
+        "ref": "divTxtBtn100",
+        "__type": "textbox"
       }
     ],
     [
@@ -217,7 +239,8 @@
         "type": "option",
         "text": "不是…",
         "css": "btn",
-        "ref": "divTxtBtn104"
+        "ref": "divTxtBtn104",
+        "__type": "textbox"
       },
       {
         "x": 1125,
@@ -225,7 +248,8 @@
         "type": "option",
         "text": "风子…",
         "css": "btn",
-        "ref": "divTxtBtn110"
+        "ref": "divTxtBtn110",
+        "__type": "textbox"
       }
     ],
     [
@@ -235,7 +259,8 @@
         "type": "condition",
         "text": "18日，遇到困难的智代",
         "css": "btn",
-        "ref": "divTxtBtn116"
+        "ref": "divTxtBtn116",
+        "__type": "textbox"
       }
     ],
     [
@@ -246,7 +271,8 @@
         "text": "甩开她的手",
         "route": "l|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn124"
+        "ref": "divTxtBtn124",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -254,7 +280,8 @@
         "type": "selection",
         "text": "帮忙",
         "css": "btn",
-        "ref": "divTxtBtn131"
+        "ref": "divTxtBtn131",
+        "__type": "textbox"
       }
     ],
     [
@@ -264,7 +291,8 @@
         "type": "selection",
         "text": "陪伴的人选（三）",
         "css": "btn",
-        "ref": "divTxtBtn137"
+        "ref": "divTxtBtn137",
+        "__type": "textbox"
       }
     ],
     [
@@ -274,7 +302,8 @@
         "type": "option",
         "text": "不是…",
         "css": "btn",
-        "ref": "divTxtBtn141"
+        "ref": "divTxtBtn141",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -282,7 +311,8 @@
         "type": "option",
         "text": "智代…",
         "css": "btn",
-        "ref": "divTxtBtn147"
+        "ref": "divTxtBtn147",
+        "__type": "textbox"
       }
     ],
     [
@@ -292,7 +322,8 @@
         "type": "condition",
         "text": "23日，诅咒游戏中遇到智代",
         "css": "btn",
-        "ref": "divTxtBtn153"
+        "ref": "divTxtBtn153",
+        "__type": "textbox"
       }
     ],
     [
@@ -302,7 +333,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn157"
+        "ref": "divTxtBtn157",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -310,7 +342,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn163"
+        "ref": "divTxtBtn163",
+        "__type": "textbox"
       }
     ],
     [
@@ -320,7 +353,8 @@
         "type": "condition",
         "text": "智代仓库剧情",
         "css": "btn",
-        "ref": "divTxtBtn167"
+        "ref": "divTxtBtn167",
+        "__type": "textbox"
       }
     ],
     [
@@ -330,7 +364,8 @@
         "type": "selection",
         "text": "陪伴的人选（四）",
         "css": "btn",
-        "ref": "divTxtBtn171"
+        "ref": "divTxtBtn171",
+        "__type": "textbox"
       }
     ],
     [
@@ -340,7 +375,8 @@
         "type": "option",
         "text": "杏…",
         "css": "btn",
-        "ref": "divTxtBtn180"
+        "ref": "divTxtBtn180",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -348,7 +384,8 @@
         "type": "option",
         "text": "不是…",
         "css": "btn",
-        "ref": "divTxtBtn184"
+        "ref": "divTxtBtn184",
+        "__type": "textbox"
       }
     ],
     [
@@ -358,7 +395,8 @@
         "type": "condition",
         "text": "23日，诅咒游戏中遇到杏、椋",
         "css": "btn",
-        "ref": "divTxtBtn190"
+        "ref": "divTxtBtn190",
+        "__type": "textbox"
       }
     ],
     [
@@ -368,7 +406,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn194"
+        "ref": "divTxtBtn194",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -376,7 +415,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn198"
+        "ref": "divTxtBtn198",
+        "__type": "textbox"
       }
     ],
     [
@@ -386,7 +426,8 @@
         "type": "condition",
         "text": "23日，杏抓朋也跟她出去谈话",
         "css": "btn",
-        "ref": "divTxtBtn204"
+        "ref": "divTxtBtn204",
+        "__type": "textbox"
       }
     ],
     [
@@ -396,7 +437,8 @@
         "type": "condition",
         "text": "春原仓库剧情 B",
         "css": "btn",
-        "ref": "divTxtBtn208"
+        "ref": "divTxtBtn208",
+        "__type": "textbox"
       }
     ],
     [
@@ -407,7 +449,8 @@
         "text": "逃跑",
         "route": "l|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn226"
+        "ref": "divTxtBtn226",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -415,7 +458,8 @@
         "type": "selection",
         "text": "跟着去",
         "css": "btn",
-        "ref": "divTxtBtn231"
+        "ref": "divTxtBtn231",
+        "__type": "textbox"
       }
     ],
     [
@@ -425,7 +469,8 @@
         "type": "condition",
         "text": "杏仓库剧情 A（普通版）",
         "css": "btn",
-        "ref": "divTxtBtn237"
+        "ref": "divTxtBtn237",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -433,7 +478,8 @@
         "type": "condition",
         "text": "杏仓库剧情 B（特殊版）",
         "css": "btn",
-        "ref": "divTxtBtn241"
+        "ref": "divTxtBtn241",
+        "__type": "textbox"
       }
     ]
   ],
@@ -441,974 +487,705 @@
     [
       {
         "x": 900,
-        "y": 175
+        "y": 175,
+        "__type": "point"
       },
       {
         "x": 900,
-        "y": 175
+        "y": 175,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn3",
         "x": 725,
         "y": 190,
-        "type": "selection",
-        "text": "堆硬币的考验",
-        "css": "btn",
-        "ref": "divTxtBtn3"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn7",
         "x": 725,
         "y": 280,
-        "type": "option",
-        "text": "试试看",
-        "css": "btn",
-        "ref": "divTxtBtn7"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn3",
         "x": 725,
         "y": 190,
-        "type": "selection",
-        "text": "堆硬币的考验",
-        "css": "btn",
-        "ref": "divTxtBtn3"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn11",
         "x": 1125,
         "y": 280,
-        "type": "option",
-        "text": "给春原",
-        "css": "btn",
-        "ref": "divTxtBtn11"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn7",
         "x": 725,
         "y": 280,
-        "type": "option",
-        "text": "试试看",
-        "css": "btn",
-        "ref": "divTxtBtn7"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn17",
         "x": 725,
         "y": 340,
-        "type": "condition",
-        "text": "15日，回想起中午庭院中的女生",
-        "css": "btn",
-        "ref": "divTxtBtn17"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn11",
         "x": 1125,
         "y": 280,
-        "type": "option",
-        "text": "给春原",
-        "css": "btn",
-        "ref": "divTxtBtn11"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn21",
         "x": 1125,
         "y": 340,
-        "type": "condition",
-        "text": "春原仓库剧情 A",
-        "css": "btn",
-        "ref": "divTxtBtn21"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn17",
         "x": 725,
         "y": 340,
-        "type": "condition",
-        "text": "15日，回想起中午庭院中的女生",
-        "css": "btn",
-        "ref": "divTxtBtn17"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn25",
         "x": 525,
         "y": 430,
-        "type": "selection",
-        "text": "在意",
-        "css": "btn",
-        "ref": "divTxtBtn25"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn17",
         "x": 725,
         "y": 340,
-        "type": "condition",
-        "text": "15日，回想起中午庭院中的女生",
-        "css": "btn",
-        "ref": "divTxtBtn17"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn31",
         "x": 925,
         "y": 430,
-        "type": "selection",
-        "text": "不在意",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn31"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn25",
         "x": 525,
         "y": 430,
-        "type": "selection",
-        "text": "在意",
-        "css": "btn",
-        "ref": "divTxtBtn25"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn38",
         "x": 525,
         "y": 490,
-        "type": "selection",
-        "text": "陪伴的人选（一）",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn38",
         "x": 525,
         "y": 490,
-        "type": "selection",
-        "text": "陪伴的人选（一）",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn42",
         "x": 325,
         "y": 580,
-        "type": "option",
-        "text": "古河…",
-        "css": "btn",
-        "ref": "divTxtBtn42"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn38",
         "x": 525,
         "y": 490,
-        "type": "selection",
-        "text": "陪伴的人选（一）",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn48",
         "x": 725,
         "y": 580,
-        "type": "option",
-        "text": "不是古河…",
-        "css": "btn",
-        "ref": "divTxtBtn48"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn42",
         "x": 325,
         "y": 580,
-        "type": "option",
-        "text": "古河…",
-        "css": "btn",
-        "ref": "divTxtBtn42"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn54",
         "x": 325,
         "y": 640,
-        "type": "condition",
-        "text": "23日，咒语游戏中遇到渚",
-        "css": "btn",
-        "ref": "divTxtBtn54",
-        "num": {
-          "x": 310,
-          "y": 640,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn56"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 630,
-          "text": "23日，咒语游戏中遇到渚",
-          "num": "1",
-          "summary": "",
-          "hint": "{23日，咒语游戏中遇到渚}即在23日有纪宁的咒语中触发{咒语游戏中遇到渚}的剧情。接下来的{23日，咒语游戏中遇到……}同样是这个意思。<br>此处，如果在16日的分支{古河重新创立话剧社}中选择[帮助]（即之后朋也认识了古河的家人），那么即使在23日咒语游戏中没有触发遇到渚的剧情，同样符合是的条件。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt57"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn54",
         "x": 325,
         "y": 640,
-        "type": "condition",
-        "text": "23日，咒语游戏中遇到渚",
-        "css": "btn",
-        "ref": "divTxtBtn54",
-        "num": {
-          "x": 310,
-          "y": 640,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn56"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 630,
-          "text": "23日，咒语游戏中遇到渚",
-          "num": "1",
-          "summary": "",
-          "hint": "{23日，咒语游戏中遇到渚}即在23日有纪宁的咒语中触发{咒语游戏中遇到渚}的剧情。接下来的{23日，咒语游戏中遇到……}同样是这个意思。<br>此处，如果在16日的分支{古河重新创立话剧社}中选择[帮助]（即之后朋也认识了古河的家人），那么即使在23日咒语游戏中没有触发遇到渚的剧情，同样符合是的条件。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt57"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn60",
         "x": 125,
         "y": 730,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn60"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn54",
         "x": 325,
         "y": 640,
-        "type": "condition",
-        "text": "23日，咒语游戏中遇到渚",
-        "css": "btn",
-        "ref": "divTxtBtn54",
-        "num": {
-          "x": 310,
-          "y": 640,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn56"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 630,
-          "text": "23日，咒语游戏中遇到渚",
-          "num": "1",
-          "summary": "",
-          "hint": "{23日，咒语游戏中遇到渚}即在23日有纪宁的咒语中触发{咒语游戏中遇到渚}的剧情。接下来的{23日，咒语游戏中遇到……}同样是这个意思。<br>此处，如果在16日的分支{古河重新创立话剧社}中选择[帮助]（即之后朋也认识了古河的家人），那么即使在23日咒语游戏中没有触发遇到渚的剧情，同样符合是的条件。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt57"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn66",
         "x": 525,
         "y": 730,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn66"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn60",
         "x": 125,
         "y": 730,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn60"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn72",
         "x": 125,
         "y": 790,
-        "type": "condition",
-        "text": "渚仓库剧情",
-        "css": "btn",
-        "ref": "divTxtBtn72"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn66",
         "x": 525,
         "y": 730,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn66"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn76",
         "x": 525,
         "y": 790,
-        "type": "condition",
-        "text": "秋生仓库剧情",
-        "css": "btn",
-        "ref": "divTxtBtn76"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn48",
         "x": 725,
         "y": 580,
-        "type": "option",
-        "text": "不是古河…",
-        "css": "btn",
-        "ref": "divTxtBtn48"
+        "__type": "textbox"
       },
       {
         "x": 1100,
-        "y": 670
+        "y": 670,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn80",
         "x": 925,
         "y": 790,
-        "type": "condition",
-        "text": "18日，独自雕刻的风子",
-        "css": "btn",
-        "ref": "divTxtBtn80"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn31",
         "x": 925,
         "y": 430,
-        "type": "selection",
-        "text": "不在意",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn31"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn80",
         "x": 925,
         "y": 790,
-        "type": "condition",
-        "text": "18日，独自雕刻的风子",
-        "css": "btn",
-        "ref": "divTxtBtn80"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn80",
         "x": 925,
         "y": 790,
-        "type": "condition",
-        "text": "18日，独自雕刻的风子",
-        "css": "btn",
-        "ref": "divTxtBtn80"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn89",
         "x": 525,
         "y": 880,
-        "type": "selection",
-        "text": "离开",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn89"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn80",
         "x": 925,
         "y": 790,
-        "type": "condition",
-        "text": "18日，独自雕刻的风子",
-        "css": "btn",
-        "ref": "divTxtBtn80"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn96",
         "x": 925,
         "y": 880,
-        "type": "selection",
-        "text": "再看一会儿",
-        "css": "btn",
-        "ref": "divTxtBtn96"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn96",
         "x": 925,
         "y": 880,
-        "type": "selection",
-        "text": "再看一会儿",
-        "css": "btn",
-        "ref": "divTxtBtn96"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn100",
         "x": 925,
         "y": 940,
-        "type": "selection",
-        "text": "陪伴的人选（二）",
-        "css": "btn",
-        "ref": "divTxtBtn100"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn100",
         "x": 925,
         "y": 940,
-        "type": "selection",
-        "text": "陪伴的人选（二）",
-        "css": "btn",
-        "ref": "divTxtBtn100"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn104",
         "x": 725,
         "y": 1030,
-        "type": "option",
-        "text": "不是…",
-        "css": "btn",
-        "ref": "divTxtBtn104"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn100",
         "x": 925,
         "y": 940,
-        "type": "selection",
-        "text": "陪伴的人选（二）",
-        "css": "btn",
-        "ref": "divTxtBtn100"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn110",
         "x": 1125,
         "y": 1030,
-        "type": "option",
-        "text": "风子…",
-        "css": "btn",
-        "ref": "divTxtBtn110"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn104",
         "x": 725,
         "y": 1030,
-        "type": "option",
-        "text": "不是…",
-        "css": "btn",
-        "ref": "divTxtBtn104"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn116",
         "x": 525,
         "y": 1120,
-        "type": "condition",
-        "text": "18日，遇到困难的智代",
-        "css": "btn",
-        "ref": "divTxtBtn116"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn89",
         "x": 525,
         "y": 880,
-        "type": "selection",
-        "text": "离开",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn89"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn116",
         "x": 525,
         "y": 1120,
-        "type": "condition",
-        "text": "18日，遇到困难的智代",
-        "css": "btn",
-        "ref": "divTxtBtn116"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn116",
         "x": 525,
         "y": 1120,
-        "type": "condition",
-        "text": "18日，遇到困难的智代",
-        "css": "btn",
-        "ref": "divTxtBtn116"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn124",
         "x": 325,
         "y": 1210,
-        "type": "selection",
-        "text": "甩开她的手",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn124"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn116",
         "x": 525,
         "y": 1120,
-        "type": "condition",
-        "text": "18日，遇到困难的智代",
-        "css": "btn",
-        "ref": "divTxtBtn116"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn131",
         "x": 725,
         "y": 1210,
-        "type": "selection",
-        "text": "帮忙",
-        "css": "btn",
-        "ref": "divTxtBtn131"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn131",
         "x": 725,
         "y": 1210,
-        "type": "selection",
-        "text": "帮忙",
-        "css": "btn",
-        "ref": "divTxtBtn131"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn137",
         "x": 725,
         "y": 1270,
-        "type": "selection",
-        "text": "陪伴的人选（三）",
-        "css": "btn",
-        "ref": "divTxtBtn137"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn137",
         "x": 725,
         "y": 1270,
-        "type": "selection",
-        "text": "陪伴的人选（三）",
-        "css": "btn",
-        "ref": "divTxtBtn137"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn141",
         "x": 525,
         "y": 1360,
-        "type": "option",
-        "text": "不是…",
-        "css": "btn",
-        "ref": "divTxtBtn141"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn137",
         "x": 725,
         "y": 1270,
-        "type": "selection",
-        "text": "陪伴的人选（三）",
-        "css": "btn",
-        "ref": "divTxtBtn137"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn147",
         "x": 925,
         "y": 1360,
-        "type": "option",
-        "text": "智代…",
-        "css": "btn",
-        "ref": "divTxtBtn147"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn147",
         "x": 925,
         "y": 1360,
-        "type": "option",
-        "text": "智代…",
-        "css": "btn",
-        "ref": "divTxtBtn147"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn153",
         "x": 925,
         "y": 1420,
-        "type": "condition",
-        "text": "23日，诅咒游戏中遇到智代",
-        "css": "btn",
-        "ref": "divTxtBtn153"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn153",
         "x": 925,
         "y": 1420,
-        "type": "condition",
-        "text": "23日，诅咒游戏中遇到智代",
-        "css": "btn",
-        "ref": "divTxtBtn153"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn157",
         "x": 525,
         "y": 1510,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn157"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn153",
         "x": 925,
         "y": 1420,
-        "type": "condition",
-        "text": "23日，诅咒游戏中遇到智代",
-        "css": "btn",
-        "ref": "divTxtBtn153"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn163",
         "x": 925,
         "y": 1510,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn163"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn157",
         "x": 525,
         "y": 1510,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn157"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn167",
         "x": 525,
         "y": 1570,
-        "type": "condition",
-        "text": "智代仓库剧情",
-        "css": "btn",
-        "ref": "divTxtBtn167"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn141",
         "x": 525,
         "y": 1360,
-        "type": "option",
-        "text": "不是…",
-        "css": "btn",
-        "ref": "divTxtBtn141"
+        "__type": "textbox"
       },
       {
         "x": 500,
-        "y": 1450
+        "y": 1450,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn171",
         "x": 325,
         "y": 1630,
-        "type": "selection",
-        "text": "陪伴的人选（四）",
-        "css": "btn",
-        "ref": "divTxtBtn171"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn124",
         "x": 325,
         "y": 1210,
-        "type": "selection",
-        "text": "甩开她的手",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn124"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn171",
         "x": 325,
         "y": 1630,
-        "type": "selection",
-        "text": "陪伴的人选（四）",
-        "css": "btn",
-        "ref": "divTxtBtn171"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn171",
         "x": 325,
         "y": 1630,
-        "type": "selection",
-        "text": "陪伴的人选（四）",
-        "css": "btn",
-        "ref": "divTxtBtn171"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn180",
         "x": 325,
         "y": 1720,
-        "type": "option",
-        "text": "杏…",
-        "css": "btn",
-        "ref": "divTxtBtn180"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn171",
         "x": 325,
         "y": 1630,
-        "type": "selection",
-        "text": "陪伴的人选（四）",
-        "css": "btn",
-        "ref": "divTxtBtn171"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn184",
         "x": 725,
         "y": 1720,
-        "type": "option",
-        "text": "不是…",
-        "css": "btn",
-        "ref": "divTxtBtn184"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn180",
         "x": 325,
         "y": 1720,
-        "type": "option",
-        "text": "杏…",
-        "css": "btn",
-        "ref": "divTxtBtn180"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn190",
         "x": 325,
         "y": 1780,
-        "type": "condition",
-        "text": "23日，诅咒游戏中遇到杏、椋",
-        "css": "btn",
-        "ref": "divTxtBtn190"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn190",
         "x": 325,
         "y": 1780,
-        "type": "condition",
-        "text": "23日，诅咒游戏中遇到杏、椋",
-        "css": "btn",
-        "ref": "divTxtBtn190"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn194",
         "x": 325,
         "y": 1870,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn194"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn190",
         "x": 325,
         "y": 1780,
-        "type": "condition",
-        "text": "23日，诅咒游戏中遇到杏、椋",
-        "css": "btn",
-        "ref": "divTxtBtn190"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn198",
         "x": 725,
         "y": 1870,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn198"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn194",
         "x": 325,
         "y": 1870,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn194"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn204",
         "x": 325,
         "y": 1930,
-        "type": "condition",
-        "text": "23日，杏抓朋也跟她出去谈话",
-        "css": "btn",
-        "ref": "divTxtBtn204"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn198",
         "x": 725,
         "y": 1870,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn198"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn208",
         "x": 1125,
         "y": 1960,
-        "type": "condition",
-        "text": "春原仓库剧情 B",
-        "css": "btn",
-        "ref": "divTxtBtn208"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn184",
         "x": 725,
         "y": 1720,
-        "type": "option",
-        "text": "不是…",
-        "css": "btn",
-        "ref": "divTxtBtn184"
+        "__type": "textbox"
       },
       {
         "x": 1300,
-        "y": 1810
+        "y": 1810,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn208",
         "x": 1125,
         "y": 1960,
-        "type": "condition",
-        "text": "春原仓库剧情 B",
-        "css": "btn",
-        "ref": "divTxtBtn208"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn163",
         "x": 925,
         "y": 1510,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn163"
+        "__type": "textbox"
       },
       {
         "x": 1300,
-        "y": 1600
+        "y": 1600,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn208",
         "x": 1125,
         "y": 1960,
-        "type": "condition",
-        "text": "春原仓库剧情 B",
-        "css": "btn",
-        "ref": "divTxtBtn208"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn110",
         "x": 1125,
         "y": 1030,
-        "type": "option",
-        "text": "风子…",
-        "css": "btn",
-        "ref": "divTxtBtn110"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn208",
         "x": 1125,
         "y": 1960,
-        "type": "condition",
-        "text": "春原仓库剧情 B",
-        "css": "btn",
-        "ref": "divTxtBtn208"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn204",
         "x": 325,
         "y": 1930,
-        "type": "condition",
-        "text": "23日，杏抓朋也跟她出去谈话",
-        "css": "btn",
-        "ref": "divTxtBtn204"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn226",
         "x": 325,
         "y": 2020,
-        "type": "selection",
-        "text": "逃跑",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn226"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn204",
         "x": 325,
         "y": 1930,
-        "type": "condition",
-        "text": "23日，杏抓朋也跟她出去谈话",
-        "css": "btn",
-        "ref": "divTxtBtn204"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn231",
         "x": 725,
         "y": 2020,
-        "type": "selection",
-        "text": "跟着去",
-        "css": "btn",
-        "ref": "divTxtBtn231"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn226",
         "x": 325,
         "y": 2020,
-        "type": "selection",
-        "text": "逃跑",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn226"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn237",
         "x": 325,
         "y": 2080,
-        "type": "condition",
-        "text": "杏仓库剧情 A（普通版）",
-        "css": "btn",
-        "ref": "divTxtBtn237"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn231",
         "x": 725,
         "y": 2020,
-        "type": "selection",
-        "text": "跟着去",
-        "css": "btn",
-        "ref": "divTxtBtn231"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn241",
         "x": 725,
         "y": 2080,
-        "type": "condition",
-        "text": "杏仓库剧情 B（特殊版）",
-        "css": "btn",
-        "ref": "divTxtBtn241"
+        "__type": "textbox"
       }
     ]
   ],
@@ -1428,7 +1205,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt57"
+      "ref": "divCmt57",
+      "__type": "comment"
     }
   ],
   "header": {
@@ -1441,14 +1219,16 @@
     "dateE": "Gym Warehouse Event",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 2110,
     "page": 33,
-    "ref": "divFt245"
+    "ref": "divFt245",
+    "__type": "footer"
   },
   "board": []
 }

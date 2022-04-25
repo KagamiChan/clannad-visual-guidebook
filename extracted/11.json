@@ -8,6 +8,7 @@
         "text": "A",
         "css": "btn",
         "ref": "divTxtBtn1",
+        "__type": "textbox",
         "link": "p11_A"
       },
       {
@@ -16,7 +17,8 @@
         "type": "condition",
         "text": "18日，逃课选择睡觉的地方",
         "css": "btn",
-        "ref": "divTxtBtn3"
+        "ref": "divTxtBtn3",
+        "__type": "textbox"
       }
     ],
     [
@@ -27,7 +29,8 @@
         "text": "还是回教室吧",
         "route": "l|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn8"
+        "ref": "divTxtBtn8",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -35,7 +38,8 @@
         "type": "selection",
         "text": "去那里睡",
         "css": "btn",
-        "ref": "divTxtBtn15"
+        "ref": "divTxtBtn15",
+        "__type": "textbox"
       }
     ],
     [
@@ -45,7 +49,8 @@
         "type": "condition",
         "text": "18日，下课后走进资料室的女孩",
         "css": "btn",
-        "ref": "divTxtBtn19"
+        "ref": "divTxtBtn19",
+        "__type": "textbox"
       }
     ],
     [
@@ -55,7 +60,8 @@
         "type": "selection",
         "text": "再说几句话",
         "css": "btn",
-        "ref": "divTxtBtn23"
+        "ref": "divTxtBtn23",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -63,7 +69,8 @@
         "type": "selection",
         "text": "离开",
         "css": "btn",
-        "ref": "divTxtBtn27"
+        "ref": "divTxtBtn27",
+        "__type": "textbox"
       }
     ],
     [
@@ -74,13 +81,15 @@
         "text": "来到旧校舍后的去向（一）",
         "css": "btn",
         "ref": "divTxtBtn33",
+        "__type": "textbox",
         "num": {
           "x": 410,
           "y": 520,
           "type": "ccheck",
           "text": "6",
           "css": "check",
-          "ref": "divBtn35"
+          "ref": "divBtn35",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -97,7 +106,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt36"
+          "ref": "divCmt36",
+          "__type": "comment"
         }
       }
     ],
@@ -108,7 +118,8 @@
         "type": "option",
         "text": "去社团活动室",
         "css": "btn",
-        "ref": "divTxtBtn43"
+        "ref": "divTxtBtn43",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -116,7 +127,8 @@
         "type": "option",
         "text": "去图书馆",
         "css": "btn",
-        "ref": "divTxtBtn49"
+        "ref": "divTxtBtn49",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -124,7 +136,8 @@
         "type": "option",
         "text": "去资料室",
         "css": "btn",
-        "ref": "divTxtBtn53"
+        "ref": "divTxtBtn53",
+        "__type": "textbox"
       }
     ],
     [
@@ -134,7 +147,8 @@
         "type": "condition",
         "text": "18日，逃课选择睡觉的地方",
         "css": "btn",
-        "ref": "divTxtBtn59"
+        "ref": "divTxtBtn59",
+        "__type": "textbox"
       }
     ],
     [
@@ -145,7 +159,8 @@
         "text": "还是回教室吧",
         "route": "l|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn63"
+        "ref": "divTxtBtn63",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -153,7 +168,8 @@
         "type": "selection",
         "text": "去那里睡",
         "css": "btn",
-        "ref": "divTxtBtn70"
+        "ref": "divTxtBtn70",
+        "__type": "textbox"
       }
     ],
     [
@@ -163,7 +179,8 @@
         "type": "selection",
         "text": "下课后走进资料室的女孩",
         "css": "btn",
-        "ref": "divTxtBtn76"
+        "ref": "divTxtBtn76",
+        "__type": "textbox"
       }
     ],
     [
@@ -174,7 +191,8 @@
         "text": "再说几句话",
         "route": "l|有纪宁|-胜平",
         "css": "btn",
-        "ref": "divTxtBtn80"
+        "ref": "divTxtBtn80",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -183,7 +201,8 @@
         "text": "离开",
         "route": "r|-胜平|有纪宁",
         "css": "btn",
-        "ref": "divTxtBtn88"
+        "ref": "divTxtBtn88",
+        "__type": "textbox"
       }
     ],
     [
@@ -193,7 +212,8 @@
         "type": "selection",
         "text": "来到校舍后的去向（二）",
         "css": "btn",
-        "ref": "divTxtBtn96"
+        "ref": "divTxtBtn96",
+        "__type": "textbox"
       }
     ],
     [
@@ -203,7 +223,8 @@
         "type": "option",
         "text": "去社团活动室",
         "css": "btn",
-        "ref": "divTxtBtn100"
+        "ref": "divTxtBtn100",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -211,7 +232,8 @@
         "type": "option",
         "text": "去图书馆",
         "css": "btn",
-        "ref": "divTxtBtn106"
+        "ref": "divTxtBtn106",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -219,7 +241,8 @@
         "type": "option",
         "text": "去资料室",
         "css": "btn",
-        "ref": "divTxtBtn112"
+        "ref": "divTxtBtn112",
+        "__type": "textbox"
       }
     ]
   ],
@@ -227,686 +250,484 @@
     [
       {
         "x": 1000,
-        "y": 175
+        "y": 175,
+        "__type": "point"
       },
       {
         "x": 1000,
-        "y": 175
+        "y": 175,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn3",
         "x": 825,
         "y": 190,
-        "type": "condition",
-        "text": "18日，逃课选择睡觉的地方",
-        "css": "btn",
-        "ref": "divTxtBtn3"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn8",
         "x": 425,
         "y": 280,
-        "type": "selection",
-        "text": "还是回教室吧",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn8"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn3",
         "x": 825,
         "y": 190,
-        "type": "condition",
-        "text": "18日，逃课选择睡觉的地方",
-        "css": "btn",
-        "ref": "divTxtBtn3"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn15",
         "x": 825,
         "y": 280,
-        "type": "selection",
-        "text": "去那里睡",
-        "css": "btn",
-        "ref": "divTxtBtn15"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn15",
         "x": 825,
         "y": 280,
-        "type": "selection",
-        "text": "去那里睡",
-        "css": "btn",
-        "ref": "divTxtBtn15"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn19",
         "x": 825,
         "y": 340,
-        "type": "condition",
-        "text": "18日，下课后走进资料室的女孩",
-        "css": "btn",
-        "ref": "divTxtBtn19"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn19",
         "x": 825,
         "y": 340,
-        "type": "condition",
-        "text": "18日，下课后走进资料室的女孩",
-        "css": "btn",
-        "ref": "divTxtBtn19"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn23",
         "x": 825,
         "y": 430,
-        "type": "selection",
-        "text": "再说几句话",
-        "css": "btn",
-        "ref": "divTxtBtn23"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn19",
         "x": 825,
         "y": 340,
-        "type": "condition",
-        "text": "18日，下课后走进资料室的女孩",
-        "css": "btn",
-        "ref": "divTxtBtn19"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn27",
         "x": 1225,
         "y": 430,
-        "type": "selection",
-        "text": "离开",
-        "css": "btn",
-        "ref": "divTxtBtn27"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn23",
         "x": 825,
         "y": 430,
-        "type": "selection",
-        "text": "再说几句话",
-        "css": "btn",
-        "ref": "divTxtBtn23"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn33",
         "x": 425,
         "y": 520,
-        "type": "selection",
-        "text": "来到旧校舍后的去向（一）",
-        "css": "btn",
-        "ref": "divTxtBtn33",
-        "num": {
-          "x": 410,
-          "y": 520,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn35"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 510,
-          "text": "来到旧校舍后的去向",
-          "num": "6",
-          "summary": "放学后，无聊的朋也正在决定着之后的去处。",
-          "hint": "18日遇见有纪宁后马上就离开了资料室，退出有纪宁线，出现的三个选择项为[去社团活动室]、[去图书室]、[回家]，否则[回家]选项将被替换成[去资料室]。若18日未进入有纪宁线，选择[去资料室]如果您要进入有纪宁线，这是最后的机会。",
-          "setsumei": "",
-          "option": "-去资料室",
-          "icon": "10000000",
-          "iconillu": "有纪宁参与64HIT。如果18日在分支逃课选择睡觉的地方选择到那里去睡，则此处的选择没有影响",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt36"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn8",
         "x": 425,
         "y": 280,
-        "type": "selection",
-        "text": "还是回教室吧",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn8"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn33",
         "x": 425,
         "y": 520,
-        "type": "selection",
-        "text": "来到旧校舍后的去向（一）",
-        "css": "btn",
-        "ref": "divTxtBtn33",
-        "num": {
-          "x": 410,
-          "y": 520,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn35"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 510,
-          "text": "来到旧校舍后的去向",
-          "num": "6",
-          "summary": "放学后，无聊的朋也正在决定着之后的去处。",
-          "hint": "18日遇见有纪宁后马上就离开了资料室，退出有纪宁线，出现的三个选择项为[去社团活动室]、[去图书室]、[回家]，否则[回家]选项将被替换成[去资料室]。若18日未进入有纪宁线，选择[去资料室]如果您要进入有纪宁线，这是最后的机会。",
-          "setsumei": "",
-          "option": "-去资料室",
-          "icon": "10000000",
-          "iconillu": "有纪宁参与64HIT。如果18日在分支逃课选择睡觉的地方选择到那里去睡，则此处的选择没有影响",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt36"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn33",
         "x": 425,
         "y": 520,
-        "type": "selection",
-        "text": "来到旧校舍后的去向（一）",
-        "css": "btn",
-        "ref": "divTxtBtn33",
-        "num": {
-          "x": 410,
-          "y": 520,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn35"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 510,
-          "text": "来到旧校舍后的去向",
-          "num": "6",
-          "summary": "放学后，无聊的朋也正在决定着之后的去处。",
-          "hint": "18日遇见有纪宁后马上就离开了资料室，退出有纪宁线，出现的三个选择项为[去社团活动室]、[去图书室]、[回家]，否则[回家]选项将被替换成[去资料室]。若18日未进入有纪宁线，选择[去资料室]如果您要进入有纪宁线，这是最后的机会。",
-          "setsumei": "",
-          "option": "-去资料室",
-          "icon": "10000000",
-          "iconillu": "有纪宁参与64HIT。如果18日在分支逃课选择睡觉的地方选择到那里去睡，则此处的选择没有影响",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt36"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn43",
         "x": 25,
         "y": 610,
-        "type": "option",
-        "text": "去社团活动室",
-        "css": "btn",
-        "ref": "divTxtBtn43"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn33",
         "x": 425,
         "y": 520,
-        "type": "selection",
-        "text": "来到旧校舍后的去向（一）",
-        "css": "btn",
-        "ref": "divTxtBtn33",
-        "num": {
-          "x": 410,
-          "y": 520,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn35"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 510,
-          "text": "来到旧校舍后的去向",
-          "num": "6",
-          "summary": "放学后，无聊的朋也正在决定着之后的去处。",
-          "hint": "18日遇见有纪宁后马上就离开了资料室，退出有纪宁线，出现的三个选择项为[去社团活动室]、[去图书室]、[回家]，否则[回家]选项将被替换成[去资料室]。若18日未进入有纪宁线，选择[去资料室]如果您要进入有纪宁线，这是最后的机会。",
-          "setsumei": "",
-          "option": "-去资料室",
-          "icon": "10000000",
-          "iconillu": "有纪宁参与64HIT。如果18日在分支逃课选择睡觉的地方选择到那里去睡，则此处的选择没有影响",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt36"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn49",
         "x": 425,
         "y": 610,
-        "type": "option",
-        "text": "去图书馆",
-        "css": "btn",
-        "ref": "divTxtBtn49"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn33",
         "x": 425,
         "y": 520,
-        "type": "selection",
-        "text": "来到旧校舍后的去向（一）",
-        "css": "btn",
-        "ref": "divTxtBtn33",
-        "num": {
-          "x": 410,
-          "y": 520,
-          "type": "ccheck",
-          "text": "6",
-          "css": "check",
-          "ref": "divBtn35"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 510,
-          "text": "来到旧校舍后的去向",
-          "num": "6",
-          "summary": "放学后，无聊的朋也正在决定着之后的去处。",
-          "hint": "18日遇见有纪宁后马上就离开了资料室，退出有纪宁线，出现的三个选择项为[去社团活动室]、[去图书室]、[回家]，否则[回家]选项将被替换成[去资料室]。若18日未进入有纪宁线，选择[去资料室]如果您要进入有纪宁线，这是最后的机会。",
-          "setsumei": "",
-          "option": "-去资料室",
-          "icon": "10000000",
-          "iconillu": "有纪宁参与64HIT。如果18日在分支逃课选择睡觉的地方选择到那里去睡，则此处的选择没有影响",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt36"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn53",
         "x": 825,
         "y": 610,
-        "type": "option",
-        "text": "去资料室",
-        "css": "btn",
-        "ref": "divTxtBtn53"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn53",
         "x": 825,
         "y": 610,
-        "type": "option",
-        "text": "去资料室",
-        "css": "btn",
-        "ref": "divTxtBtn53"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn59",
         "x": 825,
         "y": 670,
-        "type": "condition",
-        "text": "18日，逃课选择睡觉的地方",
-        "css": "btn",
-        "ref": "divTxtBtn59"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn59",
         "x": 825,
         "y": 670,
-        "type": "condition",
-        "text": "18日，逃课选择睡觉的地方",
-        "css": "btn",
-        "ref": "divTxtBtn59"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn63",
         "x": 625,
         "y": 760,
-        "type": "selection",
-        "text": "还是回教室吧",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn63"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn59",
         "x": 825,
         "y": 670,
-        "type": "condition",
-        "text": "18日，逃课选择睡觉的地方",
-        "css": "btn",
-        "ref": "divTxtBtn59"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn70",
         "x": 1025,
         "y": 760,
-        "type": "selection",
-        "text": "去那里睡",
-        "css": "btn",
-        "ref": "divTxtBtn70"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn63",
         "x": 625,
         "y": 760,
-        "type": "selection",
-        "text": "还是回教室吧",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn63"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn76",
         "x": 625,
         "y": 820,
-        "type": "selection",
-        "text": "下课后走进资料室的女孩",
-        "css": "btn",
-        "ref": "divTxtBtn76"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn76",
         "x": 625,
         "y": 820,
-        "type": "selection",
-        "text": "下课后走进资料室的女孩",
-        "css": "btn",
-        "ref": "divTxtBtn76"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn80",
         "x": 425,
         "y": 910,
-        "type": "option",
-        "text": "再说几句话",
-        "route": "l|有纪宁|-胜平",
-        "css": "btn",
-        "ref": "divTxtBtn80"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn76",
         "x": 625,
         "y": 820,
-        "type": "selection",
-        "text": "下课后走进资料室的女孩",
-        "css": "btn",
-        "ref": "divTxtBtn76"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn88",
         "x": 825,
         "y": 910,
-        "type": "option",
-        "text": "离开",
-        "route": "r|-胜平|有纪宁",
-        "css": "btn",
-        "ref": "divTxtBtn88"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn27",
         "x": 1225,
         "y": 430,
-        "type": "selection",
-        "text": "离开",
-        "css": "btn",
-        "ref": "divTxtBtn27"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn96",
         "x": 1225,
         "y": 1060,
-        "type": "selection",
-        "text": "来到校舍后的去向（二）",
-        "css": "btn",
-        "ref": "divTxtBtn96"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn96",
         "x": 1225,
         "y": 1060,
-        "type": "selection",
-        "text": "来到校舍后的去向（二）",
-        "css": "btn",
-        "ref": "divTxtBtn96"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn100",
         "x": 425,
         "y": 1150,
-        "type": "option",
-        "text": "去社团活动室",
-        "css": "btn",
-        "ref": "divTxtBtn100"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn96",
         "x": 1225,
         "y": 1060,
-        "type": "selection",
-        "text": "来到校舍后的去向（二）",
-        "css": "btn",
-        "ref": "divTxtBtn96"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn106",
         "x": 825,
         "y": 1150,
-        "type": "option",
-        "text": "去图书馆",
-        "css": "btn",
-        "ref": "divTxtBtn106"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn96",
         "x": 1225,
         "y": 1060,
-        "type": "selection",
-        "text": "来到校舍后的去向（二）",
-        "css": "btn",
-        "ref": "divTxtBtn96"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn112",
         "x": 1225,
         "y": 1150,
-        "type": "option",
-        "text": "去资料室",
-        "css": "btn",
-        "ref": "divTxtBtn112"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn100",
         "x": 425,
         "y": 1150,
-        "type": "option",
-        "text": "去社团活动室",
-        "css": "btn",
-        "ref": "divTxtBtn100"
+        "__type": "textbox"
       },
       {
         "x": 1000,
-        "y": 1240
+        "y": 1240,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn106",
         "x": 825,
         "y": 1150,
-        "type": "option",
-        "text": "去图书馆",
-        "css": "btn",
-        "ref": "divTxtBtn106"
+        "__type": "textbox"
       },
       {
         "x": 1000,
-        "y": 1240
+        "y": 1240,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn112",
         "x": 1225,
         "y": 1150,
-        "type": "option",
-        "text": "去资料室",
-        "css": "btn",
-        "ref": "divTxtBtn112"
+        "__type": "textbox"
       },
       {
         "x": 1000,
-        "y": 1240
+        "y": 1240,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn80",
         "x": 425,
         "y": 910,
-        "type": "option",
-        "text": "再说几句话",
-        "route": "l|有纪宁|-胜平",
-        "css": "btn",
-        "ref": "divTxtBtn80"
+        "__type": "textbox"
       },
       {
         "x": 800,
-        "y": 1000
+        "y": 1000,
+        "__type": "point"
       },
       {
         "x": 1000,
-        "y": 1030
+        "y": 1030,
+        "__type": "point"
       },
       {
         "x": 400,
-        "y": 1060
+        "y": 1060,
+        "__type": "point"
       },
       {
         "x": 1000,
-        "y": 1240
+        "y": 1240,
+        "__type": "point"
       },
       {
         "x": 400,
-        "y": 1240
+        "y": 1240,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn88",
         "x": 825,
         "y": 910,
-        "type": "option",
-        "text": "离开",
-        "route": "r|-胜平|有纪宁",
-        "css": "btn",
-        "ref": "divTxtBtn88"
+        "__type": "textbox"
       },
       {
         "x": 800,
-        "y": 1000
+        "y": 1000,
+        "__type": "point"
       },
       {
         "x": 1000,
-        "y": 1030
+        "y": 1030,
+        "__type": "point"
       },
       {
         "x": 400,
-        "y": 1060
+        "y": 1060,
+        "__type": "point"
       },
       {
         "x": 1000,
-        "y": 1240
+        "y": 1240,
+        "__type": "point"
       },
       {
         "x": 400,
-        "y": 1240
+        "y": 1240,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn70",
         "x": 1025,
         "y": 760,
-        "type": "selection",
-        "text": "去那里睡",
-        "css": "btn",
-        "ref": "divTxtBtn70"
+        "__type": "textbox"
       },
       {
         "x": 1000,
-        "y": 1030
+        "y": 1030,
+        "__type": "point"
       },
       {
         "x": 400,
-        "y": 1060
+        "y": 1060,
+        "__type": "point"
       },
       {
         "x": 1000,
-        "y": 1240
+        "y": 1240,
+        "__type": "point"
       },
       {
         "x": 400,
-        "y": 1240
+        "y": 1240,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn43",
         "x": 25,
         "y": 610,
-        "type": "option",
-        "text": "去社团活动室",
-        "css": "btn",
-        "ref": "divTxtBtn43"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 700
+        "y": 700,
+        "__type": "point"
       },
       {
         "x": 1000,
-        "y": 1240
+        "y": 1240,
+        "__type": "point"
       },
       {
         "x": 400,
-        "y": 1240
+        "y": 1240,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn49",
         "x": 425,
         "y": 610,
-        "type": "option",
-        "text": "去图书馆",
-        "css": "btn",
-        "ref": "divTxtBtn49"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 700
+        "y": 700,
+        "__type": "point"
       },
       {
         "x": 1000,
-        "y": 1240
+        "y": 1240,
+        "__type": "point"
       },
       {
         "x": 400,
-        "y": 1240
+        "y": 1240,
+        "__type": "point"
       }
     ],
     [
       {
         "x": 1000,
-        "y": 1240
+        "y": 1240,
+        "__type": "point"
       },
       {
         "x": 1000,
-        "y": 1240
+        "y": 1240,
+        "__type": "point"
       }
     ]
   ],
@@ -926,7 +747,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt36"
+      "ref": "divCmt36",
+      "__type": "comment"
     }
   ],
   "header": {
@@ -939,20 +761,23 @@
     "dateE": "April 19th~Part 2",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 1270,
     "page": 11,
-    "ref": "divFt168"
+    "ref": "divFt168",
+    "__type": "footer"
   },
   "board": [
     {
       "x": 0,
       "y": 150,
-      "height": 1140
+      "height": 1140,
+      "__type": "board"
     }
   ]
 }

@@ -7,7 +7,8 @@
         "type": "date",
         "text": "4月22日",
         "css": "date",
-        "ref": "divBtn1"
+        "ref": "divBtn1",
+        "__type": "button"
       }
     ],
     [
@@ -17,7 +18,8 @@
         "type": "condition",
         "text": "21日，迟到后的午间",
         "css": "btn",
-        "ref": "divTxtBtn2"
+        "ref": "divTxtBtn2",
+        "__type": "textbox"
       }
     ],
     [
@@ -28,7 +30,8 @@
         "text": "赶去学生食堂",
         "route": "l|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn6"
+        "ref": "divTxtBtn6",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -36,7 +39,8 @@
         "type": "selection",
         "text": "看看窗外",
         "css": "btn",
-        "ref": "divTxtBtn11"
+        "ref": "divTxtBtn11",
+        "__type": "textbox"
       }
     ],
     [
@@ -46,7 +50,8 @@
         "type": "condition",
         "text": "21日，有智代的陪同",
         "css": "btn",
-        "ref": "divTxtBtn17"
+        "ref": "divTxtBtn17",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -55,6 +60,7 @@
         "text": "A",
         "css": "btn",
         "ref": "divTxtBtn21",
+        "__type": "textbox",
         "link": "p15_retA"
       }
     ],
@@ -65,7 +71,8 @@
         "type": "selection",
         "text": "的确不错",
         "css": "btn",
-        "ref": "divTxtBtn25"
+        "ref": "divTxtBtn25",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -74,7 +81,8 @@
         "text": "是这样吗？",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn31"
+        "ref": "divTxtBtn31",
+        "__type": "textbox"
       }
     ],
     [
@@ -84,7 +92,8 @@
         "type": "selection",
         "text": "迟到的朋也遇见智代",
         "css": "btn",
-        "ref": "divTxtBtn38"
+        "ref": "divTxtBtn38",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -93,13 +102,15 @@
         "text": "春原的玩笑",
         "css": "btn",
         "ref": "divTxtBtn42",
+        "__type": "textbox",
         "num": {
           "x": 810,
           "y": 550,
           "type": "ccheck",
           "text": "1",
           "css": "check",
-          "ref": "divBtn44"
+          "ref": "divBtn44",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -116,7 +127,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt45"
+          "ref": "divCmt45",
+          "__type": "comment"
         },
         "link": "p15_retSNJK1"
       }
@@ -128,7 +140,8 @@
         "type": "option",
         "text": "沉默",
         "css": "btn",
-        "ref": "divTxtBtn48"
+        "ref": "divTxtBtn48",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -136,7 +149,8 @@
         "type": "option",
         "text": "现在正准备回去",
         "css": "btn",
-        "ref": "divTxtBtn54"
+        "ref": "divTxtBtn54",
+        "__type": "textbox"
       }
     ],
     [
@@ -147,13 +161,15 @@
         "text": "回答智代的询问",
         "css": "btn",
         "ref": "divTxtBtn60",
+        "__type": "textbox",
         "num": {
           "x": 410,
           "y": 730,
           "type": "ccheck",
           "text": "2",
           "css": "check",
-          "ref": "divBtn62"
+          "ref": "divBtn62",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -170,7 +186,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt63"
+          "ref": "divCmt63",
+          "__type": "comment"
         }
       }
     ],
@@ -182,7 +199,8 @@
         "text": "不，不是这个意思",
         "route": "l|智代",
         "css": "btn",
-        "ref": "divTxtBtn72"
+        "ref": "divTxtBtn72",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -191,7 +209,8 @@
         "text": "添麻烦了",
         "route": "r|智代",
         "css": "btn",
-        "ref": "divTxtBtn79"
+        "ref": "divTxtBtn79",
+        "__type": "textbox"
       }
     ],
     [
@@ -202,6 +221,7 @@
         "text": "B",
         "css": "btn",
         "ref": "divTxtBtn86",
+        "__type": "textbox",
         "link": "p15_retB"
       }
     ],
@@ -212,7 +232,8 @@
         "type": "condition",
         "text": "16日，杏没有迟到的原因",
         "css": "btn",
-        "ref": "divTxtBtn94"
+        "ref": "divTxtBtn94",
+        "__type": "textbox"
       }
     ],
     [
@@ -222,7 +243,8 @@
         "type": "selection",
         "text": "试着追问下去",
         "css": "btn",
-        "ref": "divTxtBtn102"
+        "ref": "divTxtBtn102",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -231,7 +253,8 @@
         "text": "没什么好介意的",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn108"
+        "ref": "divTxtBtn108",
+        "__type": "textbox"
       }
     ],
     [
@@ -241,7 +264,8 @@
         "type": "selection",
         "text": "课前，牡丹的处理问题",
         "css": "btn",
-        "ref": "divTxtBtn115"
+        "ref": "divTxtBtn115",
+        "__type": "textbox"
       }
     ],
     [
@@ -252,7 +276,8 @@
         "text": "拿回去好了",
         "route": "l|杏|椋|胜平",
         "css": "btn",
-        "ref": "divTxtBtn119"
+        "ref": "divTxtBtn119",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -261,7 +286,8 @@
         "text": "把牡丹丢还给杏",
         "route": "r|-胜平|杏|椋",
         "css": "btn",
-        "ref": "divTxtBtn128"
+        "ref": "divTxtBtn128",
+        "__type": "textbox"
       }
     ],
     [
@@ -271,7 +297,8 @@
         "type": "condition",
         "text": "上午，回答智代的询问",
         "css": "btn",
-        "ref": "divTxtBtn137"
+        "ref": "divTxtBtn137",
+        "__type": "textbox"
       }
     ],
     [
@@ -281,7 +308,8 @@
         "type": "selection",
         "text": "不，不是这个意思",
         "css": "btn",
-        "ref": "divTxtBtn155"
+        "ref": "divTxtBtn155",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -290,7 +318,8 @@
         "text": "添麻烦了",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn161"
+        "ref": "divTxtBtn161",
+        "__type": "textbox"
       }
     ],
     [
@@ -300,7 +329,8 @@
         "type": "selection",
         "text": "被春原利用，智代陷入窘境",
         "css": "btn",
-        "ref": "divTxtBtn168"
+        "ref": "divTxtBtn168",
+        "__type": "textbox"
       }
     ],
     [
@@ -311,7 +341,8 @@
         "text": "该阻止他了",
         "route": "l|智代|-杏|-椋|-芽衣|-有纪宁",
         "css": "btn",
-        "ref": "divTxtBtn172"
+        "ref": "divTxtBtn172",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -320,7 +351,8 @@
         "text": "和他一起享受",
         "route": "r|-芽衣|-有纪宁|-杏|-椋|智代",
         "css": "btn",
-        "ref": "divTxtBtn183"
+        "ref": "divTxtBtn183",
+        "__type": "textbox"
       }
     ],
     [
@@ -331,6 +363,7 @@
         "text": "C",
         "css": "btn",
         "ref": "divTxtBtn194",
+        "__type": "textbox",
         "link": "p15_retC"
       }
     ],
@@ -341,870 +374,553 @@
         "type": "date",
         "text": "4月23日",
         "css": "date",
-        "ref": "divBtn203"
+        "ref": "divBtn203",
+        "__type": "button"
       }
     ]
   ],
   "line": [
     [
       {
+        "ref": "divBtn1",
         "x": 750,
         "y": 175,
-        "type": "date",
-        "text": "4月22日",
-        "css": "date",
-        "ref": "divBtn1"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "condition",
-        "text": "21日，迟到后的午间",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "condition",
-        "text": "21日，迟到后的午间",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn6",
         "x": 625,
         "y": 340,
-        "type": "selection",
-        "text": "赶去学生食堂",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn6"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 625,
         "y": 250,
-        "type": "condition",
-        "text": "21日，迟到后的午间",
-        "css": "btn",
-        "ref": "divTxtBtn2"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn11",
         "x": 1025,
         "y": 340,
-        "type": "selection",
-        "text": "看看窗外",
-        "css": "btn",
-        "ref": "divTxtBtn11"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn6",
         "x": 625,
         "y": 340,
-        "type": "selection",
-        "text": "赶去学生食堂",
-        "route": "l|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn6"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn17",
         "x": 625,
         "y": 400,
-        "type": "condition",
-        "text": "21日，有智代的陪同",
-        "css": "btn",
-        "ref": "divTxtBtn17"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn11",
         "x": 1025,
         "y": 340,
-        "type": "selection",
-        "text": "看看窗外",
-        "css": "btn",
-        "ref": "divTxtBtn11"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn21",
         "x": 1025,
         "y": 400,
-        "type": "block",
-        "text": "A",
-        "css": "btn",
-        "ref": "divTxtBtn21"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn17",
         "x": 625,
         "y": 400,
-        "type": "condition",
-        "text": "21日，有智代的陪同",
-        "css": "btn",
-        "ref": "divTxtBtn17"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn25",
         "x": 425,
         "y": 490,
-        "type": "selection",
-        "text": "的确不错",
-        "css": "btn",
-        "ref": "divTxtBtn25"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn17",
         "x": 625,
         "y": 400,
-        "type": "condition",
-        "text": "21日，有智代的陪同",
-        "css": "btn",
-        "ref": "divTxtBtn17"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn31",
         "x": 825,
         "y": 490,
-        "type": "selection",
-        "text": "是这样吗？",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn31"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn25",
         "x": 425,
         "y": 490,
-        "type": "selection",
-        "text": "的确不错",
-        "css": "btn",
-        "ref": "divTxtBtn25"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn38",
         "x": 425,
         "y": 550,
-        "type": "selection",
-        "text": "迟到的朋也遇见智代",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn31",
         "x": 825,
         "y": 490,
-        "type": "selection",
-        "text": "是这样吗？",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn31"
+        "__type": "textbox"
       },
       {
-        "x": 825,
-        "y": 550,
-        "type": "selection",
-        "text": "春原的玩笑",
-        "css": "btn",
         "ref": "divTxtBtn42",
-        "num": {
-          "x": 810,
-          "y": 550,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn44"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 540,
-          "text": "春原的玩笑",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "公共线路后期搞笑剧情。发生在22日至24日的三天内，内容变化与智代线21日、22日的选择有关，所有选项均不影响剧情发展。春原的玩笑相关攻略请参见P25。",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt45"
-        },
-        "link": "p15_retSNJK1"
-      }
-    ],
-    [
-      {
-        "x": 425,
-        "y": 550,
-        "type": "selection",
-        "text": "迟到的朋也遇见智代",
-        "css": "btn",
-        "ref": "divTxtBtn38"
-      },
-      {
-        "x": 225,
-        "y": 640,
-        "type": "option",
-        "text": "沉默",
-        "css": "btn",
-        "ref": "divTxtBtn48"
-      }
-    ],
-    [
-      {
-        "x": 425,
-        "y": 550,
-        "type": "selection",
-        "text": "迟到的朋也遇见智代",
-        "css": "btn",
-        "ref": "divTxtBtn38"
-      },
-      {
-        "x": 625,
-        "y": 640,
-        "type": "option",
-        "text": "现在正准备回去",
-        "css": "btn",
-        "ref": "divTxtBtn54"
-      }
-    ],
-    [
-      {
-        "x": 225,
-        "y": 640,
-        "type": "option",
-        "text": "沉默",
-        "css": "btn",
-        "ref": "divTxtBtn48"
-      },
-      {
-        "x": 425,
-        "y": 730,
-        "type": "selection",
-        "text": "回答智代的询问",
-        "css": "btn",
-        "ref": "divTxtBtn60",
-        "num": {
-          "x": 410,
-          "y": 730,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn62"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 720,
-          "text": "回答智代的询问",
-          "num": "2",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-添麻烦了",
-          "icon": "01000010",
-          "iconillu": "智代参与有纪宁的咒语、体育仓库事件；业余棒球进入必选（或者不触发这个分支）",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt63"
-        }
-      }
-    ],
-    [
-      {
-        "x": 625,
-        "y": 640,
-        "type": "option",
-        "text": "现在正准备回去",
-        "css": "btn",
-        "ref": "divTxtBtn54"
-      },
-      {
-        "x": 425,
-        "y": 730,
-        "type": "selection",
-        "text": "回答智代的询问",
-        "css": "btn",
-        "ref": "divTxtBtn60",
-        "num": {
-          "x": 410,
-          "y": 730,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn62"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 720,
-          "text": "回答智代的询问",
-          "num": "2",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-添麻烦了",
-          "icon": "01000010",
-          "iconillu": "智代参与有纪宁的咒语、体育仓库事件；业余棒球进入必选（或者不触发这个分支）",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt63"
-        }
-      }
-    ],
-    [
-      {
-        "x": 425,
-        "y": 730,
-        "type": "selection",
-        "text": "回答智代的询问",
-        "css": "btn",
-        "ref": "divTxtBtn60",
-        "num": {
-          "x": 410,
-          "y": 730,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn62"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 720,
-          "text": "回答智代的询问",
-          "num": "2",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-添麻烦了",
-          "icon": "01000010",
-          "iconillu": "智代参与有纪宁的咒语、体育仓库事件；业余棒球进入必选（或者不触发这个分支）",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt63"
-        }
-      },
-      {
-        "x": 225,
-        "y": 820,
-        "type": "option",
-        "text": "不，不是这个意思",
-        "route": "l|智代",
-        "css": "btn",
-        "ref": "divTxtBtn72"
-      }
-    ],
-    [
-      {
-        "x": 425,
-        "y": 730,
-        "type": "selection",
-        "text": "回答智代的询问",
-        "css": "btn",
-        "ref": "divTxtBtn60",
-        "num": {
-          "x": 410,
-          "y": 730,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn62"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 720,
-          "text": "回答智代的询问",
-          "num": "2",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-添麻烦了",
-          "icon": "01000010",
-          "iconillu": "智代参与有纪宁的咒语、体育仓库事件；业余棒球进入必选（或者不触发这个分支）",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt63"
-        }
-      },
-      {
-        "x": 625,
-        "y": 820,
-        "type": "option",
-        "text": "添麻烦了",
-        "route": "r|智代",
-        "css": "btn",
-        "ref": "divTxtBtn79"
-      }
-    ],
-    [
-      {
-        "x": 625,
-        "y": 820,
-        "type": "option",
-        "text": "添麻烦了",
-        "route": "r|智代",
-        "css": "btn",
-        "ref": "divTxtBtn79"
-      },
-      {
-        "x": 625,
-        "y": 910,
-        "type": "block",
-        "text": "B",
-        "css": "btn",
-        "ref": "divTxtBtn86"
-      }
-    ],
-    [
-      {
         "x": 825,
         "y": 550,
-        "type": "selection",
-        "text": "春原的玩笑",
-        "css": "btn",
-        "ref": "divTxtBtn42",
-        "num": {
-          "x": 810,
-          "y": 550,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn44"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 540,
-          "text": "春原的玩笑",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "公共线路后期搞笑剧情。发生在22日至24日的三天内，内容变化与智代线21日、22日的选择有关，所有选项均不影响剧情发展。春原的玩笑相关攻略请参见P25。",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt45"
-        },
-        "link": "p15_retSNJK1"
-      },
-      {
-        "x": 625,
-        "y": 910,
-        "type": "block",
-        "text": "B",
-        "css": "btn",
-        "ref": "divTxtBtn86"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn38",
+        "x": 425,
+        "y": 550,
+        "__type": "textbox"
+      },
+      {
+        "ref": "divTxtBtn48",
+        "x": 225,
+        "y": 640,
+        "__type": "textbox"
+      }
+    ],
+    [
+      {
+        "ref": "divTxtBtn38",
+        "x": 425,
+        "y": 550,
+        "__type": "textbox"
+      },
+      {
+        "ref": "divTxtBtn54",
         "x": 625,
-        "y": 910,
-        "type": "block",
-        "text": "B",
-        "css": "btn",
+        "y": 640,
+        "__type": "textbox"
+      }
+    ],
+    [
+      {
+        "ref": "divTxtBtn48",
+        "x": 225,
+        "y": 640,
+        "__type": "textbox"
+      },
+      {
+        "ref": "divTxtBtn60",
+        "x": 425,
+        "y": 730,
+        "__type": "textbox"
+      }
+    ],
+    [
+      {
+        "ref": "divTxtBtn54",
+        "x": 625,
+        "y": 640,
+        "__type": "textbox"
+      },
+      {
+        "ref": "divTxtBtn60",
+        "x": 425,
+        "y": 730,
+        "__type": "textbox"
+      }
+    ],
+    [
+      {
+        "ref": "divTxtBtn60",
+        "x": 425,
+        "y": 730,
+        "__type": "textbox"
+      },
+      {
+        "ref": "divTxtBtn72",
+        "x": 225,
+        "y": 820,
+        "__type": "textbox"
+      }
+    ],
+    [
+      {
+        "ref": "divTxtBtn60",
+        "x": 425,
+        "y": 730,
+        "__type": "textbox"
+      },
+      {
+        "ref": "divTxtBtn79",
+        "x": 625,
+        "y": 820,
+        "__type": "textbox"
+      }
+    ],
+    [
+      {
+        "ref": "divTxtBtn79",
+        "x": 625,
+        "y": 820,
+        "__type": "textbox"
+      },
+      {
         "ref": "divTxtBtn86",
-        "link": "p15_retB"
-      },
-      {
         "x": 625,
-        "y": 1000,
-        "type": "condition",
-        "text": "16日，杏没有迟到的原因",
-        "css": "btn",
-        "ref": "divTxtBtn94"
+        "y": 910,
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn42",
+        "x": 825,
+        "y": 550,
+        "__type": "textbox"
+      },
+      {
+        "ref": "divTxtBtn86",
+        "x": 625,
+        "y": 910,
+        "__type": "textbox"
+      }
+    ],
+    [
+      {
+        "ref": "divTxtBtn86",
+        "x": 625,
+        "y": 910,
+        "__type": "textbox"
+      },
+      {
+        "ref": "divTxtBtn94",
+        "x": 625,
+        "y": 1000,
+        "__type": "textbox"
+      }
+    ],
+    [
+      {
+        "ref": "divTxtBtn72",
         "x": 225,
         "y": 820,
-        "type": "option",
-        "text": "不，不是这个意思",
-        "route": "l|智代",
-        "css": "btn",
-        "ref": "divTxtBtn72"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn94",
         "x": 625,
         "y": 1000,
-        "type": "condition",
-        "text": "16日，杏没有迟到的原因",
-        "css": "btn",
-        "ref": "divTxtBtn94"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn94",
         "x": 625,
         "y": 1000,
-        "type": "condition",
-        "text": "16日，杏没有迟到的原因",
-        "css": "btn",
-        "ref": "divTxtBtn94"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn102",
         "x": 425,
         "y": 1090,
-        "type": "selection",
-        "text": "试着追问下去",
-        "css": "btn",
-        "ref": "divTxtBtn102"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn94",
         "x": 625,
         "y": 1000,
-        "type": "condition",
-        "text": "16日，杏没有迟到的原因",
-        "css": "btn",
-        "ref": "divTxtBtn94"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn108",
         "x": 825,
         "y": 1090,
-        "type": "selection",
-        "text": "没什么好介意的",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn108"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn102",
         "x": 425,
         "y": 1090,
-        "type": "selection",
-        "text": "试着追问下去",
-        "css": "btn",
-        "ref": "divTxtBtn102"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn115",
         "x": 425,
         "y": 1150,
-        "type": "selection",
-        "text": "课前，牡丹的处理问题",
-        "css": "btn",
-        "ref": "divTxtBtn115"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn115",
         "x": 425,
         "y": 1150,
-        "type": "selection",
-        "text": "课前，牡丹的处理问题",
-        "css": "btn",
-        "ref": "divTxtBtn115"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn119",
         "x": 225,
         "y": 1240,
-        "type": "option",
-        "text": "拿回去好了",
-        "route": "l|杏|椋|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn119"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn115",
         "x": 425,
         "y": 1150,
-        "type": "selection",
-        "text": "课前，牡丹的处理问题",
-        "css": "btn",
-        "ref": "divTxtBtn115"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn128",
         "x": 625,
         "y": 1240,
-        "type": "option",
-        "text": "把牡丹丢还给杏",
-        "route": "r|-胜平|杏|椋",
-        "css": "btn",
-        "ref": "divTxtBtn128"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn119",
         "x": 225,
         "y": 1240,
-        "type": "option",
-        "text": "拿回去好了",
-        "route": "l|杏|椋|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn119"
+        "__type": "textbox"
       },
       {
         "x": 600,
-        "y": 1330
+        "y": 1330,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn137",
         "x": 625,
         "y": 1360,
-        "type": "condition",
-        "text": "上午，回答智代的询问",
-        "css": "btn",
-        "ref": "divTxtBtn137"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn128",
         "x": 625,
         "y": 1240,
-        "type": "option",
-        "text": "把牡丹丢还给杏",
-        "route": "r|-胜平|杏|椋",
-        "css": "btn",
-        "ref": "divTxtBtn128"
+        "__type": "textbox"
       },
       {
         "x": 600,
-        "y": 1330
+        "y": 1330,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn137",
         "x": 625,
         "y": 1360,
-        "type": "condition",
-        "text": "上午，回答智代的询问",
-        "css": "btn",
-        "ref": "divTxtBtn137"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn108",
         "x": 825,
         "y": 1090,
-        "type": "selection",
-        "text": "没什么好介意的",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn108"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn137",
         "x": 625,
         "y": 1360,
-        "type": "condition",
-        "text": "上午，回答智代的询问",
-        "css": "btn",
-        "ref": "divTxtBtn137"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn137",
         "x": 625,
         "y": 1360,
-        "type": "condition",
-        "text": "上午，回答智代的询问",
-        "css": "btn",
-        "ref": "divTxtBtn137"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn155",
         "x": 425,
         "y": 1450,
-        "type": "selection",
-        "text": "不，不是这个意思",
-        "css": "btn",
-        "ref": "divTxtBtn155"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn137",
         "x": 625,
         "y": 1360,
-        "type": "condition",
-        "text": "上午，回答智代的询问",
-        "css": "btn",
-        "ref": "divTxtBtn137"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn161",
         "x": 825,
         "y": 1450,
-        "type": "selection",
-        "text": "添麻烦了",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn161"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn155",
         "x": 425,
         "y": 1450,
-        "type": "selection",
-        "text": "不，不是这个意思",
-        "css": "btn",
-        "ref": "divTxtBtn155"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn168",
         "x": 425,
         "y": 1510,
-        "type": "selection",
-        "text": "被春原利用，智代陷入窘境",
-        "css": "btn",
-        "ref": "divTxtBtn168"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn168",
         "x": 425,
         "y": 1510,
-        "type": "selection",
-        "text": "被春原利用，智代陷入窘境",
-        "css": "btn",
-        "ref": "divTxtBtn168"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn172",
         "x": 225,
         "y": 1600,
-        "type": "option",
-        "text": "该阻止他了",
-        "route": "l|智代|-杏|-椋|-芽衣|-有纪宁",
-        "css": "btn",
-        "ref": "divTxtBtn172"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn168",
         "x": 425,
         "y": 1510,
-        "type": "selection",
-        "text": "被春原利用，智代陷入窘境",
-        "css": "btn",
-        "ref": "divTxtBtn168"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn183",
         "x": 625,
         "y": 1600,
-        "type": "option",
-        "text": "和他一起享受",
-        "route": "r|-芽衣|-有纪宁|-杏|-椋|智代",
-        "css": "btn",
-        "ref": "divTxtBtn183"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn161",
         "x": 825,
         "y": 1450,
-        "type": "selection",
-        "text": "添麻烦了",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn161"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn194",
         "x": 825,
         "y": 1690,
-        "type": "block",
-        "text": "C",
-        "css": "btn",
-        "ref": "divTxtBtn194"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn21",
         "x": 1025,
         "y": 400,
-        "type": "block",
-        "text": "A",
-        "css": "btn",
-        "ref": "divTxtBtn21",
-        "link": "p15_retA"
+        "__type": "textbox"
       },
       {
         "x": 1000,
-        "y": 1540
+        "y": 1540,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn194",
         "x": 825,
         "y": 1690,
-        "type": "block",
-        "text": "C",
-        "css": "btn",
-        "ref": "divTxtBtn194"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn194",
         "x": 825,
         "y": 1690,
-        "type": "block",
-        "text": "C",
-        "css": "btn",
-        "ref": "divTxtBtn194",
-        "link": "p15_retC"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn203",
         "x": 750,
         "y": 1780,
-        "type": "date",
-        "text": "4月23日",
-        "css": "date",
-        "ref": "divBtn203"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn172",
         "x": 225,
         "y": 1600,
-        "type": "option",
-        "text": "该阻止他了",
-        "route": "l|智代|-杏|-椋|-芽衣|-有纪宁",
-        "css": "btn",
-        "ref": "divTxtBtn172"
+        "__type": "textbox"
       },
       {
         "x": 600,
-        "y": 1720
+        "y": 1720,
+        "__type": "point"
       },
       {
+        "ref": "divBtn203",
         "x": 750,
         "y": 1780,
-        "type": "date",
-        "text": "4月23日",
-        "css": "date",
-        "ref": "divBtn203"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn183",
         "x": 625,
         "y": 1600,
-        "type": "option",
-        "text": "和他一起享受",
-        "route": "r|-芽衣|-有纪宁|-杏|-椋|智代",
-        "css": "btn",
-        "ref": "divTxtBtn183"
+        "__type": "textbox"
       },
       {
         "x": 600,
-        "y": 1720
+        "y": 1720,
+        "__type": "point"
       },
       {
+        "ref": "divBtn203",
         "x": 750,
         "y": 1780,
-        "type": "date",
-        "text": "4月23日",
-        "css": "date",
-        "ref": "divBtn203"
+        "__type": "button"
       }
     ]
   ],
@@ -1224,7 +940,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt45"
+      "ref": "divCmt45",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -1241,7 +958,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt63"
+      "ref": "divCmt63",
+      "__type": "comment"
     }
   ],
   "header": {
@@ -1254,14 +972,16 @@
     "dateE": "April 22nd~Part 1",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 1810,
     "page": 15,
-    "ref": "divFt222"
+    "ref": "divFt222",
+    "__type": "footer"
   },
   "board": []
 }

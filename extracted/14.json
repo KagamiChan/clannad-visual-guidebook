@@ -8,6 +8,7 @@
         "text": "A",
         "css": "btn",
         "ref": "divTxtBtn1",
+        "__type": "textbox",
         "link": "p14_A"
       },
       {
@@ -16,7 +17,8 @@
         "type": "selection",
         "text": "难得早起的朋也决定该做的事",
         "css": "btn",
-        "ref": "divTxtBtn3"
+        "ref": "divTxtBtn3",
+        "__type": "textbox"
       }
     ],
     [
@@ -27,7 +29,8 @@
         "text": "迟点再去吧",
         "route": "l|胜平|-智代",
         "css": "btn",
-        "ref": "divTxtBtn8"
+        "ref": "divTxtBtn8",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -36,7 +39,8 @@
         "text": "认认真真起床上学",
         "route": "l|-智代|胜平",
         "css": "btn",
-        "ref": "divTxtBtn15"
+        "ref": "divTxtBtn15",
+        "__type": "textbox"
       }
     ],
     [
@@ -46,7 +50,8 @@
         "type": "selection",
         "text": "通学路上，身后传来引擎声",
         "css": "btn",
-        "ref": "divTxtBtn24"
+        "ref": "divTxtBtn24",
+        "__type": "textbox"
       }
     ],
     [
@@ -57,7 +62,8 @@
         "text": "向右跳",
         "route": "l|胜平",
         "css": "btn",
-        "ref": "divTxtBtn28"
+        "ref": "divTxtBtn28",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -66,7 +72,8 @@
         "text": "站稳等着它",
         "route": "r|胜平",
         "css": "btn",
-        "ref": "divTxtBtn35"
+        "ref": "divTxtBtn35",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -75,7 +82,8 @@
         "text": "向左跳",
         "route": "r|胜平",
         "css": "btn",
-        "ref": "divTxtBtn40"
+        "ref": "divTxtBtn40",
+        "__type": "textbox"
       }
     ],
     [
@@ -85,7 +93,8 @@
         "type": "selection",
         "text": "事发现场，某路人成为受害者",
         "css": "btn",
-        "ref": "divTxtBtn47"
+        "ref": "divTxtBtn47",
+        "__type": "textbox"
       }
     ],
     [
@@ -95,7 +104,8 @@
         "type": "option",
         "text": "离开这里",
         "css": "btn",
-        "ref": "divTxtBtn51"
+        "ref": "divTxtBtn51",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -103,7 +113,8 @@
         "type": "option",
         "text": "摇一摇他",
         "css": "btn",
-        "ref": "divTxtBtn55"
+        "ref": "divTxtBtn55",
+        "__type": "textbox"
       }
     ],
     [
@@ -113,7 +124,8 @@
         "type": "selection",
         "text": "受害者遗忘的简历",
         "css": "btn",
-        "ref": "divTxtBtn61"
+        "ref": "divTxtBtn61",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -121,7 +133,8 @@
         "type": "condition",
         "text": "19日，春原准备威胁智代",
         "css": "btn",
-        "ref": "divTxtBtn69"
+        "ref": "divTxtBtn69",
+        "__type": "textbox"
       }
     ],
     [
@@ -132,7 +145,8 @@
         "text": "查清地址后给他",
         "route": "l|胜平",
         "css": "btn",
-        "ref": "divTxtBtn73"
+        "ref": "divTxtBtn73",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -141,7 +155,8 @@
         "text": "撕了扔掉",
         "route": "r|胜平",
         "css": "btn",
-        "ref": "divTxtBtn78"
+        "ref": "divTxtBtn78",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -149,7 +164,8 @@
         "type": "selection",
         "text": "劝他放弃",
         "css": "btn",
-        "ref": "divTxtBtn85"
+        "ref": "divTxtBtn85",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -158,7 +174,8 @@
         "text": "不去管他",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn91"
+        "ref": "divTxtBtn91",
+        "__type": "textbox"
       }
     ],
     [
@@ -168,7 +185,8 @@
         "type": "selection",
         "text": "坂道上遇到呆望樱花中的智代",
         "css": "btn",
-        "ref": "divTxtBtn98"
+        "ref": "divTxtBtn98",
+        "__type": "textbox"
       }
     ],
     [
@@ -179,7 +197,8 @@
         "text": "打招呼",
         "route": "l|智代",
         "css": "btn",
-        "ref": "divTxtBtn102"
+        "ref": "divTxtBtn102",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -188,7 +207,8 @@
         "text": "不理她",
         "route": "r|智代",
         "css": "btn",
-        "ref": "divTxtBtn109"
+        "ref": "divTxtBtn109",
+        "__type": "textbox"
       }
     ],
     [
@@ -199,6 +219,7 @@
         "text": "B",
         "css": "btn",
         "ref": "divTxtBtn168",
+        "__type": "textbox",
         "link": "p14_B"
       },
       {
@@ -207,7 +228,8 @@
         "type": "condition",
         "text": "20日，离开美佐枝的房间",
         "css": "btn",
-        "ref": "divTxtBtn170"
+        "ref": "divTxtBtn170",
+        "__type": "textbox"
       }
     ],
     [
@@ -217,7 +239,8 @@
         "type": "selection",
         "text": "问她还可以再来吗",
         "css": "btn",
-        "ref": "divTxtBtn175"
+        "ref": "divTxtBtn175",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -226,7 +249,8 @@
         "text": "不会再来了",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn181"
+        "ref": "divTxtBtn181",
+        "__type": "textbox"
       }
     ],
     [
@@ -237,13 +261,15 @@
         "text": "智代线或者有纪宁线进入",
         "css": "btn",
         "ref": "divTxtBtn188",
+        "__type": "textbox",
         "num": {
           "x": 610,
           "y": 1300,
           "type": "ccheck",
           "text": "4",
           "css": "check",
-          "ref": "divBtn190"
+          "ref": "divBtn190",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -260,7 +286,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt191"
+          "ref": "divCmt191",
+          "__type": "comment"
         }
       }
     ],
@@ -271,7 +298,8 @@
         "type": "selection",
         "text": "是",
         "css": "btn",
-        "ref": "divTxtBtn194"
+        "ref": "divTxtBtn194",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -279,7 +307,8 @@
         "type": "selection",
         "text": "否",
         "css": "btn",
-        "ref": "divTxtBtn200"
+        "ref": "divTxtBtn200",
+        "__type": "textbox"
       }
     ],
     [
@@ -290,13 +319,15 @@
         "text": "安排晚上如何打发时间",
         "css": "btn",
         "ref": "divTxtBtn206",
+        "__type": "textbox",
         "num": {
           "x": 410,
           "y": 1450,
           "type": "ccheck",
           "text": "5",
           "css": "check",
-          "ref": "divBtn208"
+          "ref": "divBtn208",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -313,7 +344,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt209"
+          "ref": "divCmt209",
+          "__type": "comment"
         }
       },
       {
@@ -322,7 +354,8 @@
         "type": "condition",
         "text": "美佐枝线完全进入",
         "css": "btn",
-        "ref": "divTxtBtn212"
+        "ref": "divTxtBtn212",
+        "__type": "textbox"
       }
     ],
     [
@@ -333,7 +366,8 @@
         "text": "还是去美佐枝的房间",
         "route": "l|美佐枝|-杏|-椋|-智代|-芽衣|-有纪宁",
         "css": "btn",
-        "ref": "divTxtBtn216"
+        "ref": "divTxtBtn216",
+        "__type": "textbox"
       },
       {
         "x": 625,
@@ -342,7 +376,8 @@
         "text": "不去了",
         "route": "r|-智代|-芽衣|-有纪宁|美佐枝|-杏|-椋",
         "css": "btn",
-        "ref": "divTxtBtn228"
+        "ref": "divTxtBtn228",
+        "__type": "textbox"
       }
     ],
     [
@@ -352,7 +387,8 @@
         "type": "condition",
         "text": "美佐枝线完全进入",
         "css": "btn",
-        "ref": "divTxtBtn240"
+        "ref": "divTxtBtn240",
+        "__type": "textbox"
       }
     ]
   ],
@@ -360,931 +396,658 @@
     [
       {
         "x": 900,
-        "y": 175
+        "y": 175,
+        "__type": "point"
       },
       {
         "x": 900,
-        "y": 175
+        "y": 175,
+        "__type": "point"
       }
     ],
     [
       {
         "x": 800,
-        "y": 250
+        "y": 250,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn8",
         "x": 425,
         "y": 280,
-        "type": "option",
-        "text": "迟点再去吧",
-        "route": "l|胜平|-智代",
-        "css": "btn",
-        "ref": "divTxtBtn8"
+        "__type": "textbox"
       }
     ],
     [
       {
         "x": 800,
-        "y": 250
+        "y": 250,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn15",
         "x": 1025,
         "y": 280,
-        "type": "option",
-        "text": "认认真真起床上学",
-        "route": "l|-智代|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn15"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn3",
         "x": 725,
         "y": 190,
-        "type": "selection",
-        "text": "难得早起的朋也决定该做的事",
-        "css": "btn",
-        "ref": "divTxtBtn3"
+        "__type": "textbox"
       },
       {
         "x": 900,
-        "y": 250
+        "y": 250,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn8",
         "x": 425,
         "y": 280,
-        "type": "option",
-        "text": "迟点再去吧",
-        "route": "l|胜平|-智代",
-        "css": "btn",
-        "ref": "divTxtBtn8"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn24",
         "x": 425,
         "y": 340,
-        "type": "selection",
-        "text": "通学路上，身后传来引擎声",
-        "css": "btn",
-        "ref": "divTxtBtn24"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn24",
         "x": 425,
         "y": 340,
-        "type": "selection",
-        "text": "通学路上，身后传来引擎声",
-        "css": "btn",
-        "ref": "divTxtBtn24"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn28",
         "x": 25,
         "y": 430,
-        "type": "option",
-        "text": "向右跳",
-        "route": "l|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn28"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn24",
         "x": 425,
         "y": 340,
-        "type": "selection",
-        "text": "通学路上，身后传来引擎声",
-        "css": "btn",
-        "ref": "divTxtBtn24"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn35",
         "x": 425,
         "y": 430,
-        "type": "option",
-        "text": "站稳等着它",
-        "route": "r|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn35"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn24",
         "x": 425,
         "y": 340,
-        "type": "selection",
-        "text": "通学路上，身后传来引擎声",
-        "css": "btn",
-        "ref": "divTxtBtn24"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn40",
         "x": 825,
         "y": 430,
-        "type": "option",
-        "text": "向左跳",
-        "route": "r|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn40"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn28",
         "x": 25,
         "y": 430,
-        "type": "option",
-        "text": "向右跳",
-        "route": "l|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn28"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn47",
         "x": 25,
         "y": 490,
-        "type": "selection",
-        "text": "事发现场，某路人成为受害者",
-        "css": "btn",
-        "ref": "divTxtBtn47"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn47",
         "x": 25,
         "y": 490,
-        "type": "selection",
-        "text": "事发现场，某路人成为受害者",
-        "css": "btn",
-        "ref": "divTxtBtn47"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn51",
         "x": 25,
         "y": 580,
-        "type": "option",
-        "text": "离开这里",
-        "css": "btn",
-        "ref": "divTxtBtn51"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn47",
         "x": 25,
         "y": 490,
-        "type": "selection",
-        "text": "事发现场，某路人成为受害者",
-        "css": "btn",
-        "ref": "divTxtBtn47"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn55",
         "x": 425,
         "y": 580,
-        "type": "option",
-        "text": "摇一摇他",
-        "css": "btn",
-        "ref": "divTxtBtn55"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn51",
         "x": 25,
         "y": 580,
-        "type": "option",
-        "text": "离开这里",
-        "css": "btn",
-        "ref": "divTxtBtn51"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn61",
         "x": 25,
         "y": 670,
-        "type": "selection",
-        "text": "受害者遗忘的简历",
-        "css": "btn",
-        "ref": "divTxtBtn61"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn55",
         "x": 425,
         "y": 580,
-        "type": "option",
-        "text": "摇一摇他",
-        "css": "btn",
-        "ref": "divTxtBtn55"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn61",
         "x": 25,
         "y": 670,
-        "type": "selection",
-        "text": "受害者遗忘的简历",
-        "css": "btn",
-        "ref": "divTxtBtn61"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn15",
         "x": 1025,
         "y": 280,
-        "type": "option",
-        "text": "认认真真起床上学",
-        "route": "l|-智代|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn15"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn69",
         "x": 1025,
         "y": 670,
-        "type": "condition",
-        "text": "19日，春原准备威胁智代",
-        "css": "btn",
-        "ref": "divTxtBtn69"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn61",
         "x": 25,
         "y": 670,
-        "type": "selection",
-        "text": "受害者遗忘的简历",
-        "css": "btn",
-        "ref": "divTxtBtn61"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn73",
         "x": 25,
         "y": 760,
-        "type": "option",
-        "text": "查清地址后给他",
-        "route": "l|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn73"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn61",
         "x": 25,
         "y": 670,
-        "type": "selection",
-        "text": "受害者遗忘的简历",
-        "css": "btn",
-        "ref": "divTxtBtn61"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn78",
         "x": 425,
         "y": 760,
-        "type": "option",
-        "text": "撕了扔掉",
-        "route": "r|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn78"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn69",
         "x": 1025,
         "y": 670,
-        "type": "condition",
-        "text": "19日，春原准备威胁智代",
-        "css": "btn",
-        "ref": "divTxtBtn69"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn85",
         "x": 825,
         "y": 760,
-        "type": "selection",
-        "text": "劝他放弃",
-        "css": "btn",
-        "ref": "divTxtBtn85"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn69",
         "x": 1025,
         "y": 670,
-        "type": "condition",
-        "text": "19日，春原准备威胁智代",
-        "css": "btn",
-        "ref": "divTxtBtn69"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn91",
         "x": 1225,
         "y": 760,
-        "type": "selection",
-        "text": "不去管他",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn91"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn85",
         "x": 825,
         "y": 760,
-        "type": "selection",
-        "text": "劝他放弃",
-        "css": "btn",
-        "ref": "divTxtBtn85"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn98",
         "x": 825,
         "y": 820,
-        "type": "selection",
-        "text": "坂道上遇到呆望樱花中的智代",
-        "css": "btn",
-        "ref": "divTxtBtn98"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn98",
         "x": 825,
         "y": 820,
-        "type": "selection",
-        "text": "坂道上遇到呆望樱花中的智代",
-        "css": "btn",
-        "ref": "divTxtBtn98"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn102",
         "x": 625,
         "y": 910,
-        "type": "option",
-        "text": "打招呼",
-        "route": "l|智代",
-        "css": "btn",
-        "ref": "divTxtBtn102"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn98",
         "x": 825,
         "y": 820,
-        "type": "selection",
-        "text": "坂道上遇到呆望樱花中的智代",
-        "css": "btn",
-        "ref": "divTxtBtn98"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn109",
         "x": 1025,
         "y": 910,
-        "type": "option",
-        "text": "不理她",
-        "route": "r|智代",
-        "css": "btn",
-        "ref": "divTxtBtn109"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn102",
         "x": 625,
         "y": 910,
-        "type": "option",
-        "text": "打招呼",
-        "route": "l|智代",
-        "css": "btn",
-        "ref": "divTxtBtn102"
+        "__type": "textbox"
       },
       {
         "x": 1000,
-        "y": 1000
+        "y": 1000,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 1030
+        "y": 1030,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn109",
         "x": 1025,
         "y": 910,
-        "type": "option",
-        "text": "不理她",
-        "route": "r|智代",
-        "css": "btn",
-        "ref": "divTxtBtn109"
+        "__type": "textbox"
       },
       {
         "x": 1000,
-        "y": 1000
+        "y": 1000,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 1030
+        "y": 1030,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn91",
         "x": 1225,
         "y": 760,
-        "type": "selection",
-        "text": "不去管他",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn91"
+        "__type": "textbox"
       },
       {
         "x": 1200,
-        "y": 1030
+        "y": 1030,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn73",
         "x": 25,
         "y": 760,
-        "type": "option",
-        "text": "查清地址后给他",
-        "route": "l|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn73"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 850
+        "y": 850,
+        "__type": "point"
       },
       {
         "x": 600,
-        "y": 880
+        "y": 880,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 1030
+        "y": 1030,
+        "__type": "point"
       },
       {
         "x": 600,
-        "y": 1030
+        "y": 1030,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn78",
         "x": 425,
         "y": 760,
-        "type": "option",
-        "text": "撕了扔掉",
-        "route": "r|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn78"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 850
+        "y": 850,
+        "__type": "point"
       },
       {
         "x": 600,
-        "y": 880
+        "y": 880,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 1030
+        "y": 1030,
+        "__type": "point"
       },
       {
         "x": 600,
-        "y": 1030
+        "y": 1030,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn35",
         "x": 425,
         "y": 430,
-        "type": "option",
-        "text": "站稳等着它",
-        "route": "r|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn35"
+        "__type": "textbox"
       },
       {
         "x": 800,
-        "y": 520
+        "y": 520,
+        "__type": "point"
       },
       {
         "x": 600,
-        "y": 880
+        "y": 880,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 1030
+        "y": 1030,
+        "__type": "point"
       },
       {
         "x": 600,
-        "y": 1030
+        "y": 1030,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn40",
         "x": 825,
         "y": 430,
-        "type": "option",
-        "text": "向左跳",
-        "route": "r|胜平",
-        "css": "btn",
-        "ref": "divTxtBtn40"
+        "__type": "textbox"
       },
       {
         "x": 800,
-        "y": 520
+        "y": 520,
+        "__type": "point"
       },
       {
         "x": 600,
-        "y": 880
+        "y": 880,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 1030
+        "y": 1030,
+        "__type": "point"
       },
       {
         "x": 600,
-        "y": 1030
+        "y": 1030,
+        "__type": "point"
       }
     ],
     [
       {
         "x": 900,
-        "y": 1030
+        "y": 1030,
+        "__type": "point"
       },
       {
         "x": 900,
-        "y": 1030
+        "y": 1030,
+        "__type": "point"
       }
     ],
     [
       {
         "x": 1000,
-        "y": 1135
+        "y": 1135,
+        "__type": "point"
       },
       {
         "x": 1000,
-        "y": 1135
+        "y": 1135,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn170",
         "x": 825,
         "y": 1150,
-        "type": "condition",
-        "text": "20日，离开美佐枝的房间",
-        "css": "btn",
-        "ref": "divTxtBtn170"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn175",
         "x": 625,
         "y": 1240,
-        "type": "selection",
-        "text": "问她还可以再来吗",
-        "css": "btn",
-        "ref": "divTxtBtn175"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn170",
         "x": 825,
         "y": 1150,
-        "type": "condition",
-        "text": "20日，离开美佐枝的房间",
-        "css": "btn",
-        "ref": "divTxtBtn170"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn181",
         "x": 1025,
         "y": 1240,
-        "type": "selection",
-        "text": "不会再来了",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn181"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn175",
         "x": 625,
         "y": 1240,
-        "type": "selection",
-        "text": "问她还可以再来吗",
-        "css": "btn",
-        "ref": "divTxtBtn175"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn188",
         "x": 625,
         "y": 1300,
-        "type": "condition",
-        "text": "智代线或者有纪宁线进入",
-        "css": "btn",
-        "ref": "divTxtBtn188",
-        "num": {
-          "x": 610,
-          "y": 1300,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn190"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1290,
-          "text": "智代线进入或有纪宁线进入",
-          "num": "4",
-          "summary": "",
-          "hint": "此处{智代线进入}即下午，在分支{有智代的陪同}选择[的确不错]。没有选择相应选项或者没有触发分支的情况均属于否。<br>{有纪宁线进入}即18日，在分支{逃课选择睡觉的地方}选择[到那里去睡]，在接下来的分支{下课后，走进资料室的女孩}选择[再说几句话]；或者18日在分支{逃课选择睡觉的地方}选择[还是回教室吧]或者未触发这个分支，并且19日在分支{下课后，走进资料室的女孩}选择[再说几句话]。其他情况都属于没有进入有纪宁线。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt191"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn188",
         "x": 625,
         "y": 1300,
-        "type": "condition",
-        "text": "智代线或者有纪宁线进入",
-        "css": "btn",
-        "ref": "divTxtBtn188",
-        "num": {
-          "x": 610,
-          "y": 1300,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn190"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1290,
-          "text": "智代线进入或有纪宁线进入",
-          "num": "4",
-          "summary": "",
-          "hint": "此处{智代线进入}即下午，在分支{有智代的陪同}选择[的确不错]。没有选择相应选项或者没有触发分支的情况均属于否。<br>{有纪宁线进入}即18日，在分支{逃课选择睡觉的地方}选择[到那里去睡]，在接下来的分支{下课后，走进资料室的女孩}选择[再说几句话]；或者18日在分支{逃课选择睡觉的地方}选择[还是回教室吧]或者未触发这个分支，并且19日在分支{下课后，走进资料室的女孩}选择[再说几句话]。其他情况都属于没有进入有纪宁线。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt191"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn194",
         "x": 425,
         "y": 1390,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn194"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn188",
         "x": 625,
         "y": 1300,
-        "type": "condition",
-        "text": "智代线或者有纪宁线进入",
-        "css": "btn",
-        "ref": "divTxtBtn188",
-        "num": {
-          "x": 610,
-          "y": 1300,
-          "type": "ccheck",
-          "text": "4",
-          "css": "check",
-          "ref": "divBtn190"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1290,
-          "text": "智代线进入或有纪宁线进入",
-          "num": "4",
-          "summary": "",
-          "hint": "此处{智代线进入}即下午，在分支{有智代的陪同}选择[的确不错]。没有选择相应选项或者没有触发分支的情况均属于否。<br>{有纪宁线进入}即18日，在分支{逃课选择睡觉的地方}选择[到那里去睡]，在接下来的分支{下课后，走进资料室的女孩}选择[再说几句话]；或者18日在分支{逃课选择睡觉的地方}选择[还是回教室吧]或者未触发这个分支，并且19日在分支{下课后，走进资料室的女孩}选择[再说几句话]。其他情况都属于没有进入有纪宁线。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt191"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn200",
         "x": 825,
         "y": 1390,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn200"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn194",
         "x": 425,
         "y": 1390,
-        "type": "selection",
-        "text": "是",
-        "css": "btn",
-        "ref": "divTxtBtn194"
+        "__type": "textbox"
       },
       {
-        "x": 425,
-        "y": 1450,
-        "type": "selection",
-        "text": "安排晚上如何打发时间",
-        "css": "btn",
         "ref": "divTxtBtn206",
-        "num": {
-          "x": 410,
-          "y": 1450,
-          "type": "ccheck",
-          "text": "5",
-          "css": "check",
-          "ref": "divBtn208"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1440,
-          "text": "安排晚上如何打发时间",
-          "num": "5",
-          "summary": "一天又快过去，朋也计划着晚上的事，要继续去找美佐枝还是……",
-          "hint": "选择[还是去美佐枝的房间]，则完全进入美佐枝线，并同时退出智代线、有纪宁线以及藤林姐妹线（若已进入）。相乐美佐枝角色剧情攻略请参见P26。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt209"
-        }
-      }
-    ],
-    [
-      {
-        "x": 825,
-        "y": 1390,
-        "type": "selection",
-        "text": "否",
-        "css": "btn",
-        "ref": "divTxtBtn200"
-      },
-      {
-        "x": 825,
-        "y": 1450,
-        "type": "condition",
-        "text": "美佐枝线完全进入",
-        "css": "btn",
-        "ref": "divTxtBtn212"
-      }
-    ],
-    [
-      {
         "x": 425,
         "y": 1450,
-        "type": "selection",
-        "text": "安排晚上如何打发时间",
-        "css": "btn",
-        "ref": "divTxtBtn206",
-        "num": {
-          "x": 410,
-          "y": 1450,
-          "type": "ccheck",
-          "text": "5",
-          "css": "check",
-          "ref": "divBtn208"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1440,
-          "text": "安排晚上如何打发时间",
-          "num": "5",
-          "summary": "一天又快过去，朋也计划着晚上的事，要继续去找美佐枝还是……",
-          "hint": "选择[还是去美佐枝的房间]，则完全进入美佐枝线，并同时退出智代线、有纪宁线以及藤林姐妹线（若已进入）。相乐美佐枝角色剧情攻略请参见P26。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt209"
-        }
+        "__type": "textbox"
+      }
+    ],
+    [
+      {
+        "ref": "divTxtBtn200",
+        "x": 825,
+        "y": 1390,
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn212",
+        "x": 825,
+        "y": 1450,
+        "__type": "textbox"
+      }
+    ],
+    [
+      {
+        "ref": "divTxtBtn206",
+        "x": 425,
+        "y": 1450,
+        "__type": "textbox"
+      },
+      {
+        "ref": "divTxtBtn216",
         "x": 225,
         "y": 1540,
-        "type": "option",
-        "text": "还是去美佐枝的房间",
-        "route": "l|美佐枝|-杏|-椋|-智代|-芽衣|-有纪宁",
-        "css": "btn",
-        "ref": "divTxtBtn216"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn206",
         "x": 425,
         "y": 1450,
-        "type": "selection",
-        "text": "安排晚上如何打发时间",
-        "css": "btn",
-        "ref": "divTxtBtn206",
-        "num": {
-          "x": 410,
-          "y": 1450,
-          "type": "ccheck",
-          "text": "5",
-          "css": "check",
-          "ref": "divBtn208"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1440,
-          "text": "安排晚上如何打发时间",
-          "num": "5",
-          "summary": "一天又快过去，朋也计划着晚上的事，要继续去找美佐枝还是……",
-          "hint": "选择[还是去美佐枝的房间]，则完全进入美佐枝线，并同时退出智代线、有纪宁线以及藤林姐妹线（若已进入）。相乐美佐枝角色剧情攻略请参见P26。",
-          "setsumei": "",
-          "option": "",
-          "icon": "",
-          "iconillu": "",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt209"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn228",
         "x": 625,
         "y": 1540,
-        "type": "option",
-        "text": "不去了",
-        "route": "r|-智代|-芽衣|-有纪宁|美佐枝|-杏|-椋",
-        "css": "btn",
-        "ref": "divTxtBtn228"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn216",
         "x": 225,
         "y": 1540,
-        "type": "option",
-        "text": "还是去美佐枝的房间",
-        "route": "l|美佐枝|-杏|-椋|-智代|-芽衣|-有纪宁",
-        "css": "btn",
-        "ref": "divTxtBtn216"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn240",
         "x": 225,
         "y": 1600,
-        "type": "condition",
-        "text": "美佐枝线完全进入",
-        "css": "btn",
-        "ref": "divTxtBtn240"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn228",
         "x": 625,
         "y": 1540,
-        "type": "option",
-        "text": "不去了",
-        "route": "r|-智代|-芽衣|-有纪宁|美佐枝|-杏|-椋",
-        "css": "btn",
-        "ref": "divTxtBtn228"
+        "__type": "textbox"
       },
       {
         "x": 800,
-        "y": 1600
+        "y": 1600,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn181",
         "x": 1025,
         "y": 1240,
-        "type": "selection",
-        "text": "不会再来了",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn181"
+        "__type": "textbox"
       },
       {
         "x": 800,
-        "y": 1600
+        "y": 1600,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 1600
+        "y": 1600,
+        "__type": "point"
       }
     ],
     [
       {
         "x": 1000,
-        "y": 1600
+        "y": 1600,
+        "__type": "point"
       },
       {
         "x": 1000,
-        "y": 1600
+        "y": 1600,
+        "__type": "point"
       }
     ]
   ],
@@ -1304,7 +1067,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt191"
+      "ref": "divCmt191",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -1321,7 +1085,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt209"
+      "ref": "divCmt209",
+      "__type": "comment"
     }
   ],
   "header": {
@@ -1334,25 +1099,29 @@
     "dateE": "April 21st~Part 2",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 1630,
     "page": 14,
-    "ref": "divFt251"
+    "ref": "divFt251",
+    "__type": "footer"
   },
   "board": [
     {
       "x": 0,
       "y": 150,
-      "height": 930
+      "height": 930,
+      "__type": "board"
     },
     {
       "x": 0,
       "y": 1110,
-      "height": 570
+      "height": 570,
+      "__type": "board"
     }
   ]
 }

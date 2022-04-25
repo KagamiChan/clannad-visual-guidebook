@@ -7,7 +7,8 @@
         "type": "date",
         "text": "4月26日",
         "css": "date",
-        "ref": "divBtn1"
+        "ref": "divBtn1",
+        "__type": "button"
       }
     ],
     [
@@ -18,13 +19,15 @@
         "text": "提前寻找伙伴",
         "css": "btn",
         "ref": "divTxtBtn2",
+        "__type": "textbox",
         "num": {
           "x": 710,
           "y": 250,
           "type": "ccheck",
           "text": "1",
           "css": "check",
-          "ref": "divBtn4"
+          "ref": "divBtn4",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -41,7 +44,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
+          "ref": "divCmt5",
+          "__type": "comment"
         }
       }
     ],
@@ -52,7 +56,8 @@
         "type": "option",
         "text": "去找找看",
         "css": "btn",
-        "ref": "divTxtBtn8"
+        "ref": "divTxtBtn8",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -60,7 +65,8 @@
         "type": "option",
         "text": "等到星期一",
         "css": "btn",
-        "ref": "divTxtBtn14"
+        "ref": "divTxtBtn14",
+        "__type": "textbox"
       }
     ],
     [
@@ -71,13 +77,15 @@
         "text": "在走廊遇到幸村",
         "css": "btn",
         "ref": "divTxtBtn20",
+        "__type": "textbox",
         "num": {
           "x": 510,
           "y": 400,
           "type": "ccheck",
           "text": "2",
           "css": "check",
-          "ref": "divBtn22"
+          "ref": "divBtn22",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -94,7 +102,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt23"
+          "ref": "divCmt23",
+          "__type": "comment"
         }
       }
     ],
@@ -105,7 +114,8 @@
         "type": "option",
         "text": "让幸村加入队伍",
         "css": "btn",
-        "ref": "divTxtBtn26"
+        "ref": "divTxtBtn26",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -113,7 +123,8 @@
         "type": "option",
         "text": "不要他加入",
         "css": "btn",
-        "ref": "divTxtBtn32"
+        "ref": "divTxtBtn32",
+        "__type": "textbox"
       }
     ],
     [
@@ -123,7 +134,8 @@
         "type": "condition",
         "text": "23日，春原的妹妹打来电话",
         "css": "btn",
-        "ref": "divTxtBtn38"
+        "ref": "divTxtBtn38",
+        "__type": "textbox"
       }
     ],
     [
@@ -133,7 +145,8 @@
         "type": "selection",
         "text": "代春原接听",
         "css": "btn",
-        "ref": "divTxtBtn56"
+        "ref": "divTxtBtn56",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -142,7 +155,8 @@
         "text": "不代他接听",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn62"
+        "ref": "divTxtBtn62",
+        "__type": "textbox"
       }
     ],
     [
@@ -153,13 +167,15 @@
         "text": "前来探亲的芽衣",
         "css": "btn",
         "ref": "divTxtBtn69",
+        "__type": "textbox",
         "num": {
           "x": 510,
           "y": 760,
           "type": "ccheck",
           "text": "3",
           "css": "check",
-          "ref": "divBtn71"
+          "ref": "divBtn71",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -176,7 +192,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt72"
+          "ref": "divCmt72",
+          "__type": "comment"
         }
       }
     ],
@@ -187,7 +204,8 @@
         "type": "option",
         "text": "好的",
         "css": "btn",
-        "ref": "divTxtBtn75"
+        "ref": "divTxtBtn75",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -195,7 +213,8 @@
         "type": "option",
         "text": "自己一个人去吧",
         "css": "btn",
-        "ref": "divTxtBtn81"
+        "ref": "divTxtBtn81",
+        "__type": "textbox"
       }
     ],
     [
@@ -205,7 +224,8 @@
         "type": "date",
         "text": "4月27日",
         "css": "date",
-        "ref": "divBtn87"
+        "ref": "divBtn87",
+        "__type": "button"
       }
     ],
     [
@@ -215,7 +235,8 @@
         "type": "date",
         "text": "4月27日",
         "css": "date",
-        "ref": "divBtn104"
+        "ref": "divBtn104",
+        "__type": "button"
       }
     ],
     [
@@ -225,7 +246,8 @@
         "type": "condition",
         "text": "26日，前来探亲的芽衣",
         "css": "btn",
-        "ref": "divTxtBtn105"
+        "ref": "divTxtBtn105",
+        "__type": "textbox"
       }
     ],
     [
@@ -235,7 +257,8 @@
         "type": "selection",
         "text": "好的",
         "css": "btn",
-        "ref": "divTxtBtn109"
+        "ref": "divTxtBtn109",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -244,7 +267,8 @@
         "text": "自己一个人去吧",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn115"
+        "ref": "divTxtBtn115",
+        "__type": "textbox"
       }
     ],
     [
@@ -255,13 +279,15 @@
         "text": "帮忙打理店铺",
         "css": "btn",
         "ref": "divTxtBtn122",
+        "__type": "textbox",
         "num": {
           "x": 210,
           "y": 1330,
           "type": "ccheck",
           "text": "1",
           "css": "check",
-          "ref": "divBtn124"
+          "ref": "divBtn124",
+          "__type": "button"
         },
         "comment": {
           "x": 1625,
@@ -278,7 +304,8 @@
           "contentcss": "comment",
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
-          "ref": "divCmt125"
+          "ref": "divCmt125",
+          "__type": "comment"
         }
       },
       {
@@ -287,7 +314,8 @@
         "type": "selection",
         "text": "周末的面包店",
         "css": "btn",
-        "ref": "divTxtBtn128"
+        "ref": "divTxtBtn128",
+        "__type": "textbox"
       }
     ],
     [
@@ -297,7 +325,8 @@
         "type": "option",
         "text": "可以",
         "css": "btn",
-        "ref": "divTxtBtn132"
+        "ref": "divTxtBtn132",
+        "__type": "textbox"
       },
       {
         "x": 425,
@@ -305,7 +334,8 @@
         "type": "option",
         "text": "不好",
         "css": "btn",
-        "ref": "divTxtBtn138"
+        "ref": "divTxtBtn138",
+        "__type": "textbox"
       },
       {
         "x": 825,
@@ -313,7 +343,8 @@
         "type": "option",
         "text": "来帮忙",
         "css": "btn",
-        "ref": "divTxtBtn144"
+        "ref": "divTxtBtn144",
+        "__type": "textbox"
       },
       {
         "x": 1225,
@@ -321,7 +352,8 @@
         "type": "option",
         "text": "来买面包",
         "css": "btn",
-        "ref": "divTxtBtn150"
+        "ref": "divTxtBtn150",
+        "__type": "textbox"
       }
     ],
     [
@@ -331,7 +363,8 @@
         "type": "selection",
         "text": "近在身边的渚",
         "css": "btn",
-        "ref": "divTxtBtn156"
+        "ref": "divTxtBtn156",
+        "__type": "textbox"
       }
     ],
     [
@@ -341,7 +374,8 @@
         "type": "option",
         "text": "抱住渚的肩膀",
         "css": "btn",
-        "ref": "divTxtBtn160"
+        "ref": "divTxtBtn160",
+        "__type": "textbox"
       },
       {
         "x": 1025,
@@ -349,7 +383,8 @@
         "type": "option",
         "text": "克制自己",
         "css": "btn",
-        "ref": "divTxtBtn166"
+        "ref": "divTxtBtn166",
+        "__type": "textbox"
       }
     ],
     [
@@ -359,7 +394,8 @@
         "type": "option",
         "text": "幻想世界（七）",
         "css": "btn",
-        "ref": "divTxtBtn172"
+        "ref": "divTxtBtn172",
+        "__type": "textbox"
       }
     ],
     [
@@ -369,987 +405,555 @@
         "type": "date",
         "text": "4月28日",
         "css": "date",
-        "ref": "divBtn210"
+        "ref": "divBtn210",
+        "__type": "button"
       }
     ]
   ],
   "line": [
     [
       {
+        "ref": "divBtn1",
         "x": 850,
         "y": 175,
-        "type": "date",
-        "text": "4月26日",
-        "css": "date",
-        "ref": "divBtn1"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn2",
         "x": 725,
         "y": 250,
-        "type": "selection",
-        "text": "提前寻找伙伴",
-        "css": "btn",
-        "ref": "divTxtBtn2",
-        "num": {
-          "x": 710,
-          "y": 250,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn4"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 240,
-          "text": "提前寻找伙伴",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-去找找看",
-          "icon": "00100000",
-          "iconillu": "芳野成为3对3篮球赛成员候选",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 725,
         "y": 250,
-        "type": "selection",
-        "text": "提前寻找伙伴",
-        "css": "btn",
-        "ref": "divTxtBtn2",
-        "num": {
-          "x": 710,
-          "y": 250,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn4"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 240,
-          "text": "提前寻找伙伴",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-去找找看",
-          "icon": "00100000",
-          "iconillu": "芳野成为3对3篮球赛成员候选",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn8",
         "x": 525,
         "y": 340,
-        "type": "option",
-        "text": "去找找看",
-        "css": "btn",
-        "ref": "divTxtBtn8"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn2",
         "x": 725,
         "y": 250,
-        "type": "selection",
-        "text": "提前寻找伙伴",
-        "css": "btn",
-        "ref": "divTxtBtn2",
-        "num": {
-          "x": 710,
-          "y": 250,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn4"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 240,
-          "text": "提前寻找伙伴",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-去找找看",
-          "icon": "00100000",
-          "iconillu": "芳野成为3对3篮球赛成员候选",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt5"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn14",
         "x": 925,
         "y": 340,
-        "type": "option",
-        "text": "等到星期一",
-        "css": "btn",
-        "ref": "divTxtBtn14"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn8",
         "x": 525,
         "y": 340,
-        "type": "option",
-        "text": "去找找看",
-        "css": "btn",
-        "ref": "divTxtBtn8"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn20",
         "x": 525,
         "y": 400,
-        "type": "selection",
-        "text": "在走廊遇到幸村",
-        "css": "btn",
-        "ref": "divTxtBtn20",
-        "num": {
-          "x": 510,
-          "y": 400,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn22"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 390,
-          "text": "在走廊遇到幸村",
-          "num": "2",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-让幸村加入队伍</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"326\" height=\"42\" valign=\"bottom\" align=\"left\" class=\"commentOri\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Basketball[A].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Graduation[B].png\" style=\"margin-right:0px;\"></td><td width=\"404\"><table border=0 cellpadding=0 cellspacing=0 height=35 background=\"Ori/Comment/Comment_Tips.png\"><tr><td height=35 valign=\"middle\" class=\"cmtEvntOri\" width=\"394\">芳野参与3对3篮球赛</td></tr></table></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\" height=\"5\"></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"243\" height=\"20\" background=\"Ori/Comment/Comment_Option_B.png\" valign=\"bottom\" align=\"center\"><div class=\"cmtoptOri\">不要让他加入",
-          "icon": "00100000",
-          "iconillu": "秋生、渚有条件参与3对3篮球赛",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt23"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn20",
         "x": 525,
         "y": 400,
-        "type": "selection",
-        "text": "在走廊遇到幸村",
-        "css": "btn",
-        "ref": "divTxtBtn20",
-        "num": {
-          "x": 510,
-          "y": 400,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn22"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 390,
-          "text": "在走廊遇到幸村",
-          "num": "2",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-让幸村加入队伍</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"326\" height=\"42\" valign=\"bottom\" align=\"left\" class=\"commentOri\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Basketball[A].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Graduation[B].png\" style=\"margin-right:0px;\"></td><td width=\"404\"><table border=0 cellpadding=0 cellspacing=0 height=35 background=\"Ori/Comment/Comment_Tips.png\"><tr><td height=35 valign=\"middle\" class=\"cmtEvntOri\" width=\"394\">芳野参与3对3篮球赛</td></tr></table></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\" height=\"5\"></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"243\" height=\"20\" background=\"Ori/Comment/Comment_Option_B.png\" valign=\"bottom\" align=\"center\"><div class=\"cmtoptOri\">不要让他加入",
-          "icon": "00100000",
-          "iconillu": "秋生、渚有条件参与3对3篮球赛",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt23"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn26",
         "x": 325,
         "y": 490,
-        "type": "option",
-        "text": "让幸村加入队伍",
-        "css": "btn",
-        "ref": "divTxtBtn26"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn20",
         "x": 525,
         "y": 400,
-        "type": "selection",
-        "text": "在走廊遇到幸村",
-        "css": "btn",
-        "ref": "divTxtBtn20",
-        "num": {
-          "x": 510,
-          "y": 400,
-          "type": "ccheck",
-          "text": "2",
-          "css": "check",
-          "ref": "divBtn22"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 390,
-          "text": "在走廊遇到幸村",
-          "num": "2",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-让幸村加入队伍</div></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"243\" height=\"20\" valign=\"bottom\" align=\"center\"></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"326\" height=\"42\" valign=\"bottom\" align=\"left\" class=\"commentOri\"><img src=\"Ori/Comment/Comment_Mark_64HIT[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Spell[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Basketball[A].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_FakeGF[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Master[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Impression[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Baseball[B].png\" style=\"margin-right:0px;\"><img src=\"Ori/Comment/Comment_Mark_Graduation[B].png\" style=\"margin-right:0px;\"></td><td width=\"404\"><table border=0 cellpadding=0 cellspacing=0 height=35 background=\"Ori/Comment/Comment_Tips.png\"><tr><td height=35 valign=\"middle\" class=\"cmtEvntOri\" width=\"394\">芳野参与3对3篮球赛</td></tr></table></td><td width=\"10\"></td></tr></table></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\" height=\"5\"></td></tr><tr><td background=\"Ori/Comment/Comment_Frame_Description.png\"><table border=0 cellpadding=0 cellspacing=0 width=\"750\"><tr><td width=\"10\"></td><td width=\"243\" height=\"20\" background=\"Ori/Comment/Comment_Option_B.png\" valign=\"bottom\" align=\"center\"><div class=\"cmtoptOri\">不要让他加入",
-          "icon": "00100000",
-          "iconillu": "秋生、渚有条件参与3对3篮球赛",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt23"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn32",
         "x": 725,
         "y": 490,
-        "type": "option",
-        "text": "不要他加入",
-        "css": "btn",
-        "ref": "divTxtBtn32"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn26",
         "x": 325,
         "y": 490,
-        "type": "option",
-        "text": "让幸村加入队伍",
-        "css": "btn",
-        "ref": "divTxtBtn26"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 580
+        "y": 580,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn38",
         "x": 725,
         "y": 610,
-        "type": "condition",
-        "text": "23日，春原的妹妹打来电话",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn32",
         "x": 725,
         "y": 490,
-        "type": "option",
-        "text": "不要他加入",
-        "css": "btn",
-        "ref": "divTxtBtn32"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 580
+        "y": 580,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn38",
         "x": 725,
         "y": 610,
-        "type": "condition",
-        "text": "23日，春原的妹妹打来电话",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn14",
         "x": 925,
         "y": 340,
-        "type": "option",
-        "text": "等到星期一",
-        "css": "btn",
-        "ref": "divTxtBtn14"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn38",
         "x": 725,
         "y": 610,
-        "type": "condition",
-        "text": "23日，春原的妹妹打来电话",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn38",
         "x": 725,
         "y": 610,
-        "type": "condition",
-        "text": "23日，春原的妹妹打来电话",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn56",
         "x": 525,
         "y": 700,
-        "type": "selection",
-        "text": "代春原接听",
-        "css": "btn",
-        "ref": "divTxtBtn56"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn38",
         "x": 725,
         "y": 610,
-        "type": "condition",
-        "text": "23日，春原的妹妹打来电话",
-        "css": "btn",
-        "ref": "divTxtBtn38"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn62",
         "x": 925,
         "y": 700,
-        "type": "selection",
-        "text": "不代他接听",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn62"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn56",
         "x": 525,
         "y": 700,
-        "type": "selection",
-        "text": "代春原接听",
-        "css": "btn",
-        "ref": "divTxtBtn56"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn69",
         "x": 525,
         "y": 760,
-        "type": "selection",
-        "text": "前来探亲的芽衣",
-        "css": "btn",
-        "ref": "divTxtBtn69",
-        "num": {
-          "x": 510,
-          "y": 760,
-          "type": "ccheck",
-          "text": "3",
-          "css": "check",
-          "ref": "divBtn71"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 750,
-          "text": "前来探亲的芽衣",
-          "num": "3",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-好的",
-          "icon": "00100001",
-          "iconillu": "秋生有条件参与3对3篮球赛；芽衣、美佐枝参与毕业典礼（此为美佐枝参与毕业典礼的另一种途径，也是首选途径）",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt72"
-        }
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn69",
         "x": 525,
         "y": 760,
-        "type": "selection",
-        "text": "前来探亲的芽衣",
-        "css": "btn",
-        "ref": "divTxtBtn69",
-        "num": {
-          "x": 510,
-          "y": 760,
-          "type": "ccheck",
-          "text": "3",
-          "css": "check",
-          "ref": "divBtn71"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 750,
-          "text": "前来探亲的芽衣",
-          "num": "3",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-好的",
-          "icon": "00100001",
-          "iconillu": "秋生有条件参与3对3篮球赛；芽衣、美佐枝参与毕业典礼（此为美佐枝参与毕业典礼的另一种途径，也是首选途径）",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt72"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn75",
         "x": 325,
         "y": 850,
-        "type": "option",
-        "text": "好的",
-        "css": "btn",
-        "ref": "divTxtBtn75"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn69",
         "x": 525,
         "y": 760,
-        "type": "selection",
-        "text": "前来探亲的芽衣",
-        "css": "btn",
-        "ref": "divTxtBtn69",
-        "num": {
-          "x": 510,
-          "y": 760,
-          "type": "ccheck",
-          "text": "3",
-          "css": "check",
-          "ref": "divBtn71"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 750,
-          "text": "前来探亲的芽衣",
-          "num": "3",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-好的",
-          "icon": "00100001",
-          "iconillu": "秋生有条件参与3对3篮球赛；芽衣、美佐枝参与毕业典礼（此为美佐枝参与毕业典礼的另一种途径，也是首选途径）",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt72"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn81",
         "x": 725,
         "y": 850,
-        "type": "option",
-        "text": "自己一个人去吧",
-        "css": "btn",
-        "ref": "divTxtBtn81"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn75",
         "x": 325,
         "y": 850,
-        "type": "option",
-        "text": "好的",
-        "css": "btn",
-        "ref": "divTxtBtn75"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 940
+        "y": 940,
+        "__type": "point"
       },
       {
+        "ref": "divBtn87",
         "x": 850,
         "y": 970,
-        "type": "date",
-        "text": "4月27日",
-        "css": "date",
-        "ref": "divBtn87"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn81",
         "x": 725,
         "y": 850,
-        "type": "option",
-        "text": "自己一个人去吧",
-        "css": "btn",
-        "ref": "divTxtBtn81"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 940
+        "y": 940,
+        "__type": "point"
       },
       {
+        "ref": "divBtn87",
         "x": 850,
         "y": 970,
-        "type": "date",
-        "text": "4月27日",
-        "css": "date",
-        "ref": "divBtn87"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divTxtBtn62",
         "x": 925,
         "y": 700,
-        "type": "selection",
-        "text": "不代他接听",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn62"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn87",
         "x": 850,
         "y": 970,
-        "type": "date",
-        "text": "4月27日",
-        "css": "date",
-        "ref": "divBtn87"
+        "__type": "button"
       }
     ],
     [
       {
+        "ref": "divBtn104",
         "x": 750,
         "y": 1105,
-        "type": "date",
-        "text": "4月27日",
-        "css": "date",
-        "ref": "divBtn104"
+        "__type": "button"
       },
       {
+        "ref": "divTxtBtn105",
         "x": 625,
         "y": 1180,
-        "type": "condition",
-        "text": "26日，前来探亲的芽衣",
-        "css": "btn",
-        "ref": "divTxtBtn105"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn105",
         "x": 625,
         "y": 1180,
-        "type": "condition",
-        "text": "26日，前来探亲的芽衣",
-        "css": "btn",
-        "ref": "divTxtBtn105"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn109",
         "x": 225,
         "y": 1270,
-        "type": "selection",
-        "text": "好的",
-        "css": "btn",
-        "ref": "divTxtBtn109"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn105",
         "x": 625,
         "y": 1180,
-        "type": "condition",
-        "text": "26日，前来探亲的芽衣",
-        "css": "btn",
-        "ref": "divTxtBtn105"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn115",
         "x": 1025,
         "y": 1270,
-        "type": "selection",
-        "text": "自己一个人去吧",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn115"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn109",
         "x": 225,
         "y": 1270,
-        "type": "selection",
-        "text": "好的",
-        "css": "btn",
-        "ref": "divTxtBtn109"
+        "__type": "textbox"
       },
       {
-        "x": 225,
-        "y": 1330,
-        "type": "selection",
-        "text": "帮忙打理店铺",
-        "css": "btn",
         "ref": "divTxtBtn122",
-        "num": {
-          "x": 210,
-          "y": 1330,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn124"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1320,
-          "text": "帮忙打理店铺",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-可以",
-          "icon": "00000001",
-          "iconillu": "公子有条件参与毕业典礼（此为公子参与毕业典礼的另一种途径）",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt125"
-        }
-      }
-    ],
-    [
-      {
-        "x": 1025,
-        "y": 1270,
-        "type": "selection",
-        "text": "自己一个人去吧",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn115"
-      },
-      {
-        "x": 1025,
-        "y": 1330,
-        "type": "selection",
-        "text": "周末的面包店",
-        "css": "btn",
-        "ref": "divTxtBtn128"
-      }
-    ],
-    [
-      {
         "x": 225,
         "y": 1330,
-        "type": "selection",
-        "text": "帮忙打理店铺",
-        "css": "btn",
-        "ref": "divTxtBtn122",
-        "num": {
-          "x": 210,
-          "y": 1330,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn124"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1320,
-          "text": "帮忙打理店铺",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-可以",
-          "icon": "00000001",
-          "iconillu": "公子有条件参与毕业典礼（此为公子参与毕业典礼的另一种途径）",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt125"
-        }
+        "__type": "textbox"
+      }
+    ],
+    [
+      {
+        "ref": "divTxtBtn115",
+        "x": 1025,
+        "y": 1270,
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn128",
+        "x": 1025,
+        "y": 1330,
+        "__type": "textbox"
+      }
+    ],
+    [
+      {
+        "ref": "divTxtBtn122",
+        "x": 225,
+        "y": 1330,
+        "__type": "textbox"
+      },
+      {
+        "ref": "divTxtBtn132",
         "x": 25,
         "y": 1420,
-        "type": "option",
-        "text": "可以",
-        "css": "btn",
-        "ref": "divTxtBtn132"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn122",
         "x": 225,
         "y": 1330,
-        "type": "selection",
-        "text": "帮忙打理店铺",
-        "css": "btn",
-        "ref": "divTxtBtn122",
-        "num": {
-          "x": 210,
-          "y": 1330,
-          "type": "ccheck",
-          "text": "1",
-          "css": "check",
-          "ref": "divBtn124"
-        },
-        "comment": {
-          "x": 1625,
-          "y": 1320,
-          "text": "帮忙打理店铺",
-          "num": "1",
-          "summary": "",
-          "hint": "",
-          "setsumei": "",
-          "option": "-可以",
-          "icon": "00000001",
-          "iconillu": "公子有条件参与毕业典礼（此为公子参与毕业典礼的另一种途径）",
-          "titlecss": "cmtbtn",
-          "contentcss": "comment",
-          "optioncss": "cmtopt",
-          "eventcss": "cmtEvnt",
-          "ref": "divCmt125"
-        }
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn138",
         "x": 425,
         "y": 1420,
-        "type": "option",
-        "text": "不好",
-        "css": "btn",
-        "ref": "divTxtBtn138"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn128",
         "x": 1025,
         "y": 1330,
-        "type": "selection",
-        "text": "周末的面包店",
-        "css": "btn",
-        "ref": "divTxtBtn128"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn144",
         "x": 825,
         "y": 1420,
-        "type": "option",
-        "text": "来帮忙",
-        "css": "btn",
-        "ref": "divTxtBtn144"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn128",
         "x": 1025,
         "y": 1330,
-        "type": "selection",
-        "text": "周末的面包店",
-        "css": "btn",
-        "ref": "divTxtBtn128"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn150",
         "x": 1225,
         "y": 1420,
-        "type": "option",
-        "text": "来买面包",
-        "css": "btn",
-        "ref": "divTxtBtn150"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn144",
         "x": 825,
         "y": 1420,
-        "type": "option",
-        "text": "来帮忙",
-        "css": "btn",
-        "ref": "divTxtBtn144"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn156",
         "x": 825,
         "y": 1480,
-        "type": "selection",
-        "text": "近在身边的渚",
-        "css": "btn",
-        "ref": "divTxtBtn156"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn156",
         "x": 825,
         "y": 1480,
-        "type": "selection",
-        "text": "近在身边的渚",
-        "css": "btn",
-        "ref": "divTxtBtn156"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn160",
         "x": 625,
         "y": 1570,
-        "type": "option",
-        "text": "抱住渚的肩膀",
-        "css": "btn",
-        "ref": "divTxtBtn160"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn156",
         "x": 825,
         "y": 1480,
-        "type": "selection",
-        "text": "近在身边的渚",
-        "css": "btn",
-        "ref": "divTxtBtn156"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn166",
         "x": 1025,
         "y": 1570,
-        "type": "option",
-        "text": "克制自己",
-        "css": "btn",
-        "ref": "divTxtBtn166"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn160",
         "x": 625,
         "y": 1570,
-        "type": "option",
-        "text": "抱住渚的肩膀",
-        "css": "btn",
-        "ref": "divTxtBtn160"
+        "__type": "textbox"
       },
       {
         "x": 1000,
-        "y": 1660
+        "y": 1660,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 1690
+        "y": 1690,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn172",
         "x": 625,
         "y": 1720,
-        "type": "option",
-        "text": "幻想世界（七）",
-        "css": "btn",
-        "ref": "divTxtBtn172"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn166",
         "x": 1025,
         "y": 1570,
-        "type": "option",
-        "text": "克制自己",
-        "css": "btn",
-        "ref": "divTxtBtn166"
+        "__type": "textbox"
       },
       {
         "x": 1000,
-        "y": 1660
+        "y": 1660,
+        "__type": "point"
       },
       {
         "x": 1200,
-        "y": 1690
+        "y": 1690,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn172",
         "x": 625,
         "y": 1720,
-        "type": "option",
-        "text": "幻想世界（七）",
-        "css": "btn",
-        "ref": "divTxtBtn172"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn132",
         "x": 25,
         "y": 1420,
-        "type": "option",
-        "text": "可以",
-        "css": "btn",
-        "ref": "divTxtBtn132"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 1510
+        "y": 1510,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn172",
         "x": 625,
         "y": 1720,
-        "type": "option",
-        "text": "幻想世界（七）",
-        "css": "btn",
-        "ref": "divTxtBtn172"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn138",
         "x": 425,
         "y": 1420,
-        "type": "option",
-        "text": "不好",
-        "css": "btn",
-        "ref": "divTxtBtn138"
+        "__type": "textbox"
       },
       {
         "x": 400,
-        "y": 1510
+        "y": 1510,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn172",
         "x": 625,
         "y": 1720,
-        "type": "option",
-        "text": "幻想世界（七）",
-        "css": "btn",
-        "ref": "divTxtBtn172"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn150",
         "x": 1225,
         "y": 1420,
-        "type": "option",
-        "text": "来买面包",
-        "css": "btn",
-        "ref": "divTxtBtn150"
+        "__type": "textbox"
       },
       {
         "x": 1200,
-        "y": 1690
+        "y": 1690,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn172",
         "x": 625,
         "y": 1720,
-        "type": "option",
-        "text": "幻想世界（七）",
-        "css": "btn",
-        "ref": "divTxtBtn172"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn172",
         "x": 625,
         "y": 1720,
-        "type": "option",
-        "text": "幻想世界（七）",
-        "css": "btn",
-        "ref": "divTxtBtn172"
+        "__type": "textbox"
       },
       {
+        "ref": "divBtn210",
         "x": 750,
         "y": 1780,
-        "type": "date",
-        "text": "4月28日",
-        "css": "date",
-        "ref": "divBtn210"
+        "__type": "button"
       }
     ]
   ],
@@ -1369,7 +973,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt5"
+      "ref": "divCmt5",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -1386,7 +991,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt23"
+      "ref": "divCmt23",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -1403,7 +1009,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt72"
+      "ref": "divCmt72",
+      "__type": "comment"
     },
     {
       "x": 1625,
@@ -1420,7 +1027,8 @@
       "contentcss": "comment",
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
-      "ref": "divCmt125"
+      "ref": "divCmt125",
+      "__type": "comment"
     }
   ],
   "header": {
@@ -1433,14 +1041,16 @@
     "dateE": "April 26th~April 27th",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 1840,
     "page": 51,
-    "ref": "divFt213"
+    "ref": "divFt213",
+    "__type": "footer"
   },
   "board": []
 }

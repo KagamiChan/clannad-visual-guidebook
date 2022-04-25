@@ -478,6 +478,7 @@ class PointBase {
     this.props = {
       x,
       y,
+      __type: 'point',
     }
   }
 
@@ -557,6 +558,7 @@ class HeaderBase {
       titlecss,
       contentcss,
       ref: this.ref,
+      __type: 'header',
     }
 
     this.HTML = `<div id="${this.ref}Wrap" style="position:absolute; width:0px; left:${
@@ -648,6 +650,7 @@ function FooterBase(x, y, height, page) {
     height,
     page,
     ref: this.ref,
+    __type: 'footer',
   }
 
   this.HTML += `<div id="${this.ref}Wrap" style="position:absolute; width:0px; left:${this.leftx}px; top:${this.topy}px; height:0px; z-index:${this.zindex}; overflow:visible; visibility:hidden;">`
@@ -829,6 +832,7 @@ function ButtonBase(x, y, type, text, css, adjustw) {
     css,
     adjustw,
     ref: this.ref,
+    __type: 'button',
   }
 
   this.HTML += `<div id="${this.ref}Wrap" style="position:absolute; width:0px; left:${this.leftx}px; top:${this.topy}px; height:0px; z-index:${this.zindex}; overflow:visible; visibility:hidden;"><div id="${this.ref}Link"></div>`
@@ -924,6 +928,7 @@ function TextboxBase(x, y, type, text, route, css) {
     route,
     css,
     ref: this.ref,
+    __type: 'textbox',
   }
 
   this.btn = new ButtonBase(this.leftx, this.topy, this.type, this.title, this.css)
@@ -1136,6 +1141,7 @@ function CommentBase(
     optioncss,
     eventcss,
     ref: this.ref,
+    __type: 'comment',
   }
 
   this.HTML += `<div id="${this.ref}Wrap" style="position:absolute; width:0px; left:${this.leftx}px; top:${this.topy}px; height:0px; z-index:${this.zindex}; overflow:visible; visibility:hidden;"><div id="${this.ref}Link"></div>`
@@ -1374,6 +1380,7 @@ function vmlline(x, y, l, h) {
     l,
     h,
     ref: this.ref,
+    __type: 'line',
   }
 
   this.HTML = ''
@@ -1469,7 +1476,11 @@ function Linkline() {
   args = Linkline.arguments
   if (args[1] == 'Ligueston') args = args[0]
 
-  this.props = [...args].map((r) => ({ ...r.props })).sort((a, b) => a.y - b.y)
+  this.props = [...args]
+    .map((r) =>
+      r.ref ? { ref: r.ref, x: r.props.x, y: r.props.y, __type: r.props.__type } : { ...r.props },
+    )
+    .sort((a, b) => a.y - b.y)
 
   if (args[0].upcenter != null) this.Points[this.Points.length] = args[0].upcenter
   else this.Points[this.Points.length] = args[0]
@@ -1567,6 +1578,7 @@ function BoardBase(x, y, height) {
     x,
     y,
     height,
+    __type: 'board',
   }
 
   this.HTML = ''

@@ -7,7 +7,8 @@
         "type": "selection",
         "text": "渚提出探望父亲的要求",
         "css": "btn",
-        "ref": "divTxtBtn1"
+        "ref": "divTxtBtn1",
+        "__type": "textbox"
       }
     ],
     [
@@ -18,7 +19,8 @@
         "text": "……。",
         "route": "l|直幸|汐|风子|公子",
         "css": "btn",
-        "ref": "divTxtBtn5"
+        "ref": "divTxtBtn5",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -27,7 +29,8 @@
         "text": "不去管她",
         "route": "r|公子|直幸|汐|风子",
         "css": "btn",
-        "ref": "divTxtBtn15"
+        "ref": "divTxtBtn15",
+        "__type": "textbox"
       }
     ],
     [
@@ -37,7 +40,8 @@
         "type": "selection",
         "text": "对父亲反应的不解",
         "css": "btn",
-        "ref": "divTxtBtn25"
+        "ref": "divTxtBtn25",
+        "__type": "textbox"
       }
     ],
     [
@@ -48,7 +52,8 @@
         "text": "殴打他",
         "route": "l|-公子|-直幸-|-汐|-风子",
         "css": "btn",
-        "ref": "divTxtBtn29"
+        "ref": "divTxtBtn29",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -57,7 +62,8 @@
         "text": "忍耐",
         "route": "r|-风子|-公子|-直幸|-汐",
         "css": "btn",
-        "ref": "divTxtBtn39"
+        "ref": "divTxtBtn39",
+        "__type": "textbox"
       }
     ],
     [
@@ -67,7 +73,8 @@
         "type": "selection",
         "text": "正在做作业的渚（一）",
         "css": "btn",
-        "ref": "divTxtBtn49"
+        "ref": "divTxtBtn49",
+        "__type": "textbox"
       }
     ],
     [
@@ -77,7 +84,8 @@
         "type": "option",
         "text": "从后面抱住她",
         "css": "btn",
-        "ref": "divTxtBtn67"
+        "ref": "divTxtBtn67",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -85,7 +93,8 @@
         "type": "option",
         "text": "老实看电视",
         "css": "btn",
-        "ref": "divTxtBtn73"
+        "ref": "divTxtBtn73",
+        "__type": "textbox"
       }
     ],
     [
@@ -95,7 +104,8 @@
         "type": "selection",
         "text": "正在做作业的渚（二）",
         "css": "btn",
-        "ref": "divTxtBtn79"
+        "ref": "divTxtBtn79",
+        "__type": "textbox"
       }
     ],
     [
@@ -105,7 +115,8 @@
         "type": "option",
         "text": "抱的更紧一些",
         "css": "btn",
-        "ref": "divTxtBtn83"
+        "ref": "divTxtBtn83",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -113,7 +124,8 @@
         "type": "option",
         "text": "这样会妨碍她的吧,保持这样就好了",
         "css": "btn",
-        "ref": "divTxtBtn89"
+        "ref": "divTxtBtn89",
+        "__type": "textbox"
       }
     ],
     [
@@ -123,7 +135,8 @@
         "type": "selection",
         "text": "正在做作业的渚（三）",
         "css": "btn",
-        "ref": "divTxtBtn95"
+        "ref": "divTxtBtn95",
+        "__type": "textbox"
       }
     ],
     [
@@ -133,7 +146,8 @@
         "type": "option",
         "text": "调查一下",
         "css": "btn",
-        "ref": "divTxtBtn99"
+        "ref": "divTxtBtn99",
+        "__type": "textbox"
       },
       {
         "x": 525,
@@ -141,7 +155,8 @@
         "type": "option",
         "text": "这样做太失礼了",
         "css": "btn",
-        "ref": "divTxtBtn105"
+        "ref": "divTxtBtn105",
+        "__type": "textbox"
       }
     ],
     [
@@ -151,7 +166,8 @@
         "type": "condition",
         "text": "同栖篇，听芳野谈自己的过去",
         "css": "btn",
-        "ref": "divTxtBtn111"
+        "ref": "divTxtBtn111",
+        "__type": "textbox"
       }
     ],
     [
@@ -161,7 +177,8 @@
         "type": "selection",
         "text": "再继续问下去",
         "css": "btn",
-        "ref": "divTxtBtn139"
+        "ref": "divTxtBtn139",
+        "__type": "textbox"
       },
       {
         "x": 925,
@@ -170,7 +187,8 @@
         "text": "同意",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn145"
+        "ref": "divTxtBtn145",
+        "__type": "textbox"
       }
     ],
     [
@@ -180,7 +198,8 @@
         "type": "option",
         "text": "芳野“光”获得",
         "css": "btn",
-        "ref": "divTxtBtn152"
+        "ref": "divTxtBtn152",
+        "__type": "textbox"
       }
     ],
     [
@@ -190,7 +209,8 @@
         "type": "selection",
         "text": "具有诱惑力的选择",
         "css": "btn",
-        "ref": "divTxtBtn156"
+        "ref": "divTxtBtn156",
+        "__type": "textbox"
       }
     ],
     [
@@ -200,7 +220,8 @@
         "type": "option",
         "text": "秋生私藏的H书",
         "css": "btn",
-        "ref": "divTxtBtn166"
+        "ref": "divTxtBtn166",
+        "__type": "textbox"
       },
       {
         "x": 725,
@@ -208,7 +229,8 @@
         "type": "option",
         "text": "早苗的内衣",
         "css": "btn",
-        "ref": "divTxtBtn172"
+        "ref": "divTxtBtn172",
+        "__type": "textbox"
       },
       {
         "x": 1125,
@@ -216,7 +238,8 @@
         "type": "option",
         "text": "什么都不要",
         "css": "btn",
-        "ref": "divTxtBtn176"
+        "ref": "divTxtBtn176",
+        "__type": "textbox"
       }
     ],
     [
@@ -226,7 +249,8 @@
         "type": "condition",
         "text": "生活第一天的兴奋",
         "css": "btn",
-        "ref": "divTxtBtn182"
+        "ref": "divTxtBtn182",
+        "__type": "textbox"
       }
     ],
     [
@@ -236,7 +260,8 @@
         "type": "selection",
         "text": "不暴露就没关系",
         "css": "btn",
-        "ref": "divTxtBtn186"
+        "ref": "divTxtBtn186",
+        "__type": "textbox"
       },
       {
         "x": 525,
@@ -244,7 +269,8 @@
         "type": "selection",
         "text": "自己冷静下来",
         "css": "btn",
-        "ref": "divTxtBtn192"
+        "ref": "divTxtBtn192",
+        "__type": "textbox"
       }
     ],
     [
@@ -254,7 +280,8 @@
         "type": "condition",
         "text": "庆祝形式的选择",
         "css": "btn",
-        "ref": "divTxtBtn198"
+        "ref": "divTxtBtn198",
+        "__type": "textbox"
       }
     ],
     [
@@ -264,7 +291,8 @@
         "type": "selection",
         "text": "H的事情",
         "css": "btn",
-        "ref": "divTxtBtn202"
+        "ref": "divTxtBtn202",
+        "__type": "textbox"
       },
       {
         "x": 525,
@@ -273,7 +301,8 @@
         "text": "算了,话语就可以了",
         "route": "r|+未触发",
         "css": "btn",
-        "ref": "divTxtBtn206"
+        "ref": "divTxtBtn206",
+        "__type": "textbox"
       }
     ],
     [
@@ -283,7 +312,8 @@
         "type": "condition",
         "text": "6月5日,独自打发闲暇时间",
         "css": "btn",
-        "ref": "divTxtBtn213"
+        "ref": "divTxtBtn213",
+        "__type": "textbox"
       }
     ],
     [
@@ -293,7 +323,8 @@
         "type": "selection",
         "text": "翻柜子",
         "css": "btn",
-        "ref": "divTxtBtn217"
+        "ref": "divTxtBtn217",
+        "__type": "textbox"
       },
       {
         "x": 525,
@@ -301,7 +332,8 @@
         "type": "selection",
         "text": "看电视",
         "css": "btn",
-        "ref": "divTxtBtn221"
+        "ref": "divTxtBtn221",
+        "__type": "textbox"
       }
     ],
     [
@@ -311,7 +343,8 @@
         "type": "selection",
         "text": "面对渚的主动让步",
         "css": "btn",
-        "ref": "divTxtBtn227"
+        "ref": "divTxtBtn227",
+        "__type": "textbox"
       }
     ],
     [
@@ -321,7 +354,8 @@
         "type": "option",
         "text": "说想看",
         "css": "btn",
-        "ref": "divTxtBtn231"
+        "ref": "divTxtBtn231",
+        "__type": "textbox"
       },
       {
         "x": 525,
@@ -329,7 +363,8 @@
         "type": "option",
         "text": "到这停手吧",
         "css": "btn",
-        "ref": "divTxtBtn235"
+        "ref": "divTxtBtn235",
+        "__type": "textbox"
       }
     ]
   ],
@@ -337,919 +372,761 @@
     [
       {
         "x": 900,
-        "y": 175
+        "y": 175,
+        "__type": "point"
       },
       {
         "x": 900,
-        "y": 175
+        "y": 175,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn1",
         "x": 725,
         "y": 190,
-        "type": "selection",
-        "text": "渚提出探望父亲的要求",
-        "css": "btn",
-        "ref": "divTxtBtn1"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn5",
         "x": 525,
         "y": 280,
-        "type": "option",
-        "text": "……。",
-        "route": "l|直幸|汐|风子|公子",
-        "css": "btn",
-        "ref": "divTxtBtn5"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn1",
         "x": 725,
         "y": 190,
-        "type": "selection",
-        "text": "渚提出探望父亲的要求",
-        "css": "btn",
-        "ref": "divTxtBtn1"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn15",
         "x": 925,
         "y": 280,
-        "type": "option",
-        "text": "不去管她",
-        "route": "r|公子|直幸|汐|风子",
-        "css": "btn",
-        "ref": "divTxtBtn15"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn5",
         "x": 525,
         "y": 280,
-        "type": "option",
-        "text": "……。",
-        "route": "l|直幸|汐|风子|公子",
-        "css": "btn",
-        "ref": "divTxtBtn5"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn25",
         "x": 525,
         "y": 370,
-        "type": "selection",
-        "text": "对父亲反应的不解",
-        "css": "btn",
-        "ref": "divTxtBtn25"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn25",
         "x": 525,
         "y": 370,
-        "type": "selection",
-        "text": "对父亲反应的不解",
-        "css": "btn",
-        "ref": "divTxtBtn25"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn29",
         "x": 325,
         "y": 460,
-        "type": "option",
-        "text": "殴打他",
-        "route": "l|-公子|-直幸-|-汐|-风子",
-        "css": "btn",
-        "ref": "divTxtBtn29"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn25",
         "x": 525,
         "y": 370,
-        "type": "selection",
-        "text": "对父亲反应的不解",
-        "css": "btn",
-        "ref": "divTxtBtn25"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn39",
         "x": 725,
         "y": 460,
-        "type": "option",
-        "text": "忍耐",
-        "route": "r|-风子|-公子|-直幸|-汐",
-        "css": "btn",
-        "ref": "divTxtBtn39"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn29",
         "x": 325,
         "y": 460,
-        "type": "option",
-        "text": "殴打他",
-        "route": "l|-公子|-直幸-|-汐|-风子",
-        "css": "btn",
-        "ref": "divTxtBtn29"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 550
+        "y": 550,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn49",
         "x": 725,
         "y": 580,
-        "type": "selection",
-        "text": "正在做作业的渚（一）",
-        "css": "btn",
-        "ref": "divTxtBtn49"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn39",
         "x": 725,
         "y": 460,
-        "type": "option",
-        "text": "忍耐",
-        "route": "r|-风子|-公子|-直幸|-汐",
-        "css": "btn",
-        "ref": "divTxtBtn39"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 550
+        "y": 550,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn49",
         "x": 725,
         "y": 580,
-        "type": "selection",
-        "text": "正在做作业的渚（一）",
-        "css": "btn",
-        "ref": "divTxtBtn49"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn15",
         "x": 925,
         "y": 280,
-        "type": "option",
-        "text": "不去管她",
-        "route": "r|公子|直幸|汐|风子",
-        "css": "btn",
-        "ref": "divTxtBtn15"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn49",
         "x": 725,
         "y": 580,
-        "type": "selection",
-        "text": "正在做作业的渚（一）",
-        "css": "btn",
-        "ref": "divTxtBtn49"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn49",
         "x": 725,
         "y": 580,
-        "type": "selection",
-        "text": "正在做作业的渚（一）",
-        "css": "btn",
-        "ref": "divTxtBtn49"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn67",
         "x": 525,
         "y": 670,
-        "type": "option",
-        "text": "从后面抱住她",
-        "css": "btn",
-        "ref": "divTxtBtn67"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn49",
         "x": 725,
         "y": 580,
-        "type": "selection",
-        "text": "正在做作业的渚（一）",
-        "css": "btn",
-        "ref": "divTxtBtn49"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn73",
         "x": 925,
         "y": 670,
-        "type": "option",
-        "text": "老实看电视",
-        "css": "btn",
-        "ref": "divTxtBtn73"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn67",
         "x": 525,
         "y": 670,
-        "type": "option",
-        "text": "从后面抱住她",
-        "css": "btn",
-        "ref": "divTxtBtn67"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn79",
         "x": 525,
         "y": 730,
-        "type": "selection",
-        "text": "正在做作业的渚（二）",
-        "css": "btn",
-        "ref": "divTxtBtn79"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn79",
         "x": 525,
         "y": 730,
-        "type": "selection",
-        "text": "正在做作业的渚（二）",
-        "css": "btn",
-        "ref": "divTxtBtn79"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn83",
         "x": 325,
         "y": 820,
-        "type": "option",
-        "text": "抱的更紧一些",
-        "css": "btn",
-        "ref": "divTxtBtn83"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn79",
         "x": 525,
         "y": 730,
-        "type": "selection",
-        "text": "正在做作业的渚（二）",
-        "css": "btn",
-        "ref": "divTxtBtn79"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn89",
         "x": 725,
         "y": 820,
-        "type": "option",
-        "text": "这样会妨碍她的吧,保持这样就好了",
-        "css": "btn",
-        "ref": "divTxtBtn89"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn83",
         "x": 325,
         "y": 820,
-        "type": "option",
-        "text": "抱的更紧一些",
-        "css": "btn",
-        "ref": "divTxtBtn83"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn95",
         "x": 325,
         "y": 880,
-        "type": "selection",
-        "text": "正在做作业的渚（三）",
-        "css": "btn",
-        "ref": "divTxtBtn95"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn95",
         "x": 325,
         "y": 880,
-        "type": "selection",
-        "text": "正在做作业的渚（三）",
-        "css": "btn",
-        "ref": "divTxtBtn95"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn99",
         "x": 125,
         "y": 970,
-        "type": "option",
-        "text": "调查一下",
-        "css": "btn",
-        "ref": "divTxtBtn99"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn95",
         "x": 325,
         "y": 880,
-        "type": "selection",
-        "text": "正在做作业的渚（三）",
-        "css": "btn",
-        "ref": "divTxtBtn95"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn105",
         "x": 525,
         "y": 970,
-        "type": "option",
-        "text": "这样做太失礼了",
-        "css": "btn",
-        "ref": "divTxtBtn105"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn99",
         "x": 125,
         "y": 970,
-        "type": "option",
-        "text": "调查一下",
-        "css": "btn",
-        "ref": "divTxtBtn99"
+        "__type": "textbox"
       },
       {
         "x": 500,
-        "y": 1060
+        "y": 1060,
+        "__type": "point"
       },
       {
         "x": 700,
-        "y": 1090
+        "y": 1090,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn111",
         "x": 725,
         "y": 1120,
-        "type": "condition",
-        "text": "同栖篇，听芳野谈自己的过去",
-        "css": "btn",
-        "ref": "divTxtBtn111"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn105",
         "x": 525,
         "y": 970,
-        "type": "option",
-        "text": "这样做太失礼了",
-        "css": "btn",
-        "ref": "divTxtBtn105"
+        "__type": "textbox"
       },
       {
         "x": 500,
-        "y": 1060
+        "y": 1060,
+        "__type": "point"
       },
       {
         "x": 700,
-        "y": 1090
+        "y": 1090,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn111",
         "x": 725,
         "y": 1120,
-        "type": "condition",
-        "text": "同栖篇，听芳野谈自己的过去",
-        "css": "btn",
-        "ref": "divTxtBtn111"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn89",
         "x": 725,
         "y": 820,
-        "type": "option",
-        "text": "这样会妨碍她的吧,保持这样就好了",
-        "css": "btn",
-        "ref": "divTxtBtn89"
+        "__type": "textbox"
       },
       {
         "x": 700,
-        "y": 1090
+        "y": 1090,
+        "__type": "point"
       },
       {
+        "ref": "divTxtBtn111",
         "x": 725,
         "y": 1120,
-        "type": "condition",
-        "text": "同栖篇，听芳野谈自己的过去",
-        "css": "btn",
-        "ref": "divTxtBtn111"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn73",
         "x": 925,
         "y": 670,
-        "type": "option",
-        "text": "老实看电视",
-        "css": "btn",
-        "ref": "divTxtBtn73"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn111",
         "x": 725,
         "y": 1120,
-        "type": "condition",
-        "text": "同栖篇，听芳野谈自己的过去",
-        "css": "btn",
-        "ref": "divTxtBtn111"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn111",
         "x": 725,
         "y": 1120,
-        "type": "condition",
-        "text": "同栖篇，听芳野谈自己的过去",
-        "css": "btn",
-        "ref": "divTxtBtn111"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn139",
         "x": 525,
         "y": 1210,
-        "type": "selection",
-        "text": "再继续问下去",
-        "css": "btn",
-        "ref": "divTxtBtn139"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn111",
         "x": 725,
         "y": 1120,
-        "type": "condition",
-        "text": "同栖篇，听芳野谈自己的过去",
-        "css": "btn",
-        "ref": "divTxtBtn111"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn145",
         "x": 925,
         "y": 1210,
-        "type": "selection",
-        "text": "同意",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn145"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn139",
         "x": 525,
         "y": 1210,
-        "type": "selection",
-        "text": "再继续问下去",
-        "css": "btn",
-        "ref": "divTxtBtn139"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn152",
         "x": 525,
         "y": 1270,
-        "type": "option",
-        "text": "芳野“光”获得",
-        "css": "btn",
-        "ref": "divTxtBtn152"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn152",
         "x": 525,
         "y": 1270,
-        "type": "option",
-        "text": "芳野“光”获得",
-        "css": "btn",
-        "ref": "divTxtBtn152"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn156",
         "x": 725,
         "y": 1360,
-        "type": "selection",
-        "text": "具有诱惑力的选择",
-        "css": "btn",
-        "ref": "divTxtBtn156"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn145",
         "x": 925,
         "y": 1210,
-        "type": "selection",
-        "text": "同意",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn145"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn156",
         "x": 725,
         "y": 1360,
-        "type": "selection",
-        "text": "具有诱惑力的选择",
-        "css": "btn",
-        "ref": "divTxtBtn156"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn156",
         "x": 725,
         "y": 1360,
-        "type": "selection",
-        "text": "具有诱惑力的选择",
-        "css": "btn",
-        "ref": "divTxtBtn156"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn166",
         "x": 325,
         "y": 1450,
-        "type": "option",
-        "text": "秋生私藏的H书",
-        "css": "btn",
-        "ref": "divTxtBtn166"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn156",
         "x": 725,
         "y": 1360,
-        "type": "selection",
-        "text": "具有诱惑力的选择",
-        "css": "btn",
-        "ref": "divTxtBtn156"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn172",
         "x": 725,
         "y": 1450,
-        "type": "option",
-        "text": "早苗的内衣",
-        "css": "btn",
-        "ref": "divTxtBtn172"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn156",
         "x": 725,
         "y": 1360,
-        "type": "selection",
-        "text": "具有诱惑力的选择",
-        "css": "btn",
-        "ref": "divTxtBtn156"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn176",
         "x": 1125,
         "y": 1450,
-        "type": "option",
-        "text": "什么都不要",
-        "css": "btn",
-        "ref": "divTxtBtn176"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn166",
         "x": 325,
         "y": 1450,
-        "type": "option",
-        "text": "秋生私藏的H书",
-        "css": "btn",
-        "ref": "divTxtBtn166"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn182",
         "x": 325,
         "y": 1510,
-        "type": "condition",
-        "text": "生活第一天的兴奋",
-        "css": "btn",
-        "ref": "divTxtBtn182"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn182",
         "x": 325,
         "y": 1510,
-        "type": "condition",
-        "text": "生活第一天的兴奋",
-        "css": "btn",
-        "ref": "divTxtBtn182"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn186",
         "x": 125,
         "y": 1600,
-        "type": "selection",
-        "text": "不暴露就没关系",
-        "css": "btn",
-        "ref": "divTxtBtn186"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn182",
         "x": 325,
         "y": 1510,
-        "type": "condition",
-        "text": "生活第一天的兴奋",
-        "css": "btn",
-        "ref": "divTxtBtn182"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn192",
         "x": 525,
         "y": 1600,
-        "type": "selection",
-        "text": "自己冷静下来",
-        "css": "btn",
-        "ref": "divTxtBtn192"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn186",
         "x": 125,
         "y": 1600,
-        "type": "selection",
-        "text": "不暴露就没关系",
-        "css": "btn",
-        "ref": "divTxtBtn186"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn198",
         "x": 125,
         "y": 1660,
-        "type": "condition",
-        "text": "庆祝形式的选择",
-        "css": "btn",
-        "ref": "divTxtBtn198"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn198",
         "x": 125,
         "y": 1660,
-        "type": "condition",
-        "text": "庆祝形式的选择",
-        "css": "btn",
-        "ref": "divTxtBtn198"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn202",
         "x": 125,
         "y": 1750,
-        "type": "selection",
-        "text": "H的事情",
-        "css": "btn",
-        "ref": "divTxtBtn202"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn198",
         "x": 125,
         "y": 1660,
-        "type": "condition",
-        "text": "庆祝形式的选择",
-        "css": "btn",
-        "ref": "divTxtBtn198"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn206",
         "x": 525,
         "y": 1750,
-        "type": "selection",
-        "text": "算了,话语就可以了",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn206"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn202",
         "x": 125,
         "y": 1750,
-        "type": "selection",
-        "text": "H的事情",
-        "css": "btn",
-        "ref": "divTxtBtn202"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn213",
         "x": 125,
         "y": 1810,
-        "type": "condition",
-        "text": "6月5日,独自打发闲暇时间",
-        "css": "btn",
-        "ref": "divTxtBtn213"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn213",
         "x": 125,
         "y": 1810,
-        "type": "condition",
-        "text": "6月5日,独自打发闲暇时间",
-        "css": "btn",
-        "ref": "divTxtBtn213"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn217",
         "x": 125,
         "y": 1900,
-        "type": "selection",
-        "text": "翻柜子",
-        "css": "btn",
-        "ref": "divTxtBtn217"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn213",
         "x": 125,
         "y": 1810,
-        "type": "condition",
-        "text": "6月5日,独自打发闲暇时间",
-        "css": "btn",
-        "ref": "divTxtBtn213"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn221",
         "x": 525,
         "y": 1900,
-        "type": "selection",
-        "text": "看电视",
-        "css": "btn",
-        "ref": "divTxtBtn221"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn217",
         "x": 125,
         "y": 1900,
-        "type": "selection",
-        "text": "翻柜子",
-        "css": "btn",
-        "ref": "divTxtBtn217"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn227",
         "x": 125,
         "y": 1960,
-        "type": "selection",
-        "text": "面对渚的主动让步",
-        "css": "btn",
-        "ref": "divTxtBtn227"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn227",
         "x": 125,
         "y": 1960,
-        "type": "selection",
-        "text": "面对渚的主动让步",
-        "css": "btn",
-        "ref": "divTxtBtn227"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn231",
         "x": 125,
         "y": 2050,
-        "type": "option",
-        "text": "说想看",
-        "css": "btn",
-        "ref": "divTxtBtn231"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn227",
         "x": 125,
         "y": 1960,
-        "type": "selection",
-        "text": "面对渚的主动让步",
-        "css": "btn",
-        "ref": "divTxtBtn227"
+        "__type": "textbox"
       },
       {
+        "ref": "divTxtBtn235",
         "x": 525,
         "y": 2050,
-        "type": "option",
-        "text": "到这停手吧",
-        "css": "btn",
-        "ref": "divTxtBtn235"
+        "__type": "textbox"
       }
     ],
     [
       {
+        "ref": "divTxtBtn231",
         "x": 125,
         "y": 2050,
-        "type": "option",
-        "text": "说想看",
-        "css": "btn",
-        "ref": "divTxtBtn231"
+        "__type": "textbox"
       },
       {
         "x": 500,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn235",
         "x": 525,
         "y": 2050,
-        "type": "option",
-        "text": "到这停手吧",
-        "css": "btn",
-        "ref": "divTxtBtn235"
+        "__type": "textbox"
       },
       {
         "x": 500,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn221",
         "x": 525,
         "y": 1900,
-        "type": "selection",
-        "text": "看电视",
-        "css": "btn",
-        "ref": "divTxtBtn221"
+        "__type": "textbox"
       },
       {
         "x": 900,
-        "y": 1990
+        "y": 1990,
+        "__type": "point"
       },
       {
         "x": 500,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       },
       {
         "x": 900,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn206",
         "x": 525,
         "y": 1750,
-        "type": "selection",
-        "text": "算了,话语就可以了",
-        "route": "r|+未触发",
-        "css": "btn",
-        "ref": "divTxtBtn206"
+        "__type": "textbox"
       },
       {
         "x": 900,
-        "y": 1840
+        "y": 1840,
+        "__type": "point"
       },
       {
         "x": 500,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       },
       {
         "x": 900,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn192",
         "x": 525,
         "y": 1600,
-        "type": "selection",
-        "text": "自己冷静下来",
-        "css": "btn",
-        "ref": "divTxtBtn192"
+        "__type": "textbox"
       },
       {
         "x": 900,
-        "y": 1690
+        "y": 1690,
+        "__type": "point"
       },
       {
         "x": 500,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       },
       {
         "x": 900,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn172",
         "x": 725,
         "y": 1450,
-        "type": "option",
-        "text": "早苗的内衣",
-        "css": "btn",
-        "ref": "divTxtBtn172"
+        "__type": "textbox"
       },
       {
         "x": 900,
-        "y": 1630
+        "y": 1630,
+        "__type": "point"
       },
       {
         "x": 500,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       },
       {
         "x": 900,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       }
     ],
     [
       {
+        "ref": "divTxtBtn176",
         "x": 1125,
         "y": 1450,
-        "type": "option",
-        "text": "什么都不要",
-        "css": "btn",
-        "ref": "divTxtBtn176"
+        "__type": "textbox"
       },
       {
         "x": 900,
-        "y": 1540
+        "y": 1540,
+        "__type": "point"
       },
       {
         "x": 500,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       },
       {
         "x": 900,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       }
     ],
     [
       {
         "x": 900,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       },
       {
         "x": 900,
-        "y": 2140
+        "y": 2140,
+        "__type": "point"
       }
     ]
   ],
@@ -1264,14 +1141,16 @@
     "dateE": "Chapter of Conhabitation Life~Part 2",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 2170,
     "page": 65,
-    "ref": "divFt279"
+    "ref": "divFt279",
+    "__type": "footer"
   },
   "board": []
 }

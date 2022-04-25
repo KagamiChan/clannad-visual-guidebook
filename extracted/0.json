@@ -8,7 +8,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"12%\" align=\"left\"><img src=\"Ori/Title/Title_Mark_Public.png\" width=\"66.66666666666667\" height=\"66.66666666666667\"></td><td width=\"33%\" align=\"left\"><div class=\"menuLOri\" style=\"height:60px; width:500px; background:url(Ori/Misc/Misc_Shape_01.png);\">　使用指南</div></td><td width=\"55%\" align=\"right\"><img src=\"Ori/Number/Number_0.png\" width=\"40\" height=\"60\"><img src=\"Ori/Number/Number_1.png\" width=\"40\" height=\"60\"></td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn2"
+        "ref": "divBtn2",
+        "__type": "button"
       }
     ],
     [
@@ -19,7 +20,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"12%\" align=\"left\"><img src=\"Ori/Title/Title_Mark_Public.png\" width=\"66.66666666666667\" height=\"66.66666666666667\"></td><td width=\"33%\" align=\"left\"><div class=\"menuLOri\" style=\"height:60px; width:500px; background:url(Ori/Misc/Misc_Shape_01.png);\">　公共线路</div></td><td width=\"55%\" align=\"right\"><img src=\"Ori/Number/Number_0.png\" width=\"40\" height=\"60\"><img src=\"Ori/Number/Number_1.png\" width=\"40\" height=\"60\"></td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn4"
+        "ref": "divBtn4",
+        "__type": "button"
       }
     ],
     [
@@ -30,7 +32,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"12%\" align=\"center\"><img src=\"Ori/Title/Title_Mark_Public.png\" width=\"50\" height=\"50\"></td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\">心跳☆高中</span><span class=\"menuSEOri\">Heartbeat ☆ High School</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">24</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn6"
+        "ref": "divBtn6",
+        "__type": "button"
       }
     ],
     [
@@ -41,7 +44,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"12%\" align=\"center\"><img src=\"Ori/Title/Title_Mark_Public.png\" width=\"50\" height=\"50\"></td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\">春原的玩笑</span><span class=\"menuSEOri\">Sunohara's Joke</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">25</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn7"
+        "ref": "divBtn7",
+        "__type": "button"
       }
     ],
     [
@@ -52,7 +56,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"12%\" align=\"left\"><img src=\"Ori/Title/Title_Mark_Public.png\" width=\"50\" height=\"50\"></td><td width=\"33%\" align=\"left\"><div class=\"menuLOri\" style=\"height:60px; width:500px; background:url(Ori/Misc/Misc_Shape_01.png);\">　角色线路</div></td><td width=\"55%\" align=\"right\"><img src=\"Ori/Number/Number_2.png\" width=\"40\" height=\"60\"><img src=\"Ori/Number/Number_6.png\" width=\"40\" height=\"60\"></td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn8"
+        "ref": "divBtn8",
+        "__type": "button"
       }
     ],
     [
@@ -63,7 +68,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"12%\" align=\"center\"><img src=\"Ori/Title/Title_Mark_Misae.png\" width=\"50\" height=\"50\"></td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\">相乐 美佐枝</span><span class=\"menuSEOri\">Misae Sagara</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">26</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn10"
+        "ref": "divBtn10",
+        "__type": "button"
       }
     ],
     [
@@ -74,7 +80,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"12%\" align=\"center\"><img src=\"Ori/Title/Title_Mark_Tomoyo.png\" width=\"50\" height=\"50\"></td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\">坂上 智代</span><span class=\"menuSEOri\">Tomoyo Sakagami</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">27</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn11"
+        "ref": "divBtn11",
+        "__type": "button"
       }
     ],
     [
@@ -85,7 +92,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"14%\" align=\"center\" height=\"50\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\" style=\"color:gray;\">智代64HIT</span><span class=\"menuSEOri\" style=\"color:gray;\">Tomoyo's 64Hit</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">30</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn12"
+        "ref": "divBtn12",
+        "__type": "button"
       }
     ],
     [
@@ -96,7 +104,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"12%\" align=\"center\"><img src=\"Ori/Title/Title_Mark_Yukine.png\" width=\"50\" height=\"50\"></td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\">宫泽 有纪宁</span><span class=\"menuSEOri\">Yukine Miyazawa</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">31</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn13"
+        "ref": "divBtn13",
+        "__type": "button"
       }
     ],
     [
@@ -107,7 +116,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"14%\" align=\"center\" height=\"50\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\" style=\"color:gray;\">有纪宁的咒语</span><span class=\"menuSEOri\" style=\"color:gray;\">Yukine's Spells</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">32</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn14"
+        "ref": "divBtn14",
+        "__type": "button"
       }
     ],
     [
@@ -118,7 +128,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"14%\" align=\"center\" height=\"50\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\" style=\"color:gray;\">体育仓库事件</span><span class=\"menuSEOri\" style=\"color:gray;\">Gym Warehouse Event</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">33</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn15"
+        "ref": "divBtn15",
+        "__type": "button"
       }
     ],
     [
@@ -129,7 +140,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"12%\" align=\"center\"><img src=\"Ori/Title/Title_Mark_Fujibayashi.png\" width=\"50\" height=\"50\"></td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\">藤林 杏/藤林 椋</span><span class=\"menuSEOri\">Kyou Fujibayashi / Ryou Fujibayashi</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">34</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn16"
+        "ref": "divBtn16",
+        "__type": "button"
       }
     ],
     [
@@ -140,7 +152,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"12%\" align=\"center\"><img src=\"Ori/Title/Title_Mark_Kappei.png\" width=\"50\" height=\"50\"></td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\">柊 胜平</span><span class=\"menuSEOri\">Kappei Hiiragi</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">37</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn17"
+        "ref": "divBtn17",
+        "__type": "button"
       }
     ],
     [
@@ -151,7 +164,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"12%\" align=\"center\"><img src=\"Ori/Title/Title_Mark_Sunohara.png\" width=\"50\" height=\"50\"></td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\">春原 阳平/春原 芽衣</span><span class=\"menuSEOri\">Youhei Sunohara / Mei Sunohara</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">38</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn18"
+        "ref": "divBtn18",
+        "__type": "button"
       }
     ],
     [
@@ -162,7 +176,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"14%\" align=\"center\" height=\"50\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\" style=\"color:gray;\">伪女友事件</span><span class=\"menuSEOri\" style=\"color:gray;\">Fake Girlfriend Event</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">39</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn19"
+        "ref": "divBtn19",
+        "__type": "button"
       }
     ],
     [
@@ -173,7 +188,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"12%\" align=\"center\"><img src=\"Ori/Title/Title_Mark_Kotomi.png\" width=\"50\" height=\"50\"></td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\">一之濑 琴美</span><span class=\"menuSEOri\">Kotomi Ichinose</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">40</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn20"
+        "ref": "divBtn20",
+        "__type": "button"
       }
     ],
     [
@@ -184,7 +200,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"12%\" align=\"center\"><img src=\"Ori/Title/Title_Mark_Fuuko.png\" width=\"50\" height=\"50\"></td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\">伊吹 风子</span><span class=\"menuSEOri\">Fuuko Ibuki</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">43</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn21"
+        "ref": "divBtn21",
+        "__type": "button"
       }
     ],
     [
@@ -195,7 +212,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"14%\" align=\"center\" height=\"50\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\" style=\"color:gray;\">特别授课教师推选</span><span class=\"menuSEOri\" style=\"color:gray;\">Election for Teacher of Special Class</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">47</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn22"
+        "ref": "divBtn22",
+        "__type": "button"
       }
     ],
     [
@@ -206,7 +224,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"14%\" align=\"center\" height=\"50\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\" style=\"color:gray;\">风子大师</span><span class=\"menuSEOri\" style=\"color:gray;\">Fukko Master</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">48</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn23"
+        "ref": "divBtn23",
+        "__type": "button"
       }
     ],
     [
@@ -217,7 +236,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"12%\" align=\"center\"><img src=\"Ori/Title/Title_Mark_Nagisa.png\" width=\"50\" height=\"50\"></td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\">古河 渚/幸村 俊夫</span><span class=\"menuSEOri\">Nagisa Furukawa / Toshio Yukimura</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">51</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn24"
+        "ref": "divBtn24",
+        "__type": "button"
       }
     ],
     [
@@ -228,7 +248,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"14%\" align=\"center\" height=\"50\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\" style=\"color:gray;\">3对3篮球赛</span><span class=\"menuSEOri\" style=\"color:gray;\">3 on 3 Basketball Match</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">56</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn25"
+        "ref": "divBtn25",
+        "__type": "button"
       }
     ],
     [
@@ -239,7 +260,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"12%\" align=\"center\"><img src=\"Ori/Title/Title_Mark_Gunfight.png\" width=\"50\" height=\"50\"></td><td width=\"84%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\">枪战游戏/业余棒球</span><span class=\"menuSEOri\">Gunfight Game / Amateur Baseball</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">59</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn26"
+        "ref": "divBtn26",
+        "__type": "button"
       }
     ],
     [
@@ -250,7 +272,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"12%\" align=\"left\"><img src=\"Ori/Title/Title_Mark_Public.png\" width=\"66.66666666666667\" height=\"66.66666666666667\"></td><td width=\"33%\" align=\"left\"><div class=\"menuLOri\" style=\"height:60px; width:500px; background:url(Ori/Misc/Misc_Shape_01.png);\">　AFTER STORY</div></td><td width=\"55%\" align=\"right\"><img src=\"Ori/Number/Number_6.png\" width=\"40\" height=\"60\"><img src=\"Ori/Number/Number_2.png\" width=\"40\" height=\"60\"></td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn27"
+        "ref": "divBtn27",
+        "__type": "button"
       }
     ],
     [
@@ -261,7 +284,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"14%\" align=\"center\" height=\"50\"></td><td width=\"82%\" align=\"left\" valign=\"bottom\"><span class=\"menuSCOri\" style=\"color:gray;\">毕业典礼</span><span class=\"menuSEOri\" style=\"color:gray;\">Graduation Ceremony</span></td><td width=\"4%\" align=\"left\" valign=\"bottom\" class=\"menuNOri\">68</td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn29"
+        "ref": "divBtn29",
+        "__type": "button"
       }
     ],
     [
@@ -272,7 +296,8 @@
         "text": "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"90%\"><tr><td width=\"12%\" align=\"left\"><img src=\"Ori/Title/Title_Mark_Public.png\" width=\"50\" height=\"50\"></td><td width=\"40%\" align=\"left\"></td><td width=\"55%\" align=\"right\"><img src=\"Ori/Number/Number_Fin.png\" width=\"120\" height=\"60\"></td></tr></table>",
         "css": "btn",
         "adjustw": 1570,
-        "ref": "divBtn30"
+        "ref": "divBtn30",
+        "__type": "button"
       }
     ],
     [
@@ -283,7 +308,8 @@
         "text": "<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"710\" height=\"100\" align=\"center\"><img src=\"Ori/Background/Background_Logo.png\" width=\"600\" height=\"100\"></td></tr><tr><td>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">初版发行</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\">2008年4月14日</td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">策　　划</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\">欢·翔焰<font face=Arial>(Kamikey)</font></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">原　　稿</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\"><font face=Arial>Roc-Dark(KeyFC/Kamikey)</font></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">建　　构</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\"><font face=Arial>Nagao Kagetora(Kamikey)</font></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">首席测试</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\"><font face=Arial>Roc-Dark(KeyFC/Kamikey)</font></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">测　　试</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\"><font face=Arial>goodbest(KeyFC/Kamikey)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\"><font face=Arial>zero4(KeyFC/Kamikey)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\">观铃の使魔<font face=Arial>(Kamikey)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\">青空下の伝説<font face=Arial>(Kamikey)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\">灼眼的卡羅特<font face=Arial>(Kamikey)</font></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">校　　对</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\"><font face=Arial>Ligueston(Kamikey)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\"><font face=Arial>Nagao Kagetora(Kamikey)</font></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">平面设计</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\"><font face=Arial>Nagao Kagetora(Kamikey)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\"><font face=Arial>Roc-Dark(KeyFC/Kamikey)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\">欢·翔焰<font face=Arial>(Kamikey)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\">灼眼的卡羅特<font face=Arial>(Kamikey)</font></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">网页设计</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\"><font face=Arial>Ligueston(Kamikey)</font></td></tr></table><table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table><table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">制　　作</td><td width=\"25\"></td><td width=\"460\" rowspan=\"3\" align=\"left\"><img src=\"Ori/Misc/Misc_Logo_01.png\" width=\"460\" height=\"50\"></td></tr><tr><td height=\"20\"></td><td></td></tr><tr><td height=\"10\"></td><td></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\">神创工程组 / 神创主题馆</td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\"><a target=\"_blank\" href=\"http://www.kamikey.com\"><font face=Arial>http://www.kamikey.com</font></a></td></tr><tr><td height=\"20\"></td><td></td><td width=\"460\" rowspan=\"3\" align=\"left\"><img src=\"Ori/Misc/Misc_Logo_02.png\" width=\"200\" height=\"50\"></td></tr><tr><td height=\"20\"></td><td></td></tr><tr><td height=\"10\"></td><td></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\"><font face=Arial>Key Fans Club(KFC)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\"><a target=\"_blank\" href=\"http://www.keyfc.net/bbs\"><font face=Arial>http://www.keyfc.net/bbs</font></a></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">翻译供稿</td><td width=\"25\"></td><td width=\"460\" rowspan=\"3\" align=\"left\"><img src=\"Ori/Misc/Misc_Logo_03.png\" width=\"200\" height=\"50\"></td></tr><tr><td height=\"20\"></td><td></td></tr><tr><td height=\"10\"></td><td></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\"><font face=Arial>Clannad</font>中文化<font face=Arial> / Key Fans Club(KFC)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\"><a target=\"_blank\" href=\"http://www.keyfc.net/project/cclannad\"><font face=Arial>http://www.keyfc.net/project/cclannad</font></a></td></tr><tr><td height=\"20\"></td><td></td><td></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\">光坂高校中文部 / 百度贴吧<font face=Arial>CLANNAD</font>吧</td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\"><a target=\"_blank\" href=\"http://tieba.baidu.com/clannad\"><font face=Arial>http://tieba.baidu.com/clannad</font></a></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"218.25\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">版权申明</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\" style=\"visibility:hidden\"></td></tr><tr><td height=\"10\" colspan=\"3\"></td></tr><tr><td height=\"20\" colspan=\"3\" class=\"menuItemContOri\" align=\"left\"><p style=\"line-height:120%\">本作品适用的<font face=Arial>CLANNAD</font> <font face=\"微软雅黑,MS Gothic\">-クラナド-</font>是日本<font face=Arial>Visual Art's / Key</font>公司的作品。<br><font face=Arial>CLANNAD</font> <font face=\"微软雅黑,MS Gothic\">-クラナド-</font><br><font face=Arial>Copyright &copy; 2004~2007 Visual Art's / Key. All Rights Reserved.</font><br><a target=\"_blank\" href=\"http://key.visualarts.gr.jp/\"><font face=Arial>http://key.visualarts.gr.jp/</font></a></p><p style=\"line-height:120%\">本作品制作开发过程中使用软件<font face=Arial>RLdev</font>是<font face=Arial>H&aelig;leth</font>的作品。<br><font face=Arial>RLdev</font><br><font face=Arial>Copyright &copy; 2006 H&aelig;leth</font>.<br><a target=\"_blank\" href=\"http://www.haeleth.net/\"><font face=Arial>http://www.haeleth.net/</font></a></p><p style=\"line-height:120%\">本作品制作者及版权所有者为神创工程组<font face=Arial>(Researching Center of KamiKey)</font>。<br><font face=Arial>CLANNAD Visual Guidebook</font> <font face=\"微软雅黑,MS Gothic\">-クラナド- ビジュアル ガイドブック</font><br><font face=Arial>Copyright &copy; 2008 Researching Center of KamiKey.</font><br><a target=\"_blank\" href=\"http://www.KamiKey.com/\"><font face=Arial>http://www.KamiKey.com/</font></a></p><p style=\"line-height:120%\">本作品受著作权法保护。未经神创工作组允许，不得随意复制、转载，不得以生产工作组或者其他个人以及团体的名义修改、发布或者谋取商业利益。<br>神创工作组保留对本作品的最终解释权。</p></td></tr>      </table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">联系我们</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\" style=\"visibility:hidden\"></td></tr><tr><td height=\"10\" colspan=\"3\"></td></tr><tr><td height=\"20\" colspan=\"3\" class=\"menuItemContOri\" align=\"left\"><p style=\"line-height:120%\">本作品相关疑问解答，意见及建议的受理，请访问以下网页：<br><a target=\"_blank\" href=\"http://www.kamikey.com/viewthread.php?tid=604\"><font face=Arial>http://www.kamikey.com/viewthread.php?tid=604</font></a><br><a target=\"_blank\" href=\"http://www.keyfc.net/bbs/showtopic-24990.aspx\"><font face=Arial>http://www.keyfc.net/bbs/showtopic-24990.aspx</font></a></p><p style=\"line-height:120%\">或者发送电子邮件至：<br><font face=Arial>moerurd@gmail.com</font><br><font face=Arial>moerurd@hotmail.com</font></p><p style=\"line-height:120%\">神创工作组感谢您的关注与支持！</p></td></tr>      </table></td></tr></table>",
         "css": "btn",
         "adjustw": 750,
-        "ref": "divBtn32"
+        "ref": "divBtn32",
+        "__type": "button"
       }
     ]
   ],
@@ -296,7 +322,8 @@
       "text": "<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"710\" height=\"100\" align=\"center\"><img src=\"Ori/Background/Background_Logo.png\" width=\"600\" height=\"100\"></td></tr><tr><td>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">初版发行</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\">2008年4月14日</td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">策　　划</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\">欢·翔焰<font face=Arial>(Kamikey)</font></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">原　　稿</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\"><font face=Arial>Roc-Dark(KeyFC/Kamikey)</font></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">建　　构</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\"><font face=Arial>Nagao Kagetora(Kamikey)</font></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">首席测试</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\"><font face=Arial>Roc-Dark(KeyFC/Kamikey)</font></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">测　　试</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\"><font face=Arial>goodbest(KeyFC/Kamikey)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\"><font face=Arial>zero4(KeyFC/Kamikey)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\">观铃の使魔<font face=Arial>(Kamikey)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\">青空下の伝説<font face=Arial>(Kamikey)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\">灼眼的卡羅特<font face=Arial>(Kamikey)</font></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">校　　对</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\"><font face=Arial>Ligueston(Kamikey)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\"><font face=Arial>Nagao Kagetora(Kamikey)</font></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">平面设计</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\"><font face=Arial>Nagao Kagetora(Kamikey)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\"><font face=Arial>Roc-Dark(KeyFC/Kamikey)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\">欢·翔焰<font face=Arial>(Kamikey)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\">灼眼的卡羅特<font face=Arial>(Kamikey)</font></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">网页设计</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\"><font face=Arial>Ligueston(Kamikey)</font></td></tr></table><table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table><table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">制　　作</td><td width=\"25\"></td><td width=\"460\" rowspan=\"3\" align=\"left\"><img src=\"Ori/Misc/Misc_Logo_01.png\" width=\"460\" height=\"50\"></td></tr><tr><td height=\"20\"></td><td></td></tr><tr><td height=\"10\"></td><td></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\">神创工程组 / 神创主题馆</td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\"><a target=\"_blank\" href=\"http://www.kamikey.com\"><font face=Arial>http://www.kamikey.com</font></a></td></tr><tr><td height=\"20\"></td><td></td><td width=\"460\" rowspan=\"3\" align=\"left\"><img src=\"Ori/Misc/Misc_Logo_02.png\" width=\"200\" height=\"50\"></td></tr><tr><td height=\"20\"></td><td></td></tr><tr><td height=\"10\"></td><td></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\"><font face=Arial>Key Fans Club(KFC)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\"><a target=\"_blank\" href=\"http://www.keyfc.net/bbs\"><font face=Arial>http://www.keyfc.net/bbs</font></a></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">翻译供稿</td><td width=\"25\"></td><td width=\"460\" rowspan=\"3\" align=\"left\"><img src=\"Ori/Misc/Misc_Logo_03.png\" width=\"200\" height=\"50\"></td></tr><tr><td height=\"20\"></td><td></td></tr><tr><td height=\"10\"></td><td></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\"><font face=Arial>Clannad</font>中文化<font face=Arial> / Key Fans Club(KFC)</font></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\"><a target=\"_blank\" href=\"http://www.keyfc.net/project/cclannad\"><font face=Arial>http://www.keyfc.net/project/cclannad</font></a></td></tr><tr><td height=\"20\"></td><td></td><td></td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\">光坂高校中文部 / 百度贴吧<font face=Arial>CLANNAD</font>吧</td></tr><tr><td height=\"20\"></td><td></td><td class=\"menuItemContOri\"><a target=\"_blank\" href=\"http://tieba.baidu.com/clannad\"><font face=Arial>http://tieba.baidu.com/clannad</font></a></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"218.25\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">版权申明</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\" style=\"visibility:hidden\"></td></tr><tr><td height=\"10\" colspan=\"3\"></td></tr><tr><td height=\"20\" colspan=\"3\" class=\"menuItemContOri\" align=\"left\"><p style=\"line-height:120%\">本作品适用的<font face=Arial>CLANNAD</font> <font face=\"微软雅黑,MS Gothic\">-クラナド-</font>是日本<font face=Arial>Visual Art's / Key</font>公司的作品。<br><font face=Arial>CLANNAD</font> <font face=\"微软雅黑,MS Gothic\">-クラナド-</font><br><font face=Arial>Copyright &copy; 2004~2007 Visual Art's / Key. All Rights Reserved.</font><br><a target=\"_blank\" href=\"http://key.visualarts.gr.jp/\"><font face=Arial>http://key.visualarts.gr.jp/</font></a></p><p style=\"line-height:120%\">本作品制作开发过程中使用软件<font face=Arial>RLdev</font>是<font face=Arial>H&aelig;leth</font>的作品。<br><font face=Arial>RLdev</font><br><font face=Arial>Copyright &copy; 2006 H&aelig;leth</font>.<br><a target=\"_blank\" href=\"http://www.haeleth.net/\"><font face=Arial>http://www.haeleth.net/</font></a></p><p style=\"line-height:120%\">本作品制作者及版权所有者为神创工程组<font face=Arial>(Researching Center of KamiKey)</font>。<br><font face=Arial>CLANNAD Visual Guidebook</font> <font face=\"微软雅黑,MS Gothic\">-クラナド- ビジュアル ガイドブック</font><br><font face=Arial>Copyright &copy; 2008 Researching Center of KamiKey.</font><br><a target=\"_blank\" href=\"http://www.KamiKey.com/\"><font face=Arial>http://www.KamiKey.com/</font></a></p><p style=\"line-height:120%\">本作品受著作权法保护。未经神创工作组允许，不得随意复制、转载，不得以生产工作组或者其他个人以及团体的名义修改、发布或者谋取商业利益。<br>神创工作组保留对本作品的最终解释权。</p></td></tr>      </table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td height=\"30\"></td></tr></table>      <table width=\"710\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td width=\"225\" height=\"20\" style=\"background:url(Ori/Comment/Comment_Option[A].png);\" class=\"menuItemNameOri\">联系我们</td><td width=\"25\"></td><td width=\"460\" class=\"menuItemContOri\" style=\"visibility:hidden\"></td></tr><tr><td height=\"10\" colspan=\"3\"></td></tr><tr><td height=\"20\" colspan=\"3\" class=\"menuItemContOri\" align=\"left\"><p style=\"line-height:120%\">本作品相关疑问解答，意见及建议的受理，请访问以下网页：<br><a target=\"_blank\" href=\"http://www.kamikey.com/viewthread.php?tid=604\"><font face=Arial>http://www.kamikey.com/viewthread.php?tid=604</font></a><br><a target=\"_blank\" href=\"http://www.keyfc.net/bbs/showtopic-24990.aspx\"><font face=Arial>http://www.keyfc.net/bbs/showtopic-24990.aspx</font></a></p><p style=\"line-height:120%\">或者发送电子邮件至：<br><font face=Arial>moerurd@gmail.com</font><br><font face=Arial>moerurd@hotmail.com</font></p><p style=\"line-height:120%\">神创工作组感谢您的关注与支持！</p></td></tr>      </table></td></tr></table>",
       "css": "btn",
       "adjustw": 750,
-      "ref": "divBtn32"
+      "ref": "divBtn32",
+      "__type": "button"
     }
   ],
   "header": {
@@ -309,40 +336,47 @@
     "dateE": "",
     "titlecss": "headerC",
     "contentcss": "headerE",
-    "ref": "divHd0"
+    "ref": "divHd0",
+    "__type": "header"
   },
   "footer": {
     "x": 1575,
     "y": 0,
     "height": 2110,
     "page": 0,
-    "ref": "divFt33"
+    "ref": "divFt33",
+    "__type": "footer"
   },
   "board": [
     {
       "x": 0,
       "y": 225,
-      "height": 120
+      "height": 120,
+      "__type": "board"
     },
     {
       "x": 0,
       "y": 345,
-      "height": 120
+      "height": 120,
+      "__type": "board"
     },
     {
       "x": 0,
       "y": 585,
-      "height": 120
+      "height": 120,
+      "__type": "board"
     },
     {
       "x": 0,
       "y": 1725,
-      "height": 120
+      "height": 120,
+      "__type": "board"
     },
     {
       "x": 0,
       "y": 1905,
-      "height": 120
+      "height": 120,
+      "__type": "board"
     }
   ]
 }
