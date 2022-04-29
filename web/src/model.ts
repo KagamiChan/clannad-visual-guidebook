@@ -1,6 +1,6 @@
 export interface GameData {
   box:     Array<Box[]>;
-  line:    Array<End[] | FloatingLine>;
+  line:    Array<End[]>;
   comment: Comment[];
   header:  Header;
   footer:  Footer;
@@ -10,6 +10,8 @@ export interface GameData {
 export interface End {
   x:       number;
   y:       number;
+  l?:      number;
+  h?:      number;
   height?: number;
   __type:  BoardType;
   ref?:    string;
@@ -20,6 +22,7 @@ export enum BoardType {
   Button = "button",
   Point = "point",
   Textbox = "textbox",
+  Line = "line",
 }
 
 export interface Box {
@@ -162,15 +165,3 @@ export enum Ref {
   DivHd0 = "divHd0",
 }
 
-export interface FloatingLine {
-  x:      number;
-  y:      number;
-  l:      number;
-  h:      number;
-  ref:    string;
-  __type: LineType;
-}
-
-export enum LineType {
-  Line = "line",
-}
