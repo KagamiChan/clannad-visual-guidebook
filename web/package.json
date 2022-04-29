@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "dagre": "^0.8.5",
+    "elkjs": "next",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-flow-renderer": "next",

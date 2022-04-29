@@ -1,7 +1,7 @@
 module.exports = {
   parser: '@typescript-eslint/parser',
   extends: ['prettier'],
-  plugin: ['prettier'],
+  plugins: ['prettier'],
   rules: {
     'prettier/prettier': 'error',
   },
