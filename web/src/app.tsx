@@ -1,11 +1,15 @@
 import { useMemo, FC, useState, useEffect } from 'react'
 import ReactFlow, { MarkerType, Node, NodeTypes, Edge } from 'react-flow-renderer'
 import _ from 'lodash'
+import { useAtomValue } from 'jotai'
+import useDeepCompareEffect from 'use-deep-compare-effect'
 
 import { EventNode } from './components/charting/event-node'
-import { box, line } from '../../extracted/15.json'
+import { box, line } from '../../extracted/2.json'
 import { Box, End } from './model'
 import { getLayoutedElements, nodeHeight, nodeWidth, getELKLayoutedElements } from './utils'
+import { ChartObserver } from './components/charting/chart-observer'
+import { nodeDimensionsAtom } from './states'
 
 window._ = _
 
@@ -53,17 +57,21 @@ export const App: FC<any> = () => {
     layoutedEdges: [],
   })
 
-  useEffect(() => {
+  const nodeDimensions = useAtomValue(nodeDimensionsAtom)
+
+  useDeepCompareEffect(() => {
     const run = async () => {
+      console.log('Updating layout')
       const { nodes: layoutedNodes, edges: layoutedEdges } = await getELKLayoutedElements(
         nodes,
         edges,
+        nodeDimensions,
       )
       setConfig({ layoutedNodes, layoutedEdges })
     }
 
     run()
-  }, [])
+  }, [nodeDimensions])
 
   const { layoutedNodes, layoutedEdges } = config
 
@@ -76,7 +84,7 @@ export const App: FC<any> = () => {
     [layoutedNodes],
   )
 
-  console.log(layoutedNodes, maxWidth)
+  // console.log(layoutedNodes, maxWidth)
 
   return (
     <div className="App">
@@ -88,10 +96,13 @@ export const App: FC<any> = () => {
           preventScrolling={false}
           nodesDraggable={false}
           zoomOnScroll={false}
+          zoomOnDoubleClick={false}
           nodesConnectable={false}
           elementsSelectable={false}
           panOnDrag={false}
-        />
+        >
+          <ChartObserver />
+        </ReactFlow>
       </div>
     </div>
   )

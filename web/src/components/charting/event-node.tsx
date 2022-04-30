@@ -5,13 +5,14 @@ import styled from 'styled-components'
 const NodeBody = styled.div`
   padding: 10px;
   border-radius: 3px;
-  width: 250px;
+  min-width: 100px;
   font-size: 16px;
   color: #222;
   text-align: center;
   background: #fff;
   box-shadow: 0 1.6px 3.6px 0 rgb(0 0 0 / 13%), 0 0.3px 0.9px 0 rgb(0 0 0 / 11%);
   border: 1px solid rgb(138, 136, 134);
+  white-space: nowrap;
 `
 
 const Tag = styled.span`

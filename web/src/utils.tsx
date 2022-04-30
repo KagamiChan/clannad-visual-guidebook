@@ -46,6 +46,7 @@ export const getLayoutedElements = (nodes: Node[], edges: Edge[], direction = 'T
 export const getELKLayoutedElements = async (
   nodes: Node[],
   edges: Edge[],
+  nodeDimensions: { [key: string]: { width: number; height: number } },
 ): Promise<{ nodes: Node[]; edges: Edge[] }> => {
   const elk = new ELK()
 
@@ -54,8 +55,8 @@ export const getELKLayoutedElements = async (
 
     children: nodes.map(({ id }) => ({
       id,
-      width: nodeWidth,
-      height: nodeHeight,
+      width: nodeDimensions[id]?.width ?? nodeWidth,
+      height: nodeDimensions[id]?.height ?? nodeHeight,
     })),
     edges: edges.map(({ id, source, target }) => ({ id, sources: [source], targets: [target] })),
   }

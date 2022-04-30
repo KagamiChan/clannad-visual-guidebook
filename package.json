@@ -35,5 +35,9 @@
   "packageManager": "yarn@3.2.0",
   "workspaces": [
     "web"
-  ]
+  ],
+  "dependencies": {
+    "jotai": "^1.6.5",
+    "use-deep-compare-effect": "^1.8.1"
+  }
 }
