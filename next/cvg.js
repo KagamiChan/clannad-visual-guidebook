@@ -79,6 +79,9 @@ function GetRequest() {
 
   return request
 }
+
+const currentPage = GetRequest().page
+
 function include_css(css_file) {
   //Copied from http://www.sloppy.cn/blog/article.asp?id=167 with Modification
   const html_doc = document.getElementsByTagName('head')[0]
@@ -558,6 +561,7 @@ class HeaderBase {
       titlecss,
       contentcss,
       ref: this.ref,
+      __ref: `p${currentPage}${this.ref}`,
       __type: 'header',
     }
 
@@ -650,6 +654,7 @@ function FooterBase(x, y, height, page) {
     height,
     page,
     ref: this.ref,
+    __ref: `p${currentPage}${this.ref}`,
     __type: 'footer',
   }
 
@@ -832,6 +837,7 @@ function ButtonBase(x, y, type, text, css, adjustw) {
     css,
     adjustw,
     ref: this.ref,
+    __ref: `p${currentPage}${this.ref}`,
     __type: 'button',
   }
 
@@ -928,6 +934,7 @@ function TextboxBase(x, y, type, text, route, css) {
     route,
     css,
     ref: this.ref,
+    __ref: `p${currentPage}${this.ref}`,
     __type: 'textbox',
   }
 
@@ -1141,6 +1148,7 @@ function CommentBase(
     optioncss,
     eventcss,
     ref: this.ref,
+    __ref: `p${currentPage}${this.ref}`,
     __type: 'comment',
   }
 
@@ -1380,6 +1388,7 @@ function vmlline(x, y, l, h) {
     l,
     h,
     ref: this.ref,
+    __ref: `p${currentPage}${this.ref}`,
     __type: 'line',
   }
 
@@ -1478,7 +1487,9 @@ function Linkline() {
 
   this.props = [...args]
     .map((r) =>
-      r.ref ? { ref: r.ref, x: r.props.x, y: r.props.y, __type: r.props.__type } : { ...r.props },
+      r.ref
+        ? { ref: r.ref, __ref: r.props.__ref, x: r.props.x, y: r.props.y, __type: r.props.__type }
+        : { ...r.props },
     )
     .sort((a, b) => a.y - b.y)
 
@@ -1578,6 +1589,7 @@ function BoardBase(x, y, height) {
     x,
     y,
     height,
+    __ref: `p${currentPage}${this.ref}`,
     __type: 'board',
   }
 

@@ -8,6 +8,7 @@
         "text": "4月25日",
         "css": "date",
         "ref": "divBtn1",
+        "__ref": "p37divBtn1",
         "__type": "button"
       }
     ],
@@ -19,6 +20,7 @@
         "text": "23日，无聊的午后时光",
         "css": "btn",
         "ref": "divTxtBtn2",
+        "__ref": "p37divTxtBtn2",
         "__type": "textbox"
       }
     ],
@@ -30,6 +32,7 @@
         "text": "转换一下心情",
         "css": "btn",
         "ref": "divTxtBtn6",
+        "__ref": "p37divTxtBtn6",
         "__type": "textbox"
       },
       {
@@ -40,6 +43,7 @@
         "route": "r|+未触发",
         "css": "btn",
         "ref": "divTxtBtn12",
+        "__ref": "p37divTxtBtn12",
         "__type": "textbox"
       }
     ],
@@ -51,6 +55,7 @@
         "text": "走廊中第N次遇到风子",
         "css": "btn",
         "ref": "divTxtBtn19",
+        "__ref": "p37divTxtBtn19",
         "__type": "textbox"
       }
     ],
@@ -62,6 +67,7 @@
         "text": "叫住她",
         "css": "btn",
         "ref": "divTxtBtn23",
+        "__ref": "p37divTxtBtn23",
         "__type": "textbox"
       },
       {
@@ -71,6 +77,7 @@
         "text": "暂时不管她",
         "css": "btn",
         "ref": "divTxtBtn29",
+        "__ref": "p37divTxtBtn29",
         "__type": "textbox"
       }
     ],
@@ -82,6 +89,7 @@
         "text": "风子大师（五）",
         "css": "btn",
         "ref": "divTxtBtn35",
+        "__ref": "p37divTxtBtn35",
         "__type": "textbox",
         "link": "p37_retKFMT5"
       }
@@ -94,6 +102,7 @@
         "text": "胜平",
         "css": "date",
         "ref": "divBtn39",
+        "__ref": "p37divBtn39",
         "__type": "button"
       }
     ],
@@ -105,6 +114,7 @@
         "text": "胜平",
         "css": "date",
         "ref": "divBtn56",
+        "__ref": "p37divBtn56",
         "__type": "button"
       }
     ],
@@ -116,6 +126,7 @@
         "text": "无处可归的胜平",
         "css": "btn",
         "ref": "divTxtBtn57",
+        "__ref": "p37divTxtBtn57",
         "__type": "textbox"
       }
     ],
@@ -128,6 +139,7 @@
         "route": "l|胜平",
         "css": "btn",
         "ref": "divTxtBtn61",
+        "__ref": "p37divTxtBtn61",
         "__type": "textbox"
       },
       {
@@ -138,6 +150,7 @@
         "route": "r|胜平",
         "css": "btn",
         "ref": "divTxtBtn68",
+        "__ref": "p37divTxtBtn68",
         "__type": "textbox"
       }
     ],
@@ -149,6 +162,7 @@
         "text": "20日，野芳寻求帮手",
         "css": "btn",
         "ref": "divTxtBtn75",
+        "__ref": "p37divTxtBtn75",
         "__type": "textbox"
       }
     ],
@@ -160,6 +174,7 @@
         "text": "帮忙",
         "css": "btn",
         "ref": "divTxtBtn79",
+        "__ref": "p37divTxtBtn79",
         "__type": "textbox"
       },
       {
@@ -170,6 +185,7 @@
         "route": "r|+未触发",
         "css": "btn",
         "ref": "divTxtBtn85",
+        "__ref": "p37divTxtBtn85",
         "__type": "textbox"
       }
     ],
@@ -181,6 +197,7 @@
         "text": "胜平“光”获得",
         "css": "btn",
         "ref": "divTxtBtn92",
+        "__ref": "p37divTxtBtn92",
         "__type": "textbox"
       }
     ],
@@ -192,6 +209,7 @@
         "text": "公共 BAD ENDING",
         "css": "btn",
         "ref": "divTxtBtn96",
+        "__ref": "p37divTxtBtn96",
         "__type": "textbox"
       }
     ],
@@ -203,6 +221,7 @@
         "text": "胜平 GOOD ENDING",
         "css": "btn",
         "ref": "divTxtBtn104",
+        "__ref": "p37divTxtBtn104",
         "__type": "textbox"
       }
     ]
@@ -211,12 +230,14 @@
     [
       {
         "ref": "divBtn1",
+        "__ref": "p37divBtn1",
         "x": 850,
         "y": 175,
         "__type": "button"
       },
       {
         "ref": "divTxtBtn2",
+        "__ref": "p37divTxtBtn2",
         "x": 725,
         "y": 250,
         "__type": "textbox"
@@ -225,12 +246,14 @@
     [
       {
         "ref": "divTxtBtn2",
+        "__ref": "p37divTxtBtn2",
         "x": 725,
         "y": 250,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn6",
+        "__ref": "p37divTxtBtn6",
         "x": 525,
         "y": 340,
         "__type": "textbox"
@@ -239,12 +262,14 @@
     [
       {
         "ref": "divTxtBtn2",
+        "__ref": "p37divTxtBtn2",
         "x": 725,
         "y": 250,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn12",
+        "__ref": "p37divTxtBtn12",
         "x": 925,
         "y": 340,
         "__type": "textbox"
@@ -253,12 +278,14 @@
     [
       {
         "ref": "divTxtBtn6",
+        "__ref": "p37divTxtBtn6",
         "x": 525,
         "y": 340,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn19",
+        "__ref": "p37divTxtBtn19",
         "x": 525,
         "y": 400,
         "__type": "textbox"
@@ -267,12 +294,14 @@
     [
       {
         "ref": "divTxtBtn19",
+        "__ref": "p37divTxtBtn19",
         "x": 525,
         "y": 400,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn23",
+        "__ref": "p37divTxtBtn23",
         "x": 325,
         "y": 490,
         "__type": "textbox"
@@ -281,12 +310,14 @@
     [
       {
         "ref": "divTxtBtn19",
+        "__ref": "p37divTxtBtn19",
         "x": 525,
         "y": 400,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn29",
+        "__ref": "p37divTxtBtn29",
         "x": 725,
         "y": 490,
         "__type": "textbox"
@@ -295,12 +326,14 @@
     [
       {
         "ref": "divTxtBtn23",
+        "__ref": "p37divTxtBtn23",
         "x": 325,
         "y": 490,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn35",
+        "__ref": "p37divTxtBtn35",
         "x": 325,
         "y": 550,
         "__type": "textbox"
@@ -309,6 +342,7 @@
     [
       {
         "ref": "divTxtBtn35",
+        "__ref": "p37divTxtBtn35",
         "x": 325,
         "y": 550,
         "__type": "textbox"
@@ -320,6 +354,7 @@
       },
       {
         "ref": "divBtn39",
+        "__ref": "p37divBtn39",
         "x": 850,
         "y": 670,
         "__type": "button"
@@ -328,6 +363,7 @@
     [
       {
         "ref": "divTxtBtn29",
+        "__ref": "p37divTxtBtn29",
         "x": 725,
         "y": 490,
         "__type": "textbox"
@@ -339,6 +375,7 @@
       },
       {
         "ref": "divBtn39",
+        "__ref": "p37divBtn39",
         "x": 850,
         "y": 670,
         "__type": "button"
@@ -347,12 +384,14 @@
     [
       {
         "ref": "divTxtBtn12",
+        "__ref": "p37divTxtBtn12",
         "x": 925,
         "y": 340,
         "__type": "textbox"
       },
       {
         "ref": "divBtn39",
+        "__ref": "p37divBtn39",
         "x": 850,
         "y": 670,
         "__type": "button"
@@ -361,12 +400,14 @@
     [
       {
         "ref": "divBtn56",
+        "__ref": "p37divBtn56",
         "x": 850,
         "y": 805,
         "__type": "button"
       },
       {
         "ref": "divTxtBtn57",
+        "__ref": "p37divTxtBtn57",
         "x": 725,
         "y": 880,
         "__type": "textbox"
@@ -375,12 +416,14 @@
     [
       {
         "ref": "divTxtBtn57",
+        "__ref": "p37divTxtBtn57",
         "x": 725,
         "y": 880,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn61",
+        "__ref": "p37divTxtBtn61",
         "x": 525,
         "y": 970,
         "__type": "textbox"
@@ -389,12 +432,14 @@
     [
       {
         "ref": "divTxtBtn57",
+        "__ref": "p37divTxtBtn57",
         "x": 725,
         "y": 880,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn68",
+        "__ref": "p37divTxtBtn68",
         "x": 925,
         "y": 970,
         "__type": "textbox"
@@ -403,12 +448,14 @@
     [
       {
         "ref": "divTxtBtn61",
+        "__ref": "p37divTxtBtn61",
         "x": 525,
         "y": 970,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn75",
+        "__ref": "p37divTxtBtn75",
         "x": 525,
         "y": 1030,
         "__type": "textbox"
@@ -417,12 +464,14 @@
     [
       {
         "ref": "divTxtBtn75",
+        "__ref": "p37divTxtBtn75",
         "x": 525,
         "y": 1030,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn79",
+        "__ref": "p37divTxtBtn79",
         "x": 325,
         "y": 1120,
         "__type": "textbox"
@@ -431,12 +480,14 @@
     [
       {
         "ref": "divTxtBtn75",
+        "__ref": "p37divTxtBtn75",
         "x": 525,
         "y": 1030,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn85",
+        "__ref": "p37divTxtBtn85",
         "x": 725,
         "y": 1120,
         "__type": "textbox"
@@ -445,12 +496,14 @@
     [
       {
         "ref": "divTxtBtn79",
+        "__ref": "p37divTxtBtn79",
         "x": 325,
         "y": 1120,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn92",
+        "__ref": "p37divTxtBtn92",
         "x": 325,
         "y": 1180,
         "__type": "textbox"
@@ -459,12 +512,14 @@
     [
       {
         "ref": "divTxtBtn85",
+        "__ref": "p37divTxtBtn85",
         "x": 725,
         "y": 1120,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn96",
+        "__ref": "p37divTxtBtn96",
         "x": 725,
         "y": 1210,
         "__type": "textbox"
@@ -473,12 +528,14 @@
     [
       {
         "ref": "divTxtBtn68",
+        "__ref": "p37divTxtBtn68",
         "x": 925,
         "y": 970,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn96",
+        "__ref": "p37divTxtBtn96",
         "x": 725,
         "y": 1210,
         "__type": "textbox"
@@ -487,12 +544,14 @@
     [
       {
         "ref": "divTxtBtn92",
+        "__ref": "p37divTxtBtn92",
         "x": 325,
         "y": 1180,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn104",
+        "__ref": "p37divTxtBtn104",
         "x": 325,
         "y": 1240,
         "__type": "textbox"
@@ -511,6 +570,7 @@
     "titlecss": "headerC",
     "contentcss": "headerE",
     "ref": "divHd0",
+    "__ref": "p37divHd0",
     "__type": "header"
   },
   "footer": {
@@ -519,6 +579,7 @@
     "height": 1270,
     "page": 37,
     "ref": "divFt108",
+    "__ref": "p37divFt108",
     "__type": "footer"
   },
   "board": []

@@ -9,11 +9,15 @@ const HOST = 'http://localhost:3000'
 const main = async () => {
   const browser = await chromium.launch({ headless: false })
 
-  await pMap(range(69), (number) => {
-    return snapshotPage(browser, number)
-  }, {
-    concurrency: 2,
-  })
+  await pMap(
+    range(69),
+    (number) => {
+      return snapshotPage(browser, number)
+    },
+    {
+      concurrency: 2,
+    },
+  )
 
   await browser.close()
 }
@@ -44,7 +48,9 @@ const snapshotPage = async (browser: Browser, number: number) => {
 
   `)
 
-  await fs.outputJSON(path.resolve(__dirname, `../extracted/${number}.json`), content, { spaces: 2 })
+  await fs.outputJSON(path.resolve(__dirname, `../extracted/${number}.json`), content, {
+    spaces: 2,
+  })
 
   await page.close()
 }

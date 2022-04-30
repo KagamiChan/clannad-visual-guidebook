@@ -8,6 +8,7 @@
         "text": "风子大师（一）",
         "css": "btn",
         "ref": "divTxtBtn1",
+        "__ref": "p48divTxtBtn1",
         "__type": "textbox",
         "link": "p48_KFMT1"
       },
@@ -18,6 +19,7 @@
         "text": "风子陷入幻想（一）",
         "css": "btn",
         "ref": "divTxtBtn3",
+        "__ref": "p48divTxtBtn3",
         "__type": "textbox",
         "num": {
           "x": 610,
@@ -26,6 +28,7 @@
           "text": "1",
           "css": "check",
           "ref": "divBtn5",
+          "__ref": "p48divBtn5",
           "__type": "button"
         },
         "comment": {
@@ -44,6 +47,7 @@
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
           "ref": "divCmt6",
+          "__ref": "p48divCmt6",
           "__type": "comment"
         }
       }
@@ -56,6 +60,7 @@
         "text": "太无聊了，让她用鼻子喝果汁玩玩",
         "css": "btn",
         "ref": "divTxtBtn9",
+        "__ref": "p48divTxtBtn9",
         "__type": "textbox"
       },
       {
@@ -65,6 +70,7 @@
         "text": "一直等下去",
         "css": "btn",
         "ref": "divTxtBtn15",
+        "__ref": "p48divTxtBtn15",
         "__type": "textbox"
       }
     ],
@@ -76,6 +82,7 @@
         "text": "让风子用鼻子喝果汁升级",
         "css": "btn",
         "ref": "divTxtBtn21",
+        "__ref": "p48divTxtBtn21",
         "__type": "textbox"
       }
     ],
@@ -87,6 +94,7 @@
         "text": "风子大师（二）",
         "css": "btn",
         "ref": "divTxtBtn32",
+        "__ref": "p48divTxtBtn32",
         "__type": "textbox",
         "link": "p48_KFMT2"
       },
@@ -97,6 +105,7 @@
         "text": "风子陷入幻想（二）",
         "css": "btn",
         "ref": "divTxtBtn34",
+        "__ref": "p48divTxtBtn34",
         "__type": "textbox"
       }
     ],
@@ -108,6 +117,7 @@
         "text": "恶作剧",
         "css": "btn",
         "ref": "divTxtBtn38",
+        "__ref": "p48divTxtBtn38",
         "__type": "textbox"
       },
       {
@@ -117,6 +127,7 @@
         "text": "耐心等下去",
         "css": "btn",
         "ref": "divTxtBtn43",
+        "__ref": "p48divTxtBtn43",
         "__type": "textbox"
       }
     ],
@@ -128,6 +139,7 @@
         "text": "风子恶作剧（一）",
         "css": "btn",
         "ref": "divTxtBtn50",
+        "__ref": "p48divTxtBtn50",
         "__type": "textbox",
         "num": {
           "x": 310,
@@ -136,6 +148,7 @@
           "text": "2",
           "css": "check",
           "ref": "divBtn52",
+          "__ref": "p48divBtn52",
           "__type": "button"
         },
         "comment": {
@@ -154,6 +167,7 @@
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
           "ref": "divCmt53",
+          "__ref": "p48divCmt53",
           "__type": "comment"
         }
       }
@@ -166,6 +180,7 @@
         "text": "让风子用鼻子喝果汁",
         "css": "btn",
         "ref": "divTxtBtn56",
+        "__ref": "p48divTxtBtn56",
         "__type": "textbox"
       },
       {
@@ -175,6 +190,7 @@
         "text": "“让风子用鼻子喝果汁”升级/达成",
         "css": "btn",
         "ref": "divTxtBtn60",
+        "__ref": "p48divTxtBtn60",
         "__type": "textbox"
       }
     ],
@@ -186,6 +202,7 @@
         "text": "把风子带到别处去",
         "css": "btn",
         "ref": "divTxtBtn62",
+        "__ref": "p48divTxtBtn62",
         "__type": "textbox"
       },
       {
@@ -195,6 +212,7 @@
         "text": "“把风子带到别处去”升级",
         "css": "btn",
         "ref": "divTxtBtn66",
+        "__ref": "p48divTxtBtn66",
         "__type": "textbox"
       }
     ],
@@ -206,6 +224,7 @@
         "text": "风子大师（三）",
         "css": "btn",
         "ref": "divTxtBtn75",
+        "__ref": "p48divTxtBtn75",
         "__type": "textbox",
         "link": "p48_KFMT3"
       },
@@ -216,6 +235,7 @@
         "text": "22日，风子陷入幻想（二）",
         "css": "btn",
         "ref": "divTxtBtn77",
+        "__ref": "p48divTxtBtn77",
         "__type": "textbox"
       }
     ],
@@ -227,6 +247,7 @@
         "text": "恶作剧",
         "css": "btn",
         "ref": "divTxtBtn81",
+        "__ref": "p48divTxtBtn81",
         "__type": "textbox"
       },
       {
@@ -236,6 +257,7 @@
         "text": "耐心等下去",
         "css": "btn",
         "ref": "divTxtBtn86",
+        "__ref": "p48divTxtBtn86",
         "__type": "textbox"
       }
     ],
@@ -247,6 +269,7 @@
         "text": "风子陷入幻想（三）",
         "css": "btn",
         "ref": "divTxtBtn93",
+        "__ref": "p48divTxtBtn93",
         "__type": "textbox"
       }
     ],
@@ -258,6 +281,7 @@
         "text": "恶作剧",
         "css": "btn",
         "ref": "divTxtBtn97",
+        "__ref": "p48divTxtBtn97",
         "__type": "textbox"
       },
       {
@@ -267,6 +291,7 @@
         "text": "不去管她",
         "css": "btn",
         "ref": "divTxtBtn102",
+        "__ref": "p48divTxtBtn102",
         "__type": "textbox"
       }
     ],
@@ -278,6 +303,7 @@
         "text": "风子恶作剧（二）",
         "css": "btn",
         "ref": "divTxtBtn109",
+        "__ref": "p48divTxtBtn109",
         "__type": "textbox",
         "num": {
           "x": 110,
@@ -286,6 +312,7 @@
           "text": "3",
           "css": "check",
           "ref": "divBtn111",
+          "__ref": "p48divBtn111",
           "__type": "button"
         },
         "comment": {
@@ -304,6 +331,7 @@
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
           "ref": "divCmt112",
+          "__ref": "p48divCmt112",
           "__type": "comment"
         }
       }
@@ -316,6 +344,7 @@
         "text": "让风子用鼻子喝果汁",
         "css": "btn",
         "ref": "divTxtBtn115",
+        "__ref": "p48divTxtBtn115",
         "__type": "textbox"
       },
       {
@@ -325,6 +354,7 @@
         "text": "“让风子用鼻子喝果汁”升级/达成",
         "css": "btn",
         "ref": "divTxtBtn119",
+        "__ref": "p48divTxtBtn119",
         "__type": "textbox"
       }
     ],
@@ -336,6 +366,7 @@
         "text": "把风子带到别处去",
         "css": "btn",
         "ref": "divTxtBtn121",
+        "__ref": "p48divTxtBtn121",
         "__type": "textbox"
       },
       {
@@ -345,6 +376,7 @@
         "text": "“把风子带到别处去”升级/达成",
         "css": "btn",
         "ref": "divTxtBtn125",
+        "__ref": "p48divTxtBtn125",
         "__type": "textbox"
       }
     ],
@@ -356,6 +388,7 @@
         "text": "找人来装扮自己",
         "css": "btn",
         "ref": "divTxtBtn127",
+        "__ref": "p48divTxtBtn127",
         "__type": "textbox"
       },
       {
@@ -365,6 +398,7 @@
         "text": "“找人来装扮自己”升级",
         "css": "btn",
         "ref": "divTxtBtn131",
+        "__ref": "p48divTxtBtn131",
         "__type": "textbox"
       }
     ]
@@ -385,12 +419,14 @@
     [
       {
         "ref": "divTxtBtn3",
+        "__ref": "p48divTxtBtn3",
         "x": 625,
         "y": 190,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn9",
+        "__ref": "p48divTxtBtn9",
         "x": 425,
         "y": 280,
         "__type": "textbox"
@@ -399,12 +435,14 @@
     [
       {
         "ref": "divTxtBtn3",
+        "__ref": "p48divTxtBtn3",
         "x": 625,
         "y": 190,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn15",
+        "__ref": "p48divTxtBtn15",
         "x": 825,
         "y": 280,
         "__type": "textbox"
@@ -413,12 +451,14 @@
     [
       {
         "ref": "divTxtBtn9",
+        "__ref": "p48divTxtBtn9",
         "x": 425,
         "y": 280,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn21",
+        "__ref": "p48divTxtBtn21",
         "x": 425,
         "y": 340,
         "__type": "textbox"
@@ -427,6 +467,7 @@
     [
       {
         "ref": "divTxtBtn9",
+        "__ref": "p48divTxtBtn9",
         "x": 425,
         "y": 280,
         "__type": "textbox"
@@ -440,6 +481,7 @@
     [
       {
         "ref": "divTxtBtn15",
+        "__ref": "p48divTxtBtn15",
         "x": 825,
         "y": 280,
         "__type": "textbox"
@@ -487,6 +529,7 @@
       },
       {
         "ref": "divTxtBtn38",
+        "__ref": "p48divTxtBtn38",
         "x": 325,
         "y": 610,
         "__type": "textbox"
@@ -500,6 +543,7 @@
       },
       {
         "ref": "divTxtBtn43",
+        "__ref": "p48divTxtBtn43",
         "x": 925,
         "y": 610,
         "__type": "textbox"
@@ -508,6 +552,7 @@
     [
       {
         "ref": "divTxtBtn34",
+        "__ref": "p48divTxtBtn34",
         "x": 625,
         "y": 520,
         "__type": "textbox"
@@ -521,12 +566,14 @@
     [
       {
         "ref": "divTxtBtn38",
+        "__ref": "p48divTxtBtn38",
         "x": 325,
         "y": 610,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn50",
+        "__ref": "p48divTxtBtn50",
         "x": 325,
         "y": 670,
         "__type": "textbox"
@@ -535,12 +582,14 @@
     [
       {
         "ref": "divTxtBtn50",
+        "__ref": "p48divTxtBtn50",
         "x": 325,
         "y": 670,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn56",
+        "__ref": "p48divTxtBtn56",
         "x": 325,
         "y": 730,
         "__type": "textbox"
@@ -549,12 +598,14 @@
     [
       {
         "ref": "divTxtBtn56",
+        "__ref": "p48divTxtBtn56",
         "x": 325,
         "y": 730,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn62",
+        "__ref": "p48divTxtBtn62",
         "x": 325,
         "y": 790,
         "__type": "textbox"
@@ -563,6 +614,7 @@
     [
       {
         "ref": "divTxtBtn62",
+        "__ref": "p48divTxtBtn62",
         "x": 325,
         "y": 790,
         "__type": "textbox"
@@ -576,6 +628,7 @@
     [
       {
         "ref": "divTxtBtn43",
+        "__ref": "p48divTxtBtn43",
         "x": 925,
         "y": 610,
         "__type": "textbox"
@@ -623,6 +676,7 @@
       },
       {
         "ref": "divTxtBtn81",
+        "__ref": "p48divTxtBtn81",
         "x": 425,
         "y": 1060,
         "__type": "textbox"
@@ -636,6 +690,7 @@
       },
       {
         "ref": "divTxtBtn86",
+        "__ref": "p48divTxtBtn86",
         "x": 1025,
         "y": 1060,
         "__type": "textbox"
@@ -644,6 +699,7 @@
     [
       {
         "ref": "divTxtBtn77",
+        "__ref": "p48divTxtBtn77",
         "x": 725,
         "y": 970,
         "__type": "textbox"
@@ -657,12 +713,14 @@
     [
       {
         "ref": "divTxtBtn81",
+        "__ref": "p48divTxtBtn81",
         "x": 425,
         "y": 1060,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn93",
+        "__ref": "p48divTxtBtn93",
         "x": 425,
         "y": 1120,
         "__type": "textbox"
@@ -676,6 +734,7 @@
       },
       {
         "ref": "divTxtBtn97",
+        "__ref": "p48divTxtBtn97",
         "x": 125,
         "y": 1210,
         "__type": "textbox"
@@ -689,6 +748,7 @@
       },
       {
         "ref": "divTxtBtn102",
+        "__ref": "p48divTxtBtn102",
         "x": 725,
         "y": 1210,
         "__type": "textbox"
@@ -697,6 +757,7 @@
     [
       {
         "ref": "divTxtBtn93",
+        "__ref": "p48divTxtBtn93",
         "x": 425,
         "y": 1120,
         "__type": "textbox"
@@ -710,12 +771,14 @@
     [
       {
         "ref": "divTxtBtn97",
+        "__ref": "p48divTxtBtn97",
         "x": 125,
         "y": 1210,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn109",
+        "__ref": "p48divTxtBtn109",
         "x": 125,
         "y": 1270,
         "__type": "textbox"
@@ -724,12 +787,14 @@
     [
       {
         "ref": "divTxtBtn109",
+        "__ref": "p48divTxtBtn109",
         "x": 125,
         "y": 1270,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn115",
+        "__ref": "p48divTxtBtn115",
         "x": 125,
         "y": 1330,
         "__type": "textbox"
@@ -738,12 +803,14 @@
     [
       {
         "ref": "divTxtBtn115",
+        "__ref": "p48divTxtBtn115",
         "x": 125,
         "y": 1330,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn121",
+        "__ref": "p48divTxtBtn121",
         "x": 125,
         "y": 1390,
         "__type": "textbox"
@@ -752,12 +819,14 @@
     [
       {
         "ref": "divTxtBtn121",
+        "__ref": "p48divTxtBtn121",
         "x": 125,
         "y": 1390,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn127",
+        "__ref": "p48divTxtBtn127",
         "x": 125,
         "y": 1450,
         "__type": "textbox"
@@ -766,6 +835,7 @@
     [
       {
         "ref": "divTxtBtn127",
+        "__ref": "p48divTxtBtn127",
         "x": 125,
         "y": 1450,
         "__type": "textbox"
@@ -779,6 +849,7 @@
     [
       {
         "ref": "divTxtBtn102",
+        "__ref": "p48divTxtBtn102",
         "x": 725,
         "y": 1210,
         "__type": "textbox"
@@ -809,6 +880,7 @@
     [
       {
         "ref": "divTxtBtn86",
+        "__ref": "p48divTxtBtn86",
         "x": 1025,
         "y": 1060,
         "__type": "textbox"
@@ -854,6 +926,7 @@
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
       "ref": "divCmt6",
+      "__ref": "p48divCmt6",
       "__type": "comment"
     },
     {
@@ -872,6 +945,7 @@
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
       "ref": "divCmt53",
+      "__ref": "p48divCmt53",
       "__type": "comment"
     },
     {
@@ -890,6 +964,7 @@
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
       "ref": "divCmt112",
+      "__ref": "p48divCmt112",
       "__type": "comment"
     }
   ],
@@ -904,6 +979,7 @@
     "titlecss": "headerC",
     "contentcss": "headerE",
     "ref": "divHd0",
+    "__ref": "p48divHd0",
     "__type": "header"
   },
   "footer": {
@@ -912,6 +988,7 @@
     "height": 1570,
     "page": 48,
     "ref": "divFt145",
+    "__ref": "p48divFt145",
     "__type": "footer"
   },
   "board": []

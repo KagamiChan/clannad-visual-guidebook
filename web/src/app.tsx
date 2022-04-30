@@ -10,7 +10,7 @@ import { getLayoutedElements, nodeHeight, nodeWidth, getELKLayoutedElements } fr
 window._ = _
 
 const nodes = _.flatten<any>(box).map((node: Box) => ({
-  id: node.ref,
+  id: node.__ref,
   data: { label: node.text, node },
   position: { x: node.x, y: node.y },
   type: 'event',
@@ -22,9 +22,9 @@ const edges = _.map(
     const [start, ...rest] = edge
     const end = _.last(rest)!
     return {
-      id: `${start.ref}-${end.ref}`,
-      source: start.ref!,
-      target: end.ref!,
+      id: `${start.__ref}-${end.__ref}`,
+      source: start.__ref!,
+      target: end.__ref!,
       type: 'straight',
       // markerEnd: {
       //   type: MarkerType.Arrow,

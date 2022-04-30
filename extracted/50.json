@@ -8,6 +8,7 @@
         "text": "风子大师（七）",
         "css": "btn",
         "ref": "divTxtBtn1",
+        "__ref": "p50divTxtBtn1",
         "__type": "textbox",
         "link": "p50_KFMT7"
       },
@@ -18,6 +19,7 @@
         "text": "24日，风子陷入幻想（四）",
         "css": "btn",
         "ref": "divTxtBtn3",
+        "__ref": "p50divTxtBtn3",
         "__type": "textbox"
       }
     ],
@@ -29,6 +31,7 @@
         "text": "恶作剧",
         "css": "btn",
         "ref": "divTxtBtn7",
+        "__ref": "p50divTxtBtn7",
         "__type": "textbox"
       },
       {
@@ -39,6 +42,7 @@
         "route": "r|+未触发",
         "css": "btn",
         "ref": "divTxtBtn12",
+        "__ref": "p50divTxtBtn12",
         "__type": "textbox"
       }
     ],
@@ -50,6 +54,7 @@
         "text": "风子陷入幻想（五）",
         "css": "btn",
         "ref": "divTxtBtn20",
+        "__ref": "p50divTxtBtn20",
         "__type": "textbox"
       }
     ],
@@ -61,6 +66,7 @@
         "text": "恶作剧",
         "css": "btn",
         "ref": "divTxtBtn24",
+        "__ref": "p50divTxtBtn24",
         "__type": "textbox"
       },
       {
@@ -70,6 +76,7 @@
         "text": "算了",
         "css": "btn",
         "ref": "divTxtBtn29",
+        "__ref": "p50divTxtBtn29",
         "__type": "textbox"
       }
     ],
@@ -81,6 +88,7 @@
         "text": "风子恶作剧（六）",
         "css": "btn",
         "ref": "divTxtBtn36",
+        "__ref": "p50divTxtBtn36",
         "__type": "textbox",
         "num": {
           "x": 110,
@@ -89,6 +97,7 @@
           "text": "5",
           "css": "check",
           "ref": "divBtn38",
+          "__ref": "p50divBtn38",
           "__type": "button"
         },
         "comment": {
@@ -107,6 +116,7 @@
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
           "ref": "divCmt39",
+          "__ref": "p50divCmt39",
           "__type": "comment"
         }
       }
@@ -119,6 +129,7 @@
         "text": "让风子用鼻子喝果汁",
         "css": "btn",
         "ref": "divTxtBtn42",
+        "__ref": "p50divTxtBtn42",
         "__type": "textbox"
       },
       {
@@ -128,6 +139,7 @@
         "text": "“让风子用鼻子喝果汁”升级/达成",
         "css": "btn",
         "ref": "divTxtBtn46",
+        "__ref": "p50divTxtBtn46",
         "__type": "textbox"
       }
     ],
@@ -139,6 +151,7 @@
         "text": "把风子带到别处去",
         "css": "btn",
         "ref": "divTxtBtn48",
+        "__ref": "p50divTxtBtn48",
         "__type": "textbox"
       },
       {
@@ -148,6 +161,7 @@
         "text": "重新选择",
         "css": "btn",
         "ref": "divTxtBtn52",
+        "__ref": "p50divTxtBtn52",
         "__type": "textbox"
       }
     ],
@@ -159,6 +173,7 @@
         "text": "找人来装扮自己",
         "css": "btn",
         "ref": "divTxtBtn54",
+        "__ref": "p50divTxtBtn54",
         "__type": "textbox"
       },
       {
@@ -168,6 +183,7 @@
         "text": "重新选择",
         "css": "btn",
         "ref": "divTxtBtn58",
+        "__ref": "p50divTxtBtn58",
         "__type": "textbox"
       }
     ],
@@ -179,6 +195,7 @@
         "text": "偷换掉风子怀里的雕刻",
         "css": "btn",
         "ref": "divTxtBtn60",
+        "__ref": "p50divTxtBtn60",
         "__type": "textbox"
       },
       {
@@ -188,6 +205,7 @@
         "text": "“偷换掉风子怀里的雕刻”升级/达成",
         "css": "btn",
         "ref": "divTxtBtn64",
+        "__ref": "p50divTxtBtn64",
         "__type": "textbox"
       }
     ],
@@ -199,6 +217,7 @@
         "text": "算了",
         "css": "btn",
         "ref": "divTxtBtn66",
+        "__ref": "p50divTxtBtn66",
         "__type": "textbox"
       }
     ],
@@ -210,6 +229,7 @@
         "text": "风子大师（八）",
         "css": "btn",
         "ref": "divTxtBtn82",
+        "__ref": "p50divTxtBtn82",
         "__type": "textbox",
         "link": "p50_KFMT8"
       },
@@ -220,6 +240,7 @@
         "text": "风子陷入幻想（六）",
         "css": "btn",
         "ref": "divTxtBtn84",
+        "__ref": "p50divTxtBtn84",
         "__type": "textbox"
       }
     ],
@@ -231,6 +252,7 @@
         "text": "恶作剧",
         "css": "btn",
         "ref": "divTxtBtn88",
+        "__ref": "p50divTxtBtn88",
         "__type": "textbox"
       },
       {
@@ -240,6 +262,7 @@
         "text": "不去管她",
         "css": "btn",
         "ref": "divTxtBtn93",
+        "__ref": "p50divTxtBtn93",
         "__type": "textbox"
       }
     ],
@@ -251,6 +274,7 @@
         "text": "24日，风子陷入幻想（四）",
         "css": "btn",
         "ref": "divTxtBtn100",
+        "__ref": "p50divTxtBtn100",
         "__type": "textbox"
       }
     ],
@@ -262,6 +286,7 @@
         "text": "恶作剧",
         "css": "btn",
         "ref": "divTxtBtn104",
+        "__ref": "p50divTxtBtn104",
         "__type": "textbox"
       },
       {
@@ -272,6 +297,7 @@
         "route": "r|+未触发",
         "css": "btn",
         "ref": "divTxtBtn109",
+        "__ref": "p50divTxtBtn109",
         "__type": "textbox"
       }
     ],
@@ -283,6 +309,7 @@
         "text": "风子恶作剧（七）",
         "css": "btn",
         "ref": "divTxtBtn117",
+        "__ref": "p50divTxtBtn117",
         "__type": "textbox",
         "num": {
           "x": 110,
@@ -291,6 +318,7 @@
           "text": "6",
           "css": "check",
           "ref": "divBtn119",
+          "__ref": "p50divBtn119",
           "__type": "button"
         },
         "comment": {
@@ -309,6 +337,7 @@
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
           "ref": "divCmt120",
+          "__ref": "p50divCmt120",
           "__type": "comment"
         }
       },
@@ -319,6 +348,7 @@
         "text": "“给她吃早苗的面包”达成",
         "css": "btn",
         "ref": "divTxtBtn123",
+        "__ref": "p50divTxtBtn123",
         "__type": "textbox"
       }
     ],
@@ -330,6 +360,7 @@
         "text": "让风子用鼻子喝果汁",
         "css": "btn",
         "ref": "divTxtBtn127",
+        "__ref": "p50divTxtBtn127",
         "__type": "textbox"
       },
       {
@@ -339,6 +370,7 @@
         "text": "“让风子用鼻子喝果汁”升级/达成",
         "css": "btn",
         "ref": "divTxtBtn131",
+        "__ref": "p50divTxtBtn131",
         "__type": "textbox"
       }
     ],
@@ -350,6 +382,7 @@
         "text": "把风子带到别处去",
         "css": "btn",
         "ref": "divTxtBtn133",
+        "__ref": "p50divTxtBtn133",
         "__type": "textbox"
       },
       {
@@ -359,6 +392,7 @@
         "text": "“把风子带到别处去”升级/达成",
         "css": "btn",
         "ref": "divTxtBtn137",
+        "__ref": "p50divTxtBtn137",
         "__type": "textbox"
       }
     ],
@@ -370,6 +404,7 @@
         "text": "找人来装扮自己",
         "css": "btn",
         "ref": "divTxtBtn139",
+        "__ref": "p50divTxtBtn139",
         "__type": "textbox"
       },
       {
@@ -379,6 +414,7 @@
         "text": "重新选择",
         "css": "btn",
         "ref": "divTxtBtn143",
+        "__ref": "p50divTxtBtn143",
         "__type": "textbox"
       }
     ],
@@ -390,6 +426,7 @@
         "text": "偷换掉风子怀里的雕刻",
         "css": "btn",
         "ref": "divTxtBtn145",
+        "__ref": "p50divTxtBtn145",
         "__type": "textbox"
       },
       {
@@ -399,6 +436,7 @@
         "text": "“偷换掉风子怀里的雕刻”升级/达成",
         "css": "btn",
         "ref": "divTxtBtn149",
+        "__ref": "p50divTxtBtn149",
         "__type": "textbox"
       }
     ],
@@ -410,6 +448,7 @@
         "text": "给她吃早苗的面包",
         "css": "btn",
         "ref": "divTxtBtn151",
+        "__ref": "p50divTxtBtn151",
         "__type": "textbox"
       },
       {
@@ -419,6 +458,7 @@
         "text": "“给她吃早苗的面包”达成",
         "css": "btn",
         "ref": "divTxtBtn155",
+        "__ref": "p50divTxtBtn155",
         "__type": "textbox"
       }
     ],
@@ -430,6 +470,7 @@
         "text": "风子大师（九）",
         "css": "btn",
         "ref": "divTxtBtn169",
+        "__ref": "p50divTxtBtn169",
         "__type": "textbox",
         "link": "p50_KFMT9"
       },
@@ -440,6 +481,7 @@
         "text": "4项常规恶作剧全部达成",
         "css": "btn",
         "ref": "divTxtBtn171",
+        "__ref": "p50divTxtBtn171",
         "__type": "textbox",
         "num": {
           "x": 610,
@@ -448,6 +490,7 @@
           "text": "7",
           "css": "check",
           "ref": "divBtn173",
+          "__ref": "p50divBtn173",
           "__type": "button"
         },
         "comment": {
@@ -466,6 +509,7 @@
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
           "ref": "divCmt174",
+          "__ref": "p50divCmt174",
           "__type": "comment"
         }
       }
@@ -478,6 +522,7 @@
         "text": "是",
         "css": "btn",
         "ref": "divTxtBtn177",
+        "__ref": "p50divTxtBtn177",
         "__type": "textbox"
       },
       {
@@ -487,6 +532,7 @@
         "text": "否",
         "css": "btn",
         "ref": "divTxtBtn183",
+        "__ref": "p50divTxtBtn183",
         "__type": "textbox"
       }
     ],
@@ -498,6 +544,7 @@
         "text": "“风子召唤使”达成",
         "css": "btn",
         "ref": "divTxtBtn189",
+        "__ref": "p50divTxtBtn189",
         "__type": "textbox"
       }
     ]
@@ -523,6 +570,7 @@
       },
       {
         "ref": "divTxtBtn7",
+        "__ref": "p50divTxtBtn7",
         "x": 425,
         "y": 280,
         "__type": "textbox"
@@ -536,6 +584,7 @@
       },
       {
         "ref": "divTxtBtn12",
+        "__ref": "p50divTxtBtn12",
         "x": 1025,
         "y": 280,
         "__type": "textbox"
@@ -544,6 +593,7 @@
     [
       {
         "ref": "divTxtBtn3",
+        "__ref": "p50divTxtBtn3",
         "x": 725,
         "y": 190,
         "__type": "textbox"
@@ -557,12 +607,14 @@
     [
       {
         "ref": "divTxtBtn7",
+        "__ref": "p50divTxtBtn7",
         "x": 425,
         "y": 280,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn20",
+        "__ref": "p50divTxtBtn20",
         "x": 425,
         "y": 340,
         "__type": "textbox"
@@ -576,6 +628,7 @@
       },
       {
         "ref": "divTxtBtn24",
+        "__ref": "p50divTxtBtn24",
         "x": 125,
         "y": 430,
         "__type": "textbox"
@@ -589,6 +642,7 @@
       },
       {
         "ref": "divTxtBtn29",
+        "__ref": "p50divTxtBtn29",
         "x": 725,
         "y": 430,
         "__type": "textbox"
@@ -597,6 +651,7 @@
     [
       {
         "ref": "divTxtBtn20",
+        "__ref": "p50divTxtBtn20",
         "x": 425,
         "y": 340,
         "__type": "textbox"
@@ -610,12 +665,14 @@
     [
       {
         "ref": "divTxtBtn24",
+        "__ref": "p50divTxtBtn24",
         "x": 125,
         "y": 430,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn36",
+        "__ref": "p50divTxtBtn36",
         "x": 125,
         "y": 490,
         "__type": "textbox"
@@ -624,12 +681,14 @@
     [
       {
         "ref": "divTxtBtn36",
+        "__ref": "p50divTxtBtn36",
         "x": 125,
         "y": 490,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn42",
+        "__ref": "p50divTxtBtn42",
         "x": 125,
         "y": 550,
         "__type": "textbox"
@@ -638,12 +697,14 @@
     [
       {
         "ref": "divTxtBtn42",
+        "__ref": "p50divTxtBtn42",
         "x": 125,
         "y": 550,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn48",
+        "__ref": "p50divTxtBtn48",
         "x": 125,
         "y": 610,
         "__type": "textbox"
@@ -652,12 +713,14 @@
     [
       {
         "ref": "divTxtBtn48",
+        "__ref": "p50divTxtBtn48",
         "x": 125,
         "y": 610,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn54",
+        "__ref": "p50divTxtBtn54",
         "x": 125,
         "y": 670,
         "__type": "textbox"
@@ -666,12 +729,14 @@
     [
       {
         "ref": "divTxtBtn54",
+        "__ref": "p50divTxtBtn54",
         "x": 125,
         "y": 670,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn60",
+        "__ref": "p50divTxtBtn60",
         "x": 125,
         "y": 730,
         "__type": "textbox"
@@ -680,12 +745,14 @@
     [
       {
         "ref": "divTxtBtn60",
+        "__ref": "p50divTxtBtn60",
         "x": 125,
         "y": 730,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn66",
+        "__ref": "p50divTxtBtn66",
         "x": 125,
         "y": 790,
         "__type": "textbox"
@@ -694,6 +761,7 @@
     [
       {
         "ref": "divTxtBtn60",
+        "__ref": "p50divTxtBtn60",
         "x": 125,
         "y": 730,
         "__type": "textbox"
@@ -707,6 +775,7 @@
     [
       {
         "ref": "divTxtBtn29",
+        "__ref": "p50divTxtBtn29",
         "x": 725,
         "y": 430,
         "__type": "textbox"
@@ -737,6 +806,7 @@
     [
       {
         "ref": "divTxtBtn12",
+        "__ref": "p50divTxtBtn12",
         "x": 1025,
         "y": 280,
         "__type": "textbox"
@@ -784,6 +854,7 @@
       },
       {
         "ref": "divTxtBtn88",
+        "__ref": "p50divTxtBtn88",
         "x": 425,
         "y": 1090,
         "__type": "textbox"
@@ -797,6 +868,7 @@
       },
       {
         "ref": "divTxtBtn93",
+        "__ref": "p50divTxtBtn93",
         "x": 1025,
         "y": 1090,
         "__type": "textbox"
@@ -805,6 +877,7 @@
     [
       {
         "ref": "divTxtBtn84",
+        "__ref": "p50divTxtBtn84",
         "x": 725,
         "y": 1000,
         "__type": "textbox"
@@ -818,12 +891,14 @@
     [
       {
         "ref": "divTxtBtn88",
+        "__ref": "p50divTxtBtn88",
         "x": 425,
         "y": 1090,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn100",
+        "__ref": "p50divTxtBtn100",
         "x": 425,
         "y": 1150,
         "__type": "textbox"
@@ -837,6 +912,7 @@
       },
       {
         "ref": "divTxtBtn104",
+        "__ref": "p50divTxtBtn104",
         "x": 125,
         "y": 1240,
         "__type": "textbox"
@@ -850,6 +926,7 @@
       },
       {
         "ref": "divTxtBtn109",
+        "__ref": "p50divTxtBtn109",
         "x": 725,
         "y": 1240,
         "__type": "textbox"
@@ -858,6 +935,7 @@
     [
       {
         "ref": "divTxtBtn100",
+        "__ref": "p50divTxtBtn100",
         "x": 425,
         "y": 1150,
         "__type": "textbox"
@@ -871,12 +949,14 @@
     [
       {
         "ref": "divTxtBtn104",
+        "__ref": "p50divTxtBtn104",
         "x": 125,
         "y": 1240,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn117",
+        "__ref": "p50divTxtBtn117",
         "x": 125,
         "y": 1300,
         "__type": "textbox"
@@ -885,12 +965,14 @@
     [
       {
         "ref": "divTxtBtn109",
+        "__ref": "p50divTxtBtn109",
         "x": 725,
         "y": 1240,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn123",
+        "__ref": "p50divTxtBtn123",
         "x": 725,
         "y": 1300,
         "__type": "textbox"
@@ -899,12 +981,14 @@
     [
       {
         "ref": "divTxtBtn117",
+        "__ref": "p50divTxtBtn117",
         "x": 125,
         "y": 1300,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn127",
+        "__ref": "p50divTxtBtn127",
         "x": 125,
         "y": 1360,
         "__type": "textbox"
@@ -913,12 +997,14 @@
     [
       {
         "ref": "divTxtBtn127",
+        "__ref": "p50divTxtBtn127",
         "x": 125,
         "y": 1360,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn133",
+        "__ref": "p50divTxtBtn133",
         "x": 125,
         "y": 1420,
         "__type": "textbox"
@@ -927,12 +1013,14 @@
     [
       {
         "ref": "divTxtBtn133",
+        "__ref": "p50divTxtBtn133",
         "x": 125,
         "y": 1420,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn139",
+        "__ref": "p50divTxtBtn139",
         "x": 125,
         "y": 1480,
         "__type": "textbox"
@@ -941,12 +1029,14 @@
     [
       {
         "ref": "divTxtBtn139",
+        "__ref": "p50divTxtBtn139",
         "x": 125,
         "y": 1480,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn145",
+        "__ref": "p50divTxtBtn145",
         "x": 125,
         "y": 1540,
         "__type": "textbox"
@@ -955,12 +1045,14 @@
     [
       {
         "ref": "divTxtBtn145",
+        "__ref": "p50divTxtBtn145",
         "x": 125,
         "y": 1540,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn151",
+        "__ref": "p50divTxtBtn151",
         "x": 125,
         "y": 1600,
         "__type": "textbox"
@@ -969,6 +1061,7 @@
     [
       {
         "ref": "divTxtBtn145",
+        "__ref": "p50divTxtBtn145",
         "x": 125,
         "y": 1540,
         "__type": "textbox"
@@ -982,6 +1075,7 @@
     [
       {
         "ref": "divTxtBtn109",
+        "__ref": "p50divTxtBtn109",
         "x": 725,
         "y": 1240,
         "__type": "textbox"
@@ -1012,6 +1106,7 @@
     [
       {
         "ref": "divTxtBtn93",
+        "__ref": "p50divTxtBtn93",
         "x": 1025,
         "y": 1090,
         "__type": "textbox"
@@ -1054,12 +1149,14 @@
     [
       {
         "ref": "divTxtBtn171",
+        "__ref": "p50divTxtBtn171",
         "x": 625,
         "y": 1810,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn177",
+        "__ref": "p50divTxtBtn177",
         "x": 425,
         "y": 1900,
         "__type": "textbox"
@@ -1068,12 +1165,14 @@
     [
       {
         "ref": "divTxtBtn171",
+        "__ref": "p50divTxtBtn171",
         "x": 625,
         "y": 1810,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn183",
+        "__ref": "p50divTxtBtn183",
         "x": 825,
         "y": 1900,
         "__type": "textbox"
@@ -1082,12 +1181,14 @@
     [
       {
         "ref": "divTxtBtn177",
+        "__ref": "p50divTxtBtn177",
         "x": 425,
         "y": 1900,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn189",
+        "__ref": "p50divTxtBtn189",
         "x": 425,
         "y": 1960,
         "__type": "textbox"
@@ -1096,6 +1197,7 @@
     [
       {
         "ref": "divTxtBtn189",
+        "__ref": "p50divTxtBtn189",
         "x": 425,
         "y": 1960,
         "__type": "textbox"
@@ -1109,6 +1211,7 @@
     [
       {
         "ref": "divTxtBtn183",
+        "__ref": "p50divTxtBtn183",
         "x": 825,
         "y": 1900,
         "__type": "textbox"
@@ -1154,6 +1257,7 @@
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
       "ref": "divCmt39",
+      "__ref": "p50divCmt39",
       "__type": "comment"
     },
     {
@@ -1172,6 +1276,7 @@
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
       "ref": "divCmt120",
+      "__ref": "p50divCmt120",
       "__type": "comment"
     },
     {
@@ -1190,6 +1295,7 @@
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
       "ref": "divCmt174",
+      "__ref": "p50divCmt174",
       "__type": "comment"
     }
   ],
@@ -1204,6 +1310,7 @@
     "titlecss": "headerC",
     "contentcss": "headerE",
     "ref": "divHd0",
+    "__ref": "p50divHd0",
     "__type": "header"
   },
   "footer": {
@@ -1212,6 +1319,7 @@
     "height": 2050,
     "page": 50,
     "ref": "divFt200",
+    "__ref": "p50divFt200",
     "__type": "footer"
   },
   "board": []

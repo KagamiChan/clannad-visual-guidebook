@@ -15,6 +15,7 @@ export interface End {
   height?: number
   __type: BoardType
   ref?: string
+  __ref?: string
 }
 
 export enum BoardType {
@@ -33,6 +34,7 @@ export interface Box {
   css?: CommentCSS
   adjustw?: number
   ref: string
+  __ref: string
   __type: BoxType
   route?: string
   num?: Num
@@ -68,6 +70,7 @@ export interface Comment {
   optioncss?: Optioncss
   eventcss?: Eventcss
   ref: string
+  __ref: string
   __type: ContentcssEnum
   type?: CommentType
   css?: CommentCSS
@@ -118,6 +121,7 @@ export interface Num {
   text: string
   css: NumCSS
   ref: string
+  __ref: string
   __type: BoardType
 }
 
@@ -139,6 +143,7 @@ export interface Footer {
   height: number
   page: number
   ref: string
+  __ref: string
   __type: FooterType
 }
 
@@ -157,6 +162,7 @@ export interface Header {
   titlecss: BoxTitlecss
   contentcss: Contentcss
   ref: Ref
+  __ref: string
   __type: BoxType
   link?: string
 }

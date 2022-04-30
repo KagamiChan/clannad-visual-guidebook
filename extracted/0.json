@@ -9,6 +9,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn2",
+        "__ref": "p0divBtn2",
         "__type": "button"
       }
     ],
@@ -21,6 +22,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn4",
+        "__ref": "p0divBtn4",
         "__type": "button"
       }
     ],
@@ -33,6 +35,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn6",
+        "__ref": "p0divBtn6",
         "__type": "button"
       }
     ],
@@ -45,6 +48,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn7",
+        "__ref": "p0divBtn7",
         "__type": "button"
       }
     ],
@@ -57,6 +61,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn8",
+        "__ref": "p0divBtn8",
         "__type": "button"
       }
     ],
@@ -69,6 +74,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn10",
+        "__ref": "p0divBtn10",
         "__type": "button"
       }
     ],
@@ -81,6 +87,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn11",
+        "__ref": "p0divBtn11",
         "__type": "button"
       }
     ],
@@ -93,6 +100,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn12",
+        "__ref": "p0divBtn12",
         "__type": "button"
       }
     ],
@@ -105,6 +113,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn13",
+        "__ref": "p0divBtn13",
         "__type": "button"
       }
     ],
@@ -117,6 +126,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn14",
+        "__ref": "p0divBtn14",
         "__type": "button"
       }
     ],
@@ -129,6 +139,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn15",
+        "__ref": "p0divBtn15",
         "__type": "button"
       }
     ],
@@ -141,6 +152,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn16",
+        "__ref": "p0divBtn16",
         "__type": "button"
       }
     ],
@@ -153,6 +165,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn17",
+        "__ref": "p0divBtn17",
         "__type": "button"
       }
     ],
@@ -165,6 +178,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn18",
+        "__ref": "p0divBtn18",
         "__type": "button"
       }
     ],
@@ -177,6 +191,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn19",
+        "__ref": "p0divBtn19",
         "__type": "button"
       }
     ],
@@ -189,6 +204,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn20",
+        "__ref": "p0divBtn20",
         "__type": "button"
       }
     ],
@@ -201,6 +217,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn21",
+        "__ref": "p0divBtn21",
         "__type": "button"
       }
     ],
@@ -213,6 +230,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn22",
+        "__ref": "p0divBtn22",
         "__type": "button"
       }
     ],
@@ -225,6 +243,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn23",
+        "__ref": "p0divBtn23",
         "__type": "button"
       }
     ],
@@ -237,6 +256,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn24",
+        "__ref": "p0divBtn24",
         "__type": "button"
       }
     ],
@@ -249,6 +269,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn25",
+        "__ref": "p0divBtn25",
         "__type": "button"
       }
     ],
@@ -261,6 +282,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn26",
+        "__ref": "p0divBtn26",
         "__type": "button"
       }
     ],
@@ -273,6 +295,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn27",
+        "__ref": "p0divBtn27",
         "__type": "button"
       }
     ],
@@ -285,6 +308,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn29",
+        "__ref": "p0divBtn29",
         "__type": "button"
       }
     ],
@@ -297,6 +321,7 @@
         "css": "btn",
         "adjustw": 1570,
         "ref": "divBtn30",
+        "__ref": "p0divBtn30",
         "__type": "button"
       }
     ],
@@ -309,6 +334,7 @@
         "css": "btn",
         "adjustw": 750,
         "ref": "divBtn32",
+        "__ref": "p0divBtn32",
         "__type": "button"
       }
     ]
@@ -323,6 +349,7 @@
       "css": "btn",
       "adjustw": 750,
       "ref": "divBtn32",
+      "__ref": "p0divBtn32",
       "__type": "button"
     }
   ],
@@ -337,6 +364,7 @@
     "titlecss": "headerC",
     "contentcss": "headerE",
     "ref": "divHd0",
+    "__ref": "p0divHd0",
     "__type": "header"
   },
   "footer": {
@@ -345,6 +373,7 @@
     "height": 2110,
     "page": 0,
     "ref": "divFt33",
+    "__ref": "p0divFt33",
     "__type": "footer"
   },
   "board": [
@@ -352,30 +381,35 @@
       "x": 0,
       "y": 225,
       "height": 120,
+      "__ref": "p0divBoard3",
       "__type": "board"
     },
     {
       "x": 0,
       "y": 345,
       "height": 120,
+      "__ref": "p0divBoard5",
       "__type": "board"
     },
     {
       "x": 0,
       "y": 585,
       "height": 120,
+      "__ref": "p0divBoard9",
       "__type": "board"
     },
     {
       "x": 0,
       "y": 1725,
       "height": 120,
+      "__ref": "p0divBoard28",
       "__type": "board"
     },
     {
       "x": 0,
       "y": 1905,
       "height": 120,
+      "__ref": "p0divBoard31",
       "__type": "board"
     }
   ]

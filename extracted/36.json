@@ -8,6 +8,7 @@
         "text": "5月7日",
         "css": "date",
         "ref": "divBtn1",
+        "__ref": "p36divBtn1",
         "__type": "button"
       }
     ],
@@ -19,6 +20,7 @@
         "text": "杏向春原告白",
         "css": "btn",
         "ref": "divTxtBtn2",
+        "__ref": "p36divTxtBtn2",
         "__type": "textbox",
         "num": {
           "x": 710,
@@ -27,6 +29,7 @@
           "text": "1",
           "css": "check",
           "ref": "divBtn4",
+          "__ref": "p36divBtn4",
           "__type": "button"
         },
         "comment": {
@@ -45,6 +48,7 @@
           "optioncss": "cmtopt",
           "eventcss": "cmtEvnt",
           "ref": "divCmt5",
+          "__ref": "p36divCmt5",
           "__type": "comment"
         }
       }
@@ -58,6 +62,7 @@
         "route": "l|杏",
         "css": "btn",
         "ref": "divTxtBtn8",
+        "__ref": "p36divTxtBtn8",
         "__type": "textbox"
       },
       {
@@ -68,6 +73,7 @@
         "route": "r|杏",
         "css": "btn",
         "ref": "divTxtBtn15",
+        "__ref": "p36divTxtBtn15",
         "__type": "textbox"
       }
     ],
@@ -79,6 +85,7 @@
         "text": "28日，喜欢女孩的类型",
         "css": "btn",
         "ref": "divTxtBtn22",
+        "__ref": "p36divTxtBtn22",
         "__type": "textbox"
       }
     ],
@@ -90,6 +97,7 @@
         "text": "喜欢长头发",
         "css": "btn",
         "ref": "divTxtBtn26",
+        "__ref": "p36divTxtBtn26",
         "__type": "textbox"
       },
       {
@@ -99,6 +107,7 @@
         "text": "喜欢短头发",
         "css": "btn",
         "ref": "divTxtBtn32",
+        "__ref": "p36divTxtBtn32",
         "__type": "textbox"
       }
     ],
@@ -110,6 +119,7 @@
         "text": "3日，杏的唐突建议",
         "css": "btn",
         "ref": "divTxtBtn38",
+        "__ref": "p36divTxtBtn38",
         "__type": "textbox"
       }
     ],
@@ -121,6 +131,7 @@
         "text": "练习试试看",
         "css": "btn",
         "ref": "divTxtBtn42",
+        "__ref": "p36divTxtBtn42",
         "__type": "textbox"
       },
       {
@@ -130,6 +141,7 @@
         "text": "默不作声地看着杏",
         "css": "btn",
         "ref": "divTxtBtn46",
+        "__ref": "p36divTxtBtn46",
         "__type": "textbox"
       }
     ],
@@ -141,6 +153,7 @@
         "text": "4日，回忆当时椋的选择",
         "css": "btn",
         "ref": "divTxtBtn52",
+        "__ref": "p36divTxtBtn52",
         "__type": "textbox"
       }
     ],
@@ -152,6 +165,7 @@
         "text": "紫水晶",
         "css": "btn",
         "ref": "divTxtBtn56",
+        "__ref": "p36divTxtBtn56",
         "__type": "textbox"
       },
       {
@@ -161,6 +175,7 @@
         "text": "坦桑蓝",
         "css": "btn",
         "ref": "divTxtBtn60",
+        "__ref": "p36divTxtBtn60",
         "__type": "textbox"
       }
     ],
@@ -172,6 +187,7 @@
         "text": "5日，近距离面对着椋",
         "css": "btn",
         "ref": "divTxtBtn66",
+        "__ref": "p36divTxtBtn66",
         "__type": "textbox"
       }
     ],
@@ -183,6 +199,7 @@
         "text": "接吻",
         "css": "btn",
         "ref": "divTxtBtn70",
+        "__ref": "p36divTxtBtn70",
         "__type": "textbox"
       },
       {
@@ -192,6 +209,7 @@
         "text": "不接吻",
         "css": "btn",
         "ref": "divTxtBtn74",
+        "__ref": "p36divTxtBtn74",
         "__type": "textbox"
       }
     ],
@@ -203,6 +221,7 @@
         "text": "杏“光”获得",
         "css": "btn",
         "ref": "divTxtBtn80",
+        "__ref": "p36divTxtBtn80",
         "__type": "textbox"
       }
     ],
@@ -214,6 +233,7 @@
         "text": "公共 BAD ENDING",
         "css": "btn",
         "ref": "divTxtBtn84",
+        "__ref": "p36divTxtBtn84",
         "__type": "textbox"
       }
     ],
@@ -225,6 +245,7 @@
         "text": "杏 GOOD ENDING",
         "css": "btn",
         "ref": "divTxtBtn113",
+        "__ref": "p36divTxtBtn113",
         "__type": "textbox"
       }
     ]
@@ -233,12 +254,14 @@
     [
       {
         "ref": "divBtn1",
+        "__ref": "p36divBtn1",
         "x": 850,
         "y": 175,
         "__type": "button"
       },
       {
         "ref": "divTxtBtn2",
+        "__ref": "p36divTxtBtn2",
         "x": 725,
         "y": 250,
         "__type": "textbox"
@@ -247,12 +270,14 @@
     [
       {
         "ref": "divTxtBtn2",
+        "__ref": "p36divTxtBtn2",
         "x": 725,
         "y": 250,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn8",
+        "__ref": "p36divTxtBtn8",
         "x": 525,
         "y": 340,
         "__type": "textbox"
@@ -261,12 +286,14 @@
     [
       {
         "ref": "divTxtBtn2",
+        "__ref": "p36divTxtBtn2",
         "x": 725,
         "y": 250,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn15",
+        "__ref": "p36divTxtBtn15",
         "x": 925,
         "y": 340,
         "__type": "textbox"
@@ -275,12 +302,14 @@
     [
       {
         "ref": "divTxtBtn8",
+        "__ref": "p36divTxtBtn8",
         "x": 525,
         "y": 340,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn22",
+        "__ref": "p36divTxtBtn22",
         "x": 525,
         "y": 400,
         "__type": "textbox"
@@ -289,12 +318,14 @@
     [
       {
         "ref": "divTxtBtn22",
+        "__ref": "p36divTxtBtn22",
         "x": 525,
         "y": 400,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn26",
+        "__ref": "p36divTxtBtn26",
         "x": 325,
         "y": 490,
         "__type": "textbox"
@@ -303,12 +334,14 @@
     [
       {
         "ref": "divTxtBtn22",
+        "__ref": "p36divTxtBtn22",
         "x": 525,
         "y": 400,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn32",
+        "__ref": "p36divTxtBtn32",
         "x": 725,
         "y": 490,
         "__type": "textbox"
@@ -317,12 +350,14 @@
     [
       {
         "ref": "divTxtBtn26",
+        "__ref": "p36divTxtBtn26",
         "x": 325,
         "y": 490,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn38",
+        "__ref": "p36divTxtBtn38",
         "x": 325,
         "y": 550,
         "__type": "textbox"
@@ -331,12 +366,14 @@
     [
       {
         "ref": "divTxtBtn38",
+        "__ref": "p36divTxtBtn38",
         "x": 325,
         "y": 550,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn42",
+        "__ref": "p36divTxtBtn42",
         "x": 325,
         "y": 640,
         "__type": "textbox"
@@ -345,12 +382,14 @@
     [
       {
         "ref": "divTxtBtn38",
+        "__ref": "p36divTxtBtn38",
         "x": 325,
         "y": 550,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn46",
+        "__ref": "p36divTxtBtn46",
         "x": 725,
         "y": 640,
         "__type": "textbox"
@@ -359,12 +398,14 @@
     [
       {
         "ref": "divTxtBtn42",
+        "__ref": "p36divTxtBtn42",
         "x": 325,
         "y": 640,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn52",
+        "__ref": "p36divTxtBtn52",
         "x": 325,
         "y": 700,
         "__type": "textbox"
@@ -373,12 +414,14 @@
     [
       {
         "ref": "divTxtBtn52",
+        "__ref": "p36divTxtBtn52",
         "x": 325,
         "y": 700,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn56",
+        "__ref": "p36divTxtBtn56",
         "x": 325,
         "y": 790,
         "__type": "textbox"
@@ -387,12 +430,14 @@
     [
       {
         "ref": "divTxtBtn52",
+        "__ref": "p36divTxtBtn52",
         "x": 325,
         "y": 700,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn60",
+        "__ref": "p36divTxtBtn60",
         "x": 725,
         "y": 790,
         "__type": "textbox"
@@ -401,12 +446,14 @@
     [
       {
         "ref": "divTxtBtn56",
+        "__ref": "p36divTxtBtn56",
         "x": 325,
         "y": 790,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn66",
+        "__ref": "p36divTxtBtn66",
         "x": 325,
         "y": 850,
         "__type": "textbox"
@@ -415,12 +462,14 @@
     [
       {
         "ref": "divTxtBtn66",
+        "__ref": "p36divTxtBtn66",
         "x": 325,
         "y": 850,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn70",
+        "__ref": "p36divTxtBtn70",
         "x": 325,
         "y": 940,
         "__type": "textbox"
@@ -429,12 +478,14 @@
     [
       {
         "ref": "divTxtBtn66",
+        "__ref": "p36divTxtBtn66",
         "x": 325,
         "y": 850,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn74",
+        "__ref": "p36divTxtBtn74",
         "x": 725,
         "y": 940,
         "__type": "textbox"
@@ -443,12 +494,14 @@
     [
       {
         "ref": "divTxtBtn70",
+        "__ref": "p36divTxtBtn70",
         "x": 325,
         "y": 940,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn80",
+        "__ref": "p36divTxtBtn80",
         "x": 325,
         "y": 1000,
         "__type": "textbox"
@@ -457,12 +510,14 @@
     [
       {
         "ref": "divTxtBtn74",
+        "__ref": "p36divTxtBtn74",
         "x": 725,
         "y": 940,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn84",
+        "__ref": "p36divTxtBtn84",
         "x": 725,
         "y": 1030,
         "__type": "textbox"
@@ -471,6 +526,7 @@
     [
       {
         "ref": "divTxtBtn60",
+        "__ref": "p36divTxtBtn60",
         "x": 725,
         "y": 790,
         "__type": "textbox"
@@ -482,6 +538,7 @@
       },
       {
         "ref": "divTxtBtn84",
+        "__ref": "p36divTxtBtn84",
         "x": 725,
         "y": 1030,
         "__type": "textbox"
@@ -490,6 +547,7 @@
     [
       {
         "ref": "divTxtBtn46",
+        "__ref": "p36divTxtBtn46",
         "x": 725,
         "y": 640,
         "__type": "textbox"
@@ -501,6 +559,7 @@
       },
       {
         "ref": "divTxtBtn84",
+        "__ref": "p36divTxtBtn84",
         "x": 725,
         "y": 1030,
         "__type": "textbox"
@@ -509,6 +568,7 @@
     [
       {
         "ref": "divTxtBtn32",
+        "__ref": "p36divTxtBtn32",
         "x": 725,
         "y": 490,
         "__type": "textbox"
@@ -520,6 +580,7 @@
       },
       {
         "ref": "divTxtBtn84",
+        "__ref": "p36divTxtBtn84",
         "x": 725,
         "y": 1030,
         "__type": "textbox"
@@ -528,12 +589,14 @@
     [
       {
         "ref": "divTxtBtn15",
+        "__ref": "p36divTxtBtn15",
         "x": 925,
         "y": 340,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn84",
+        "__ref": "p36divTxtBtn84",
         "x": 725,
         "y": 1030,
         "__type": "textbox"
@@ -542,12 +605,14 @@
     [
       {
         "ref": "divTxtBtn80",
+        "__ref": "p36divTxtBtn80",
         "x": 325,
         "y": 1000,
         "__type": "textbox"
       },
       {
         "ref": "divTxtBtn113",
+        "__ref": "p36divTxtBtn113",
         "x": 325,
         "y": 1060,
         "__type": "textbox"
@@ -571,6 +636,7 @@
       "optioncss": "cmtopt",
       "eventcss": "cmtEvnt",
       "ref": "divCmt5",
+      "__ref": "p36divCmt5",
       "__type": "comment"
     }
   ],
@@ -585,6 +651,7 @@
     "titlecss": "headerC",
     "contentcss": "headerE",
     "ref": "divHd0",
+    "__ref": "p36divHd0",
     "__type": "header"
   },
   "footer": {
@@ -593,6 +660,7 @@
     "height": 1090,
     "page": 36,
     "ref": "divFt117",
+    "__ref": "p36divFt117",
     "__type": "footer"
   },
   "board": []
