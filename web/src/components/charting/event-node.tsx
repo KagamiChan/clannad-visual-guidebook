@@ -23,7 +23,7 @@ const Tag = styled.span`
   margin-left: 0.5rem;
 `
 
-export const EventNode = memo(({ data }) => {
+export const EventNode: FC<any> = memo(({ data }) => {
   return (
     <>
       <Handle type="target" position={Position.Top} />

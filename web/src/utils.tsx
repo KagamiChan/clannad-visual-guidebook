@@ -1,6 +1,6 @@
 import { Node, Edge, Position } from 'react-flow-renderer'
 import dagre from 'dagre'
-import ELK from 'elkjs/lib/elk.bundled'
+import ELK from 'elkjs'
 
 export const nodeWidth = 272
 export const nodeHeight = 36
