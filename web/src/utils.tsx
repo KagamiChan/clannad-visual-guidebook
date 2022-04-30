@@ -9,7 +9,11 @@ export const getLayoutedElements = (nodes: Node[], edges: Edge[], direction = 'T
   const dagreGraph = new dagre.graphlib.Graph()
   dagreGraph.setDefaultEdgeLabel(() => ({}))
   const isHorizontal = direction === 'LR'
-  dagreGraph.setGraph({ rankdir: direction, ranksep: 80, ranker: 'network-simplex' })
+  dagreGraph.setGraph({
+    rankdir: direction,
+    ranksep: 80,
+    ranker: 'network-simplex',
+  })
 
   nodes.forEach((node) => {
     dagreGraph.setNode(node.id, { width: nodeWidth, height: nodeHeight })
@@ -39,7 +43,10 @@ export const getLayoutedElements = (nodes: Node[], edges: Edge[], direction = 'T
   return { nodes, edges }
 }
 
-export const getELKLayoutedElements = async (nodes: Node[], edges: Edge[], direction = 'TB') => {
+export const getELKLayoutedElements = async (
+  nodes: Node[],
+  edges: Edge[],
+): Promise<{ nodes: Node[]; edges: Edge[] }> => {
   const elk = new ELK()
 
   const graph = {
@@ -57,8 +64,17 @@ export const getELKLayoutedElements = async (nodes: Node[], edges: Edge[], direc
     layoutOptions: {
       'elk.algorithm': 'layered',
       'elk.direction': 'DOWN',
-      'elk.layered.spacing.edgeEdgeBetweenLayers': '100',
-      'elk.layered.spacing.nodeNodeBetweenLayers': '60',
+      // 'elk.layered.spacing.nodeNodeBetweenLayers': '60',
+      // 'elk.spacing.componentComponent': '25',
+      // 'elk.spacing.nodeNode': '50',
+      'elk.layered.spacing.baseValue': '60',
+      'elk.edgeRouting': 'ORTHOGONAL', //'SPLINES',
+      'elk.layered.nodePlacement.bk.fixedAlignment': 'BALANCED',
+      'elk.layered.nodePlacement.bk.edgeStraightening': 'IMPROVE_STRAIGHTNESS',
+      'elk.layered.nodePlacement.favorStraightEdges': 'true',
+      'elk.layered.crossingMinimization.forceNodeModelOrder': 'true',
+      // 'elk.layered.crossingMinimization.semiInteractive': 'true',
+      // 'elk.layered.crossingMinimization.strategy': 'INTERACTIVE',
     },
   })
 
@@ -68,8 +84,8 @@ export const getELKLayoutedElements = async (nodes: Node[], edges: Edge[], direc
       return {
         ...n,
         position: {
-          x: res.x,
-          y: res.y,
+          x: res.x!,
+          y: res.y!,
         },
       }
     }),
