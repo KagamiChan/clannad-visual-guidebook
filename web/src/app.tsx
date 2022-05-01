@@ -5,18 +5,10 @@ import { pageDefinitions } from './page-definitions'
 import { FlowChart } from './components/charting/flow-chart'
 import backgroundImage from './assets/rapeseed.jpg'
 import styled from 'styled-components'
-import { BrowserRouter, Link } from 'react-router-dom'
-
-const Chart = lazy(async () => {
-  const { nodes, edges } = await loadPageData(pageDefinitions[0])
-
-  return {
-    default: () => <FlowChart nodes={nodes} edges={edges} />,
-  }
-})
+import { BrowserRouter, Link, Routes, Route } from 'react-router-dom'
 
 const Background = styled.div`
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100vw;
@@ -32,7 +24,7 @@ const Backdrop = styled.div`
   background-color: rgba(255, 255, 255, 0.7);
   backdrop-filter: blur(10px);
   height: 100vh;
-  position: absolute;
+  position: fixed;
   left: 12rem;
   width: calc(100vw - 12rem);
   top: 0;
@@ -53,13 +45,14 @@ const Entry = styled(Link)`
   width: 10rem;
   background-color: #f7c242;
   margin-bottom: 2rem;
-  padding: 0.5rem;
+  padding: 0.25rem 0;
   display: flex;
   justify-content: center;
   font-size: 1.5rem;
   color: #fff;
   text-decoration: none;
   transition: all 0.3s;
+  border-radius: 4px;
 
   :hover {
     transform: translateX(-8px);
@@ -82,9 +75,28 @@ export const App: FC<any> = () => {
               </Entry>
             ))}
           </SideBar>
-          <Suspense fallback={<div>Loading...</div>}>
-            <Chart />
-          </Suspense>
+          <Routes>
+            {pageDefinitions.map((page) => {
+              const Page = lazy(async () => {
+                const { nodes, edges } = await loadPageData(page)
+
+                return {
+                  default: () => <FlowChart nodes={nodes} edges={edges} />,
+                }
+              })
+              return (
+                <Route
+                  key={page.id}
+                  path={`/p/${page.id}`}
+                  element={
+                    <Suspense fallback={<div>Loading...</div>}>
+                      <Page />
+                    </Suspense>
+                  }
+                />
+              )
+            })}
+          </Routes>
         </AppContainer>
       </div>
     </BrowserRouter>
