@@ -2,7 +2,13 @@ export enum Route {
   Public = 'public',
 }
 
+export enum PageId {
+  Apr14 = 'apr14',
+  Apr15 = 'apr15',
+}
+
 export interface PageDefinition {
+  id: PageId
   name: string
   route: Route
   sources: string[]
@@ -14,6 +20,7 @@ export interface PageDefinition {
 
 export const pageDefinitions: PageDefinition[] = [
   {
+    id: PageId.Apr14,
     name: '4月14日',
     route: Route.Public,
     sources: ['1'],
@@ -35,7 +42,12 @@ export const pageDefinitions: PageDefinition[] = [
         'p1divBtn35',
         'p1divHd36',
       ],
-      edges: [],
     },
+  },
+  {
+    id: PageId.Apr15,
+    name: '4月15日',
+    route: Route.Public,
+    sources: ['2'],
   },
 ]
