@@ -48,7 +48,7 @@ const snapshotPage = async (browser: Browser, number: number) => {
 
   `)
 
-  await fs.outputJSON(path.resolve(__dirname, `../extracted/${number}.json`), content, {
+  await fs.outputJSON(path.resolve(__dirname, `../web/data/${number}.json`), content, {
     spaces: 2,
   })
 
