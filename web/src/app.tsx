@@ -2,7 +2,6 @@ import { FC, lazy, Suspense } from 'react'
 import _ from 'lodash'
 import { loadPageData } from './load-page-data'
 import { pageDefinitions } from './page-definitions'
-import { FlowChart } from './components/charting/flow-chart'
 import backgroundImage from './assets/rapeseed.jpg'
 import styled from 'styled-components'
 import { BrowserRouter, Link, Routes, Route } from 'react-router-dom'
@@ -78,6 +77,7 @@ export const App: FC<any> = () => {
           <Routes>
             {pageDefinitions.map((page) => {
               const Page = lazy(async () => {
+                const { FlowChart } = await import(`./components/charting/flow-chart`)
                 const { nodes, edges } = await loadPageData(page)
 
                 return {
