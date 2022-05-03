@@ -69,7 +69,7 @@ export const App: FC<any> = () => {
         <AppContainer>
           <SideBar>
             {pageDefinitions.map((page, index) => (
-              <Entry key={page.id} to={`/p/${page.id}`}>
+              <Entry key={page.id} to={`/${page.route}/${page.id}`}>
                 {page.name}
               </Entry>
             ))}
@@ -87,7 +87,7 @@ export const App: FC<any> = () => {
               return (
                 <Route
                   key={page.id}
-                  path={`/p/${page.id}`}
+                  path={`/${page.route}/${page.id}`}
                   element={
                     <Suspense fallback={<div>Loading...</div>}>
                       <Page />
@@ -102,3 +102,6 @@ export const App: FC<any> = () => {
     </BrowserRouter>
   )
 }
+
+// preload elk
+import(`./components/charting/flow-chart`)
