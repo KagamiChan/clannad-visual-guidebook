@@ -29,7 +29,7 @@ export const EventNode: FC<any> = memo(({ data }) => {
       <Handle type="target" position={Position.Top} />
       <NodeBody>
         <span>{data.label}</span>
-        {data.node.type === 'selection' && <Tag>选择肢</Tag>}
+        {/* {data.node.type === 'selection' && <Tag>选择肢</Tag>} */}
         {data.node.type === 'condition' && <Tag>前提</Tag>}
       </NodeBody>
       <Handle type="source" position={Position.Bottom} />
