@@ -10,20 +10,21 @@ const NodeBody = styled.div`
   font-size: 16px;
   color: #222;
   text-align: center;
-  background: ${rgba('#0078d4', 0.8)};
-  box-shadow: inset 0 0 1em #ffffff, 4px 4px 8px ${rgba('black', 0.5)};
+  background: ${rgba('#035096', 0.7)};
+  box-shadow: inset 0 0 1em #ffffff, 4px 4px 4px ${rgba('black', 0.5)};
   white-space: nowrap;
   color: white;
   padding: 1rem 2rem;
   display: flex;
-  align-content: center;
+  align-items: center;
 `
 
 const Tag = styled.span`
-  background-color: #0078d4;
+  background-color: #035096;
   color: #fff;
   border-radius: 4px;
   padding: 2px;
+  padding: 0.25rem;
   margin-left: 0.5rem;
 `
 
