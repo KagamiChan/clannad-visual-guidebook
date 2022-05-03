@@ -47,8 +47,12 @@ export const loadPageData = async (pageDefinition: PageDefinition) => {
     nodes: _.filter(nodes, (n) => !pageDefinition.excluded?.nodes?.includes(n.id)).concat(
       pageDefinition.additions?.nodes ?? [],
     ),
-    edges: _.filter(edges, (n) => !pageDefinition.excluded?.edges?.includes(n.id)).concat(
-      pageDefinition.additions?.edges ?? [],
-    ),
+    edges: _.filter(
+      edges,
+      (n) =>
+        !pageDefinition.excluded?.edges?.includes(n.id) &&
+        !pageDefinition.excluded?.nodes?.includes(n.source) &&
+        !pageDefinition.excluded?.nodes?.includes(n.target),
+    ).concat(pageDefinition.additions?.edges ?? []),
   }
 }
