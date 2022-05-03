@@ -1,18 +1,22 @@
+import { rgba } from 'polished'
 import { memo, useMemo, FC } from 'react'
 import ReactFlow, { Node, Edge, MarkerType, Position, Handle, NodeTypes } from 'react-flow-renderer'
 import styled from 'styled-components'
 
 const NodeBody = styled.div`
   padding: 10px;
-  border-radius: 3px;
+  border-radius: 1.5rem;
   min-width: 100px;
   font-size: 16px;
   color: #222;
   text-align: center;
-  background: #fff;
-  box-shadow: 0 1.6px 3.6px 0 rgb(0 0 0 / 13%), 0 0.3px 0.9px 0 rgb(0 0 0 / 11%);
-  border: 1px solid rgb(138, 136, 134);
+  background: ${rgba('#0078d4', 0.8)};
+  box-shadow: inset 0 0 1em #ffffff, 4px 4px 8px ${rgba('black', 0.5)};
   white-space: nowrap;
+  color: white;
+  padding: 1rem 2rem;
+  display: flex;
+  align-content: center;
 `
 
 const Tag = styled.span`
