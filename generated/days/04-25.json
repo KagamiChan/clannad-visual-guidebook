@@ -32,7 +32,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 23
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page21.js",
         "page": 21,
@@ -60,8 +65,15 @@
           "y": 996
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p21_A"
+      ],
+      "jumps": [
+        {
+          "kind": "gotolink",
+          "toAnchor": "p21_retA"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page21.js",
         "page": 21,
@@ -264,8 +276,16 @@
           "y": 1176
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p21_retKFMT4"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 49,
+          "toAnchor": "p49_KFMT4"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page21.js",
         "page": 21,
@@ -1035,8 +1055,16 @@
           "y": 420
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p23_retKFMT5"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 49,
+          "toAnchor": "p49_KFMT5"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page23.js",
         "page": 23,
@@ -1676,8 +1704,16 @@
           "y": 330
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p37_retKFMT5"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 49,
+          "toAnchor": "p49_KFMT5"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page37.js",
         "page": 37,
@@ -2298,7 +2334,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 41
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page40.js",
         "page": 40,
@@ -5584,5 +5625,57 @@
       "toDay": "04-23"
     }
   ],
-  "jumps": []
+  "jumps": [
+    {
+      "fromNodeId": "p21_box_19_0",
+      "fromDay": "04-25",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 23
+      }
+    },
+    {
+      "fromNodeId": "p21_box_20_0",
+      "fromDay": "04-25",
+      "jump": {
+        "kind": "gotolink",
+        "toAnchor": "p21_retA"
+      }
+    },
+    {
+      "fromNodeId": "p21_box_24_0",
+      "fromDay": "04-25",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 49,
+        "toAnchor": "p49_KFMT4"
+      }
+    },
+    {
+      "fromNodeId": "p23_box_7_0",
+      "fromDay": "04-25",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 49,
+        "toAnchor": "p49_KFMT5"
+      }
+    },
+    {
+      "fromNodeId": "p37_box_5_0",
+      "fromDay": "04-25",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 49,
+        "toAnchor": "p49_KFMT5"
+      }
+    },
+    {
+      "fromNodeId": "p40_box_21_0",
+      "fromDay": "04-25",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 41
+      }
+    }
+  ]
 }

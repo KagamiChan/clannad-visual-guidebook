@@ -143,8 +143,15 @@
           "y": 204
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p6_retB"
+      ],
+      "jumps": [
+        {
+          "kind": "gotolink",
+          "toAnchor": "p6_B"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page6.js",
         "page": 6,
@@ -259,8 +266,15 @@
           "y": 312
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p6_retA"
+      ],
+      "jumps": [
+        {
+          "kind": "gotolink",
+          "toAnchor": "p6_A"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page6.js",
         "page": 6,
@@ -407,7 +421,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 7
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page6.js",
         "page": 6,
@@ -435,8 +454,15 @@
           "y": 546
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p6_A"
+      ],
+      "jumps": [
+        {
+          "kind": "gotolink",
+          "toAnchor": "p6_retA"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page6.js",
         "page": 6,
@@ -731,8 +757,15 @@
           "y": 906
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p6_B"
+      ],
+      "jumps": [
+        {
+          "kind": "gotolink",
+          "toAnchor": "p6_retB"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page6.js",
         "page": 6,
@@ -2315,8 +2348,17 @@
           "y": 1104
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p7_retA",
+        "p7_retB"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 9,
+          "toAnchor": "p9_A"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page7.js",
         "page": 7,
@@ -2432,7 +2474,13 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 9,
+          "toAnchor": "p9_B"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page7.js",
         "page": 7,
@@ -2856,8 +2904,16 @@
           "y": 114
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p9_A"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 7,
+          "toAnchor": "p7_retA"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page9.js",
         "page": 9,
@@ -3443,8 +3499,16 @@
           "y": 798
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p9_B"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 7,
+          "toAnchor": "p7_retB"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page9.js",
         "page": 9,
@@ -6965,5 +7029,82 @@
     }
   ],
   "crossDayEdges": [],
-  "jumps": []
+  "jumps": [
+    {
+      "fromNodeId": "p6_box_2_1",
+      "fromDay": "04-18",
+      "jump": {
+        "kind": "gotolink",
+        "toAnchor": "p6_B"
+      }
+    },
+    {
+      "fromNodeId": "p6_box_4_0",
+      "fromDay": "04-18",
+      "jump": {
+        "kind": "gotolink",
+        "toAnchor": "p6_A"
+      }
+    },
+    {
+      "fromNodeId": "p6_box_7_0",
+      "fromDay": "04-18",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 7
+      }
+    },
+    {
+      "fromNodeId": "p6_box_8_0",
+      "fromDay": "04-18",
+      "jump": {
+        "kind": "gotolink",
+        "toAnchor": "p6_retA"
+      }
+    },
+    {
+      "fromNodeId": "p6_box_14_0",
+      "fromDay": "04-18",
+      "jump": {
+        "kind": "gotolink",
+        "toAnchor": "p6_retB"
+      }
+    },
+    {
+      "fromNodeId": "p7_box_19_0",
+      "fromDay": "04-18",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 9,
+        "toAnchor": "p9_A"
+      }
+    },
+    {
+      "fromNodeId": "p7_box_21_0",
+      "fromDay": "04-18",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 9,
+        "toAnchor": "p9_B"
+      }
+    },
+    {
+      "fromNodeId": "p9_box_0_0",
+      "fromDay": "04-18",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 7,
+        "toAnchor": "p7_retA"
+      }
+    },
+    {
+      "fromNodeId": "p9_box_12_0",
+      "fromDay": "04-18",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 7,
+        "toAnchor": "p7_retB"
+      }
+    }
+  ]
 }

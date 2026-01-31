@@ -201,8 +201,16 @@
           "y": 672
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p29_retTY64"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 30,
+          "toAnchor": "p30_TY64"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page29.js",
         "page": 29,
@@ -1123,7 +1131,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 46
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page45.js",
         "page": 45,
@@ -1386,7 +1399,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 55
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page54.js",
         "page": 54,
@@ -2964,5 +2982,31 @@
       "toDay": "05-10"
     }
   ],
-  "jumps": []
+  "jumps": [
+    {
+      "fromNodeId": "p29_box_12_0",
+      "fromDay": "05-11",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 30,
+        "toAnchor": "p30_TY64"
+      }
+    },
+    {
+      "fromNodeId": "p45_box_12_0",
+      "fromDay": "05-11",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 46
+      }
+    },
+    {
+      "fromNodeId": "p54_box_16_0",
+      "fromDay": "05-11",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 55
+      }
+    }
+  ]
 }

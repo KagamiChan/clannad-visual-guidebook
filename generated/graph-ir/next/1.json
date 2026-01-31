@@ -491,7 +491,9 @@
       },
       "kind": "HeaderBase",
       "pixelPosBySizeSet": {},
-      "anchors": [],
+      "anchors": [
+        "p1_header2"
+      ],
       "jumps": [],
       "source": {
         "file": "next/Data/page1.js",
@@ -919,7 +921,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 2
+        }
+      ],
       "source": {
         "file": "next/Data/page1.js",
         "page": 1,
@@ -1184,7 +1191,7 @@
       "to": "p1_box_8_1"
     }
   ],
-  "unknownStatements": 23,
+  "unknownStatements": 21,
   "notes": [
     "next"
   ]

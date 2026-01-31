@@ -48,7 +48,9 @@
           "y": 114
         }
       },
-      "anchors": [],
+      "anchors": [
+        "p39_FAKEGF"
+      ],
       "jumps": [],
       "source": {
         "file": "guidebook/Data/page39.js",
@@ -426,7 +428,13 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 38,
+          "toAnchor": "p38_retFAKEGF"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page39.js",
         "page": 39,
@@ -545,7 +553,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotolink",
+          "toAnchor": "p39_FAKEGF"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page39.js",
         "page": 39,
@@ -573,7 +586,13 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 38,
+          "toAnchor": "p38_retFAKEGF"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page39.js",
         "page": 39,
@@ -956,7 +975,13 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 38,
+          "toAnchor": "p38_retFAKEGF"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page39.js",
         "page": 39,
@@ -1323,7 +1348,13 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 38,
+          "toAnchor": "p38_retFAKEGF"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page39.js",
         "page": 39,
@@ -1690,7 +1721,13 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 38,
+          "toAnchor": "p38_retFAKEGF"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page39.js",
         "page": 39,
@@ -1853,7 +1890,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotolink",
+          "toAnchor": "p39_FAKEGF"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page39.js",
         "page": 39,
@@ -2816,7 +2858,7 @@
       }
     }
   ],
-  "unknownStatements": 8,
+  "unknownStatements": 0,
   "notes": [
     "guidebook"
   ]

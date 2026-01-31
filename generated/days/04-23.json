@@ -28,7 +28,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 18
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page15.js",
         "page": 15,
@@ -1178,8 +1183,16 @@
           "y": 942
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p18_retSNJK2"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 25,
+          "toAnchor": "p25_SNJK2"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page18.js",
         "page": 18,
@@ -2066,8 +2079,16 @@
           "y": 672
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p19_retYNSP"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 32,
+          "toAnchor": "p32_YNSP"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page19.js",
         "page": 19,
@@ -2357,8 +2378,16 @@
           "y": 1014
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p19_retKFMT3"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 48,
+          "toAnchor": "p48_KFMT3"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page19.js",
         "page": 19,
@@ -4773,5 +4802,41 @@
       "toDay": "04-21"
     }
   ],
-  "jumps": []
+  "jumps": [
+    {
+      "fromNodeId": "p15_box_19_0",
+      "fromDay": "04-23",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 18
+      }
+    },
+    {
+      "fromNodeId": "p18_box_16_0",
+      "fromDay": "04-23",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 25,
+        "toAnchor": "p25_SNJK2"
+      }
+    },
+    {
+      "fromNodeId": "p19_box_13_0",
+      "fromDay": "04-23",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 32,
+        "toAnchor": "p32_YNSP"
+      }
+    },
+    {
+      "fromNodeId": "p19_box_20_0",
+      "fromDay": "04-23",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 48,
+        "toAnchor": "p48_KFMT3"
+      }
+    }
+  ]
 }

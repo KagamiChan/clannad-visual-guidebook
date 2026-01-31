@@ -93,8 +93,16 @@
           "y": 150
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p52_ret33BB"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 56,
+          "toAnchor": "p56_33BB"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page52.js",
         "page": 52,
@@ -949,7 +957,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 53
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page52.js",
         "page": 52,
@@ -1670,7 +1683,7 @@
       "to": "p52_box_7_0"
     }
   ],
-  "unknownStatements": 4,
+  "unknownStatements": 1,
   "notes": [
     "guidebook"
   ]

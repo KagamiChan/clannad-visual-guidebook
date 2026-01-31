@@ -1334,7 +1334,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 3
+        }
+      ],
       "source": {
         "file": "next/Data/page2.js",
         "page": 2,
@@ -2097,7 +2102,7 @@
       "to": "p2_box_21_0"
     }
   ],
-  "unknownStatements": 2,
+  "unknownStatements": 1,
   "notes": [
     "next"
   ]

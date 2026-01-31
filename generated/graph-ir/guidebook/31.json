@@ -211,8 +211,16 @@
           "y": 240
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p31_retGYM"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 33,
+          "toAnchor": "p33_GYM"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page31.js",
         "page": 31,
@@ -1138,7 +1146,7 @@
       "to": "p31_box_12_0"
     }
   ],
-  "unknownStatements": 2,
+  "unknownStatements": 0,
   "notes": [
     "guidebook"
   ]

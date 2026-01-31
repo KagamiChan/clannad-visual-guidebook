@@ -1273,8 +1273,17 @@
           "y": 1104
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p7_retA",
+        "p7_retB"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 9,
+          "toAnchor": "p9_A"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page7.js",
         "page": 7,
@@ -1420,7 +1429,13 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 9,
+          "toAnchor": "p9_B"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page7.js",
         "page": 7,
@@ -2427,7 +2442,7 @@
       }
     }
   ],
-  "unknownStatements": 6,
+  "unknownStatements": 2,
   "notes": [
     "guidebook"
   ]

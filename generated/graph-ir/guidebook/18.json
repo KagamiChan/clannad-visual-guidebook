@@ -1056,8 +1056,16 @@
           "y": 942
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p18_retSNJK2"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 25,
+          "toAnchor": "p25_SNJK2"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page18.js",
         "page": 18,
@@ -1958,7 +1966,7 @@
       }
     }
   ],
-  "unknownStatements": 5,
+  "unknownStatements": 3,
   "notes": [
     "guidebook"
   ]

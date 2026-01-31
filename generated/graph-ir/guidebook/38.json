@@ -93,8 +93,16 @@
           "y": 150
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p38_retFAKEGF"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 39,
+          "toAnchor": "p39_FAKEGF"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page38.js",
         "page": 38,
@@ -733,7 +741,7 @@
       "to": "p38_box_8_0"
     }
   ],
-  "unknownStatements": 2,
+  "unknownStatements": 0,
   "notes": [
     "guidebook"
   ]

@@ -1331,7 +1331,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 41
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page40.js",
         "page": 40,
@@ -2244,7 +2249,7 @@
       "to": "p40_box_20_1"
     }
   ],
-  "unknownStatements": 2,
+  "unknownStatements": 1,
   "notes": [
     "guidebook"
   ]

@@ -434,8 +434,16 @@
           "y": 996
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p44_retKFMT9"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 50,
+          "toAnchor": "p50_KFMT9"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page44.js",
         "page": 44,
@@ -521,8 +529,16 @@
           "y": 816
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p53_ret33BB2"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 58,
+          "toAnchor": "p58_33BB2"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page53.js",
         "page": 53,
@@ -1322,5 +1338,24 @@
       "toDay": "04-29"
     }
   ],
-  "jumps": []
+  "jumps": [
+    {
+      "fromNodeId": "p44_box_17_0",
+      "fromDay": "04-30",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 50,
+        "toAnchor": "p50_KFMT9"
+      }
+    },
+    {
+      "fromNodeId": "p53_box_14_0",
+      "fromDay": "04-30",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 58,
+        "toAnchor": "p58_33BB2"
+      }
+    }
+  ]
 }

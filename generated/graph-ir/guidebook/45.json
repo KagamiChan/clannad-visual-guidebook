@@ -419,8 +419,16 @@
           "y": 474
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p45_retSTCHR"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 47,
+          "toAnchor": "p47_STCHR"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page45.js",
         "page": 45,
@@ -675,7 +683,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 46
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page45.js",
         "page": 45,
@@ -942,7 +955,7 @@
       "to": "p45_box_11_1"
     }
   ],
-  "unknownStatements": 4,
+  "unknownStatements": 1,
   "notes": [
     "guidebook"
   ]

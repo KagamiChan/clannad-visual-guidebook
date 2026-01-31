@@ -323,7 +323,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 44
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page43.js",
         "page": 43,
@@ -925,8 +930,16 @@
           "y": 366
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p44_retKFMT7"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 50,
+          "toAnchor": "p50_KFMT7"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page44.js",
         "page": 44,
@@ -955,7 +968,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 52
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page51.js",
         "page": 51,
@@ -1354,8 +1372,16 @@
           "y": 150
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p52_ret33BB"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 56,
+          "toAnchor": "p56_33BB"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page52.js",
         "page": 52,
@@ -1994,7 +2020,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 61
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page60.js",
         "page": 60,
@@ -4310,5 +4341,48 @@
       "toDay": "04-27"
     }
   ],
-  "jumps": []
+  "jumps": [
+    {
+      "fromNodeId": "p43_box_18_0",
+      "fromDay": "04-28",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 44
+      }
+    },
+    {
+      "fromNodeId": "p44_box_5_0",
+      "fromDay": "04-28",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 50,
+        "toAnchor": "p50_KFMT7"
+      }
+    },
+    {
+      "fromNodeId": "p51_box_18_0",
+      "fromDay": "04-28",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 52
+      }
+    },
+    {
+      "fromNodeId": "p52_box_1_0",
+      "fromDay": "04-28",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 56,
+        "toAnchor": "p56_33BB"
+      }
+    },
+    {
+      "fromNodeId": "p60_box_13_0",
+      "fromDay": "04-28",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 61
+      }
+    }
+  ]
 }

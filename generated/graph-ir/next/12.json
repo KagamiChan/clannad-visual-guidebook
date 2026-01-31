@@ -579,7 +579,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 40
+        }
+      ],
       "source": {
         "file": "next/Data/page12.js",
         "page": 12,
@@ -939,8 +944,15 @@
           "y": 726
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p12_retA"
+      ],
+      "jumps": [
+        {
+          "kind": "gotolink",
+          "toAnchor": "p12_A"
+        }
+      ],
       "source": {
         "file": "next/Data/page12.js",
         "page": 12,
@@ -985,7 +997,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 13
+        }
+      ],
       "source": {
         "file": "next/Data/page12.js",
         "page": 12,
@@ -1029,8 +1046,15 @@
           "y": 870
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p12_A"
+      ],
+      "jumps": [
+        {
+          "kind": "gotolink",
+          "toAnchor": "p12_retA"
+        }
+      ],
       "source": {
         "file": "next/Data/page12.js",
         "page": 12,
@@ -1498,8 +1522,16 @@
           "y": 1140
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p12_retXTGZ"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 24,
+          "toAnchor": "p24_XTGZ"
+        }
+      ],
       "source": {
         "file": "next/Data/page12.js",
         "page": 12,
@@ -2556,7 +2588,7 @@
       }
     }
   ],
-  "unknownStatements": 11,
+  "unknownStatements": 3,
   "notes": [
     "next"
   ]

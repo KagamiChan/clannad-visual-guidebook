@@ -26,7 +26,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 2
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page1.js",
         "page": 1,
@@ -247,7 +252,9 @@
       },
       "kind": "HeaderBase",
       "pixelPosBySizeSet": {},
-      "anchors": [],
+      "anchors": [
+        "p1_header2"
+      ],
       "jumps": [],
       "source": {
         "file": "guidebook/Data/page1.js",
@@ -2267,5 +2274,14 @@
       "toDay": "04-14"
     }
   ],
-  "jumps": []
+  "jumps": [
+    {
+      "fromNodeId": "p1_box_13_0",
+      "fromDay": "04-15",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 2
+      }
+    }
+  ]
 }

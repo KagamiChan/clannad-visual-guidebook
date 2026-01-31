@@ -344,6 +344,29 @@ export function extractPageIR(
     // Track: yLevel += N; yLevel = yLevel + N; yLevel++
     if (isExpressionStatement(stmt)) {
       const expr = stmt.expression;
+
+      // node.addLink('...') / node.addClick(()=> gotopage/gotolink)
+      // These are CallExpressions, not assignments.
+      if (isCallExpression(expr) && isMemberExpression(expr.callee)) {
+        const callee = expr.callee as any;
+        const method = callee.property;
+        const obj = callee.object as any;
+        const ref = asNodeRef(obj as any);
+        if (ref && isIdentifier(method)) {
+          const node = upsertNodeForRef(ref, "unknown", stmtIndex);
+          if (method.name === "addLink") {
+            const anchor = evalString(expr.arguments[0] as any, env);
+            if (anchor) node.anchors.push(anchor);
+            continue;
+          }
+          if (method.name === "addClick") {
+            const jumps = extractJumpsFromFunction(expr.arguments[0] as any);
+            if (jumps.length) node.jumps.push(...jumps);
+            continue;
+          }
+        }
+      }
+
       if (isAssignmentExpression(expr) && isIdentifier(expr.left) && expr.left.name === "yLevel") {
         if (expr.operator === "=") {
           const v = evalNumber(expr.right as Expression, env);
@@ -541,27 +564,6 @@ export function extractPageIR(
 
               edge.decorative = !edge.from || !edge.to;
               edges.push(edge);
-              continue;
-            }
-          }
-        }
-
-        // node.addLink('...') or node.addClick(()=> gotopage/gotolink)
-        if (isCallExpression(expr) && isMemberExpression(expr.callee)) {
-          const callee = expr.callee as MemberExpression;
-          const method = callee.property;
-          const obj = callee.object as any;
-          const ref = asNodeRef(obj as any);
-          if (ref && isIdentifier(method)) {
-            const node = upsertNodeForRef(ref, "unknown", stmtIndex);
-            if (method.name === "addLink") {
-              const anchor = evalString(expr.arguments[0] as any, env);
-              if (anchor) node.anchors.push(anchor);
-              continue;
-            }
-            if (method.name === "addClick") {
-              const jumps = extractJumpsFromFunction(expr.arguments[0] as any);
-              if (jumps.length) node.jumps.push(...jumps);
               continue;
             }
           }

@@ -48,8 +48,16 @@
           "y": 114
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p32_YNSP"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 19,
+          "toAnchor": "p19_retYNSP"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page32.js",
         "page": 32,
@@ -1385,7 +1393,7 @@
       }
     }
   ],
-  "unknownStatements": 2,
+  "unknownStatements": 0,
   "notes": [
     "guidebook"
   ]

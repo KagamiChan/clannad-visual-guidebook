@@ -26,7 +26,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 63
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page62.js",
         "page": 62,
@@ -588,5 +593,14 @@
       "toDay": "05-09"
     }
   ],
-  "jumps": []
+  "jumps": [
+    {
+      "fromNodeId": "p62_box_18_0",
+      "fromDay": "05-12",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 63
+      }
+    }
+  ]
 }

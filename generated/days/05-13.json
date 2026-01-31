@@ -198,8 +198,15 @@
           "y": 474
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p63_retA"
+      ],
+      "jumps": [
+        {
+          "kind": "gotolink",
+          "toAnchor": "p63_A"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page63.js",
         "page": 63,
@@ -227,8 +234,15 @@
           "y": 474
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p63_retB"
+      ],
+      "jumps": [
+        {
+          "kind": "gotolink",
+          "toAnchor": "p63_B"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page63.js",
         "page": 63,
@@ -386,5 +400,22 @@
       "toDay": "05-12"
     }
   ],
-  "jumps": []
+  "jumps": [
+    {
+      "fromNodeId": "p63_box_7_0",
+      "fromDay": "05-13",
+      "jump": {
+        "kind": "gotolink",
+        "toAnchor": "p63_A"
+      }
+    },
+    {
+      "fromNodeId": "p63_box_7_1",
+      "fromDay": "05-13",
+      "jump": {
+        "kind": "gotolink",
+        "toAnchor": "p63_B"
+      }
+    }
+  ]
 }

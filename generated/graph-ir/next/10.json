@@ -652,8 +652,16 @@
           "y": 546
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p10_retA"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 11,
+          "toAnchor": "p11_A"
+        }
+      ],
       "source": {
         "file": "next/Data/page10.js",
         "page": 10,
@@ -1170,7 +1178,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 12
+        }
+      ],
       "source": {
         "file": "next/Data/page10.js",
         "page": 10,
@@ -1889,7 +1902,7 @@
       "to": "p10_box_17_0"
     }
   ],
-  "unknownStatements": 4,
+  "unknownStatements": 1,
   "notes": [
     "next"
   ]

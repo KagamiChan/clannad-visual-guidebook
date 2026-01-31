@@ -994,7 +994,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 10
+        }
+      ],
       "source": {
         "file": "next/Data/page8.js",
         "page": 8,
@@ -1795,7 +1800,7 @@
       "to": "p8_box_11_3"
     }
   ],
-  "unknownStatements": 4,
+  "unknownStatements": 3,
   "notes": [
     "next"
   ]

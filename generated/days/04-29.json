@@ -289,8 +289,16 @@
           "y": 636
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p44_retKFMT8"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 50,
+          "toAnchor": "p50_KFMT8"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page44.js",
         "page": 44,
@@ -319,7 +327,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 53
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page52.js",
         "page": 52,
@@ -3030,5 +3043,23 @@
       "toDay": "04-28"
     }
   ],
-  "jumps": []
+  "jumps": [
+    {
+      "fromNodeId": "p44_box_10_0",
+      "fromDay": "04-29",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 50,
+        "toAnchor": "p50_KFMT8"
+      }
+    },
+    {
+      "fromNodeId": "p52_box_15_0",
+      "fromDay": "04-29",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 53
+      }
+    }
+  ]
 }

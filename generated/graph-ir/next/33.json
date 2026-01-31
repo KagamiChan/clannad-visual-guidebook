@@ -48,8 +48,16 @@
           "y": 114
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p33_GYM"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 31,
+          "toAnchor": "p31_retGYM"
+        }
+      ],
       "source": {
         "file": "next/Data/page33.js",
         "page": 33,
@@ -2532,7 +2540,7 @@
       "to": "p33_box_25_1"
     }
   ],
-  "unknownStatements": 2,
+  "unknownStatements": 0,
   "notes": [
     "next"
   ]

@@ -260,7 +260,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 45
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page44.js",
         "page": 44,
@@ -1331,5 +1336,14 @@
       "toDay": "05-01"
     }
   ],
-  "jumps": []
+  "jumps": [
+    {
+      "fromNodeId": "p44_box_18_0",
+      "fromDay": "05-02",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 45
+      }
+    }
+  ]
 }

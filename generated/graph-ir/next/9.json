@@ -48,8 +48,16 @@
           "y": 114
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p9_A"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 7,
+          "toAnchor": "p7_retA"
+        }
+      ],
       "source": {
         "file": "next/Data/page9.js",
         "page": 9,
@@ -819,8 +827,16 @@
           "y": 798
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p9_B"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 7,
+          "toAnchor": "p7_retB"
+        }
+      ],
       "source": {
         "file": "next/Data/page9.js",
         "page": 9,
@@ -2063,7 +2079,7 @@
       }
     }
   ],
-  "unknownStatements": 6,
+  "unknownStatements": 2,
   "notes": [
     "next"
   ]

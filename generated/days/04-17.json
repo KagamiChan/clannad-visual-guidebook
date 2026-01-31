@@ -466,7 +466,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 5
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page4.js",
         "page": 4,
@@ -3134,5 +3139,14 @@
     }
   ],
   "crossDayEdges": [],
-  "jumps": []
+  "jumps": [
+    {
+      "fromNodeId": "p4_box_10_0",
+      "fromDay": "04-17",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 5
+      }
+    }
+  ]
 }

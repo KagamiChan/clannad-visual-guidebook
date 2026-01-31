@@ -3,16 +3,16 @@
   "guidebook": {
     "nodeCount": 45,
     "edgeCount": 35,
-    "jumpCount": 0,
-    "anchorCount": 0,
-    "unknownStatements": 12
+    "jumpCount": 5,
+    "anchorCount": 4,
+    "unknownStatements": 3
   },
   "next": {
     "nodeCount": 45,
     "edgeCount": 35,
-    "jumpCount": 0,
-    "anchorCount": 0,
-    "unknownStatements": 12
+    "jumpCount": 5,
+    "anchorCount": 4,
+    "unknownStatements": 3
   },
   "diffs": []
 }

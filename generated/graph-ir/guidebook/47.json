@@ -48,8 +48,16 @@
           "y": 114
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p47_STCHR"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 45,
+          "toAnchor": "p45_retSTCHR"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page47.js",
         "page": 47,
@@ -2906,7 +2914,7 @@
       "to": "p47_box_19_1"
     }
   ],
-  "unknownStatements": 21,
+  "unknownStatements": 0,
   "notes": [
     "guidebook"
   ]

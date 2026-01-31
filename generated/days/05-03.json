@@ -30,7 +30,12 @@
         }
       },
       "anchors": [],
-      "jumps": [],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 28
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page27.js",
         "page": 27,
@@ -1428,8 +1433,16 @@
           "y": 474
         }
       },
-      "anchors": [],
-      "jumps": [],
+      "anchors": [
+        "p45_retSTCHR"
+      ],
+      "jumps": [
+        {
+          "kind": "gotopage",
+          "toPage": 47,
+          "toAnchor": "p47_STCHR"
+        }
+      ],
       "source": {
         "file": "guidebook/Data/page45.js",
         "page": 45,
@@ -2023,5 +2036,23 @@
       "toDay": "05-02"
     }
   ],
-  "jumps": []
+  "jumps": [
+    {
+      "fromNodeId": "p27_box_13_0",
+      "fromDay": "05-03",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 28
+      }
+    },
+    {
+      "fromNodeId": "p45_box_7_0",
+      "fromDay": "05-03",
+      "jump": {
+        "kind": "gotopage",
+        "toPage": 47,
+        "toAnchor": "p47_STCHR"
+      }
+    }
+  ]
 }
