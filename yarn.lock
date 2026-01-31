@@ -4828,6 +4828,7 @@ __metadata:
   resolution: "web@workspace:web"
   dependencies:
     "@types/dagre": ^0.7.47
+    "@types/lodash": ^4.14.182
     "@types/react": ^18.0.0
     "@types/react-dom": ^18.0.0
     "@types/styled-components": ^5.1.25
@@ -4835,11 +4836,18 @@ __metadata:
     babel-plugin-styled-components: ^2.0.7
     dagre: ^0.8.5
     elkjs: next
+    jotai: ^1.6.5
+    lodash: ^4.17.21
+    modern-normalize: ^1.1.0
+    p-map: 4
+    polished: ^4.2.2
     react: ^18.0.0
     react-dom: ^18.0.0
     react-flow-renderer: next
+    react-router-dom: ^6.3.0
     styled-components: ^5.3.5
     typescript: ^4.6.3
+    use-deep-compare-effect: ^1.8.1
     vite: ^2.9.5
   languageName: unknown
   linkType: soft

@@ -1,6 +1,6 @@
 import { rgba } from 'polished'
-import { memo, useMemo, FC } from 'react'
-import ReactFlow, { Node, Edge, MarkerType, Position, Handle, NodeTypes } from 'react-flow-renderer'
+import { memo, FC } from 'react'
+import { Handle, Position } from 'react-flow-renderer'
 import styled from 'styled-components'
 
 const NodeBody = styled.div`
@@ -29,13 +29,16 @@ const Tag = styled.span`
 `
 
 export const EventNode: FC<any> = memo(({ data }) => {
+  const kind: string | undefined = data?.kind ?? data?.node?.type
+  const isCondition = typeof kind === 'string' && kind.toLowerCase().includes('condition')
+
   return (
     <>
       <Handle type="target" position={Position.Top} />
       <NodeBody>
         <span>{data.label}</span>
         {/* {data.node.type === 'selection' && <Tag>选择肢</Tag>} */}
-        {data.node.type === 'condition' && <Tag>前提</Tag>}
+        {isCondition && <Tag>前提</Tag>}
       </NodeBody>
       <Handle type="source" position={Position.Bottom} />
     </>

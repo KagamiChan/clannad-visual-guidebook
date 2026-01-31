@@ -12,9 +12,10 @@ import { nodeDimensionsAtom } from '../../states'
 interface Props {
   nodes: Node[]
   edges: Edge[]
+  onNodeClick?: (event: any, node: Node) => void
 }
 
-export const FlowChart: FC<Props> = ({ nodes, edges }) => {
+export const FlowChart: FC<Props> = ({ nodes, edges, onNodeClick }) => {
   const nodeTypes: NodeTypes = useMemo(() => ({ event: EventNode }), [])
 
   const [config, setConfig] = useState<{
@@ -29,6 +30,11 @@ export const FlowChart: FC<Props> = ({ nodes, edges }) => {
 
   useDeepCompareEffect(() => {
     const run = async () => {
+      if (!nodes.length) {
+        setConfig({ layoutedNodes: [], layoutedEdges: [] })
+        return
+      }
+
       console.log('Updating layout')
       const { nodes: layoutedNodes, edges: layoutedEdges } = await getELKLayoutedElements(
         nodes,
@@ -39,7 +45,7 @@ export const FlowChart: FC<Props> = ({ nodes, edges }) => {
     }
 
     run()
-  }, [nodeDimensions])
+  }, [nodes, edges, nodeDimensions])
 
   const { layoutedNodes, layoutedEdges } = config
 
@@ -61,6 +67,7 @@ export const FlowChart: FC<Props> = ({ nodes, edges }) => {
           nodes={layoutedNodes}
           edges={layoutedEdges}
           nodeTypes={nodeTypes}
+          onNodeClick={onNodeClick}
           preventScrolling={false}
           nodesDraggable={false}
           zoomOnScroll={false}

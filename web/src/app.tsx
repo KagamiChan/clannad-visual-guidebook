@@ -1,10 +1,10 @@
-import { FC, lazy, Suspense } from 'react'
-import _ from 'lodash'
-import { loadPageData } from './load-page-data'
-import { pageDefinitions } from './page-definitions'
+import { FC } from 'react'
 import backgroundImage from './assets/rapeseed.jpg'
 import styled from 'styled-components'
-import { BrowserRouter, Link, Routes, Route } from 'react-router-dom'
+import { BrowserRouter, Link, Navigate, Route, Routes } from 'react-router-dom'
+
+import { getDayIndex } from './load-generated-data'
+import { DayRoute } from './routes/day-route'
 
 const Background = styled.div`
   position: fixed;
@@ -59,7 +59,8 @@ const Entry = styled(Link)`
 `
 
 export const App: FC<any> = () => {
-  // console.log(layoutedNodes, maxWidth)
+  const dayIndex = getDayIndex()
+  const defaultDayKey = dayIndex[0]?.dayKey
 
   return (
     <BrowserRouter>
@@ -68,34 +69,23 @@ export const App: FC<any> = () => {
         <Backdrop />
         <AppContainer>
           <SideBar>
-            {pageDefinitions.map((page, index) => (
-              <Entry key={page.id} to={`/${page.route}/${page.id}`}>
-                {page.name}
+            {dayIndex.map((day) => (
+              <Entry key={day.dayKey} to={`/day/${day.dayKey}`}>
+                {day.label}
               </Entry>
             ))}
           </SideBar>
           <Routes>
-            {pageDefinitions.map((page) => {
-              const Page = lazy(async () => {
-                const { FlowChart } = await import(`./components/charting/flow-chart`)
-                const { nodes, edges } = await loadPageData(page)
-
-                return {
-                  default: () => <FlowChart nodes={nodes} edges={edges} />,
-                }
-              })
-              return (
-                <Route
-                  key={page.id}
-                  path={`/${page.route}/${page.id}`}
-                  element={
-                    <Suspense fallback={<div>Loading...</div>}>
-                      <Page />
-                    </Suspense>
-                  }
-                />
-              )
-            })}
+            {defaultDayKey ? (
+              <Route path="/" element={<Navigate to={`/day/${defaultDayKey}`} replace />} />
+            ) : (
+              <Route path="/" element={<div style={{ padding: 16 }}>No day index found.</div>} />
+            )}
+            <Route path="/day/:dayKey" element={<DayRoute />} />
+            <Route
+              path="*"
+              element={<Navigate to={defaultDayKey ? `/day/${defaultDayKey}` : '/'} replace />}
+            />
           </Routes>
         </AppContainer>
       </div>
