@@ -1,14 +1,14 @@
-import type { PixelPos, SizeSet } from "./types";
+import type { PixelPos, SizeSet } from './types'
 
 export type LegacyConstants = {
-  BasicX: number;
-  BasicY: number;
-  XSCALE: number;
-  YSCALE: number;
-  BUTTONWIDTH: number;
-  outersize: number;
-  LINEBASEHEIGHT: number;
-};
+  BasicX: number
+  BasicY: number
+  XSCALE: number
+  YSCALE: number
+  BUTTONWIDTH: number
+  outersize: number
+  LINEBASEHEIGHT: number
+}
 
 export const LEGACY_CONSTANTS: Record<SizeSet, LegacyConstants> = {
   0: {
@@ -29,32 +29,30 @@ export const LEGACY_CONSTANTS: Record<SizeSet, LegacyConstants> = {
     BUTTONWIDTH: 210 + 2 * 4,
     LINEBASEHEIGHT: 18,
   },
-};
+}
 
 export function xPos(sizeSet: SizeSet, gridX: number): number {
-  const c = LEGACY_CONSTANTS[sizeSet];
-  return c.BasicX + c.XSCALE * gridX;
+  const c = LEGACY_CONSTANTS[sizeSet]
+  return c.BasicX + c.XSCALE * gridX
 }
 
 export function yPos(sizeSet: SizeSet, gridY: number): number {
-  const c = LEGACY_CONSTANTS[sizeSet];
-  return c.BasicY + c.YSCALE * gridY;
+  const c = LEGACY_CONSTANTS[sizeSet]
+  return c.BasicY + c.YSCALE * gridY
 }
 
 export function linY(sizeSet: SizeSet, yLevel: number, yy: number): number {
-  const c = LEGACY_CONSTANTS[sizeSet];
-  return yPos(sizeSet, yLevel) + c.YSCALE * yy;
+  const c = LEGACY_CONSTANTS[sizeSet]
+  return yPos(sizeSet, yLevel) + c.YSCALE * yy
 }
 
 export function linX(sizeSet: SizeSet, xx: number): number {
-  const c = LEGACY_CONSTANTS[sizeSet];
+  const c = LEGACY_CONSTANTS[sizeSet]
   // Matches guidebook/cvg.js:
   // linx(xx){return x(xx+1)-(XSCALE*2-BUTTONWIDTH)/2-outersize;}
-  return (
-    xPos(sizeSet, xx + 1) - (c.XSCALE * 2 - c.BUTTONWIDTH) / 2 - c.outersize
-  );
+  return xPos(sizeSet, xx + 1) - (c.XSCALE * 2 - c.BUTTONWIDTH) / 2 - c.outersize
 }
 
 export function point(x: number, y: number): PixelPos {
-  return { x, y };
+  return { x, y }
 }
