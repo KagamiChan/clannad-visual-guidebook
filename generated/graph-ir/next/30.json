@@ -1,0 +1,2147 @@
+{
+  "page": 30,
+  "sourceFile": "next/Data/page30.js",
+  "header": {
+    "route": "tomoyo",
+    "routeC": "坂上 智代",
+    "routeE": "Tomoyo Sakagami",
+    "dateC": "智代64HIT",
+    "dateE": "Tomoyo's 64Hit"
+  },
+  "footer": {
+    "page": 30
+  },
+  "nodes": [
+    {
+      "nodeId": "p30_box_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 2
+      }
+    },
+    {
+      "nodeId": "p30_box_0_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 190
+        },
+        "1": {
+          "x": 15,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 4
+      },
+      "text": "智代64HIT"
+    },
+    {
+      "nodeId": "p30_box_0_1",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 1
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 190
+        },
+        "1": {
+          "x": 255,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 7
+      },
+      "text": "6日，纷争之间的处理"
+    },
+    {
+      "nodeId": "p30_box_1",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 9
+      }
+    },
+    {
+      "nodeId": "p30_box_1_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 280
+        },
+        "1": {
+          "x": 135,
+          "y": 168
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 11
+      },
+      "text": "插嘴说话"
+    },
+    {
+      "nodeId": "p30_box_1_1",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 280
+        },
+        "1": {
+          "x": 375,
+          "y": 168
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 13
+      },
+      "text": "保持沉默，交给智代处理"
+    },
+    {
+      "nodeId": "p30_box_2",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 15
+      }
+    },
+    {
+      "nodeId": "p30_box_2_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 340
+        },
+        "1": {
+          "x": 135,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 17
+      },
+      "text": "杏增加8HIT"
+    },
+    {
+      "nodeId": "p30_box_3",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 19
+      }
+    },
+    {
+      "nodeId": "p30_box_3_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 430
+        },
+        "1": {
+          "x": 255,
+          "y": 258
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 21
+      },
+      "text": "18日，独自雕刻的风子"
+    },
+    {
+      "nodeId": "p30_box_4",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 24
+      }
+    },
+    {
+      "nodeId": "p30_box_4_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 520
+        },
+        "1": {
+          "x": 135,
+          "y": 312
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 26
+      },
+      "text": "再看一会儿"
+    },
+    {
+      "nodeId": "p30_box_4_1",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 520
+        },
+        "1": {
+          "x": 375,
+          "y": 312
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 28
+      },
+      "text": "离开",
+      "routeHints": "r|+未触发"
+    },
+    {
+      "nodeId": "p30_box_5",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 30
+      }
+    },
+    {
+      "nodeId": "p30_box_5_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 580
+        },
+        "1": {
+          "x": 135,
+          "y": 348
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 32
+      },
+      "text": "风子增加8HIT"
+    },
+    {
+      "nodeId": "p30_box_6",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 34
+      }
+    },
+    {
+      "nodeId": "p30_box_6_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 670
+        },
+        "1": {
+          "x": 255,
+          "y": 402
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 36
+      },
+      "text": "17日，宿舍走廊遇见美佐枝"
+    },
+    {
+      "nodeId": "p30_box_7",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 39
+      }
+    },
+    {
+      "nodeId": "p30_box_7_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 760
+        },
+        "1": {
+          "x": 135,
+          "y": 456
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 41
+      },
+      "text": "向她搭话"
+    },
+    {
+      "nodeId": "p30_box_7_1",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 760
+        },
+        "1": {
+          "x": 375,
+          "y": 456
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 43
+      },
+      "text": "目送她离去",
+      "routeHints": "r|+未触发"
+    },
+    {
+      "nodeId": "p30_box_8",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 45
+      }
+    },
+    {
+      "nodeId": "p30_box_8_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 820
+        },
+        "1": {
+          "x": 135,
+          "y": 492
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 47
+      },
+      "text": "美佐枝增加8HIT"
+    },
+    {
+      "nodeId": "p30_box_9",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 49
+      }
+    },
+    {
+      "nodeId": "p30_box_9_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 910
+        },
+        "1": {
+          "x": 255,
+          "y": 546
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 51
+      },
+      "text": "18日，逃课选择睡觉的地方"
+    },
+    {
+      "nodeId": "p30_box_10",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 10
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 54
+      }
+    },
+    {
+      "nodeId": "p30_box_10_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 125,
+          "y": 1000
+        },
+        "1": {
+          "x": 75,
+          "y": 600
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 56
+      },
+      "text": "去那里睡"
+    },
+    {
+      "nodeId": "p30_box_10_1",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 1000
+        },
+        "1": {
+          "x": 435,
+          "y": 600
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 58
+      },
+      "text": "还是回教室吧",
+      "routeHints": "r|+未触发"
+    },
+    {
+      "nodeId": "p30_box_11",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 11
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 61
+      }
+    },
+    {
+      "nodeId": "p30_box_11_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 1060
+        },
+        "1": {
+          "x": 435,
+          "y": 636
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 63
+      },
+      "text": "19日，来到旧校舍后的去向（一）"
+    },
+    {
+      "nodeId": "p30_box_12",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 12
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 65
+      }
+    },
+    {
+      "nodeId": "p30_box_12_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 1150
+        },
+        "1": {
+          "x": 195,
+          "y": 690
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 67
+      },
+      "text": "去资料室"
+    },
+    {
+      "nodeId": "p30_box_12_1",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 1150
+        },
+        "1": {
+          "x": 435,
+          "y": 690
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 69
+      },
+      "text": "去图书馆"
+    },
+    {
+      "nodeId": "p30_box_12_2",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 2
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1125,
+          "y": 1150
+        },
+        "1": {
+          "x": 675,
+          "y": 690
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 71
+      },
+      "text": "去社团活动室",
+      "routeHints": "r|+未触发"
+    },
+    {
+      "nodeId": "p30_box_13",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 13
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 73
+      }
+    },
+    {
+      "nodeId": "p30_box_13_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 13,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 125,
+          "y": 1240
+        },
+        "1": {
+          "x": 75,
+          "y": 744
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 75
+      },
+      "text": "有纪宁增加8HIT"
+    },
+    {
+      "nodeId": "p30_box_14",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 14
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 78
+      }
+    },
+    {
+      "nodeId": "p30_box_14_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1330
+        },
+        "1": {
+          "x": 255,
+          "y": 798
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 80
+      },
+      "text": "15日，回想起中午庭院中的女生"
+    },
+    {
+      "nodeId": "p30_box_15",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 15
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 85
+      }
+    },
+    {
+      "nodeId": "p30_box_15_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1420
+        },
+        "1": {
+          "x": 135,
+          "y": 852
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 87
+      },
+      "text": "在意"
+    },
+    {
+      "nodeId": "p30_box_15_1",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1420
+        },
+        "1": {
+          "x": 375,
+          "y": 852
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 89
+      },
+      "text": "不在意",
+      "routeHints": "r|+未触发"
+    },
+    {
+      "nodeId": "p30_box_16",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 16
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 91
+      }
+    },
+    {
+      "nodeId": "p30_box_16_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 16,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1480
+        },
+        "1": {
+          "x": 135,
+          "y": 888
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 93
+      },
+      "text": "渚增加8HIT"
+    },
+    {
+      "nodeId": "p30_box_17",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 17
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 95
+      }
+    },
+    {
+      "nodeId": "p30_box_17_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 17,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1570
+        },
+        "1": {
+          "x": 255,
+          "y": 942
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 97
+      },
+      "text": "26日，选择约会吃饭的地方"
+    },
+    {
+      "nodeId": "p30_box_18",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 18
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 100
+      }
+    },
+    {
+      "nodeId": "p30_box_18_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 18,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1660
+        },
+        "1": {
+          "x": 135,
+          "y": 996
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 102
+      },
+      "text": "在食堂吃"
+    },
+    {
+      "nodeId": "p30_box_18_1",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 18,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1660
+        },
+        "1": {
+          "x": 375,
+          "y": 996
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 104
+      },
+      "text": "去外面吃"
+    },
+    {
+      "nodeId": "p30_box_19",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 19
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 106
+      }
+    },
+    {
+      "nodeId": "p30_box_19_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 19,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1720
+        },
+        "1": {
+          "x": 135,
+          "y": 1032
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 108
+      },
+      "text": "完成过幸村线"
+    },
+    {
+      "nodeId": "p30_box_20",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 20
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 110
+      }
+    },
+    {
+      "nodeId": "p30_box_20_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 20,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 1810
+        },
+        "1": {
+          "x": 15,
+          "y": 1086
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 112
+      },
+      "text": "是"
+    },
+    {
+      "nodeId": "p30_box_20_1",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 20,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1810
+        },
+        "1": {
+          "x": 255,
+          "y": 1086
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 114
+      },
+      "text": "否"
+    },
+    {
+      "nodeId": "p30_box_21",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "index": 21
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 116
+      }
+    },
+    {
+      "nodeId": "p30_box_21_0",
+      "page": 30,
+      "boxRef": {
+        "varName": "box",
+        "row": 21,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 1870
+        },
+        "1": {
+          "x": 15,
+          "y": 1122
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 118
+      },
+      "text": "幸村增加8HIT"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p30_edge_8",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 8
+      }
+    },
+    {
+      "edgeId": "p30_edge_12",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 12
+      },
+      "from": "p30_box_1_0",
+      "to": "p30_box_0_1"
+    },
+    {
+      "edgeId": "p30_edge_14",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 14
+      },
+      "from": "p30_box_1_1",
+      "to": "p30_box_0_1"
+    },
+    {
+      "edgeId": "p30_edge_18",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 18
+      },
+      "from": "p30_box_2_0",
+      "to": "p30_box_1_0"
+    },
+    {
+      "edgeId": "p30_edge_22",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 22
+      },
+      "from": "p30_box_3_0",
+      "to": "p30_box_2_0"
+    },
+    {
+      "edgeId": "p30_edge_23",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 23
+      },
+      "from": "p30_box_3_0",
+      "to": "p30_box_1_1"
+    },
+    {
+      "edgeId": "p30_edge_27",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 27
+      },
+      "from": "p30_box_4_0",
+      "to": "p30_box_3_0"
+    },
+    {
+      "edgeId": "p30_edge_29",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 29
+      },
+      "from": "p30_box_4_1",
+      "to": "p30_box_3_0"
+    },
+    {
+      "edgeId": "p30_edge_33",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 33
+      },
+      "from": "p30_box_5_0",
+      "to": "p30_box_4_0"
+    },
+    {
+      "edgeId": "p30_edge_37",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 37
+      },
+      "from": "p30_box_6_0",
+      "to": "p30_box_5_0"
+    },
+    {
+      "edgeId": "p30_edge_38",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 38
+      },
+      "from": "p30_box_6_0",
+      "to": "p30_box_4_1"
+    },
+    {
+      "edgeId": "p30_edge_42",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 42
+      },
+      "from": "p30_box_7_0",
+      "to": "p30_box_6_0"
+    },
+    {
+      "edgeId": "p30_edge_44",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 44
+      },
+      "from": "p30_box_7_1",
+      "to": "p30_box_6_0"
+    },
+    {
+      "edgeId": "p30_edge_48",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 48
+      },
+      "from": "p30_box_8_0",
+      "to": "p30_box_7_0"
+    },
+    {
+      "edgeId": "p30_edge_52",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 52
+      },
+      "from": "p30_box_9_0",
+      "to": "p30_box_8_0"
+    },
+    {
+      "edgeId": "p30_edge_53",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 53
+      },
+      "from": "p30_box_9_0",
+      "to": "p30_box_7_1"
+    },
+    {
+      "edgeId": "p30_edge_57",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 500,
+            "y": 970
+          }
+        ],
+        "1": [
+          {
+            "x": 300,
+            "y": 582
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 57
+      },
+      "from": "p30_box_10_0",
+      "to": "p30_box_10_0"
+    },
+    {
+      "edgeId": "p30_edge_59",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 500,
+            "y": 970
+          }
+        ],
+        "1": [
+          {
+            "x": 300,
+            "y": 582
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 59
+      },
+      "from": "p30_box_10_1",
+      "to": "p30_box_10_1"
+    },
+    {
+      "edgeId": "p30_edge_60",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 970
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 582
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 60
+      },
+      "from": "p30_box_9_0",
+      "to": "p30_box_9_0"
+    },
+    {
+      "edgeId": "p30_edge_64",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 64
+      },
+      "from": "p30_box_11_0",
+      "to": "p30_box_10_1"
+    },
+    {
+      "edgeId": "p30_edge_68",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 68
+      },
+      "from": "p30_box_12_0",
+      "to": "p30_box_11_0"
+    },
+    {
+      "edgeId": "p30_edge_70",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 70
+      },
+      "from": "p30_box_12_1",
+      "to": "p30_box_11_0"
+    },
+    {
+      "edgeId": "p30_edge_72",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 72
+      },
+      "from": "p30_box_12_2",
+      "to": "p30_box_11_0"
+    },
+    {
+      "edgeId": "p30_edge_76",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 76
+      },
+      "from": "p30_box_13_0",
+      "to": "p30_box_12_0"
+    },
+    {
+      "edgeId": "p30_edge_77",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 77
+      },
+      "from": "p30_box_13_0",
+      "to": "p30_box_10_0"
+    },
+    {
+      "edgeId": "p30_edge_81",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 300,
+            "y": 1300
+          }
+        ],
+        "1": [
+          {
+            "x": 180,
+            "y": 780
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 81
+      },
+      "from": "p30_box_13_0",
+      "to": "p30_box_13_0"
+    },
+    {
+      "edgeId": "p30_edge_82",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 300,
+            "y": 1300
+          },
+          {
+            "x": 900,
+            "y": 1300
+          }
+        ],
+        "1": [
+          {
+            "x": 180,
+            "y": 780
+          },
+          {
+            "x": 540,
+            "y": 780
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 82
+      },
+      "from": "p30_box_12_1",
+      "to": "p30_box_12_1"
+    },
+    {
+      "edgeId": "p30_edge_83",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 300,
+            "y": 1300
+          },
+          {
+            "x": 900,
+            "y": 1300
+          },
+          {
+            "x": 900,
+            "y": 1240
+          }
+        ],
+        "1": [
+          {
+            "x": 180,
+            "y": 780
+          },
+          {
+            "x": 540,
+            "y": 780
+          },
+          {
+            "x": 540,
+            "y": 744
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 83
+      },
+      "from": "p30_box_12_2",
+      "to": "p30_box_12_2"
+    },
+    {
+      "edgeId": "p30_edge_84",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 1300
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 780
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 84
+      },
+      "from": "p30_box_14_0",
+      "to": "p30_box_14_0"
+    },
+    {
+      "edgeId": "p30_edge_88",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 88
+      },
+      "from": "p30_box_15_0",
+      "to": "p30_box_14_0"
+    },
+    {
+      "edgeId": "p30_edge_90",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 90
+      },
+      "from": "p30_box_15_1",
+      "to": "p30_box_14_0"
+    },
+    {
+      "edgeId": "p30_edge_94",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 94
+      },
+      "from": "p30_box_16_0",
+      "to": "p30_box_15_0"
+    },
+    {
+      "edgeId": "p30_edge_98",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 98
+      },
+      "from": "p30_box_17_0",
+      "to": "p30_box_16_0"
+    },
+    {
+      "edgeId": "p30_edge_99",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 99
+      },
+      "from": "p30_box_17_0",
+      "to": "p30_box_15_1"
+    },
+    {
+      "edgeId": "p30_edge_103",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 103
+      },
+      "from": "p30_box_18_0",
+      "to": "p30_box_17_0"
+    },
+    {
+      "edgeId": "p30_edge_105",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 105
+      },
+      "from": "p30_box_18_1",
+      "to": "p30_box_17_0"
+    },
+    {
+      "edgeId": "p30_edge_109",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 109
+      },
+      "from": "p30_box_19_0",
+      "to": "p30_box_18_0"
+    },
+    {
+      "edgeId": "p30_edge_113",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 113
+      },
+      "from": "p30_box_20_0",
+      "to": "p30_box_19_0"
+    },
+    {
+      "edgeId": "p30_edge_115",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 115
+      },
+      "from": "p30_box_20_1",
+      "to": "p30_box_19_0"
+    },
+    {
+      "edgeId": "p30_edge_119",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 119
+      },
+      "from": "p30_box_21_0",
+      "to": "p30_box_20_0"
+    },
+    {
+      "edgeId": "p30_edge_120",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 400,
+            "y": 1960
+          }
+        ],
+        "1": [
+          {
+            "x": 240,
+            "y": 1176
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 120
+      },
+      "from": "p30_box_20_0",
+      "to": "p30_box_20_0"
+    },
+    {
+      "edgeId": "p30_edge_121",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 400,
+            "y": 1960
+          }
+        ],
+        "1": [
+          {
+            "x": 240,
+            "y": 1176
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 121
+      },
+      "from": "p30_box_20_1",
+      "to": "p30_box_20_1"
+    },
+    {
+      "edgeId": "p30_edge_122",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 400,
+            "y": 1960
+          },
+          {
+            "x": 800,
+            "y": 1960
+          }
+        ],
+        "1": [
+          {
+            "x": 240,
+            "y": 1176
+          },
+          {
+            "x": 480,
+            "y": 1176
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 122
+      },
+      "from": "p30_box_18_1",
+      "to": "p30_box_18_1"
+    },
+    {
+      "edgeId": "p30_edge_123",
+      "page": 30,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 1960
+          },
+          {
+            "x": 600,
+            "y": 1960
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 1176
+          },
+          {
+            "x": 360,
+            "y": 1176
+          }
+        ]
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page30.js",
+        "page": 30,
+        "stmtIndex": 123
+      }
+    }
+  ],
+  "unknownStatements": 2,
+  "notes": [
+    "next"
+  ]
+}

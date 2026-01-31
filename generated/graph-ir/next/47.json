@@ -1,0 +1,2913 @@
+{
+  "page": 47,
+  "sourceFile": "next/Data/page47.js",
+  "header": {
+    "route": "fuuko",
+    "routeC": "伊吹 风子",
+    "routeE": "Fuuko Ibuki",
+    "dateC": "特别授课教师推选",
+    "dateE": "Election for Teacher of Special Class"
+  },
+  "footer": {
+    "page": 47
+  },
+  "nodes": [
+    {
+      "nodeId": "p47_box_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 3
+      }
+    },
+    {
+      "nodeId": "p47_box_0_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 190
+        },
+        "1": {
+          "x": 15,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 5
+      },
+      "text": "教师推选"
+    },
+    {
+      "nodeId": "p47_box_0_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 190
+        },
+        "1": {
+          "x": 495,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 8
+      },
+      "text": "猜拳胜负（一回目）"
+    },
+    {
+      "nodeId": "p47_box_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 10
+      }
+    },
+    {
+      "nodeId": "p47_box_1_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 280
+        },
+        "1": {
+          "x": 255,
+          "y": 168
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 12
+      },
+      "text": "剪子"
+    },
+    {
+      "nodeId": "p47_box_1_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 280
+        },
+        "1": {
+          "x": 495,
+          "y": 168
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 14
+      },
+      "text": "石头"
+    },
+    {
+      "nodeId": "p47_box_1_2",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 2
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 280
+        },
+        "1": {
+          "x": 735,
+          "y": 168
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 16
+      },
+      "text": "布"
+    },
+    {
+      "nodeId": "p47_box_2",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 18
+      }
+    },
+    {
+      "nodeId": "p47_box_2_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 340
+        },
+        "1": {
+          "x": 255,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 20
+      },
+      "text": "朋也 VS 渚（一回目）"
+    },
+    {
+      "nodeId": "p47_box_2_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 1
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 340
+        },
+        "1": {
+          "x": 495,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 22
+      },
+      "text": "渚充当教师"
+    },
+    {
+      "nodeId": "p47_box_3",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 25
+      }
+    },
+    {
+      "nodeId": "p47_box_3_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 430
+        },
+        "1": {
+          "x": 15,
+          "y": 258
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 27
+      },
+      "text": "剪子"
+    },
+    {
+      "nodeId": "p47_box_3_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 430
+        },
+        "1": {
+          "x": 255,
+          "y": 258
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 29
+      },
+      "text": "布"
+    },
+    {
+      "nodeId": "p47_box_3_2",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 2
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 430
+        },
+        "1": {
+          "x": 495,
+          "y": 258
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 31
+      },
+      "text": "石头"
+    },
+    {
+      "nodeId": "p47_box_4",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 33
+      }
+    },
+    {
+      "nodeId": "p47_box_4_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 0
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 490
+        },
+        "1": {
+          "x": 15,
+          "y": 294
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 35
+      },
+      "text": "渚充当教师"
+    },
+    {
+      "nodeId": "p47_box_4_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 490
+        },
+        "1": {
+          "x": 255,
+          "y": 294
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 38
+      },
+      "text": "朋也 VS 渚（二回目）"
+    },
+    {
+      "nodeId": "p47_box_4_2",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 2
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 490
+        },
+        "1": {
+          "x": 495,
+          "y": 294
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 40
+      },
+      "text": "朋也充当教师"
+    },
+    {
+      "nodeId": "p47_box_5",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 43
+      }
+    },
+    {
+      "nodeId": "p47_box_5_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 580
+        },
+        "1": {
+          "x": 15,
+          "y": 348
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 45
+      },
+      "text": "石头"
+    },
+    {
+      "nodeId": "p47_box_5_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 580
+        },
+        "1": {
+          "x": 255,
+          "y": 348
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 47
+      },
+      "text": "剪子"
+    },
+    {
+      "nodeId": "p47_box_5_2",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 2
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 580
+        },
+        "1": {
+          "x": 495,
+          "y": 348
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 49
+      },
+      "text": "布"
+    },
+    {
+      "nodeId": "p47_box_6",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 51
+      }
+    },
+    {
+      "nodeId": "p47_box_6_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 0
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 640
+        },
+        "1": {
+          "x": 15,
+          "y": 384
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 53
+      },
+      "text": "渚充当教师"
+    },
+    {
+      "nodeId": "p47_box_6_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 640
+        },
+        "1": {
+          "x": 255,
+          "y": 384
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 56
+      },
+      "text": "朋也 VS 渚（三回目）"
+    },
+    {
+      "nodeId": "p47_box_6_2",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 2
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 640
+        },
+        "1": {
+          "x": 495,
+          "y": 384
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 58
+      },
+      "text": "朋也充当教师"
+    },
+    {
+      "nodeId": "p47_box_7",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 61
+      }
+    },
+    {
+      "nodeId": "p47_box_7_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 730
+        },
+        "1": {
+          "x": 15,
+          "y": 438
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 63
+      },
+      "text": "石头"
+    },
+    {
+      "nodeId": "p47_box_7_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 730
+        },
+        "1": {
+          "x": 255,
+          "y": 438
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 65
+      },
+      "text": "剪子"
+    },
+    {
+      "nodeId": "p47_box_7_2",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 2
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 730
+        },
+        "1": {
+          "x": 495,
+          "y": 438
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 67
+      },
+      "text": "布"
+    },
+    {
+      "nodeId": "p47_box_8",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 69
+      }
+    },
+    {
+      "nodeId": "p47_box_8_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 0
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 790
+        },
+        "1": {
+          "x": 15,
+          "y": 474
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 71
+      },
+      "text": "渚充当教师"
+    },
+    {
+      "nodeId": "p47_box_8_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 790
+        },
+        "1": {
+          "x": 255,
+          "y": 474
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 74
+      },
+      "text": "朋也 VS 渚（四回目）"
+    },
+    {
+      "nodeId": "p47_box_8_2",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 2
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 790
+        },
+        "1": {
+          "x": 495,
+          "y": 474
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 76
+      },
+      "text": "朋也充当教师"
+    },
+    {
+      "nodeId": "p47_box_9",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 79
+      }
+    },
+    {
+      "nodeId": "p47_box_9_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 880
+        },
+        "1": {
+          "x": 15,
+          "y": 528
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 81
+      },
+      "text": "石头"
+    },
+    {
+      "nodeId": "p47_box_9_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 880
+        },
+        "1": {
+          "x": 255,
+          "y": 528
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 83
+      },
+      "text": "剪子"
+    },
+    {
+      "nodeId": "p47_box_9_2",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 2
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 880
+        },
+        "1": {
+          "x": 495,
+          "y": 528
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 85
+      },
+      "text": "布"
+    },
+    {
+      "nodeId": "p47_box_10",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 10
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 87
+      }
+    },
+    {
+      "nodeId": "p47_box_10_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 0
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 940
+        },
+        "1": {
+          "x": 15,
+          "y": 564
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 89
+      },
+      "text": "渚充当教师"
+    },
+    {
+      "nodeId": "p47_box_10_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 940
+        },
+        "1": {
+          "x": 255,
+          "y": 564
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 92
+      },
+      "text": "朋也 VS 渚（五回目）"
+    },
+    {
+      "nodeId": "p47_box_10_2",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 2
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 940
+        },
+        "1": {
+          "x": 495,
+          "y": 564
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 94
+      },
+      "text": "朋也充当教师"
+    },
+    {
+      "nodeId": "p47_box_11",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 11
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 97
+      }
+    },
+    {
+      "nodeId": "p47_box_11_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1030
+        },
+        "1": {
+          "x": 135,
+          "y": 618
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 99
+      },
+      "text": "布"
+    },
+    {
+      "nodeId": "p47_box_11_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1030
+        },
+        "1": {
+          "x": 375,
+          "y": 618
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 101
+      },
+      "text": "石头"
+    },
+    {
+      "nodeId": "p47_box_12",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 12
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 103
+      }
+    },
+    {
+      "nodeId": "p47_box_12_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 0
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1090
+        },
+        "1": {
+          "x": 135,
+          "y": 654
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 105
+      },
+      "text": "渚充当教师"
+    },
+    {
+      "nodeId": "p47_box_12_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 1
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1090
+        },
+        "1": {
+          "x": 375,
+          "y": 654
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 108
+      },
+      "text": "朋也充当教师"
+    },
+    {
+      "nodeId": "p47_box_12_2",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 2
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 1090
+        },
+        "1": {
+          "x": 735,
+          "y": 654
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 111
+      },
+      "text": "猜拳胜负（二回目）"
+    },
+    {
+      "nodeId": "p47_box_13",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 13
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 113
+      }
+    },
+    {
+      "nodeId": "p47_box_13_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 13,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1180
+        },
+        "1": {
+          "x": 255,
+          "y": 708
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 115
+      },
+      "text": "石头"
+    },
+    {
+      "nodeId": "p47_box_13_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 13,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1180
+        },
+        "1": {
+          "x": 495,
+          "y": 708
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 117
+      },
+      "text": "布"
+    },
+    {
+      "nodeId": "p47_box_13_2",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 13,
+        "col": 2
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 1180
+        },
+        "1": {
+          "x": 735,
+          "y": 708
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 119
+      },
+      "text": "剪子"
+    },
+    {
+      "nodeId": "p47_box_14",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 14
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 121
+      }
+    },
+    {
+      "nodeId": "p47_box_14_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 0
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1240
+        },
+        "1": {
+          "x": 255,
+          "y": 744
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 123
+      },
+      "text": "春原充当教师"
+    },
+    {
+      "nodeId": "p47_box_14_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 1
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1240
+        },
+        "1": {
+          "x": 495,
+          "y": 744
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 126
+      },
+      "text": "朋也充当教师"
+    },
+    {
+      "nodeId": "p47_box_14_2",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 2
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 1240
+        },
+        "1": {
+          "x": 735,
+          "y": 744
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 129
+      },
+      "text": "猜拳胜负（三回目）"
+    },
+    {
+      "nodeId": "p47_box_15",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 15
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 131
+      }
+    },
+    {
+      "nodeId": "p47_box_15_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1330
+        },
+        "1": {
+          "x": 255,
+          "y": 798
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 133
+      },
+      "text": "石头"
+    },
+    {
+      "nodeId": "p47_box_15_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1330
+        },
+        "1": {
+          "x": 495,
+          "y": 798
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 135
+      },
+      "text": "布"
+    },
+    {
+      "nodeId": "p47_box_15_2",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 2
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 1330
+        },
+        "1": {
+          "x": 735,
+          "y": 798
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 137
+      },
+      "text": "剪子"
+    },
+    {
+      "nodeId": "p47_box_16",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 16
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 139
+      }
+    },
+    {
+      "nodeId": "p47_box_16_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 16,
+        "col": 0
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1390
+        },
+        "1": {
+          "x": 255,
+          "y": 834
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 141
+      },
+      "text": "春原充当教师"
+    },
+    {
+      "nodeId": "p47_box_16_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 16,
+        "col": 1
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1390
+        },
+        "1": {
+          "x": 495,
+          "y": 834
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 144
+      },
+      "text": "朋也充当教师"
+    },
+    {
+      "nodeId": "p47_box_16_2",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 16,
+        "col": 2
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 1390
+        },
+        "1": {
+          "x": 735,
+          "y": 834
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 147
+      },
+      "text": "猜拳胜负（四回目）"
+    },
+    {
+      "nodeId": "p47_box_17",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 17
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 149
+      }
+    },
+    {
+      "nodeId": "p47_box_17_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 17,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1480
+        },
+        "1": {
+          "x": 255,
+          "y": 888
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 151
+      },
+      "text": "石头"
+    },
+    {
+      "nodeId": "p47_box_17_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 17,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1480
+        },
+        "1": {
+          "x": 495,
+          "y": 888
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 153
+      },
+      "text": "布"
+    },
+    {
+      "nodeId": "p47_box_17_2",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 17,
+        "col": 2
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 1480
+        },
+        "1": {
+          "x": 735,
+          "y": 888
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 155
+      },
+      "text": "剪子"
+    },
+    {
+      "nodeId": "p47_box_18",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 18
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 157
+      }
+    },
+    {
+      "nodeId": "p47_box_18_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 18,
+        "col": 0
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1540
+        },
+        "1": {
+          "x": 255,
+          "y": 924
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 159
+      },
+      "text": "春原充当教师"
+    },
+    {
+      "nodeId": "p47_box_18_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 18,
+        "col": 1
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1540
+        },
+        "1": {
+          "x": 495,
+          "y": 924
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 162
+      },
+      "text": "朋也充当教师"
+    },
+    {
+      "nodeId": "p47_box_18_2",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 18,
+        "col": 2
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 1540
+        },
+        "1": {
+          "x": 735,
+          "y": 924
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 165
+      },
+      "text": "猜拳胜负（五回目）"
+    },
+    {
+      "nodeId": "p47_box_19",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 19
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 167
+      }
+    },
+    {
+      "nodeId": "p47_box_19_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 19,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1630
+        },
+        "1": {
+          "x": 495,
+          "y": 978
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 169
+      },
+      "text": "石头"
+    },
+    {
+      "nodeId": "p47_box_19_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 19,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 1630
+        },
+        "1": {
+          "x": 735,
+          "y": 978
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 171
+      },
+      "text": "布"
+    },
+    {
+      "nodeId": "p47_box_20",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "index": 20
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 173
+      }
+    },
+    {
+      "nodeId": "p47_box_20_0",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 20,
+        "col": 0
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1690
+        },
+        "1": {
+          "x": 495,
+          "y": 1014
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 175
+      },
+      "text": "春原充当教师"
+    },
+    {
+      "nodeId": "p47_box_20_1",
+      "page": 47,
+      "boxRef": {
+        "varName": "box",
+        "row": 20,
+        "col": 1
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 1690
+        },
+        "1": {
+          "x": 735,
+          "y": 1014
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 178
+      },
+      "text": "朋也充当教师"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p47_edge_9",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 9
+      }
+    },
+    {
+      "edgeId": "p47_edge_13",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 13
+      },
+      "from": "p47_box_1_0",
+      "to": "p47_box_0_1"
+    },
+    {
+      "edgeId": "p47_edge_15",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 15
+      },
+      "from": "p47_box_1_1",
+      "to": "p47_box_0_1"
+    },
+    {
+      "edgeId": "p47_edge_17",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 17
+      },
+      "from": "p47_box_1_2",
+      "to": "p47_box_0_1"
+    },
+    {
+      "edgeId": "p47_edge_21",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 21
+      },
+      "from": "p47_box_2_0",
+      "to": "p47_box_1_0"
+    },
+    {
+      "edgeId": "p47_edge_24",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 24
+      },
+      "from": "p47_box_2_1",
+      "to": "p47_box_1_1"
+    },
+    {
+      "edgeId": "p47_edge_28",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 28
+      },
+      "from": "p47_box_3_0",
+      "to": "p47_box_2_0"
+    },
+    {
+      "edgeId": "p47_edge_30",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 30
+      },
+      "from": "p47_box_3_1",
+      "to": "p47_box_2_0"
+    },
+    {
+      "edgeId": "p47_edge_32",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 32
+      },
+      "from": "p47_box_3_2",
+      "to": "p47_box_2_0"
+    },
+    {
+      "edgeId": "p47_edge_37",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 37
+      },
+      "from": "p47_box_4_0",
+      "to": "p47_box_3_0"
+    },
+    {
+      "edgeId": "p47_edge_39",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 39
+      },
+      "from": "p47_box_4_1",
+      "to": "p47_box_3_1"
+    },
+    {
+      "edgeId": "p47_edge_42",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 42
+      },
+      "from": "p47_box_4_2",
+      "to": "p47_box_3_2"
+    },
+    {
+      "edgeId": "p47_edge_46",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 46
+      },
+      "from": "p47_box_5_0",
+      "to": "p47_box_4_1"
+    },
+    {
+      "edgeId": "p47_edge_48",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 48
+      },
+      "from": "p47_box_5_1",
+      "to": "p47_box_4_1"
+    },
+    {
+      "edgeId": "p47_edge_50",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 50
+      },
+      "from": "p47_box_5_2",
+      "to": "p47_box_4_1"
+    },
+    {
+      "edgeId": "p47_edge_55",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 55
+      },
+      "from": "p47_box_6_0",
+      "to": "p47_box_5_0"
+    },
+    {
+      "edgeId": "p47_edge_57",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 57
+      },
+      "from": "p47_box_6_1",
+      "to": "p47_box_5_1"
+    },
+    {
+      "edgeId": "p47_edge_60",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 60
+      },
+      "from": "p47_box_6_2",
+      "to": "p47_box_5_2"
+    },
+    {
+      "edgeId": "p47_edge_64",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 64
+      },
+      "from": "p47_box_7_0",
+      "to": "p47_box_6_1"
+    },
+    {
+      "edgeId": "p47_edge_66",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 66
+      },
+      "from": "p47_box_7_1",
+      "to": "p47_box_6_1"
+    },
+    {
+      "edgeId": "p47_edge_68",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 68
+      },
+      "from": "p47_box_7_2",
+      "to": "p47_box_6_1"
+    },
+    {
+      "edgeId": "p47_edge_73",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 73
+      },
+      "from": "p47_box_8_0",
+      "to": "p47_box_7_0"
+    },
+    {
+      "edgeId": "p47_edge_75",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 75
+      },
+      "from": "p47_box_8_1",
+      "to": "p47_box_7_1"
+    },
+    {
+      "edgeId": "p47_edge_78",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 78
+      },
+      "from": "p47_box_8_2",
+      "to": "p47_box_7_2"
+    },
+    {
+      "edgeId": "p47_edge_82",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 82
+      },
+      "from": "p47_box_9_0",
+      "to": "p47_box_8_1"
+    },
+    {
+      "edgeId": "p47_edge_84",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 84
+      },
+      "from": "p47_box_9_1",
+      "to": "p47_box_8_1"
+    },
+    {
+      "edgeId": "p47_edge_86",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 86
+      },
+      "from": "p47_box_9_2",
+      "to": "p47_box_8_1"
+    },
+    {
+      "edgeId": "p47_edge_91",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 91
+      },
+      "from": "p47_box_10_0",
+      "to": "p47_box_9_0"
+    },
+    {
+      "edgeId": "p47_edge_93",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 93
+      },
+      "from": "p47_box_10_1",
+      "to": "p47_box_9_1"
+    },
+    {
+      "edgeId": "p47_edge_96",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 96
+      },
+      "from": "p47_box_10_2",
+      "to": "p47_box_9_2"
+    },
+    {
+      "edgeId": "p47_edge_100",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 100
+      },
+      "from": "p47_box_11_0",
+      "to": "p47_box_10_1"
+    },
+    {
+      "edgeId": "p47_edge_102",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 102
+      },
+      "from": "p47_box_11_1",
+      "to": "p47_box_10_1"
+    },
+    {
+      "edgeId": "p47_edge_107",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 107
+      },
+      "from": "p47_box_12_0",
+      "to": "p47_box_11_0"
+    },
+    {
+      "edgeId": "p47_edge_110",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 110
+      },
+      "from": "p47_box_12_1",
+      "to": "p47_box_11_1"
+    },
+    {
+      "edgeId": "p47_edge_112",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 112
+      },
+      "from": "p47_box_12_2",
+      "to": "p47_box_1_2"
+    },
+    {
+      "edgeId": "p47_edge_116",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 116
+      },
+      "from": "p47_box_13_0",
+      "to": "p47_box_12_2"
+    },
+    {
+      "edgeId": "p47_edge_118",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 118
+      },
+      "from": "p47_box_13_1",
+      "to": "p47_box_12_2"
+    },
+    {
+      "edgeId": "p47_edge_120",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 120
+      },
+      "from": "p47_box_13_2",
+      "to": "p47_box_12_2"
+    },
+    {
+      "edgeId": "p47_edge_125",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 125
+      },
+      "from": "p47_box_14_0",
+      "to": "p47_box_13_0"
+    },
+    {
+      "edgeId": "p47_edge_128",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 128
+      },
+      "from": "p47_box_14_1",
+      "to": "p47_box_13_1"
+    },
+    {
+      "edgeId": "p47_edge_130",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 130
+      },
+      "from": "p47_box_14_2",
+      "to": "p47_box_13_2"
+    },
+    {
+      "edgeId": "p47_edge_134",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 134
+      },
+      "from": "p47_box_15_0",
+      "to": "p47_box_14_2"
+    },
+    {
+      "edgeId": "p47_edge_136",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 136
+      },
+      "from": "p47_box_15_1",
+      "to": "p47_box_14_2"
+    },
+    {
+      "edgeId": "p47_edge_138",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 138
+      },
+      "from": "p47_box_15_2",
+      "to": "p47_box_14_2"
+    },
+    {
+      "edgeId": "p47_edge_143",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 143
+      },
+      "from": "p47_box_16_0",
+      "to": "p47_box_15_0"
+    },
+    {
+      "edgeId": "p47_edge_146",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 146
+      },
+      "from": "p47_box_16_1",
+      "to": "p47_box_15_1"
+    },
+    {
+      "edgeId": "p47_edge_148",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 148
+      },
+      "from": "p47_box_16_2",
+      "to": "p47_box_15_2"
+    },
+    {
+      "edgeId": "p47_edge_152",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 152
+      },
+      "from": "p47_box_17_0",
+      "to": "p47_box_16_2"
+    },
+    {
+      "edgeId": "p47_edge_154",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 154
+      },
+      "from": "p47_box_17_1",
+      "to": "p47_box_16_2"
+    },
+    {
+      "edgeId": "p47_edge_156",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 156
+      },
+      "from": "p47_box_17_2",
+      "to": "p47_box_16_2"
+    },
+    {
+      "edgeId": "p47_edge_161",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 161
+      },
+      "from": "p47_box_18_0",
+      "to": "p47_box_17_0"
+    },
+    {
+      "edgeId": "p47_edge_164",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 164
+      },
+      "from": "p47_box_18_1",
+      "to": "p47_box_17_1"
+    },
+    {
+      "edgeId": "p47_edge_166",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 166
+      },
+      "from": "p47_box_18_2",
+      "to": "p47_box_17_2"
+    },
+    {
+      "edgeId": "p47_edge_170",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 170
+      },
+      "from": "p47_box_19_0",
+      "to": "p47_box_18_2"
+    },
+    {
+      "edgeId": "p47_edge_172",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 172
+      },
+      "from": "p47_box_19_1",
+      "to": "p47_box_18_2"
+    },
+    {
+      "edgeId": "p47_edge_177",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 177
+      },
+      "from": "p47_box_20_0",
+      "to": "p47_box_19_0"
+    },
+    {
+      "edgeId": "p47_edge_180",
+      "page": 47,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page47.js",
+        "page": 47,
+        "stmtIndex": 180
+      },
+      "from": "p47_box_20_1",
+      "to": "p47_box_19_1"
+    }
+  ],
+  "unknownStatements": 21,
+  "notes": [
+    "next"
+  ]
+}

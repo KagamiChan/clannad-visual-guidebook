@@ -1,0 +1,1668 @@
+{
+  "page": 67,
+  "sourceFile": "next/Data/page67.js",
+  "header": {
+    "route": "nagisa",
+    "routeC": "AFTER STORY",
+    "routeE": "After Story",
+    "dateC": "诞生篇～汐",
+    "dateE": "Chapter of the Birth ～ Ushio"
+  },
+  "footer": {
+    "page": 67
+  },
+  "nodes": [
+    {
+      "nodeId": "p67_box_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 2
+      }
+    },
+    {
+      "nodeId": "p67_box_0_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 190
+        },
+        "1": {
+          "x": 435,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 4
+      },
+      "text": "诞生篇"
+    },
+    {
+      "nodeId": "p67_box_1",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 6
+      }
+    },
+    {
+      "nodeId": "p67_box_1_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 250
+        },
+        "1": {
+          "x": 435,
+          "y": 150
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 8
+      },
+      "text": "“光”获得数等于13颗"
+    },
+    {
+      "nodeId": "p67_box_2",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 10
+      }
+    },
+    {
+      "nodeId": "p67_box_2_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 340
+        },
+        "1": {
+          "x": 255,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 12
+      },
+      "text": "是"
+    },
+    {
+      "nodeId": "p67_box_2_1",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 340
+        },
+        "1": {
+          "x": 615,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 14
+      },
+      "text": "否"
+    },
+    {
+      "nodeId": "p67_box_3",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 17
+      }
+    },
+    {
+      "nodeId": "p67_box_3_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 400
+        },
+        "1": {
+          "x": 255,
+          "y": 240
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 19
+      },
+      "text": "完成过渚 TRUE ENDING"
+    },
+    {
+      "nodeId": "p67_box_4",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 21
+      }
+    },
+    {
+      "nodeId": "p67_box_4_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 490
+        },
+        "1": {
+          "x": 135,
+          "y": 294
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 23
+      },
+      "text": "否"
+    },
+    {
+      "nodeId": "p67_box_4_1",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 490
+        },
+        "1": {
+          "x": 375,
+          "y": 294
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 25
+      },
+      "text": "是"
+    },
+    {
+      "nodeId": "p67_box_5",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 27
+      }
+    },
+    {
+      "nodeId": "p67_box_5_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 550
+        },
+        "1": {
+          "x": 375,
+          "y": 330
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 29
+      },
+      "text": "坂道上的抉择"
+    },
+    {
+      "nodeId": "p67_box_6",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 31
+      }
+    },
+    {
+      "nodeId": "p67_box_6_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 640
+        },
+        "1": {
+          "x": 255,
+          "y": 384
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 33
+      },
+      "text": "呼喊",
+      "routeHints": "l|-汐|-风子|-公子"
+    },
+    {
+      "nodeId": "p67_box_6_1",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 640
+        },
+        "1": {
+          "x": 495,
+          "y": 384
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 35
+      },
+      "text": "不呼喊",
+      "routeHints": "r|-汐|-风子|-公子"
+    },
+    {
+      "nodeId": "p67_box_7",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 37
+      }
+    },
+    {
+      "nodeId": "p67_box_7_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 730
+        },
+        "1": {
+          "x": 255,
+          "y": 438
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 39
+      },
+      "text": "结束动画"
+    },
+    {
+      "nodeId": "p67_box_7_1",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 730
+        },
+        "1": {
+          "x": 495,
+          "y": 438
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 42
+      },
+      "text": "坂道下的离别"
+    },
+    {
+      "nodeId": "p67_box_8",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 45
+      }
+    },
+    {
+      "nodeId": "p67_box_8_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 790
+        },
+        "1": {
+          "x": 255,
+          "y": 474
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 47
+      },
+      "text": "小镇的奇迹"
+    },
+    {
+      "nodeId": "p67_box_8_1",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 1
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 790
+        },
+        "1": {
+          "x": 495,
+          "y": 474
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 49
+      },
+      "text": "汐"
+    },
+    {
+      "nodeId": "p67_box_9",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 51
+      }
+    },
+    {
+      "nodeId": "p67_box_9_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 0
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 850
+        },
+        "1": {
+          "x": 255,
+          "y": 510
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 53
+      },
+      "text": "渚 TRUE ENDING"
+    },
+    {
+      "nodeId": "p67_box_10",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 10
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 55
+      }
+    },
+    {
+      "nodeId": "p67_box_10_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 1000
+        },
+        "1": {
+          "x": 435,
+          "y": 600
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 57
+      },
+      "text": "汐"
+    },
+    {
+      "nodeId": "p67_box_11",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 11
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 58
+      }
+    },
+    {
+      "nodeId": "p67_box_11_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 1060
+        },
+        "1": {
+          "x": 435,
+          "y": 636
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 60
+      },
+      "text": "直幸“光”获得"
+    },
+    {
+      "nodeId": "p67_box_12",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 12
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 62
+      }
+    },
+    {
+      "nodeId": "p67_box_12_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 1120
+        },
+        "1": {
+          "x": 435,
+          "y": 672
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 64
+      },
+      "text": "学院篇，触发风子“光”消失事件"
+    },
+    {
+      "nodeId": "p67_box_13",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 13
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 66
+      }
+    },
+    {
+      "nodeId": "p67_box_13_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 13,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 1210
+        },
+        "1": {
+          "x": 315,
+          "y": 726
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 68
+      },
+      "text": "是"
+    },
+    {
+      "nodeId": "p67_box_13_1",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 13,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 925,
+          "y": 1210
+        },
+        "1": {
+          "x": 555,
+          "y": 726
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 70
+      },
+      "text": "否"
+    },
+    {
+      "nodeId": "p67_box_14",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 14
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 72
+      }
+    },
+    {
+      "nodeId": "p67_box_14_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 1270
+        },
+        "1": {
+          "x": 315,
+          "y": 762
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 74
+      },
+      "text": "早苗的拜访"
+    },
+    {
+      "nodeId": "p67_box_15",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 15
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 76
+      }
+    },
+    {
+      "nodeId": "p67_box_15_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 1360
+        },
+        "1": {
+          "x": 195,
+          "y": 816
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 78
+      },
+      "text": "去看看",
+      "routeHints": "l|风子|公子"
+    },
+    {
+      "nodeId": "p67_box_15_1",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 1360
+        },
+        "1": {
+          "x": 435,
+          "y": 816
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 80
+      },
+      "text": "在这等着",
+      "routeHints": "r|风子|公子"
+    },
+    {
+      "nodeId": "p67_box_16",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 16
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 82
+      }
+    },
+    {
+      "nodeId": "p67_box_16_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 16,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 1420
+        },
+        "1": {
+          "x": 195,
+          "y": 852
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 84
+      },
+      "text": "风子“光”获得"
+    },
+    {
+      "nodeId": "p67_box_17",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 17
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 86
+      }
+    },
+    {
+      "nodeId": "p67_box_17_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 17,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 1480
+        },
+        "1": {
+          "x": 195,
+          "y": 888
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 88
+      },
+      "text": "公子“光”获得"
+    },
+    {
+      "nodeId": "p67_box_18",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 18
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 90
+      }
+    },
+    {
+      "nodeId": "p67_box_18_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 18,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 1600
+        },
+        "1": {
+          "x": 435,
+          "y": 960
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 92
+      },
+      "text": "幻想世界(十二)"
+    },
+    {
+      "nodeId": "p67_box_19",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "index": 19
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 96
+      }
+    },
+    {
+      "nodeId": "p67_box_19_0",
+      "page": 67,
+      "boxRef": {
+        "varName": "box",
+        "row": 19,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 1660
+        },
+        "1": {
+          "x": 435,
+          "y": 996
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 98
+      },
+      "text": "汐 ENDING"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p67_edge_5",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 5
+      },
+      "from": "p67_box_0_0",
+      "to": "p67_box_0_0"
+    },
+    {
+      "edgeId": "p67_edge_9",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 9
+      },
+      "from": "p67_box_1_0",
+      "to": "p67_box_0_0"
+    },
+    {
+      "edgeId": "p67_edge_13",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 310
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 186
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 13
+      },
+      "from": "p67_box_2_0",
+      "to": "p67_box_2_0"
+    },
+    {
+      "edgeId": "p67_edge_15",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 310
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 186
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 15
+      },
+      "from": "p67_box_2_1",
+      "to": "p67_box_2_1"
+    },
+    {
+      "edgeId": "p67_edge_16",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 900,
+            "y": 310
+          }
+        ],
+        "1": [
+          {
+            "x": 540,
+            "y": 186
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 16
+      },
+      "from": "p67_box_1_0",
+      "to": "p67_box_1_0"
+    },
+    {
+      "edgeId": "p67_edge_20",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 20
+      },
+      "from": "p67_box_3_0",
+      "to": "p67_box_2_0"
+    },
+    {
+      "edgeId": "p67_edge_24",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 24
+      },
+      "from": "p67_box_4_0",
+      "to": "p67_box_3_0"
+    },
+    {
+      "edgeId": "p67_edge_26",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 26
+      },
+      "from": "p67_box_4_1",
+      "to": "p67_box_3_0"
+    },
+    {
+      "edgeId": "p67_edge_30",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 30
+      },
+      "from": "p67_box_5_0",
+      "to": "p67_box_4_1"
+    },
+    {
+      "edgeId": "p67_edge_34",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 34
+      },
+      "from": "p67_box_6_0",
+      "to": "p67_box_5_0"
+    },
+    {
+      "edgeId": "p67_edge_36",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 36
+      },
+      "from": "p67_box_6_1",
+      "to": "p67_box_5_0"
+    },
+    {
+      "edgeId": "p67_edge_40",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 40
+      },
+      "from": "p67_box_7_0",
+      "to": "p67_box_6_0"
+    },
+    {
+      "edgeId": "p67_edge_41",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 41
+      },
+      "from": "p67_box_7_0",
+      "to": "p67_box_4_0"
+    },
+    {
+      "edgeId": "p67_edge_43",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 43
+      },
+      "from": "p67_box_7_1",
+      "to": "p67_box_2_1"
+    },
+    {
+      "edgeId": "p67_edge_44",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 44
+      },
+      "from": "p67_box_7_1",
+      "to": "p67_box_6_1"
+    },
+    {
+      "edgeId": "p67_edge_48",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 48
+      },
+      "from": "p67_box_8_0",
+      "to": "p67_box_7_0"
+    },
+    {
+      "edgeId": "p67_edge_50",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 50
+      },
+      "from": "p67_box_8_1",
+      "to": "p67_box_7_1"
+    },
+    {
+      "edgeId": "p67_edge_54",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 54
+      },
+      "from": "p67_box_9_0",
+      "to": "p67_box_8_0"
+    },
+    {
+      "edgeId": "p67_edge_61",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 61
+      },
+      "from": "p67_box_11_0",
+      "to": "p67_box_10_0"
+    },
+    {
+      "edgeId": "p67_edge_65",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 65
+      },
+      "from": "p67_box_12_0",
+      "to": "p67_box_11_0"
+    },
+    {
+      "edgeId": "p67_edge_69",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 69
+      },
+      "from": "p67_box_13_0",
+      "to": "p67_box_12_0"
+    },
+    {
+      "edgeId": "p67_edge_71",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 71
+      },
+      "from": "p67_box_13_1",
+      "to": "p67_box_12_0"
+    },
+    {
+      "edgeId": "p67_edge_75",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 75
+      },
+      "from": "p67_box_14_0",
+      "to": "p67_box_13_0"
+    },
+    {
+      "edgeId": "p67_edge_79",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 79
+      },
+      "from": "p67_box_15_0",
+      "to": "p67_box_14_0"
+    },
+    {
+      "edgeId": "p67_edge_81",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 81
+      },
+      "from": "p67_box_15_1",
+      "to": "p67_box_14_0"
+    },
+    {
+      "edgeId": "p67_edge_85",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 85
+      },
+      "from": "p67_box_16_0",
+      "to": "p67_box_15_0"
+    },
+    {
+      "edgeId": "p67_edge_89",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 89
+      },
+      "from": "p67_box_17_0",
+      "to": "p67_box_16_0"
+    },
+    {
+      "edgeId": "p67_edge_93",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 1570
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 942
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 93
+      },
+      "from": "p67_box_18_0",
+      "to": "p67_box_17_0"
+    },
+    {
+      "edgeId": "p67_edge_94",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 1570
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 942
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 94
+      },
+      "from": "p67_box_18_0",
+      "to": "p67_box_15_1"
+    },
+    {
+      "edgeId": "p67_edge_95",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 95
+      },
+      "from": "p67_box_18_0",
+      "to": "p67_box_13_1"
+    },
+    {
+      "edgeId": "p67_edge_99",
+      "page": 67,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page67.js",
+        "page": 67,
+        "stmtIndex": 99
+      },
+      "from": "p67_box_19_0",
+      "to": "p67_box_18_0"
+    }
+  ],
+  "unknownStatements": 0,
+  "notes": [
+    "next"
+  ]
+}

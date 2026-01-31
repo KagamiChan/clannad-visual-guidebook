@@ -1,0 +1,740 @@
+{
+  "page": 38,
+  "sourceFile": "guidebook/Data/page38.js",
+  "header": {
+    "route": "sunohara",
+    "routeC": "春原  阳平/春原 芽衣",
+    "routeE": "Youhei Sunohara / Mei Sunohara",
+    "dateC": "4月24日～芽衣",
+    "dateE": "April 24th~Mei"
+  },
+  "footer": {
+    "page": 38
+  },
+  "nodes": [
+    {
+      "nodeId": "p38_box_0",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 2
+      }
+    },
+    {
+      "nodeId": "p38_box_0_0",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 190
+        },
+        "1": {
+          "x": 375,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 4
+      },
+      "text": "4月24日"
+    },
+    {
+      "nodeId": "p38_box_1",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 5
+      }
+    },
+    {
+      "nodeId": "p38_box_1_0",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 0
+      },
+      "kind": "Textbox_Option_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 250
+        },
+        "1": {
+          "x": 375,
+          "y": 150
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 13
+      },
+      "text": "伪女友事件"
+    },
+    {
+      "nodeId": "p38_box_2",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 17
+      }
+    },
+    {
+      "nodeId": "p38_box_2_0",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 310
+        },
+        "1": {
+          "x": 375,
+          "y": 186
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 19
+      },
+      "text": "芽衣"
+    },
+    {
+      "nodeId": "p38_box_3",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 21
+      }
+    },
+    {
+      "nodeId": "p38_box_3_0",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 460
+        },
+        "1": {
+          "x": 435,
+          "y": 276
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 23
+      },
+      "text": "芽衣"
+    },
+    {
+      "nodeId": "p38_box_4",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 24
+      }
+    },
+    {
+      "nodeId": "p38_box_4_0",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 520
+        },
+        "1": {
+          "x": 435,
+          "y": 312
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 26
+      },
+      "text": "20日，野芳寻求帮手"
+    },
+    {
+      "nodeId": "p38_box_5",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 28
+      }
+    },
+    {
+      "nodeId": "p38_box_5_0",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 610
+        },
+        "1": {
+          "x": 315,
+          "y": 366
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 30
+      },
+      "text": "帮助"
+    },
+    {
+      "nodeId": "p38_box_5_1",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 925,
+          "y": 610
+        },
+        "1": {
+          "x": 555,
+          "y": 366
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 32
+      },
+      "text": "拒绝"
+    },
+    {
+      "nodeId": "p38_box_6",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 34
+      }
+    },
+    {
+      "nodeId": "p38_box_6_0",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 670
+        },
+        "1": {
+          "x": 315,
+          "y": 402
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 36
+      },
+      "text": "憧憬野芳的芽衣"
+    },
+    {
+      "nodeId": "p38_box_7",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 38
+      }
+    },
+    {
+      "nodeId": "p38_box_7_0",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 760
+        },
+        "1": {
+          "x": 195,
+          "y": 456
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 40
+      },
+      "text": "从远处看看他会怎么样"
+    },
+    {
+      "nodeId": "p38_box_7_1",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 760
+        },
+        "1": {
+          "x": 435,
+          "y": 456
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 42
+      },
+      "text": "那就算了"
+    },
+    {
+      "nodeId": "p38_box_8",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 44
+      }
+    },
+    {
+      "nodeId": "p38_box_8_0",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 880
+        },
+        "1": {
+          "x": 435,
+          "y": 528
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 46
+      },
+      "text": "春原兄妹“光”获得"
+    },
+    {
+      "nodeId": "p38_box_9",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 50
+      }
+    },
+    {
+      "nodeId": "p38_box_9_0",
+      "page": 38,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 0
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 940
+        },
+        "1": {
+          "x": 435,
+          "y": 564
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 52
+      },
+      "text": "春原兄妹 GOOD ENDING"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p38_edge_16",
+      "page": 38,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 16
+      },
+      "from": "p38_box_1_0",
+      "to": "p38_box_0_0"
+    },
+    {
+      "edgeId": "p38_edge_20",
+      "page": 38,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 20
+      },
+      "from": "p38_box_2_0",
+      "to": "p38_box_1_0"
+    },
+    {
+      "edgeId": "p38_edge_27",
+      "page": 38,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 27
+      },
+      "from": "p38_box_4_0",
+      "to": "p38_box_3_0"
+    },
+    {
+      "edgeId": "p38_edge_31",
+      "page": 38,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 31
+      },
+      "from": "p38_box_5_0",
+      "to": "p38_box_4_0"
+    },
+    {
+      "edgeId": "p38_edge_33",
+      "page": 38,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 33
+      },
+      "from": "p38_box_5_1",
+      "to": "p38_box_4_0"
+    },
+    {
+      "edgeId": "p38_edge_37",
+      "page": 38,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 37
+      },
+      "from": "p38_box_6_0",
+      "to": "p38_box_5_0"
+    },
+    {
+      "edgeId": "p38_edge_41",
+      "page": 38,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 41
+      },
+      "from": "p38_box_7_0",
+      "to": "p38_box_6_0"
+    },
+    {
+      "edgeId": "p38_edge_43",
+      "page": 38,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 43
+      },
+      "from": "p38_box_7_1",
+      "to": "p38_box_6_0"
+    },
+    {
+      "edgeId": "p38_edge_47",
+      "page": 38,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 850
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 510
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 47
+      },
+      "from": "p38_box_8_0",
+      "to": "p38_box_7_0"
+    },
+    {
+      "edgeId": "p38_edge_48",
+      "page": 38,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 850
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 510
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 48
+      },
+      "from": "p38_box_8_0",
+      "to": "p38_box_7_1"
+    },
+    {
+      "edgeId": "p38_edge_49",
+      "page": 38,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 49
+      },
+      "from": "p38_box_8_0",
+      "to": "p38_box_5_1"
+    },
+    {
+      "edgeId": "p38_edge_53",
+      "page": 38,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page38.js",
+        "page": 38,
+        "stmtIndex": 53
+      },
+      "from": "p38_box_9_0",
+      "to": "p38_box_8_0"
+    }
+  ],
+  "unknownStatements": 2,
+  "notes": [
+    "guidebook"
+  ]
+}

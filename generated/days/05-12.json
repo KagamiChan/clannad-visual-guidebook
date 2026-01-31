@@ -1,0 +1,592 @@
+{
+  "dayKey": "05-12",
+  "label": "5月12日",
+  "sourcePages": [
+    62,
+    63
+  ],
+  "nodes": [
+    {
+      "nodeId": "p62_box_18_0",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "row": 18,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1840
+        },
+        "1": {
+          "x": 375,
+          "y": 1104
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 86
+      },
+      "text": "5月12日",
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_0",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 2
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_1",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 5
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_2",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 9
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_3",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 13
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_4",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 16
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_5",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 20
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_6",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 26
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_7",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 31
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_8",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 34
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_9",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 38
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_10",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 10
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 44
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_11",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 11
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 48
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_12",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 12
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 54
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_13",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 13
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 60
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_14",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 14
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 63
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_15",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 15
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 67
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_16",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 16
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 73
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_17",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 17
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 78
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p62_box_18",
+      "page": 62,
+      "boxRef": {
+        "varName": "box",
+        "index": 18
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 84
+      },
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p63_box_0_0",
+      "page": 63,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 190
+        },
+        "1": {
+          "x": 375,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page63.js",
+        "page": 63,
+        "stmtIndex": 4
+      },
+      "text": "5月12日",
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p63_box_1_0",
+      "page": 63,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 250
+        },
+        "1": {
+          "x": 375,
+          "y": 150
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page63.js",
+        "page": 63,
+        "stmtIndex": 7
+      },
+      "text": "独自打发闲暇时间",
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p63_box_2_0",
+      "page": 63,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 340
+        },
+        "1": {
+          "x": 255,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page63.js",
+        "page": 63,
+        "stmtIndex": 11
+      },
+      "text": "看电视",
+      "dayKey": "05-12"
+    },
+    {
+      "nodeId": "p63_box_2_1",
+      "page": 63,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 340
+        },
+        "1": {
+          "x": 495,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page63.js",
+        "page": 63,
+        "stmtIndex": 13
+      },
+      "text": "翻柜子",
+      "dayKey": "05-12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p63_edge_8",
+      "page": 63,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page63.js",
+        "page": 63,
+        "stmtIndex": 8
+      },
+      "from": "p63_box_1_0",
+      "to": "p63_box_0_0",
+      "dayKey": "05-12",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p63_edge_12",
+      "page": 63,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page63.js",
+        "page": 63,
+        "stmtIndex": 12
+      },
+      "from": "p63_box_2_0",
+      "to": "p63_box_1_0",
+      "dayKey": "05-12",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p63_edge_14",
+      "page": 63,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page63.js",
+        "page": 63,
+        "stmtIndex": 14
+      },
+      "from": "p63_box_2_1",
+      "to": "p63_box_1_0",
+      "dayKey": "05-12",
+      "crossDay": false
+    }
+  ],
+  "crossDayEdges": [
+    {
+      "edgeId": "p62_edge_89",
+      "page": 62,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 89
+      },
+      "from": "p62_box_18_0",
+      "to": "p62_box_17_0",
+      "fromDay": "05-12",
+      "toDay": "05-09"
+    },
+    {
+      "edgeId": "p62_edge_90",
+      "page": 62,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page62.js",
+        "page": 62,
+        "stmtIndex": 90
+      },
+      "from": "p62_box_18_0",
+      "to": "p62_box_17_1",
+      "fromDay": "05-12",
+      "toDay": "05-09"
+    }
+  ],
+  "jumps": []
+}

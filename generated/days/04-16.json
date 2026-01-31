@@ -1,0 +1,2629 @@
+{
+  "dayKey": "04-16",
+  "label": "4月16日",
+  "sourcePages": [
+    2,
+    3
+  ],
+  "nodes": [
+    {
+      "nodeId": "p2_box_22_0",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "row": 22,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 2110
+        },
+        "1": {
+          "x": 435,
+          "y": 1266
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 175
+      },
+      "text": "4月16日",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_0",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 2
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_1",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 5
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_2",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 15
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_3",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 21
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_4",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 32
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_5",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 38
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_6",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 48
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_7",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 54
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_8",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 66
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_9",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 72
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_10",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 10
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 76
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_11",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 11
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 82
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_12",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 12
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 94
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_13",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 13
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 100
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_14",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 14
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 104
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_15",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 15
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 110
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_16",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 16
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 122
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_17",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 17
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 128
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_18",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 18
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 138
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_19",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 19
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 144
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_20",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 20
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 156
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_21",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 21
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 162
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p2_box_22",
+      "page": 2,
+      "boxRef": {
+        "varName": "box",
+        "index": 22
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 173
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_0_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 190
+        },
+        "1": {
+          "x": 495,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 4
+      },
+      "text": "4月16日",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_1_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 250
+        },
+        "1": {
+          "x": 495,
+          "y": 150
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 7
+      },
+      "text": "15日，面对泪水打转的椋",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_2_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 340
+        },
+        "1": {
+          "x": 375,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 11
+      },
+      "text": "道歉",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_2_1",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 340
+        },
+        "1": {
+          "x": 615,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 13
+      },
+      "text": "无视",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_3_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 400
+        },
+        "1": {
+          "x": 375,
+          "y": 240
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 17
+      },
+      "text": "上学路上看到一位老婆婆",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_4_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 490
+        },
+        "1": {
+          "x": 255,
+          "y": 294
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 21
+      },
+      "text": "就这样走过去",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_4_1",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 490
+        },
+        "1": {
+          "x": 495,
+          "y": 294
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 23
+      },
+      "text": "和老婆婆打招呼",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_5_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 580
+        },
+        "1": {
+          "x": 375,
+          "y": 348
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 27
+      },
+      "text": "杏没有迟到的原因",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_6_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 670
+        },
+        "1": {
+          "x": 255,
+          "y": 402
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 32
+      },
+      "text": "试着追问下去",
+      "routeHints": "l|杏|椋",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_6_1",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 670
+        },
+        "1": {
+          "x": 495,
+          "y": 402
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 34
+      },
+      "text": "没什么好介意的",
+      "routeHints": "r|杏|椋",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_7_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 760
+        },
+        "1": {
+          "x": 375,
+          "y": 456
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 38
+      },
+      "text": "15日，回想起中午庭院中的女生",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_8_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 850
+        },
+        "1": {
+          "x": 255,
+          "y": 510
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 43
+      },
+      "text": "在意",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_8_1",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 850
+        },
+        "1": {
+          "x": 495,
+          "y": 510
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 45
+      },
+      "text": "不在意",
+      "routeHints": "r|+未触发",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_9_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 910
+        },
+        "1": {
+          "x": 255,
+          "y": 546
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 49
+      },
+      "text": "课堂上的沉思，回忆起…",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_10_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1000
+        },
+        "1": {
+          "x": 135,
+          "y": 600
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 53
+      },
+      "text": "昨天的女孩",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_10_1",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1000
+        },
+        "1": {
+          "x": 375,
+          "y": 600
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 55
+      },
+      "text": "过去的事情",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_11_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1150
+        },
+        "1": {
+          "x": 495,
+          "y": 690
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 59
+      },
+      "text": "15日，平息骚动的神秘女生",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_12_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1240
+        },
+        "1": {
+          "x": 375,
+          "y": 744
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 66
+      },
+      "text": "我对此也颇感兴趣",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_12_1",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 1240
+        },
+        "1": {
+          "x": 615,
+          "y": 744
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 68
+      },
+      "text": "我对此毫无兴趣",
+      "routeHints": "r|+未触发",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_13_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 13,
+        "col": 0
+      },
+      "kind": "Textbox_Selection_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1300
+        },
+        "1": {
+          "x": 375,
+          "y": 780
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 78
+      },
+      "text": "春原挑战智代（一回目）",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_14_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1390
+        },
+        "1": {
+          "x": 255,
+          "y": 834
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 82
+      },
+      "text": "去",
+      "routeHints": "l|智代",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_14_1",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1390
+        },
+        "1": {
+          "x": 495,
+          "y": 834
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 84
+      },
+      "text": "不去",
+      "routeHints": "r|智代",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_15_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1510
+        },
+        "1": {
+          "x": 495,
+          "y": 906
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 88
+      },
+      "text": "15日，上午、英语语法课",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_16_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 16,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1600
+        },
+        "1": {
+          "x": 375,
+          "y": 960
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 94
+      },
+      "text": "认认真真上课",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_16_1",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 16,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 1600
+        },
+        "1": {
+          "x": 615,
+          "y": 960
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 96
+      },
+      "text": "逃课",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_17_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 17,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1660
+        },
+        "1": {
+          "x": 375,
+          "y": 996
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 100
+      },
+      "text": "上午、课上",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_18_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 18,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1750
+        },
+        "1": {
+          "x": 255,
+          "y": 1050
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 104
+      },
+      "text": "逃课",
+      "routeHints": "l|琴美",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_18_1",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 18,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1750
+        },
+        "1": {
+          "x": 495,
+          "y": 1050
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 106
+      },
+      "text": "认认真真上课",
+      "routeHints": "r|琴美",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_19_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 19,
+        "col": 0
+      },
+      "kind": "Textbox_Selection_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1810
+        },
+        "1": {
+          "x": 255,
+          "y": 1086
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 116
+      },
+      "text": "被奇怪的女孩邀请吃便当",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_20_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 20,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1900
+        },
+        "1": {
+          "x": 135,
+          "y": 1140
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 120
+      },
+      "text": "吃",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_20_1",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "row": 20,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1900
+        },
+        "1": {
+          "x": 375,
+          "y": 1140
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 122
+      },
+      "text": "不吃",
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_0",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 2
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_1",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 5
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_2",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 9
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_3",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 15
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_4",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 19
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_5",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 25
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_6",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 30
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_7",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 36
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_8",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 41
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_9",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 47
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_10",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 10
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 51
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_11",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 11
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 57
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_12",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 12
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 64
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_13",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 13
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 70
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_14",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 14
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 80
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_15",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 15
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 86
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_16",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 16
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 92
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_17",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 17
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 98
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_18",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 18
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 102
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_19",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 19
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 108
+      },
+      "dayKey": "04-16"
+    },
+    {
+      "nodeId": "p3_box_20",
+      "page": 3,
+      "boxRef": {
+        "varName": "box",
+        "index": 20
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 118
+      },
+      "dayKey": "04-16"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p3_edge_8",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 8
+      },
+      "from": "p3_box_1_0",
+      "to": "p3_box_0_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_12",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 12
+      },
+      "from": "p3_box_2_0",
+      "to": "p3_box_1_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_14",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 14
+      },
+      "from": "p3_box_2_1",
+      "to": "p3_box_1_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_18",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 18
+      },
+      "from": "p3_box_3_0",
+      "to": "p3_box_2_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_22",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 22
+      },
+      "from": "p3_box_4_0",
+      "to": "p3_box_3_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_24",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 24
+      },
+      "from": "p3_box_4_1",
+      "to": "p3_box_3_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_28",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 28
+      },
+      "from": "p3_box_5_0",
+      "to": "p3_box_4_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_29",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 29
+      },
+      "from": "p3_box_5_0",
+      "to": "p3_box_4_1",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_33",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 33
+      },
+      "from": "p3_box_6_0",
+      "to": "p3_box_5_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_35",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 35
+      },
+      "from": "p3_box_6_1",
+      "to": "p3_box_5_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_39",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 39
+      },
+      "from": "p3_box_7_0",
+      "to": "p3_box_6_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_40",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 40
+      },
+      "from": "p3_box_7_0",
+      "to": "p3_box_6_1",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_44",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 44
+      },
+      "from": "p3_box_8_0",
+      "to": "p3_box_7_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_46",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 46
+      },
+      "from": "p3_box_8_1",
+      "to": "p3_box_7_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_50",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 50
+      },
+      "from": "p3_box_9_0",
+      "to": "p3_box_8_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_54",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 54
+      },
+      "from": "p3_box_10_0",
+      "to": "p3_box_9_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_56",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 56
+      },
+      "from": "p3_box_10_1",
+      "to": "p3_box_9_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_60",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1120
+          },
+          {
+            "x": 600,
+            "y": 1090
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 672
+          },
+          {
+            "x": 360,
+            "y": 654
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 60
+      },
+      "from": "p3_box_11_0",
+      "to": "p3_box_10_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_61",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1120
+          },
+          {
+            "x": 600,
+            "y": 1090
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 672
+          },
+          {
+            "x": 360,
+            "y": 654
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 61
+      },
+      "from": "p3_box_11_0",
+      "to": "p3_box_10_1",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_62",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1120
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 672
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 62
+      },
+      "from": "p3_box_11_0",
+      "to": "p3_box_8_1",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_63",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 63
+      },
+      "from": "p3_box_11_0",
+      "to": "p3_box_2_1",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_67",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 67
+      },
+      "from": "p3_box_12_0",
+      "to": "p3_box_11_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_69",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 69
+      },
+      "from": "p3_box_12_1",
+      "to": "p3_box_11_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_79",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 79
+      },
+      "from": "p3_box_13_0",
+      "to": "p3_box_12_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_83",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 83
+      },
+      "from": "p3_box_14_0",
+      "to": "p3_box_13_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_85",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 85
+      },
+      "from": "p3_box_14_1",
+      "to": "p3_box_13_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_89",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1480
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 888
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 89
+      },
+      "from": "p3_box_15_0",
+      "to": "p3_box_14_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_90",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1480
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 888
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 90
+      },
+      "from": "p3_box_15_0",
+      "to": "p3_box_14_1",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_91",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 91
+      },
+      "from": "p3_box_15_0",
+      "to": "p3_box_12_1",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_95",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 95
+      },
+      "from": "p3_box_16_0",
+      "to": "p3_box_15_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_97",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 97
+      },
+      "from": "p3_box_16_1",
+      "to": "p3_box_15_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_101",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 101
+      },
+      "from": "p3_box_17_0",
+      "to": "p3_box_16_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_105",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 105
+      },
+      "from": "p3_box_18_0",
+      "to": "p3_box_17_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_107",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 107
+      },
+      "from": "p3_box_18_1",
+      "to": "p3_box_17_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_117",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 117
+      },
+      "from": "p3_box_19_0",
+      "to": "p3_box_18_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_121",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 121
+      },
+      "from": "p3_box_20_0",
+      "to": "p3_box_19_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_123",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 123
+      },
+      "from": "p3_box_20_1",
+      "to": "p3_box_19_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_125",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 2020
+          },
+          {
+            "x": 600,
+            "y": 1990
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1212
+          },
+          {
+            "x": 360,
+            "y": 1194
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 125
+      },
+      "from": "p3_box_20_0",
+      "to": "p3_box_20_0",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_126",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 2020
+          },
+          {
+            "x": 600,
+            "y": 1990
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1212
+          },
+          {
+            "x": 360,
+            "y": 1194
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 126
+      },
+      "from": "p3_box_20_1",
+      "to": "p3_box_20_1",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_127",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 2020
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1212
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 127
+      },
+      "from": "p3_box_18_1",
+      "to": "p3_box_18_1",
+      "dayKey": "04-16",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p3_edge_128",
+      "page": 3,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 2020
+          },
+          {
+            "x": 1200,
+            "y": 2020
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1212
+          },
+          {
+            "x": 720,
+            "y": 1212
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page3.js",
+        "page": 3,
+        "stmtIndex": 128
+      },
+      "from": "p3_box_16_1",
+      "to": "p3_box_16_1",
+      "dayKey": "04-16",
+      "crossDay": false
+    }
+  ],
+  "crossDayEdges": [
+    {
+      "edgeId": "p2_edge_176",
+      "page": 2,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page2.js",
+        "page": 2,
+        "stmtIndex": 176
+      },
+      "from": "p2_box_22_0",
+      "to": "p2_box_21_0",
+      "fromDay": "04-16",
+      "toDay": "04-15"
+    }
+  ],
+  "jumps": []
+}

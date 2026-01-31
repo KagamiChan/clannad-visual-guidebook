@@ -1,0 +1,1079 @@
+{
+  "page": 60,
+  "sourceFile": "guidebook/Data/page60.js",
+  "header": {
+    "route": "gunfight",
+    "routeC": "枪战游戏/业余棒球",
+    "routeE": "Gunfight Game / Amateur BaseBall",
+    "dateC": "4月26日～4月27日",
+    "dateE": "April 26th~April 27th"
+  },
+  "footer": {
+    "page": 60
+  },
+  "nodes": [
+    {
+      "nodeId": "p60_box_0",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 2
+      }
+    },
+    {
+      "nodeId": "p60_box_0_0",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 190
+        },
+        "1": {
+          "x": 495,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 4
+      },
+      "text": "4月26日"
+    },
+    {
+      "nodeId": "p60_box_1",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 5
+      }
+    },
+    {
+      "nodeId": "p60_box_1_0",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 250
+        },
+        "1": {
+          "x": 495,
+          "y": 150
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 7
+      },
+      "text": "关于幽灵的话题"
+    },
+    {
+      "nodeId": "p60_box_2",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 9
+      }
+    },
+    {
+      "nodeId": "p60_box_2_0",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 340
+        },
+        "1": {
+          "x": 375,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 11
+      },
+      "text": "问问看"
+    },
+    {
+      "nodeId": "p60_box_2_1",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 340
+        },
+        "1": {
+          "x": 615,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 13
+      },
+      "text": "没兴趣"
+    },
+    {
+      "nodeId": "p60_box_3",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 15
+      }
+    },
+    {
+      "nodeId": "p60_box_3_0",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 430
+        },
+        "1": {
+          "x": 495,
+          "y": 258
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 17
+      },
+      "text": "23日，春原的妹妹打来电话"
+    },
+    {
+      "nodeId": "p60_box_4",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 20
+      }
+    },
+    {
+      "nodeId": "p60_box_4_0",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 520
+        },
+        "1": {
+          "x": 375,
+          "y": 312
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 22
+      },
+      "text": "不代他接听"
+    },
+    {
+      "nodeId": "p60_box_4_1",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 520
+        },
+        "1": {
+          "x": 615,
+          "y": 312
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 24
+      },
+      "text": "代春原接听"
+    },
+    {
+      "nodeId": "p60_box_5",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 26
+      }
+    },
+    {
+      "nodeId": "p60_box_5_0",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 580
+        },
+        "1": {
+          "x": 375,
+          "y": 348
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 28
+      },
+      "text": "25日，智代攻击的对策"
+    },
+    {
+      "nodeId": "p60_box_6",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 30
+      }
+    },
+    {
+      "nodeId": "p60_box_6_0",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 670
+        },
+        "1": {
+          "x": 255,
+          "y": 402
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 32
+      },
+      "text": "提出了忠告"
+    },
+    {
+      "nodeId": "p60_box_6_1",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 670
+        },
+        "1": {
+          "x": 495,
+          "y": 402
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 34
+      },
+      "text": "扣下了扳机",
+      "routeHints": "r|+未触发"
+    },
+    {
+      "nodeId": "p60_box_7",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 36
+      }
+    },
+    {
+      "nodeId": "p60_box_7_0",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 730
+        },
+        "1": {
+          "x": 255,
+          "y": 438
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 38
+      },
+      "text": "枪战平手"
+    },
+    {
+      "nodeId": "p60_box_8",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 40
+      }
+    },
+    {
+      "nodeId": "p60_box_8_0",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 820
+        },
+        "1": {
+          "x": 135,
+          "y": 492
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 42
+      },
+      "text": "是"
+    },
+    {
+      "nodeId": "p60_box_8_1",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 820
+        },
+        "1": {
+          "x": 375,
+          "y": 492
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 44
+      },
+      "text": "否"
+    },
+    {
+      "nodeId": "p60_box_9",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 46
+      }
+    },
+    {
+      "nodeId": "p60_box_9_0",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 880
+        },
+        "1": {
+          "x": 135,
+          "y": 528
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 48
+      },
+      "text": "4月27日"
+    },
+    {
+      "nodeId": "p60_box_10",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "index": 10
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 50
+      }
+    },
+    {
+      "nodeId": "p60_box_10_0",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 910
+        },
+        "1": {
+          "x": 495,
+          "y": 546
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 52
+      },
+      "text": "公共 BAD ENDING"
+    },
+    {
+      "nodeId": "p60_box_11",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "index": 11
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 56
+      }
+    },
+    {
+      "nodeId": "p60_box_11_0",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1060
+        },
+        "1": {
+          "x": 375,
+          "y": 636
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 58
+      },
+      "text": "4月27日"
+    },
+    {
+      "nodeId": "p60_box_12",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "index": 12
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 59
+      }
+    },
+    {
+      "nodeId": "p60_box_12_0",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1120
+        },
+        "1": {
+          "x": 375,
+          "y": 672
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 61
+      },
+      "text": "幻想世界（七）"
+    },
+    {
+      "nodeId": "p60_box_13",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "index": 13
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 63
+      }
+    },
+    {
+      "nodeId": "p60_box_13_0",
+      "page": 60,
+      "boxRef": {
+        "varName": "box",
+        "row": 13,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1180
+        },
+        "1": {
+          "x": 375,
+          "y": 708
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 65
+      },
+      "text": "4月28日"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p60_edge_8",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 8
+      },
+      "from": "p60_box_1_0",
+      "to": "p60_box_0_0"
+    },
+    {
+      "edgeId": "p60_edge_12",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 12
+      },
+      "from": "p60_box_2_0",
+      "to": "p60_box_1_0"
+    },
+    {
+      "edgeId": "p60_edge_14",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 14
+      },
+      "from": "p60_box_2_1",
+      "to": "p60_box_1_0"
+    },
+    {
+      "edgeId": "p60_edge_18",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 18
+      },
+      "from": "p60_box_3_0",
+      "to": "p60_box_2_0"
+    },
+    {
+      "edgeId": "p60_edge_19",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 19
+      },
+      "from": "p60_box_3_0",
+      "to": "p60_box_2_1"
+    },
+    {
+      "edgeId": "p60_edge_23",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 23
+      },
+      "from": "p60_box_4_0",
+      "to": "p60_box_3_0"
+    },
+    {
+      "edgeId": "p60_edge_25",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 25
+      },
+      "from": "p60_box_4_1",
+      "to": "p60_box_3_0"
+    },
+    {
+      "edgeId": "p60_edge_29",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 29
+      },
+      "from": "p60_box_5_0",
+      "to": "p60_box_4_0"
+    },
+    {
+      "edgeId": "p60_edge_33",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 33
+      },
+      "from": "p60_box_6_0",
+      "to": "p60_box_5_0"
+    },
+    {
+      "edgeId": "p60_edge_35",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 35
+      },
+      "from": "p60_box_6_1",
+      "to": "p60_box_5_0"
+    },
+    {
+      "edgeId": "p60_edge_39",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 39
+      },
+      "from": "p60_box_7_0",
+      "to": "p60_box_6_0"
+    },
+    {
+      "edgeId": "p60_edge_43",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 43
+      },
+      "from": "p60_box_8_0",
+      "to": "p60_box_7_0"
+    },
+    {
+      "edgeId": "p60_edge_45",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 45
+      },
+      "from": "p60_box_8_1",
+      "to": "p60_box_7_0"
+    },
+    {
+      "edgeId": "p60_edge_49",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 49
+      },
+      "from": "p60_box_9_0",
+      "to": "p60_box_8_0"
+    },
+    {
+      "edgeId": "p60_edge_53",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 53
+      },
+      "from": "p60_box_10_0",
+      "to": "p60_box_8_1"
+    },
+    {
+      "edgeId": "p60_edge_54",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1200,
+            "y": 760
+          }
+        ],
+        "1": [
+          {
+            "x": 720,
+            "y": 456
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 54
+      },
+      "from": "p60_box_10_0",
+      "to": "p60_box_6_1"
+    },
+    {
+      "edgeId": "p60_edge_55",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 55
+      },
+      "from": "p60_box_10_0",
+      "to": "p60_box_4_1"
+    },
+    {
+      "edgeId": "p60_edge_62",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 62
+      },
+      "from": "p60_box_12_0",
+      "to": "p60_box_11_0"
+    },
+    {
+      "edgeId": "p60_edge_68",
+      "page": 60,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page60.js",
+        "page": 60,
+        "stmtIndex": 68
+      },
+      "from": "p60_box_13_0",
+      "to": "p60_box_12_0"
+    }
+  ],
+  "unknownStatements": 2,
+  "notes": [
+    "guidebook"
+  ]
+}

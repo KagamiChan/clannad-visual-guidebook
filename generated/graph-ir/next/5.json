@@ -1,0 +1,1880 @@
+{
+  "page": 5,
+  "sourceFile": "next/Data/page5.js",
+  "header": {
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "4月17日（一）",
+    "dateE": "April 17th~Part 1"
+  },
+  "footer": {
+    "page": 5
+  },
+  "nodes": [
+    {
+      "nodeId": "p5_box_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 2
+      }
+    },
+    {
+      "nodeId": "p5_box_0_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 190
+        },
+        "1": {
+          "x": 435,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 4
+      },
+      "text": "4月17日"
+    },
+    {
+      "nodeId": "p5_box_1",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 5
+      }
+    },
+    {
+      "nodeId": "p5_box_1_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 250
+        },
+        "1": {
+          "x": 435,
+          "y": 150
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 7
+      },
+      "text": "16日，春原挑战智代（一回目）"
+    },
+    {
+      "nodeId": "p5_box_2",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 9
+      }
+    },
+    {
+      "nodeId": "p5_box_2_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 340
+        },
+        "1": {
+          "x": 315,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 11
+      },
+      "text": "去"
+    },
+    {
+      "nodeId": "p5_box_2_1",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 925,
+          "y": 340
+        },
+        "1": {
+          "x": 555,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 13
+      },
+      "text": "不去",
+      "routeHints": "r|+未触发"
+    },
+    {
+      "nodeId": "p5_box_3",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 15
+      }
+    },
+    {
+      "nodeId": "p5_box_3_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 400
+        },
+        "1": {
+          "x": 315,
+          "y": 240
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 17
+      },
+      "text": "春原挑战智代（二回目）"
+    },
+    {
+      "nodeId": "p5_box_4",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 19
+      }
+    },
+    {
+      "nodeId": "p5_box_4_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 490
+        },
+        "1": {
+          "x": 195,
+          "y": 294
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 21
+      },
+      "text": "跟去看看"
+    },
+    {
+      "nodeId": "p5_box_4_1",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 490
+        },
+        "1": {
+          "x": 435,
+          "y": 294
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 23
+      },
+      "text": "留在教室里"
+    },
+    {
+      "nodeId": "p5_box_5",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 25
+      }
+    },
+    {
+      "nodeId": "p5_box_5_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 580
+        },
+        "1": {
+          "x": 315,
+          "y": 348
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 27
+      },
+      "text": "春原挑战智代（三回目）"
+    },
+    {
+      "nodeId": "p5_box_6",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 30
+      }
+    },
+    {
+      "nodeId": "p5_box_6_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 670
+        },
+        "1": {
+          "x": 195,
+          "y": 402
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 32
+      },
+      "text": "跟着他去"
+    },
+    {
+      "nodeId": "p5_box_6_1",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 670
+        },
+        "1": {
+          "x": 435,
+          "y": 402
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 34
+      },
+      "text": "不去管他"
+    },
+    {
+      "nodeId": "p5_box_7",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 36
+      }
+    },
+    {
+      "nodeId": "p5_box_7_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 0
+      },
+      "kind": "Textbox_Selection_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 760
+        },
+        "1": {
+          "x": 315,
+          "y": 456
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 44
+      },
+      "text": "春园挑战智代（四回目）"
+    },
+    {
+      "nodeId": "p5_box_8",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 47
+      }
+    },
+    {
+      "nodeId": "p5_box_8_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 850
+        },
+        "1": {
+          "x": 195,
+          "y": 510
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 49
+      },
+      "text": "跟着他去",
+      "routeHints": "l|智代"
+    },
+    {
+      "nodeId": "p5_box_8_1",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 850
+        },
+        "1": {
+          "x": 435,
+          "y": 510
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 51
+      },
+      "text": "不去管他",
+      "routeHints": "r|智代"
+    },
+    {
+      "nodeId": "p5_box_9",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 53
+      }
+    },
+    {
+      "nodeId": "p5_box_9_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 0
+      },
+      "kind": "Textbox_Condition_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 970
+        },
+        "1": {
+          "x": 435,
+          "y": 582
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 61
+      },
+      "text": "15日或16日，逃课遇见琴美"
+    },
+    {
+      "nodeId": "p5_box_10",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 10
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 65
+      }
+    },
+    {
+      "nodeId": "p5_box_10_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 1060
+        },
+        "1": {
+          "x": 315,
+          "y": 636
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 67
+      },
+      "text": "是"
+    },
+    {
+      "nodeId": "p5_box_10_1",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 925,
+          "y": 1060
+        },
+        "1": {
+          "x": 555,
+          "y": 636
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 69
+      },
+      "text": "否"
+    },
+    {
+      "nodeId": "p5_box_11",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 11
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 71
+      }
+    },
+    {
+      "nodeId": "p5_box_11_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 1120
+        },
+        "1": {
+          "x": 315,
+          "y": 672
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 73
+      },
+      "text": "英语课前的休息"
+    },
+    {
+      "nodeId": "p5_box_12",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 12
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 75
+      }
+    },
+    {
+      "nodeId": "p5_box_12_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 1210
+        },
+        "1": {
+          "x": 195,
+          "y": 726
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 77
+      },
+      "text": "逃课",
+      "routeHints": "l|琴美"
+    },
+    {
+      "nodeId": "p5_box_12_1",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 1210
+        },
+        "1": {
+          "x": 435,
+          "y": 726
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 79
+      },
+      "text": "还是算了吧",
+      "routeHints": "r|琴美"
+    },
+    {
+      "nodeId": "p5_box_13",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 13
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 81
+      }
+    },
+    {
+      "nodeId": "p5_box_13_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 13,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 1270
+        },
+        "1": {
+          "x": 195,
+          "y": 762
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 83
+      },
+      "text": "15日，面对泪水打转的椋"
+    },
+    {
+      "nodeId": "p5_box_14",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 14
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 85
+      }
+    },
+    {
+      "nodeId": "p5_box_14_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 1360
+        },
+        "1": {
+          "x": 195,
+          "y": 816
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 87
+      },
+      "text": "无视"
+    },
+    {
+      "nodeId": "p5_box_14_1",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 1360
+        },
+        "1": {
+          "x": 435,
+          "y": 816
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 89
+      },
+      "text": "道歉"
+    },
+    {
+      "nodeId": "p5_box_15",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 15
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 91
+      }
+    },
+    {
+      "nodeId": "p5_box_15_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 1420
+        },
+        "1": {
+          "x": 195,
+          "y": 852
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 93
+      },
+      "text": "走廊上遇到琴美"
+    },
+    {
+      "nodeId": "p5_box_16",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 16
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 95
+      }
+    },
+    {
+      "nodeId": "p5_box_16_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 16,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 1510
+        },
+        "1": {
+          "x": 195,
+          "y": 906
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 97
+      },
+      "text": "跟着她去",
+      "routeHints": "l|琴美"
+    },
+    {
+      "nodeId": "p5_box_16_1",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 16,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 1510
+        },
+        "1": {
+          "x": 435,
+          "y": 906
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 99
+      },
+      "text": "一个人走",
+      "routeHints": "r|琴美"
+    },
+    {
+      "nodeId": "p5_box_17",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 17
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 101
+      }
+    },
+    {
+      "nodeId": "p5_box_17_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 17,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 1570
+        },
+        "1": {
+          "x": 195,
+          "y": 942
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 103
+      },
+      "text": "发现琴美拿起剪刀"
+    },
+    {
+      "nodeId": "p5_box_18",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "index": 18
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 105
+      }
+    },
+    {
+      "nodeId": "p5_box_18_0",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 18,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 1660
+        },
+        "1": {
+          "x": 195,
+          "y": 996
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 107
+      },
+      "text": "看她剪过这本书没有"
+    },
+    {
+      "nodeId": "p5_box_18_1",
+      "page": 5,
+      "boxRef": {
+        "varName": "box",
+        "row": 18,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 1660
+        },
+        "1": {
+          "x": 435,
+          "y": 996
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 109
+      },
+      "text": "还是不要管好了"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p5_edge_8",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 8
+      },
+      "from": "p5_box_1_0",
+      "to": "p5_box_0_0"
+    },
+    {
+      "edgeId": "p5_edge_12",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 12
+      },
+      "from": "p5_box_2_0",
+      "to": "p5_box_1_0"
+    },
+    {
+      "edgeId": "p5_edge_14",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 14
+      },
+      "from": "p5_box_2_1",
+      "to": "p5_box_1_0"
+    },
+    {
+      "edgeId": "p5_edge_18",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 18
+      },
+      "from": "p5_box_3_0",
+      "to": "p5_box_2_0"
+    },
+    {
+      "edgeId": "p5_edge_22",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 22
+      },
+      "from": "p5_box_4_0",
+      "to": "p5_box_3_0"
+    },
+    {
+      "edgeId": "p5_edge_24",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 24
+      },
+      "from": "p5_box_4_1",
+      "to": "p5_box_3_0"
+    },
+    {
+      "edgeId": "p5_edge_28",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 28
+      },
+      "from": "p5_box_5_0",
+      "to": "p5_box_4_0"
+    },
+    {
+      "edgeId": "p5_edge_29",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 29
+      },
+      "from": "p5_box_5_0",
+      "to": "p5_box_4_1"
+    },
+    {
+      "edgeId": "p5_edge_33",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 33
+      },
+      "from": "p5_box_6_0",
+      "to": "p5_box_5_0"
+    },
+    {
+      "edgeId": "p5_edge_35",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 35
+      },
+      "from": "p5_box_6_1",
+      "to": "p5_box_5_0"
+    },
+    {
+      "edgeId": "p5_edge_45",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 45
+      },
+      "from": "p5_box_7_0",
+      "to": "p5_box_6_0"
+    },
+    {
+      "edgeId": "p5_edge_46",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 46
+      },
+      "from": "p5_box_7_0",
+      "to": "p5_box_6_1"
+    },
+    {
+      "edgeId": "p5_edge_50",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 50
+      },
+      "from": "p5_box_8_0",
+      "to": "p5_box_7_0"
+    },
+    {
+      "edgeId": "p5_edge_52",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 52
+      },
+      "from": "p5_box_8_1",
+      "to": "p5_box_7_0"
+    },
+    {
+      "edgeId": "p5_edge_62",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 940
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 564
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 62
+      },
+      "from": "p5_box_9_0",
+      "to": "p5_box_8_0"
+    },
+    {
+      "edgeId": "p5_edge_63",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 940
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 564
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 63
+      },
+      "from": "p5_box_9_0",
+      "to": "p5_box_8_1"
+    },
+    {
+      "edgeId": "p5_edge_64",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 64
+      },
+      "from": "p5_box_9_0",
+      "to": "p5_box_2_1"
+    },
+    {
+      "edgeId": "p5_edge_68",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 68
+      },
+      "from": "p5_box_10_0",
+      "to": "p5_box_9_0"
+    },
+    {
+      "edgeId": "p5_edge_70",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 70
+      },
+      "from": "p5_box_10_1",
+      "to": "p5_box_9_0"
+    },
+    {
+      "edgeId": "p5_edge_74",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 74
+      },
+      "from": "p5_box_11_0",
+      "to": "p5_box_10_0"
+    },
+    {
+      "edgeId": "p5_edge_78",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 78
+      },
+      "from": "p5_box_12_0",
+      "to": "p5_box_11_0"
+    },
+    {
+      "edgeId": "p5_edge_80",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 80
+      },
+      "from": "p5_box_12_1",
+      "to": "p5_box_11_0"
+    },
+    {
+      "edgeId": "p5_edge_84",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 84
+      },
+      "from": "p5_box_13_0",
+      "to": "p5_box_12_0"
+    },
+    {
+      "edgeId": "p5_edge_88",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 88
+      },
+      "from": "p5_box_14_0",
+      "to": "p5_box_13_0"
+    },
+    {
+      "edgeId": "p5_edge_90",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 90
+      },
+      "from": "p5_box_14_1",
+      "to": "p5_box_13_0"
+    },
+    {
+      "edgeId": "p5_edge_94",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 94
+      },
+      "from": "p5_box_15_0",
+      "to": "p5_box_14_0"
+    },
+    {
+      "edgeId": "p5_edge_98",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 98
+      },
+      "from": "p5_box_16_0",
+      "to": "p5_box_15_0"
+    },
+    {
+      "edgeId": "p5_edge_100",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 100
+      },
+      "from": "p5_box_16_1",
+      "to": "p5_box_15_0"
+    },
+    {
+      "edgeId": "p5_edge_104",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 104
+      },
+      "from": "p5_box_17_0",
+      "to": "p5_box_16_0"
+    },
+    {
+      "edgeId": "p5_edge_108",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 108
+      },
+      "from": "p5_box_18_0",
+      "to": "p5_box_17_0"
+    },
+    {
+      "edgeId": "p5_edge_110",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 110
+      },
+      "from": "p5_box_18_1",
+      "to": "p5_box_17_0"
+    },
+    {
+      "edgeId": "p5_edge_111",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1100,
+            "y": 1750
+          },
+          {
+            "x": 700,
+            "y": 1750
+          }
+        ],
+        "1": [
+          {
+            "x": 660,
+            "y": 1050
+          },
+          {
+            "x": 420,
+            "y": 1050
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 111
+      },
+      "from": "p5_box_18_0",
+      "to": "p5_box_18_0"
+    },
+    {
+      "edgeId": "p5_edge_112",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1100,
+            "y": 1750
+          },
+          {
+            "x": 700,
+            "y": 1750
+          }
+        ],
+        "1": [
+          {
+            "x": 660,
+            "y": 1050
+          },
+          {
+            "x": 420,
+            "y": 1050
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 112
+      },
+      "from": "p5_box_18_1",
+      "to": "p5_box_18_1"
+    },
+    {
+      "edgeId": "p5_edge_113",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1100,
+            "y": 1750
+          },
+          {
+            "x": 1100,
+            "y": 1600
+          }
+        ],
+        "1": [
+          {
+            "x": 660,
+            "y": 1050
+          },
+          {
+            "x": 660,
+            "y": 960
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 113
+      },
+      "from": "p5_box_16_1",
+      "to": "p5_box_16_1"
+    },
+    {
+      "edgeId": "p5_edge_114",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1100,
+            "y": 1750
+          },
+          {
+            "x": 1100,
+            "y": 1450
+          }
+        ],
+        "1": [
+          {
+            "x": 660,
+            "y": 1050
+          },
+          {
+            "x": 660,
+            "y": 870
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 114
+      },
+      "from": "p5_box_14_1",
+      "to": "p5_box_14_1"
+    },
+    {
+      "edgeId": "p5_edge_115",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1100,
+            "y": 1750
+          },
+          {
+            "x": 1100,
+            "y": 1300
+          }
+        ],
+        "1": [
+          {
+            "x": 660,
+            "y": 1050
+          },
+          {
+            "x": 660,
+            "y": 780
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 115
+      },
+      "from": "p5_box_12_1",
+      "to": "p5_box_12_1"
+    },
+    {
+      "edgeId": "p5_edge_116",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1100,
+            "y": 1750
+          }
+        ],
+        "1": [
+          {
+            "x": 660,
+            "y": 1050
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 116
+      },
+      "from": "p5_box_10_1",
+      "to": "p5_box_10_1"
+    },
+    {
+      "edgeId": "p5_edge_117",
+      "page": 5,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 900,
+            "y": 1750
+          },
+          {
+            "x": 900,
+            "y": 1750
+          }
+        ],
+        "1": [
+          {
+            "x": 540,
+            "y": 1050
+          },
+          {
+            "x": 540,
+            "y": 1050
+          }
+        ]
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page5.js",
+        "page": 5,
+        "stmtIndex": 117
+      }
+    }
+  ],
+  "unknownStatements": 2,
+  "notes": [
+    "next"
+  ]
+}

@@ -1,0 +1,2367 @@
+{
+  "page": 64,
+  "sourceFile": "next/Data/page64.js",
+  "header": {
+    "route": "nagisa",
+    "routeC": "AFTER STORY",
+    "routeE": "After Story",
+    "dateC": "同栖篇（一）",
+    "dateE": "Chapter of Conhabitation Life~Part 1"
+  },
+  "footer": {
+    "page": 64
+  },
+  "nodes": [
+    {
+      "nodeId": "p64_box_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 2
+      }
+    },
+    {
+      "nodeId": "p64_box_0_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 190
+        },
+        "1": {
+          "x": 375,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 4
+      },
+      "text": "同栖篇"
+    },
+    {
+      "nodeId": "p64_box_1",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 5
+      }
+    },
+    {
+      "nodeId": "p64_box_1_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 250
+        },
+        "1": {
+          "x": 375,
+          "y": 150
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 7
+      },
+      "text": "被拜托面包店的事情"
+    },
+    {
+      "nodeId": "p64_box_2",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 9
+      }
+    },
+    {
+      "nodeId": "p64_box_2_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 340
+        },
+        "1": {
+          "x": 255,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 11
+      },
+      "text": "没有办法只能帮忙",
+      "routeHints": "l|秋生"
+    },
+    {
+      "nodeId": "p64_box_2_1",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 340
+        },
+        "1": {
+          "x": 495,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 13
+      },
+      "text": "不是不行是根本办不到",
+      "routeHints": "r|秋生"
+    },
+    {
+      "nodeId": "p64_box_3",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 15
+      }
+    },
+    {
+      "nodeId": "p64_box_3_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 400
+        },
+        "1": {
+          "x": 255,
+          "y": 240
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 17
+      },
+      "text": "“光”获得数大于11"
+    },
+    {
+      "nodeId": "p64_box_4",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 19
+      }
+    },
+    {
+      "nodeId": "p64_box_4_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 490
+        },
+        "1": {
+          "x": 135,
+          "y": 294
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 21
+      },
+      "text": "是"
+    },
+    {
+      "nodeId": "p64_box_4_1",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 490
+        },
+        "1": {
+          "x": 375,
+          "y": 294
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 23
+      },
+      "text": "否"
+    },
+    {
+      "nodeId": "p64_box_5",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 25
+      }
+    },
+    {
+      "nodeId": "p64_box_5_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 550
+        },
+        "1": {
+          "x": 135,
+          "y": 330
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 27
+      },
+      "text": "思考的事情"
+    },
+    {
+      "nodeId": "p64_box_6",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 29
+      }
+    },
+    {
+      "nodeId": "p64_box_6_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 640
+        },
+        "1": {
+          "x": 15,
+          "y": 384
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 31
+      },
+      "text": "秋生的事情"
+    },
+    {
+      "nodeId": "p64_box_6_1",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 640
+        },
+        "1": {
+          "x": 255,
+          "y": 384
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 33
+      },
+      "text": "H的事情"
+    },
+    {
+      "nodeId": "p64_box_7",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 35
+      }
+    },
+    {
+      "nodeId": "p64_box_7_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 730
+        },
+        "1": {
+          "x": 135,
+          "y": 438
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 37
+      },
+      "text": "清晨的问候"
+    },
+    {
+      "nodeId": "p64_box_8",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 40
+      }
+    },
+    {
+      "nodeId": "p64_box_8_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 820
+        },
+        "1": {
+          "x": 15,
+          "y": 492
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 42
+      },
+      "text": "回答说早上好"
+    },
+    {
+      "nodeId": "p64_box_8_1",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 820
+        },
+        "1": {
+          "x": 255,
+          "y": 492
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 44
+      },
+      "text": "抱住"
+    },
+    {
+      "nodeId": "p64_box_8_2",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 2
+      },
+      "kind": "Textbox_Condition_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 820
+        },
+        "1": {
+          "x": 495,
+          "y": 492
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 52
+      },
+      "text": "学院篇2日,对待早苗的心情"
+    },
+    {
+      "nodeId": "p64_box_9",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 55
+      }
+    },
+    {
+      "nodeId": "p64_box_9_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 910
+        },
+        "1": {
+          "x": 135,
+          "y": 546
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 57
+      },
+      "text": "秋生“光”获得"
+    },
+    {
+      "nodeId": "p64_box_9_1",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 910
+        },
+        "1": {
+          "x": 375,
+          "y": 546
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 60
+      },
+      "text": "喜欢"
+    },
+    {
+      "nodeId": "p64_box_9_2",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 2
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 910
+        },
+        "1": {
+          "x": 615,
+          "y": 546
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 62
+      },
+      "text": "我已经有渚了"
+    },
+    {
+      "nodeId": "p64_box_10",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 10
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 64
+      }
+    },
+    {
+      "nodeId": "p64_box_10_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 0
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 970
+        },
+        "1": {
+          "x": 135,
+          "y": 582
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 66
+      },
+      "text": "秋生  Good Ending"
+    },
+    {
+      "nodeId": "p64_box_10_1",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 970
+        },
+        "1": {
+          "x": 375,
+          "y": 582
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 68
+      },
+      "text": "早苗询问的回答"
+    },
+    {
+      "nodeId": "p64_box_11",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 11
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 70
+      }
+    },
+    {
+      "nodeId": "p64_box_11_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1060
+        },
+        "1": {
+          "x": 255,
+          "y": 636
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 72
+      },
+      "text": "喜欢"
+    },
+    {
+      "nodeId": "p64_box_11_1",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1060
+        },
+        "1": {
+          "x": 495,
+          "y": 636
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 74
+      },
+      "text": "不是那样的"
+    },
+    {
+      "nodeId": "p64_box_12",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 12
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 76
+      }
+    },
+    {
+      "nodeId": "p64_box_12_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1150
+        },
+        "1": {
+          "x": 375,
+          "y": 690
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 78
+      },
+      "text": "早苗“光”获得"
+    },
+    {
+      "nodeId": "p64_box_13",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 13
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 81
+      }
+    },
+    {
+      "nodeId": "p64_box_13_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 13,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1240
+        },
+        "1": {
+          "x": 375,
+          "y": 744
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 83
+      },
+      "text": "学院篇20日，芳野寻找助手"
+    },
+    {
+      "nodeId": "p64_box_14",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 14
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 86
+      }
+    },
+    {
+      "nodeId": "p64_box_14_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1330
+        },
+        "1": {
+          "x": 255,
+          "y": 798
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 88
+      },
+      "text": "帮忙"
+    },
+    {
+      "nodeId": "p64_box_14_1",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1330
+        },
+        "1": {
+          "x": 495,
+          "y": 798
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 90
+      },
+      "text": "拒绝"
+    },
+    {
+      "nodeId": "p64_box_15",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 15
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 92
+      }
+    },
+    {
+      "nodeId": "p64_box_15_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 0
+      },
+      "kind": "Textbox_Selection_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1390
+        },
+        "1": {
+          "x": 255,
+          "y": 834
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 100
+      },
+      "text": "芳野对往事的追问"
+    },
+    {
+      "nodeId": "p64_box_16",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 16
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 102
+      }
+    },
+    {
+      "nodeId": "p64_box_16_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 16,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1480
+        },
+        "1": {
+          "x": 135,
+          "y": 888
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 104
+      },
+      "text": "老实回答",
+      "routeHints": "l|芳野"
+    },
+    {
+      "nodeId": "p64_box_16_1",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 16,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1480
+        },
+        "1": {
+          "x": 375,
+          "y": 888
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 106
+      },
+      "text": "随意糊弄过去",
+      "routeHints": "r|芳野"
+    },
+    {
+      "nodeId": "p64_box_17",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 17
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 108
+      }
+    },
+    {
+      "nodeId": "p64_box_17_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 17,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1540
+        },
+        "1": {
+          "x": 135,
+          "y": 924
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 110
+      },
+      "text": "糟糕的谈话气氛"
+    },
+    {
+      "nodeId": "p64_box_18",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 18
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 112
+      }
+    },
+    {
+      "nodeId": "p64_box_18_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 18,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1630
+        },
+        "1": {
+          "x": 135,
+          "y": 978
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 114
+      },
+      "text": "唱歌",
+      "routeHints": "l|芳野"
+    },
+    {
+      "nodeId": "p64_box_18_1",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 18,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1630
+        },
+        "1": {
+          "x": 375,
+          "y": 978
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 116
+      },
+      "text": "换个频道",
+      "routeHints": "r|芳野"
+    },
+    {
+      "nodeId": "p64_box_19",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 19
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 118
+      }
+    },
+    {
+      "nodeId": "p64_box_19_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 19,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1690
+        },
+        "1": {
+          "x": 135,
+          "y": 1014
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 120
+      },
+      "text": "听芳野谈自己的过去"
+    },
+    {
+      "nodeId": "p64_box_20",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 20
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 122
+      }
+    },
+    {
+      "nodeId": "p64_box_20_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 20,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1780
+        },
+        "1": {
+          "x": 135,
+          "y": 1068
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 124
+      },
+      "text": "再继续问下去",
+      "routeHints": "l|芳野"
+    },
+    {
+      "nodeId": "p64_box_20_1",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 20,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1780
+        },
+        "1": {
+          "x": 375,
+          "y": 1068
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 126
+      },
+      "text": "同意",
+      "routeHints": "r|芳野"
+    },
+    {
+      "nodeId": "p64_box_21",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 21
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 128
+      }
+    },
+    {
+      "nodeId": "p64_box_21_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 21,
+        "col": 0
+      },
+      "kind": "Textbox_Selection_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1840
+        },
+        "1": {
+          "x": 135,
+          "y": 1104
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 136
+      },
+      "text": "探望伊吹老师"
+    },
+    {
+      "nodeId": "p64_box_22",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "index": 22
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 138
+      }
+    },
+    {
+      "nodeId": "p64_box_22_0",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 22,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1930
+        },
+        "1": {
+          "x": 135,
+          "y": 1158
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 140
+      },
+      "text": "等后天一起去"
+    },
+    {
+      "nodeId": "p64_box_22_1",
+      "page": 64,
+      "boxRef": {
+        "varName": "box",
+        "row": 22,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1930
+        },
+        "1": {
+          "x": 375,
+          "y": 1158
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 142
+      },
+      "text": "让渚一个人去"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p64_edge_8",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 8
+      },
+      "from": "p64_box_1_0",
+      "to": "p64_box_0_0"
+    },
+    {
+      "edgeId": "p64_edge_12",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 12
+      },
+      "from": "p64_box_2_0",
+      "to": "p64_box_1_0"
+    },
+    {
+      "edgeId": "p64_edge_14",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 14
+      },
+      "from": "p64_box_2_1",
+      "to": "p64_box_1_0"
+    },
+    {
+      "edgeId": "p64_edge_18",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 18
+      },
+      "from": "p64_box_3_0",
+      "to": "p64_box_2_0"
+    },
+    {
+      "edgeId": "p64_edge_22",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 22
+      },
+      "from": "p64_box_4_0",
+      "to": "p64_box_3_0"
+    },
+    {
+      "edgeId": "p64_edge_24",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 24
+      },
+      "from": "p64_box_4_1",
+      "to": "p64_box_3_0"
+    },
+    {
+      "edgeId": "p64_edge_28",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 28
+      },
+      "from": "p64_box_5_0",
+      "to": "p64_box_4_0"
+    },
+    {
+      "edgeId": "p64_edge_32",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 32
+      },
+      "from": "p64_box_6_0",
+      "to": "p64_box_5_0"
+    },
+    {
+      "edgeId": "p64_edge_34",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 34
+      },
+      "from": "p64_box_6_1",
+      "to": "p64_box_5_0"
+    },
+    {
+      "edgeId": "p64_edge_38",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 38
+      },
+      "from": "p64_box_7_0",
+      "to": "p64_box_6_0"
+    },
+    {
+      "edgeId": "p64_edge_39",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 39
+      },
+      "from": "p64_box_7_0",
+      "to": "p64_box_6_1"
+    },
+    {
+      "edgeId": "p64_edge_43",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 43
+      },
+      "from": "p64_box_8_0",
+      "to": "p64_box_7_0"
+    },
+    {
+      "edgeId": "p64_edge_45",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 45
+      },
+      "from": "p64_box_8_1",
+      "to": "p64_box_7_0"
+    },
+    {
+      "edgeId": "p64_edge_53",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 53
+      },
+      "from": "p64_box_8_2",
+      "to": "p64_box_2_1"
+    },
+    {
+      "edgeId": "p64_edge_54",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 580
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 348
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 54
+      },
+      "from": "p64_box_8_2",
+      "to": "p64_box_4_1"
+    },
+    {
+      "edgeId": "p64_edge_58",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 58
+      },
+      "from": "p64_box_9_0",
+      "to": "p64_box_8_0"
+    },
+    {
+      "edgeId": "p64_edge_59",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 59
+      },
+      "from": "p64_box_9_0",
+      "to": "p64_box_8_1"
+    },
+    {
+      "edgeId": "p64_edge_61",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 61
+      },
+      "from": "p64_box_9_1",
+      "to": "p64_box_8_2"
+    },
+    {
+      "edgeId": "p64_edge_63",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 63
+      },
+      "from": "p64_box_9_2",
+      "to": "p64_box_8_2"
+    },
+    {
+      "edgeId": "p64_edge_67",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 67
+      },
+      "from": "p64_box_10_0",
+      "to": "p64_box_9_0"
+    },
+    {
+      "edgeId": "p64_edge_69",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 69
+      },
+      "from": "p64_box_10_1",
+      "to": "p64_box_9_1"
+    },
+    {
+      "edgeId": "p64_edge_73",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 73
+      },
+      "from": "p64_box_11_0",
+      "to": "p64_box_10_1"
+    },
+    {
+      "edgeId": "p64_edge_75",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 75
+      },
+      "from": "p64_box_11_1",
+      "to": "p64_box_10_1"
+    },
+    {
+      "edgeId": "p64_edge_79",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 79
+      },
+      "from": "p64_box_12_0",
+      "to": "p64_box_11_0"
+    },
+    {
+      "edgeId": "p64_edge_80",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 80
+      },
+      "from": "p64_box_12_0",
+      "to": "p64_box_11_1"
+    },
+    {
+      "edgeId": "p64_edge_84",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 84
+      },
+      "from": "p64_box_13_0",
+      "to": "p64_box_12_0"
+    },
+    {
+      "edgeId": "p64_edge_85",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 85
+      },
+      "from": "p64_box_13_0",
+      "to": "p64_box_9_2"
+    },
+    {
+      "edgeId": "p64_edge_89",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 89
+      },
+      "from": "p64_box_14_0",
+      "to": "p64_box_13_0"
+    },
+    {
+      "edgeId": "p64_edge_91",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 91
+      },
+      "from": "p64_box_14_1",
+      "to": "p64_box_13_0"
+    },
+    {
+      "edgeId": "p64_edge_101",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 101
+      },
+      "from": "p64_box_15_0",
+      "to": "p64_box_14_0"
+    },
+    {
+      "edgeId": "p64_edge_105",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 105
+      },
+      "from": "p64_box_16_0",
+      "to": "p64_box_14_0"
+    },
+    {
+      "edgeId": "p64_edge_107",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 107
+      },
+      "from": "p64_box_16_1",
+      "to": "p64_box_14_0"
+    },
+    {
+      "edgeId": "p64_edge_111",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 111
+      },
+      "from": "p64_box_17_0",
+      "to": "p64_box_16_0"
+    },
+    {
+      "edgeId": "p64_edge_115",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 115
+      },
+      "from": "p64_box_18_0",
+      "to": "p64_box_17_0"
+    },
+    {
+      "edgeId": "p64_edge_117",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 117
+      },
+      "from": "p64_box_18_1",
+      "to": "p64_box_17_0"
+    },
+    {
+      "edgeId": "p64_edge_121",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 121
+      },
+      "from": "p64_box_19_0",
+      "to": "p64_box_18_0"
+    },
+    {
+      "edgeId": "p64_edge_125",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 125
+      },
+      "from": "p64_box_20_0",
+      "to": "p64_box_19_0"
+    },
+    {
+      "edgeId": "p64_edge_127",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 127
+      },
+      "from": "p64_box_20_1",
+      "to": "p64_box_19_0"
+    },
+    {
+      "edgeId": "p64_edge_137",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 137
+      },
+      "from": "p64_box_21_0",
+      "to": "p64_box_20_0"
+    },
+    {
+      "edgeId": "p64_edge_141",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 141
+      },
+      "from": "p64_box_22_0",
+      "to": "p64_box_21_0"
+    },
+    {
+      "edgeId": "p64_edge_143",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 143
+      },
+      "from": "p64_box_22_1",
+      "to": "p64_box_21_0"
+    },
+    {
+      "edgeId": "p64_edge_144",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 2020
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 1212
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 144
+      },
+      "from": "p64_box_22_0",
+      "to": "p64_box_22_0"
+    },
+    {
+      "edgeId": "p64_edge_145",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 2020
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 1212
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 145
+      },
+      "from": "p64_box_22_1",
+      "to": "p64_box_22_1"
+    },
+    {
+      "edgeId": "p64_edge_146",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 2020
+          },
+          {
+            "x": 1000,
+            "y": 2020
+          },
+          {
+            "x": 1000,
+            "y": 1870
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 1212
+          },
+          {
+            "x": 600,
+            "y": 1212
+          },
+          {
+            "x": 600,
+            "y": 1122
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 146
+      },
+      "from": "p64_box_20_1",
+      "to": "p64_box_20_1"
+    },
+    {
+      "edgeId": "p64_edge_147",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 2020
+          },
+          {
+            "x": 1000,
+            "y": 2020
+          },
+          {
+            "x": 1000,
+            "y": 1720
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 1212
+          },
+          {
+            "x": 600,
+            "y": 1212
+          },
+          {
+            "x": 600,
+            "y": 1032
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 147
+      },
+      "from": "p64_box_18_1",
+      "to": "p64_box_18_1"
+    },
+    {
+      "edgeId": "p64_edge_148",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 2020
+          },
+          {
+            "x": 1000,
+            "y": 2020
+          },
+          {
+            "x": 1000,
+            "y": 1570
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 1212
+          },
+          {
+            "x": 600,
+            "y": 1212
+          },
+          {
+            "x": 600,
+            "y": 942
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 148
+      },
+      "from": "p64_box_16_1",
+      "to": "p64_box_16_1"
+    },
+    {
+      "edgeId": "p64_edge_149",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 2020
+          },
+          {
+            "x": 1000,
+            "y": 2020
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 1212
+          },
+          {
+            "x": 600,
+            "y": 1212
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 149
+      },
+      "from": "p64_box_14_1",
+      "to": "p64_box_14_1"
+    },
+    {
+      "edgeId": "p64_edge_150",
+      "page": 64,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 2020
+          },
+          {
+            "x": 800,
+            "y": 2020
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1212
+          },
+          {
+            "x": 480,
+            "y": 1212
+          }
+        ]
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page64.js",
+        "page": 64,
+        "stmtIndex": 150
+      }
+    }
+  ],
+  "unknownStatements": 2,
+  "notes": [
+    "next"
+  ]
+}

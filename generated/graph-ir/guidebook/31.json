@@ -1,0 +1,1145 @@
+{
+  "page": 31,
+  "sourceFile": "guidebook/Data/page31.js",
+  "header": {
+    "route": "yukine",
+    "routeC": "宫泽 有纪宁",
+    "routeE": "Yukine Miyazawa",
+    "dateC": "4月24日～有纪宁",
+    "dateE": "April 24th~Yukine"
+  },
+  "footer": {
+    "page": 31
+  },
+  "nodes": [
+    {
+      "nodeId": "p31_box_0",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 2
+      }
+    },
+    {
+      "nodeId": "p31_box_0_0",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 190
+        },
+        "1": {
+          "x": 375,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 4
+      },
+      "text": "4月24日"
+    },
+    {
+      "nodeId": "p31_box_1",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 5
+      }
+    },
+    {
+      "nodeId": "p31_box_1_0",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 250
+        },
+        "1": {
+          "x": 375,
+          "y": 150
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 7
+      },
+      "text": "有纪宁的仓库咒语"
+    },
+    {
+      "nodeId": "p31_box_2",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 9
+      }
+    },
+    {
+      "nodeId": "p31_box_2_0",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 340
+        },
+        "1": {
+          "x": 255,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 11
+      },
+      "text": "玩"
+    },
+    {
+      "nodeId": "p31_box_2_1",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 340
+        },
+        "1": {
+          "x": 495,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 13
+      },
+      "text": "不玩"
+    },
+    {
+      "nodeId": "p31_box_3",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 15
+      }
+    },
+    {
+      "nodeId": "p31_box_3_0",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 0
+      },
+      "kind": "Textbox_Option_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 400
+        },
+        "1": {
+          "x": 255,
+          "y": 240
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 23
+      },
+      "text": "体育仓库事件"
+    },
+    {
+      "nodeId": "p31_box_4",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 27
+      }
+    },
+    {
+      "nodeId": "p31_box_4_0",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 490
+        },
+        "1": {
+          "x": 375,
+          "y": 294
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 29
+      },
+      "text": "有纪宁"
+    },
+    {
+      "nodeId": "p31_box_5",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 32
+      }
+    },
+    {
+      "nodeId": "p31_box_5_0",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 640
+        },
+        "1": {
+          "x": 495,
+          "y": 384
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 34
+      },
+      "text": "有纪宁"
+    },
+    {
+      "nodeId": "p31_box_6",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 35
+      }
+    },
+    {
+      "nodeId": "p31_box_6_0",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 700
+        },
+        "1": {
+          "x": 495,
+          "y": 420
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 37
+      },
+      "text": "消除疲劳的咒语"
+    },
+    {
+      "nodeId": "p31_box_7",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 39
+      }
+    },
+    {
+      "nodeId": "p31_box_7_0",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 790
+        },
+        "1": {
+          "x": 375,
+          "y": 474
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 41
+      },
+      "text": "就这样吧",
+      "routeHints": "l|有纪宁"
+    },
+    {
+      "nodeId": "p31_box_7_1",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 790
+        },
+        "1": {
+          "x": 615,
+          "y": 474
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 43
+      },
+      "text": "叫醒她",
+      "routeHints": "r|有纪宁"
+    },
+    {
+      "nodeId": "p31_box_8",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 45
+      }
+    },
+    {
+      "nodeId": "p31_box_8_0",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 850
+        },
+        "1": {
+          "x": 375,
+          "y": 510
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 47
+      },
+      "text": "能够依靠的场所"
+    },
+    {
+      "nodeId": "p31_box_9",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 49
+      }
+    },
+    {
+      "nodeId": "p31_box_9_0",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 940
+        },
+        "1": {
+          "x": 255,
+          "y": 564
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 51
+      },
+      "text": "好",
+      "routeHints": "l|有纪宁"
+    },
+    {
+      "nodeId": "p31_box_9_1",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 940
+        },
+        "1": {
+          "x": 495,
+          "y": 564
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 53
+      },
+      "text": "不好",
+      "routeHints": "r|有纪宁"
+    },
+    {
+      "nodeId": "p31_box_10",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "index": 10
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 55
+      }
+    },
+    {
+      "nodeId": "p31_box_10_0",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1000
+        },
+        "1": {
+          "x": 255,
+          "y": 600
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 57
+      },
+      "text": "复杂的心情"
+    },
+    {
+      "nodeId": "p31_box_11",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "index": 11
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 59
+      }
+    },
+    {
+      "nodeId": "p31_box_11_0",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1090
+        },
+        "1": {
+          "x": 135,
+          "y": 654
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 61
+      },
+      "text": "让她继续睡下去",
+      "routeHints": "l|有纪宁"
+    },
+    {
+      "nodeId": "p31_box_11_1",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1090
+        },
+        "1": {
+          "x": 375,
+          "y": 654
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 63
+      },
+      "text": "叫醒她",
+      "routeHints": "r|有纪宁"
+    },
+    {
+      "nodeId": "p31_box_12",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "index": 12
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 65
+      }
+    },
+    {
+      "nodeId": "p31_box_12_0",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1150
+        },
+        "1": {
+          "x": 135,
+          "y": 690
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 67
+      },
+      "text": "有纪宁“光”获得"
+    },
+    {
+      "nodeId": "p31_box_13",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "index": 13
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 69
+      }
+    },
+    {
+      "nodeId": "p31_box_13_0",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 13,
+        "col": 0
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1180
+        },
+        "1": {
+          "x": 495,
+          "y": 708
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 71
+      },
+      "text": "公共 Bad Ending"
+    },
+    {
+      "nodeId": "p31_box_14",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "index": 14
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 75
+      }
+    },
+    {
+      "nodeId": "p31_box_14_0",
+      "page": 31,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 0
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1210
+        },
+        "1": {
+          "x": 135,
+          "y": 726
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 77
+      },
+      "text": "有纪宁 Good Ending"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p31_edge_8",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 8
+      },
+      "from": "p31_box_1_0",
+      "to": "p31_box_0_0"
+    },
+    {
+      "edgeId": "p31_edge_12",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 12
+      },
+      "from": "p31_box_2_0",
+      "to": "p31_box_1_0"
+    },
+    {
+      "edgeId": "p31_edge_14",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 14
+      },
+      "from": "p31_box_2_1",
+      "to": "p31_box_1_0"
+    },
+    {
+      "edgeId": "p31_edge_26",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 26
+      },
+      "from": "p31_box_3_0",
+      "to": "p31_box_2_0"
+    },
+    {
+      "edgeId": "p31_edge_30",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 30
+      },
+      "from": "p31_box_4_0",
+      "to": "p31_box_3_0"
+    },
+    {
+      "edgeId": "p31_edge_31",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 31
+      },
+      "from": "p31_box_4_0",
+      "to": "p31_box_2_1"
+    },
+    {
+      "edgeId": "p31_edge_38",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 38
+      },
+      "from": "p31_box_6_0",
+      "to": "p31_box_5_0"
+    },
+    {
+      "edgeId": "p31_edge_42",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 42
+      },
+      "from": "p31_box_7_0",
+      "to": "p31_box_6_0"
+    },
+    {
+      "edgeId": "p31_edge_44",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 44
+      },
+      "from": "p31_box_7_1",
+      "to": "p31_box_6_0"
+    },
+    {
+      "edgeId": "p31_edge_48",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 48
+      },
+      "from": "p31_box_8_0",
+      "to": "p31_box_7_0"
+    },
+    {
+      "edgeId": "p31_edge_52",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 52
+      },
+      "from": "p31_box_9_0",
+      "to": "p31_box_8_0"
+    },
+    {
+      "edgeId": "p31_edge_54",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 54
+      },
+      "from": "p31_box_9_1",
+      "to": "p31_box_8_0"
+    },
+    {
+      "edgeId": "p31_edge_58",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 58
+      },
+      "from": "p31_box_10_0",
+      "to": "p31_box_9_0"
+    },
+    {
+      "edgeId": "p31_edge_62",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 62
+      },
+      "from": "p31_box_11_0",
+      "to": "p31_box_10_0"
+    },
+    {
+      "edgeId": "p31_edge_64",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 64
+      },
+      "from": "p31_box_11_1",
+      "to": "p31_box_10_0"
+    },
+    {
+      "edgeId": "p31_edge_68",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 68
+      },
+      "from": "p31_box_12_0",
+      "to": "p31_box_11_0"
+    },
+    {
+      "edgeId": "p31_edge_72",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 72
+      },
+      "from": "p31_box_13_0",
+      "to": "p31_box_11_1"
+    },
+    {
+      "edgeId": "p31_edge_73",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1200,
+            "y": 1030
+          }
+        ],
+        "1": [
+          {
+            "x": 720,
+            "y": 618
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 73
+      },
+      "from": "p31_box_13_0",
+      "to": "p31_box_9_1"
+    },
+    {
+      "edgeId": "p31_edge_74",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 74
+      },
+      "from": "p31_box_13_0",
+      "to": "p31_box_7_1"
+    },
+    {
+      "edgeId": "p31_edge_78",
+      "page": 31,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page31.js",
+        "page": 31,
+        "stmtIndex": 78
+      },
+      "from": "p31_box_14_0",
+      "to": "p31_box_12_0"
+    }
+  ],
+  "unknownStatements": 2,
+  "notes": [
+    "guidebook"
+  ]
+}

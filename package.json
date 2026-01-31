@@ -8,9 +8,14 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "ts": "node -r esbuild-register"
+    "ts": "node -r esbuild-register",
+    "convert:graph": "yarn ts scripts/convert-graph.ts"
   },
   "devDependencies": {
+    "@babel/parser": "^7.28.6",
+    "@babel/traverse": "^7.28.6",
+    "@babel/types": "^7.28.6",
+    "@types/babel__traverse": "^7.28.0",
     "@types/fs-extra": "^9.0.13",
     "@types/glob": "^7.2.0",
     "@types/lodash": "^4.14.182",

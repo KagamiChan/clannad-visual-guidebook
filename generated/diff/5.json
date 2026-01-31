@@ -1,0 +1,18 @@
+{
+  "page": 5,
+  "guidebook": {
+    "nodeCount": 47,
+    "edgeCount": 38,
+    "jumpCount": 0,
+    "anchorCount": 0,
+    "unknownStatements": 2
+  },
+  "next": {
+    "nodeCount": 47,
+    "edgeCount": 38,
+    "jumpCount": 0,
+    "anchorCount": 0,
+    "unknownStatements": 2
+  },
+  "diffs": []
+}

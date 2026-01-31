@@ -1,0 +1,1512 @@
+{
+  "page": 11,
+  "sourceFile": "guidebook/Data/page11.js",
+  "header": {
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "4月19日（二）",
+    "dateE": "April 19th~Part 2"
+  },
+  "footer": {
+    "page": 11
+  },
+  "nodes": [
+    {
+      "nodeId": "p11_box_0",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 2
+      }
+    },
+    {
+      "nodeId": "p11_box_0_0",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 0
+      },
+      "kind": "Textbox_Block",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 190
+        },
+        "1": {
+          "x": 15,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 4
+      },
+      "text": "A"
+    },
+    {
+      "nodeId": "p11_box_0_1",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 1
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 190
+        },
+        "1": {
+          "x": 495,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 7
+      },
+      "text": "18日，逃课选择睡觉的地方"
+    },
+    {
+      "nodeId": "p11_box_1",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 10
+      }
+    },
+    {
+      "nodeId": "p11_box_1_0",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 280
+        },
+        "1": {
+          "x": 255,
+          "y": 168
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 12
+      },
+      "text": "还是回教室吧",
+      "routeHints": "l|+未触发"
+    },
+    {
+      "nodeId": "p11_box_1_1",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 280
+        },
+        "1": {
+          "x": 495,
+          "y": 168
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 14
+      },
+      "text": "去那里睡"
+    },
+    {
+      "nodeId": "p11_box_2",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 16
+      }
+    },
+    {
+      "nodeId": "p11_box_2_0",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 340
+        },
+        "1": {
+          "x": 495,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 18
+      },
+      "text": "18日，下课后走进资料室的女孩"
+    },
+    {
+      "nodeId": "p11_box_3",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 20
+      }
+    },
+    {
+      "nodeId": "p11_box_3_0",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 430
+        },
+        "1": {
+          "x": 495,
+          "y": 258
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 22
+      },
+      "text": "再说几句话"
+    },
+    {
+      "nodeId": "p11_box_3_1",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 430
+        },
+        "1": {
+          "x": 735,
+          "y": 258
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 24
+      },
+      "text": "离开"
+    },
+    {
+      "nodeId": "p11_box_4",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 26
+      }
+    },
+    {
+      "nodeId": "p11_box_4_0",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 0
+      },
+      "kind": "Textbox_Selection_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 520
+        },
+        "1": {
+          "x": 255,
+          "y": 312
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 34
+      },
+      "text": "来到旧校舍后的去向（一）"
+    },
+    {
+      "nodeId": "p11_box_5",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 37
+      }
+    },
+    {
+      "nodeId": "p11_box_5_0",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 610
+        },
+        "1": {
+          "x": 15,
+          "y": 366
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 39
+      },
+      "text": "去社团活动室"
+    },
+    {
+      "nodeId": "p11_box_5_1",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 610
+        },
+        "1": {
+          "x": 255,
+          "y": 366
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 41
+      },
+      "text": "去图书馆"
+    },
+    {
+      "nodeId": "p11_box_5_2",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 2
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 610
+        },
+        "1": {
+          "x": 495,
+          "y": 366
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 43
+      },
+      "text": "去资料室"
+    },
+    {
+      "nodeId": "p11_box_6",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 45
+      }
+    },
+    {
+      "nodeId": "p11_box_6_0",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 670
+        },
+        "1": {
+          "x": 495,
+          "y": 402
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 47
+      },
+      "text": "18日，逃课选择睡觉的地方"
+    },
+    {
+      "nodeId": "p11_box_7",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 49
+      }
+    },
+    {
+      "nodeId": "p11_box_7_0",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 760
+        },
+        "1": {
+          "x": 375,
+          "y": 456
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 51
+      },
+      "text": "还是回教室吧",
+      "routeHints": "l|+未触发"
+    },
+    {
+      "nodeId": "p11_box_7_1",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 760
+        },
+        "1": {
+          "x": 615,
+          "y": 456
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 53
+      },
+      "text": "去那里睡"
+    },
+    {
+      "nodeId": "p11_box_8",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 55
+      }
+    },
+    {
+      "nodeId": "p11_box_8_0",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 820
+        },
+        "1": {
+          "x": 375,
+          "y": 492
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 57
+      },
+      "text": "下课后走进资料室的女孩"
+    },
+    {
+      "nodeId": "p11_box_9",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 59
+      }
+    },
+    {
+      "nodeId": "p11_box_9_0",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 910
+        },
+        "1": {
+          "x": 255,
+          "y": 546
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 61
+      },
+      "text": "再说几句话",
+      "routeHints": "l|有纪宁|-胜平"
+    },
+    {
+      "nodeId": "p11_box_9_1",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 910
+        },
+        "1": {
+          "x": 495,
+          "y": 546
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 63
+      },
+      "text": "离开",
+      "routeHints": "r|-胜平|有纪宁"
+    },
+    {
+      "nodeId": "p11_box_10",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "index": 10
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 65
+      }
+    },
+    {
+      "nodeId": "p11_box_10_0",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 1060
+        },
+        "1": {
+          "x": 735,
+          "y": 636
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 67
+      },
+      "text": "来到校舍后的去向（二）"
+    },
+    {
+      "nodeId": "p11_box_11",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "index": 11
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 69
+      }
+    },
+    {
+      "nodeId": "p11_box_11_0",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1150
+        },
+        "1": {
+          "x": 255,
+          "y": 690
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 71
+      },
+      "text": "去社团活动室"
+    },
+    {
+      "nodeId": "p11_box_11_1",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1150
+        },
+        "1": {
+          "x": 495,
+          "y": 690
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 73
+      },
+      "text": "去图书馆"
+    },
+    {
+      "nodeId": "p11_box_11_2",
+      "page": 11,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 2
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 1150
+        },
+        "1": {
+          "x": 735,
+          "y": 690
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 75
+      },
+      "text": "去资料室"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p11_edge_8",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": true,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 8
+      }
+    },
+    {
+      "edgeId": "p11_edge_13",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 13
+      },
+      "from": "p11_box_1_0",
+      "to": "p11_box_0_1"
+    },
+    {
+      "edgeId": "p11_edge_15",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 15
+      },
+      "from": "p11_box_1_1",
+      "to": "p11_box_0_1"
+    },
+    {
+      "edgeId": "p11_edge_19",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 19
+      },
+      "from": "p11_box_2_0",
+      "to": "p11_box_1_1"
+    },
+    {
+      "edgeId": "p11_edge_23",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 23
+      },
+      "from": "p11_box_3_0",
+      "to": "p11_box_2_0"
+    },
+    {
+      "edgeId": "p11_edge_25",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 25
+      },
+      "from": "p11_box_3_1",
+      "to": "p11_box_2_0"
+    },
+    {
+      "edgeId": "p11_edge_35",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 35
+      },
+      "from": "p11_box_4_0",
+      "to": "p11_box_3_0"
+    },
+    {
+      "edgeId": "p11_edge_36",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 36
+      },
+      "from": "p11_box_4_0",
+      "to": "p11_box_1_0"
+    },
+    {
+      "edgeId": "p11_edge_40",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 40
+      },
+      "from": "p11_box_5_0",
+      "to": "p11_box_4_0"
+    },
+    {
+      "edgeId": "p11_edge_42",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 42
+      },
+      "from": "p11_box_5_1",
+      "to": "p11_box_4_0"
+    },
+    {
+      "edgeId": "p11_edge_44",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 44
+      },
+      "from": "p11_box_5_2",
+      "to": "p11_box_4_0"
+    },
+    {
+      "edgeId": "p11_edge_48",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 48
+      },
+      "from": "p11_box_6_0",
+      "to": "p11_box_5_2"
+    },
+    {
+      "edgeId": "p11_edge_52",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 52
+      },
+      "from": "p11_box_7_0",
+      "to": "p11_box_6_0"
+    },
+    {
+      "edgeId": "p11_edge_54",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 54
+      },
+      "from": "p11_box_7_1",
+      "to": "p11_box_6_0"
+    },
+    {
+      "edgeId": "p11_edge_58",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 58
+      },
+      "from": "p11_box_8_0",
+      "to": "p11_box_7_0"
+    },
+    {
+      "edgeId": "p11_edge_62",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 62
+      },
+      "from": "p11_box_9_0",
+      "to": "p11_box_8_0"
+    },
+    {
+      "edgeId": "p11_edge_64",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 64
+      },
+      "from": "p11_box_9_1",
+      "to": "p11_box_8_0"
+    },
+    {
+      "edgeId": "p11_edge_68",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 68
+      },
+      "from": "p11_box_10_0",
+      "to": "p11_box_3_1"
+    },
+    {
+      "edgeId": "p11_edge_72",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 72
+      },
+      "from": "p11_box_11_0",
+      "to": "p11_box_10_0"
+    },
+    {
+      "edgeId": "p11_edge_74",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 74
+      },
+      "from": "p11_box_11_1",
+      "to": "p11_box_10_0"
+    },
+    {
+      "edgeId": "p11_edge_76",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 76
+      },
+      "from": "p11_box_11_2",
+      "to": "p11_box_10_0"
+    },
+    {
+      "edgeId": "p11_edge_78",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 1240
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 744
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 78
+      },
+      "from": "p11_box_11_0",
+      "to": "p11_box_11_0"
+    },
+    {
+      "edgeId": "p11_edge_79",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 1240
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 744
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 79
+      },
+      "from": "p11_box_11_1",
+      "to": "p11_box_11_1"
+    },
+    {
+      "edgeId": "p11_edge_80",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 1240
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 744
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 80
+      },
+      "from": "p11_box_11_2",
+      "to": "p11_box_11_2"
+    },
+    {
+      "edgeId": "p11_edge_81",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 1240
+          },
+          {
+            "x": 400,
+            "y": 1240
+          },
+          {
+            "x": 400,
+            "y": 1060
+          },
+          {
+            "x": 1000,
+            "y": 1030
+          },
+          {
+            "x": 800,
+            "y": 1000
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 744
+          },
+          {
+            "x": 240,
+            "y": 744
+          },
+          {
+            "x": 240,
+            "y": 636
+          },
+          {
+            "x": 600,
+            "y": 618
+          },
+          {
+            "x": 480,
+            "y": 600
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 81
+      },
+      "from": "p11_box_9_0",
+      "to": "p11_box_9_0"
+    },
+    {
+      "edgeId": "p11_edge_82",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 1240
+          },
+          {
+            "x": 400,
+            "y": 1240
+          },
+          {
+            "x": 400,
+            "y": 1060
+          },
+          {
+            "x": 1000,
+            "y": 1030
+          },
+          {
+            "x": 800,
+            "y": 1000
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 744
+          },
+          {
+            "x": 240,
+            "y": 744
+          },
+          {
+            "x": 240,
+            "y": 636
+          },
+          {
+            "x": 600,
+            "y": 618
+          },
+          {
+            "x": 480,
+            "y": 600
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 82
+      },
+      "from": "p11_box_9_1",
+      "to": "p11_box_9_1"
+    },
+    {
+      "edgeId": "p11_edge_83",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 1240
+          },
+          {
+            "x": 400,
+            "y": 1240
+          },
+          {
+            "x": 400,
+            "y": 1060
+          },
+          {
+            "x": 1000,
+            "y": 1030
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 744
+          },
+          {
+            "x": 240,
+            "y": 744
+          },
+          {
+            "x": 240,
+            "y": 636
+          },
+          {
+            "x": 600,
+            "y": 618
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 83
+      },
+      "from": "p11_box_7_1",
+      "to": "p11_box_7_1"
+    },
+    {
+      "edgeId": "p11_edge_84",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 1240
+          },
+          {
+            "x": 400,
+            "y": 1240
+          },
+          {
+            "x": 400,
+            "y": 700
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 744
+          },
+          {
+            "x": 240,
+            "y": 744
+          },
+          {
+            "x": 240,
+            "y": 420
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 84
+      },
+      "from": "p11_box_5_0",
+      "to": "p11_box_5_0"
+    },
+    {
+      "edgeId": "p11_edge_85",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 1240
+          },
+          {
+            "x": 400,
+            "y": 1240
+          },
+          {
+            "x": 400,
+            "y": 700
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 744
+          },
+          {
+            "x": 240,
+            "y": 744
+          },
+          {
+            "x": 240,
+            "y": 420
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 85
+      },
+      "from": "p11_box_5_1",
+      "to": "p11_box_5_1"
+    },
+    {
+      "edgeId": "p11_edge_86",
+      "page": 11,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 1240
+          },
+          {
+            "x": 1000,
+            "y": 1240
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 744
+          },
+          {
+            "x": 600,
+            "y": 744
+          }
+        ]
+      },
+      "decorative": true,
+      "source": {
+        "file": "guidebook/Data/page11.js",
+        "page": 11,
+        "stmtIndex": 86
+      }
+    }
+  ],
+  "unknownStatements": 3,
+  "notes": [
+    "guidebook"
+  ]
+}

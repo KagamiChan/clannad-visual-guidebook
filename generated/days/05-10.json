@@ -1,0 +1,230 @@
+{
+  "dayKey": "05-10",
+  "label": "5月10日",
+  "sourcePages": [
+    54
+  ],
+  "nodes": [
+    {
+      "nodeId": "p54_box_13_0",
+      "page": 54,
+      "boxRef": {
+        "varName": "box",
+        "row": 13,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1360
+        },
+        "1": {
+          "x": 375,
+          "y": 816
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page54.js",
+        "page": 54,
+        "stmtIndex": 68
+      },
+      "text": "5月10日",
+      "dayKey": "05-10"
+    },
+    {
+      "nodeId": "p54_box_14_0",
+      "page": 54,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1420
+        },
+        "1": {
+          "x": 375,
+          "y": 852
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page54.js",
+        "page": 54,
+        "stmtIndex": 71
+      },
+      "text": "陷入剧本中的渚",
+      "dayKey": "05-10"
+    },
+    {
+      "nodeId": "p54_box_15_0",
+      "page": 54,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1510
+        },
+        "1": {
+          "x": 135,
+          "y": 906
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page54.js",
+        "page": 54,
+        "stmtIndex": 75
+      },
+      "text": "夺走剧本",
+      "dayKey": "05-10"
+    },
+    {
+      "nodeId": "p54_box_15_1",
+      "page": 54,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1510
+        },
+        "1": {
+          "x": 375,
+          "y": 906
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page54.js",
+        "page": 54,
+        "stmtIndex": 77
+      },
+      "text": "夺走双唇",
+      "dayKey": "05-10"
+    },
+    {
+      "nodeId": "p54_box_15_2",
+      "page": 54,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 2
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 1510
+        },
+        "1": {
+          "x": 615,
+          "y": 906
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "guidebook/Data/page54.js",
+        "page": 54,
+        "stmtIndex": 79
+      },
+      "text": "夺走心",
+      "dayKey": "05-10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p54_edge_72",
+      "page": 54,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page54.js",
+        "page": 54,
+        "stmtIndex": 72
+      },
+      "from": "p54_box_14_0",
+      "to": "p54_box_13_0",
+      "dayKey": "05-10",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p54_edge_76",
+      "page": 54,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page54.js",
+        "page": 54,
+        "stmtIndex": 76
+      },
+      "from": "p54_box_15_0",
+      "to": "p54_box_14_0",
+      "dayKey": "05-10",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p54_edge_78",
+      "page": 54,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page54.js",
+        "page": 54,
+        "stmtIndex": 78
+      },
+      "from": "p54_box_15_1",
+      "to": "p54_box_14_0",
+      "dayKey": "05-10",
+      "crossDay": false
+    },
+    {
+      "edgeId": "p54_edge_80",
+      "page": 54,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "guidebook/Data/page54.js",
+        "page": 54,
+        "stmtIndex": 80
+      },
+      "from": "p54_box_15_2",
+      "to": "p54_box_14_0",
+      "dayKey": "05-10",
+      "crossDay": false
+    }
+  ],
+  "crossDayEdges": [],
+  "jumps": []
+}

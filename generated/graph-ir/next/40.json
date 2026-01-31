@@ -1,0 +1,2251 @@
+{
+  "page": 40,
+  "sourceFile": "next/Data/page40.js",
+  "header": {
+    "route": "kotomi",
+    "routeC": "一之濑 琴美",
+    "routeE": "Kotomi Ichinose",
+    "dateC": "4月20日～4月23日",
+    "dateE": "April 20th~April 23rd"
+  },
+  "footer": {
+    "page": 40
+  },
+  "nodes": [
+    {
+      "nodeId": "p40_box_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 2
+      }
+    },
+    {
+      "nodeId": "p40_box_0_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 190
+        },
+        "1": {
+          "x": 375,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 4
+      },
+      "text": "4月20日"
+    },
+    {
+      "nodeId": "p40_box_1",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 5
+      }
+    },
+    {
+      "nodeId": "p40_box_1_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 0
+      },
+      "kind": "Textbox_Selection_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 250
+        },
+        "1": {
+          "x": 375,
+          "y": 150
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 13
+      },
+      "text": "读书的邀请"
+    },
+    {
+      "nodeId": "p40_box_2",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 15
+      }
+    },
+    {
+      "nodeId": "p40_box_2_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 340
+        },
+        "1": {
+          "x": 255,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 17
+      },
+      "text": "读书"
+    },
+    {
+      "nodeId": "p40_box_2_1",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 340
+        },
+        "1": {
+          "x": 495,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 19
+      },
+      "text": "不读"
+    },
+    {
+      "nodeId": "p40_box_3",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 21
+      }
+    },
+    {
+      "nodeId": "p40_box_3_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 430
+        },
+        "1": {
+          "x": 375,
+          "y": 258
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 23
+      },
+      "text": "4月21日"
+    },
+    {
+      "nodeId": "p40_box_4",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 26
+      }
+    },
+    {
+      "nodeId": "p40_box_4_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 580
+        },
+        "1": {
+          "x": 435,
+          "y": 348
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 28
+      },
+      "text": "4月21日"
+    },
+    {
+      "nodeId": "p40_box_5",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 29
+      }
+    },
+    {
+      "nodeId": "p40_box_5_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 640
+        },
+        "1": {
+          "x": 435,
+          "y": 384
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 31
+      },
+      "text": "难得早起的朋也决定该做的事"
+    },
+    {
+      "nodeId": "p40_box_6",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 33
+      }
+    },
+    {
+      "nodeId": "p40_box_6_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 730
+        },
+        "1": {
+          "x": 255,
+          "y": 438
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 35
+      },
+      "text": "迟点再去吧"
+    },
+    {
+      "nodeId": "p40_box_6_1",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 730
+        },
+        "1": {
+          "x": 615,
+          "y": 438
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 37
+      },
+      "text": "认认真真起床上学"
+    },
+    {
+      "nodeId": "p40_box_7",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 40
+      }
+    },
+    {
+      "nodeId": "p40_box_7_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 790
+        },
+        "1": {
+          "x": 255,
+          "y": 474
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 42
+      },
+      "text": "通学路上，身后传来引擎声"
+    },
+    {
+      "nodeId": "p40_box_8",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 44
+      }
+    },
+    {
+      "nodeId": "p40_box_8_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 880
+        },
+        "1": {
+          "x": 15,
+          "y": 528
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 46
+      },
+      "text": "向右跳"
+    },
+    {
+      "nodeId": "p40_box_8_1",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 880
+        },
+        "1": {
+          "x": 255,
+          "y": 528
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 48
+      },
+      "text": "站稳等着它"
+    },
+    {
+      "nodeId": "p40_box_8_2",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 2
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 880
+        },
+        "1": {
+          "x": 495,
+          "y": 528
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 50
+      },
+      "text": "向左跳"
+    },
+    {
+      "nodeId": "p40_box_9",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 52
+      }
+    },
+    {
+      "nodeId": "p40_box_9_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 940
+        },
+        "1": {
+          "x": 15,
+          "y": 564
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 54
+      },
+      "text": "事发现场，某路人成为受害者"
+    },
+    {
+      "nodeId": "p40_box_10",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 10
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 56
+      }
+    },
+    {
+      "nodeId": "p40_box_10_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 1030
+        },
+        "1": {
+          "x": 15,
+          "y": 618
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 58
+      },
+      "text": "离开这里"
+    },
+    {
+      "nodeId": "p40_box_10_1",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1030
+        },
+        "1": {
+          "x": 255,
+          "y": 618
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 60
+      },
+      "text": "摇一摇他"
+    },
+    {
+      "nodeId": "p40_box_11",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 11
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 62
+      }
+    },
+    {
+      "nodeId": "p40_box_11_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 1120
+        },
+        "1": {
+          "x": 15,
+          "y": 672
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 64
+      },
+      "text": "受害者遗忘的简历"
+    },
+    {
+      "nodeId": "p40_box_11_1",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 1
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 1120
+        },
+        "1": {
+          "x": 615,
+          "y": 672
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 67
+      },
+      "text": "19日，春原准备威胁智代"
+    },
+    {
+      "nodeId": "p40_box_12",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 12
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 69
+      }
+    },
+    {
+      "nodeId": "p40_box_12_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 1210
+        },
+        "1": {
+          "x": 15,
+          "y": 726
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 71
+      },
+      "text": "查清地址后送给他"
+    },
+    {
+      "nodeId": "p40_box_12_1",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1210
+        },
+        "1": {
+          "x": 255,
+          "y": 726
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 73
+      },
+      "text": "撕了扔掉"
+    },
+    {
+      "nodeId": "p40_box_12_2",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 2
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1210
+        },
+        "1": {
+          "x": 495,
+          "y": 726
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 75
+      },
+      "text": "劝他放弃"
+    },
+    {
+      "nodeId": "p40_box_12_3",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 3
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 1210
+        },
+        "1": {
+          "x": 735,
+          "y": 726
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 77
+      },
+      "text": "不去管他",
+      "routeHints": "r|+未触发"
+    },
+    {
+      "nodeId": "p40_box_13",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 13
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 79
+      }
+    },
+    {
+      "nodeId": "p40_box_13_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 13,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1270
+        },
+        "1": {
+          "x": 495,
+          "y": 762
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 81
+      },
+      "text": "坂道上遇到呆望樱花中的智代"
+    },
+    {
+      "nodeId": "p40_box_14",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 14
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 83
+      }
+    },
+    {
+      "nodeId": "p40_box_14_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1360
+        },
+        "1": {
+          "x": 375,
+          "y": 816
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 85
+      },
+      "text": "打招呼"
+    },
+    {
+      "nodeId": "p40_box_14_1",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 1360
+        },
+        "1": {
+          "x": 615,
+          "y": 816
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 87
+      },
+      "text": "不理她"
+    },
+    {
+      "nodeId": "p40_box_15",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 15
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 96
+      }
+    },
+    {
+      "nodeId": "p40_box_15_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 0
+      },
+      "kind": "Textbox_Selection_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 1510
+        },
+        "1": {
+          "x": 435,
+          "y": 906
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 104
+      },
+      "text": "介意的琴美"
+    },
+    {
+      "nodeId": "p40_box_16",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 16
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 106
+      }
+    },
+    {
+      "nodeId": "p40_box_16_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 16,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 1600
+        },
+        "1": {
+          "x": 315,
+          "y": 960
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 108
+      },
+      "text": "回答说『不是』"
+    },
+    {
+      "nodeId": "p40_box_16_1",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 16,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 925,
+          "y": 1600
+        },
+        "1": {
+          "x": 555,
+          "y": 960
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 110
+      },
+      "text": "稍稍逗她玩一下"
+    },
+    {
+      "nodeId": "p40_box_17",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 17
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 112
+      }
+    },
+    {
+      "nodeId": "p40_box_17_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 17,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 1690
+        },
+        "1": {
+          "x": 435,
+          "y": 1014
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 114
+      },
+      "text": "4月23日"
+    },
+    {
+      "nodeId": "p40_box_18",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 18
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 117
+      }
+    },
+    {
+      "nodeId": "p40_box_18_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 18,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1840
+        },
+        "1": {
+          "x": 375,
+          "y": 1104
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 119
+      },
+      "text": "4月23日"
+    },
+    {
+      "nodeId": "p40_box_19",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 19
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 120
+      }
+    },
+    {
+      "nodeId": "p40_box_19_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 19,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1900
+        },
+        "1": {
+          "x": 375,
+          "y": 1140
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 122
+      },
+      "text": "学校的广播"
+    },
+    {
+      "nodeId": "p40_box_20",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 20
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 124
+      }
+    },
+    {
+      "nodeId": "p40_box_20_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 20,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1990
+        },
+        "1": {
+          "x": 255,
+          "y": 1194
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 126
+      },
+      "text": "去办公室看看"
+    },
+    {
+      "nodeId": "p40_box_20_1",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 20,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1990
+        },
+        "1": {
+          "x": 495,
+          "y": 1194
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 128
+      },
+      "text": "再等一会儿"
+    },
+    {
+      "nodeId": "p40_box_21",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "index": 21
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 130
+      }
+    },
+    {
+      "nodeId": "p40_box_21_0",
+      "page": 40,
+      "boxRef": {
+        "varName": "box",
+        "row": 21,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 2080
+        },
+        "1": {
+          "x": 375,
+          "y": 1248
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 132
+      },
+      "text": "4月25日"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p40_edge_14",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 14
+      },
+      "from": "p40_box_1_0",
+      "to": "p40_box_0_0"
+    },
+    {
+      "edgeId": "p40_edge_18",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 18
+      },
+      "from": "p40_box_2_0",
+      "to": "p40_box_1_0"
+    },
+    {
+      "edgeId": "p40_edge_20",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 20
+      },
+      "from": "p40_box_2_1",
+      "to": "p40_box_1_0"
+    },
+    {
+      "edgeId": "p40_edge_24",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 24
+      },
+      "from": "p40_box_3_0",
+      "to": "p40_box_2_0"
+    },
+    {
+      "edgeId": "p40_edge_25",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 25
+      },
+      "from": "p40_box_3_0",
+      "to": "p40_box_2_1"
+    },
+    {
+      "edgeId": "p40_edge_32",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 32
+      },
+      "from": "p40_box_5_0",
+      "to": "p40_box_4_0"
+    },
+    {
+      "edgeId": "p40_edge_36",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 700
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 420
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 36
+      },
+      "from": "p40_box_6_0",
+      "to": "p40_box_6_0"
+    },
+    {
+      "edgeId": "p40_edge_38",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 700
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 420
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 38
+      },
+      "from": "p40_box_6_1",
+      "to": "p40_box_6_1"
+    },
+    {
+      "edgeId": "p40_edge_39",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 900,
+            "y": 700
+          }
+        ],
+        "1": [
+          {
+            "x": 540,
+            "y": 420
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 39
+      },
+      "from": "p40_box_5_0",
+      "to": "p40_box_5_0"
+    },
+    {
+      "edgeId": "p40_edge_43",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 43
+      },
+      "from": "p40_box_7_0",
+      "to": "p40_box_6_0"
+    },
+    {
+      "edgeId": "p40_edge_47",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 47
+      },
+      "from": "p40_box_8_0",
+      "to": "p40_box_7_0"
+    },
+    {
+      "edgeId": "p40_edge_49",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 49
+      },
+      "from": "p40_box_8_1",
+      "to": "p40_box_7_0"
+    },
+    {
+      "edgeId": "p40_edge_51",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 51
+      },
+      "from": "p40_box_8_2",
+      "to": "p40_box_7_0"
+    },
+    {
+      "edgeId": "p40_edge_55",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 55
+      },
+      "from": "p40_box_9_0",
+      "to": "p40_box_8_0"
+    },
+    {
+      "edgeId": "p40_edge_59",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 59
+      },
+      "from": "p40_box_10_0",
+      "to": "p40_box_9_0"
+    },
+    {
+      "edgeId": "p40_edge_61",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 61
+      },
+      "from": "p40_box_10_1",
+      "to": "p40_box_9_0"
+    },
+    {
+      "edgeId": "p40_edge_65",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 65
+      },
+      "from": "p40_box_11_0",
+      "to": "p40_box_10_0"
+    },
+    {
+      "edgeId": "p40_edge_66",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 66
+      },
+      "from": "p40_box_11_0",
+      "to": "p40_box_10_1"
+    },
+    {
+      "edgeId": "p40_edge_68",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 68
+      },
+      "from": "p40_box_11_1",
+      "to": "p40_box_6_1"
+    },
+    {
+      "edgeId": "p40_edge_72",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 72
+      },
+      "from": "p40_box_12_0",
+      "to": "p40_box_11_0"
+    },
+    {
+      "edgeId": "p40_edge_74",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 74
+      },
+      "from": "p40_box_12_1",
+      "to": "p40_box_11_0"
+    },
+    {
+      "edgeId": "p40_edge_76",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 76
+      },
+      "from": "p40_box_12_2",
+      "to": "p40_box_11_1"
+    },
+    {
+      "edgeId": "p40_edge_78",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 78
+      },
+      "from": "p40_box_12_3",
+      "to": "p40_box_11_1"
+    },
+    {
+      "edgeId": "p40_edge_82",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 82
+      },
+      "from": "p40_box_13_0",
+      "to": "p40_box_12_2"
+    },
+    {
+      "edgeId": "p40_edge_86",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 86
+      },
+      "from": "p40_box_14_0",
+      "to": "p40_box_13_0"
+    },
+    {
+      "edgeId": "p40_edge_88",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 88
+      },
+      "from": "p40_box_14_1",
+      "to": "p40_box_13_0"
+    },
+    {
+      "edgeId": "p40_edge_89",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 1480
+          },
+          {
+            "x": 600,
+            "y": 1330
+          },
+          {
+            "x": 400,
+            "y": 1300
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 888
+          },
+          {
+            "x": 360,
+            "y": 798
+          },
+          {
+            "x": 240,
+            "y": 780
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 89
+      },
+      "from": "p40_box_12_0",
+      "to": "p40_box_12_0"
+    },
+    {
+      "edgeId": "p40_edge_90",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 1480
+          },
+          {
+            "x": 600,
+            "y": 1330
+          },
+          {
+            "x": 400,
+            "y": 1300
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 888
+          },
+          {
+            "x": 360,
+            "y": 798
+          },
+          {
+            "x": 240,
+            "y": 780
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 90
+      },
+      "from": "p40_box_12_1",
+      "to": "p40_box_12_1"
+    },
+    {
+      "edgeId": "p40_edge_91",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 1480
+          },
+          {
+            "x": 600,
+            "y": 1330
+          },
+          {
+            "x": 800,
+            "y": 970
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 888
+          },
+          {
+            "x": 360,
+            "y": 798
+          },
+          {
+            "x": 480,
+            "y": 582
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 91
+      },
+      "from": "p40_box_8_1",
+      "to": "p40_box_8_1"
+    },
+    {
+      "edgeId": "p40_edge_92",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 1480
+          },
+          {
+            "x": 600,
+            "y": 1330
+          },
+          {
+            "x": 800,
+            "y": 970
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 888
+          },
+          {
+            "x": 360,
+            "y": 798
+          },
+          {
+            "x": 480,
+            "y": 582
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 92
+      },
+      "from": "p40_box_8_2",
+      "to": "p40_box_8_2"
+    },
+    {
+      "edgeId": "p40_edge_93",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 1480
+          },
+          {
+            "x": 1200,
+            "y": 1480
+          },
+          {
+            "x": 1000,
+            "y": 1450
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 888
+          },
+          {
+            "x": 720,
+            "y": 888
+          },
+          {
+            "x": 600,
+            "y": 870
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 93
+      },
+      "from": "p40_box_14_0",
+      "to": "p40_box_14_0"
+    },
+    {
+      "edgeId": "p40_edge_94",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 1480
+          },
+          {
+            "x": 1200,
+            "y": 1480
+          },
+          {
+            "x": 1000,
+            "y": 1450
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 888
+          },
+          {
+            "x": 720,
+            "y": 888
+          },
+          {
+            "x": 600,
+            "y": 870
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 94
+      },
+      "from": "p40_box_14_1",
+      "to": "p40_box_14_1"
+    },
+    {
+      "edgeId": "p40_edge_95",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 1480
+          },
+          {
+            "x": 1200,
+            "y": 1480
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 888
+          },
+          {
+            "x": 720,
+            "y": 888
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 95
+      },
+      "from": "p40_box_12_3",
+      "to": "p40_box_12_3"
+    },
+    {
+      "edgeId": "p40_edge_105",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 900,
+            "y": 1480
+          }
+        ],
+        "1": [
+          {
+            "x": 540,
+            "y": 888
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 105
+      },
+      "from": "p40_box_15_0",
+      "to": "p40_box_15_0"
+    },
+    {
+      "edgeId": "p40_edge_109",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 109
+      },
+      "from": "p40_box_16_0",
+      "to": "p40_box_15_0"
+    },
+    {
+      "edgeId": "p40_edge_111",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 111
+      },
+      "from": "p40_box_16_1",
+      "to": "p40_box_15_0"
+    },
+    {
+      "edgeId": "p40_edge_115",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 115
+      },
+      "from": "p40_box_17_0",
+      "to": "p40_box_16_0"
+    },
+    {
+      "edgeId": "p40_edge_116",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 116
+      },
+      "from": "p40_box_17_0",
+      "to": "p40_box_16_1"
+    },
+    {
+      "edgeId": "p40_edge_123",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 123
+      },
+      "from": "p40_box_19_0",
+      "to": "p40_box_18_0"
+    },
+    {
+      "edgeId": "p40_edge_127",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 127
+      },
+      "from": "p40_box_20_0",
+      "to": "p40_box_19_0"
+    },
+    {
+      "edgeId": "p40_edge_129",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 129
+      },
+      "from": "p40_box_20_1",
+      "to": "p40_box_19_0"
+    },
+    {
+      "edgeId": "p40_edge_133",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 133
+      },
+      "from": "p40_box_21_0",
+      "to": "p40_box_20_0"
+    },
+    {
+      "edgeId": "p40_edge_134",
+      "page": 40,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page40.js",
+        "page": 40,
+        "stmtIndex": 134
+      },
+      "from": "p40_box_21_0",
+      "to": "p40_box_20_1"
+    }
+  ],
+  "unknownStatements": 2,
+  "notes": [
+    "next"
+  ]
+}

@@ -1,0 +1,1077 @@
+{
+  "page": 20,
+  "sourceFile": "next/Data/page20.js",
+  "header": {
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "4月23日（三）",
+    "dateE": "April 23th~Part 3"
+  },
+  "footer": {
+    "page": 20
+  },
+  "nodes": [
+    {
+      "nodeId": "p20_box_0",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 2
+      }
+    },
+    {
+      "nodeId": "p20_box_0_0",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 190
+        },
+        "1": {
+          "x": 315,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 4
+      },
+      "text": "22日，被春原利用，智代陷入窘境"
+    },
+    {
+      "nodeId": "p20_box_1",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 9
+      }
+    },
+    {
+      "nodeId": "p20_box_1_0",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 280
+        },
+        "1": {
+          "x": 135,
+          "y": 168
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 11
+      },
+      "text": "和春原一起享受",
+      "routeHints": "l|+未触发"
+    },
+    {
+      "nodeId": "p20_box_1_1",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 280
+        },
+        "1": {
+          "x": 495,
+          "y": 168
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 13
+      },
+      "text": "该阻止他了"
+    },
+    {
+      "nodeId": "p20_box_2",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 15
+      }
+    },
+    {
+      "nodeId": "p20_box_2_0",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 0
+      },
+      "kind": "Textbox_Selection_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 340
+        },
+        "1": {
+          "x": 135,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 23
+      },
+      "text": "春原的妹妹打来电话"
+    },
+    {
+      "nodeId": "p20_box_3",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 25
+      }
+    },
+    {
+      "nodeId": "p20_box_3_0",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 430
+        },
+        "1": {
+          "x": 135,
+          "y": 258
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 27
+      },
+      "text": "代春原接听",
+      "routeHints": "l|芽衣"
+    },
+    {
+      "nodeId": "p20_box_3_1",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 430
+        },
+        "1": {
+          "x": 375,
+          "y": 258
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 29
+      },
+      "text": "不代他接听",
+      "routeHints": "r|芽衣"
+    },
+    {
+      "nodeId": "p20_box_4",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 32
+      }
+    },
+    {
+      "nodeId": "p20_box_4_0",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 520
+        },
+        "1": {
+          "x": 495,
+          "y": 312
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 34
+      },
+      "text": "15日庭院中少女的谈话"
+    },
+    {
+      "nodeId": "p20_box_5",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 36
+      }
+    },
+    {
+      "nodeId": "p20_box_5_0",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 610
+        },
+        "1": {
+          "x": 255,
+          "y": 366
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 38
+      },
+      "text": "是时候离开了",
+      "routeHints": "l|+未触发"
+    },
+    {
+      "nodeId": "p20_box_5_1",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 610
+        },
+        "1": {
+          "x": 495,
+          "y": 366
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 40
+      },
+      "text": "在继续谈话"
+    },
+    {
+      "nodeId": "p20_box_6",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 43
+      }
+    },
+    {
+      "nodeId": "p20_box_6_0",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 670
+        },
+        "1": {
+          "x": 495,
+          "y": 402
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 45
+      },
+      "text": "打架的借口"
+    },
+    {
+      "nodeId": "p20_box_7",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 47
+      }
+    },
+    {
+      "nodeId": "p20_box_7_0",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 760
+        },
+        "1": {
+          "x": 255,
+          "y": 456
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 49
+      },
+      "text": "那家伙以话剧社为目标",
+      "routeHints": "l|智代"
+    },
+    {
+      "nodeId": "p20_box_7_1",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 760
+        },
+        "1": {
+          "x": 495,
+          "y": 456
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 51
+      },
+      "text": "那家伙休学了很长时间",
+      "routeHints": "l|-智代"
+    },
+    {
+      "nodeId": "p20_box_7_2",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 2
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 760
+        },
+        "1": {
+          "x": 735,
+          "y": 456
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 53
+      },
+      "text": "那家伙吃过豆沙包",
+      "routeHints": "r|智代"
+    },
+    {
+      "nodeId": "p20_box_8",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 55
+      }
+    },
+    {
+      "nodeId": "p20_box_8_0",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 880
+        },
+        "1": {
+          "x": 315,
+          "y": 528
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 57
+      },
+      "text": "幻想世界（五）"
+    },
+    {
+      "nodeId": "p20_box_9",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 63
+      }
+    },
+    {
+      "nodeId": "p20_box_9_0",
+      "page": 20,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 940
+        },
+        "1": {
+          "x": 315,
+          "y": 564
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 65
+      },
+      "text": "4月24日"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p20_edge_5",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 5
+      }
+    },
+    {
+      "edgeId": "p20_edge_8",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 250
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 150
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 8
+      },
+      "from": "p20_box_0_0",
+      "to": "p20_box_0_0"
+    },
+    {
+      "edgeId": "p20_edge_12",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 250
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 150
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 12
+      },
+      "from": "p20_box_1_0",
+      "to": "p20_box_1_0"
+    },
+    {
+      "edgeId": "p20_edge_14",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 250
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 150
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 14
+      },
+      "from": "p20_box_1_1",
+      "to": "p20_box_1_1"
+    },
+    {
+      "edgeId": "p20_edge_24",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 24
+      },
+      "from": "p20_box_2_0",
+      "to": "p20_box_1_0"
+    },
+    {
+      "edgeId": "p20_edge_28",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 28
+      },
+      "from": "p20_box_3_0",
+      "to": "p20_box_2_0"
+    },
+    {
+      "edgeId": "p20_edge_30",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 30
+      },
+      "from": "p20_box_3_1",
+      "to": "p20_box_2_0"
+    },
+    {
+      "edgeId": "p20_edge_31",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 400,
+            "y": 520
+          }
+        ],
+        "1": [
+          {
+            "x": 240,
+            "y": 312
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 31
+      },
+      "from": "p20_box_3_1",
+      "to": "p20_box_3_1"
+    },
+    {
+      "edgeId": "p20_edge_35",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 35
+      },
+      "from": "p20_box_4_0",
+      "to": "p20_box_1_1"
+    },
+    {
+      "edgeId": "p20_edge_39",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 39
+      },
+      "from": "p20_box_5_0",
+      "to": "p20_box_4_0"
+    },
+    {
+      "edgeId": "p20_edge_41",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 41
+      },
+      "from": "p20_box_5_1",
+      "to": "p20_box_4_0"
+    },
+    {
+      "edgeId": "p20_edge_42",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 400,
+            "y": 700
+          }
+        ],
+        "1": [
+          {
+            "x": 240,
+            "y": 420
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 42
+      },
+      "from": "p20_box_5_0",
+      "to": "p20_box_5_0"
+    },
+    {
+      "edgeId": "p20_edge_46",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 46
+      },
+      "from": "p20_box_6_0",
+      "to": "p20_box_5_1"
+    },
+    {
+      "edgeId": "p20_edge_50",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 50
+      },
+      "from": "p20_box_7_0",
+      "to": "p20_box_6_0"
+    },
+    {
+      "edgeId": "p20_edge_52",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 52
+      },
+      "from": "p20_box_7_1",
+      "to": "p20_box_6_0"
+    },
+    {
+      "edgeId": "p20_edge_54",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 54
+      },
+      "from": "p20_box_7_2",
+      "to": "p20_box_6_0"
+    },
+    {
+      "edgeId": "p20_edge_58",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 850
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 510
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 58
+      },
+      "from": "p20_box_7_0",
+      "to": "p20_box_7_0"
+    },
+    {
+      "edgeId": "p20_edge_59",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 850
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 510
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 59
+      },
+      "from": "p20_box_7_1",
+      "to": "p20_box_7_1"
+    },
+    {
+      "edgeId": "p20_edge_60",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 850
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 510
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 60
+      },
+      "from": "p20_box_7_2",
+      "to": "p20_box_7_2"
+    },
+    {
+      "edgeId": "p20_edge_61",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 850
+          },
+          {
+            "x": 400,
+            "y": 850
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 510
+          },
+          {
+            "x": 240,
+            "y": 510
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 61
+      },
+      "from": "p20_box_3_0",
+      "to": "p20_box_3_0"
+    },
+    {
+      "edgeId": "p20_edge_62",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 850
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 510
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 62
+      },
+      "from": "p20_box_8_0",
+      "to": "p20_box_8_0"
+    },
+    {
+      "edgeId": "p20_edge_66",
+      "page": 20,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page20.js",
+        "page": 20,
+        "stmtIndex": 66
+      },
+      "from": "p20_box_9_0",
+      "to": "p20_box_8_0"
+    }
+  ],
+  "unknownStatements": 5,
+  "notes": [
+    "next"
+  ]
+}

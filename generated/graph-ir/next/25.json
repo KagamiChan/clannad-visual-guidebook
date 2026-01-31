@@ -1,0 +1,2790 @@
+{
+  "page": 25,
+  "sourceFile": "next/Data/page25.js",
+  "header": {
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "春原的玩笑",
+    "dateE": "Sunohara's Jokes"
+  },
+  "footer": {
+    "page": 25
+  },
+  "nodes": [
+    {
+      "nodeId": "p25_box_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 2
+      }
+    },
+    {
+      "nodeId": "p25_box_0_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 190
+        },
+        "1": {
+          "x": 15,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 4
+      },
+      "text": "春原的玩笑（一）"
+    },
+    {
+      "nodeId": "p25_box_0_1",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 190
+        },
+        "1": {
+          "x": 375,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 7
+      },
+      "text": "表演的情景（一）"
+    },
+    {
+      "nodeId": "p25_box_1",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 9
+      }
+    },
+    {
+      "nodeId": "p25_box_1_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 280
+        },
+        "1": {
+          "x": 135,
+          "y": 168
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 11
+      },
+      "text": "先自我介绍"
+    },
+    {
+      "nodeId": "p25_box_1_1",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 280
+        },
+        "1": {
+          "x": 375,
+          "y": 168
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 13
+      },
+      "text": "问候说『你好』"
+    },
+    {
+      "nodeId": "p25_box_1_2",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 2
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 280
+        },
+        "1": {
+          "x": 615,
+          "y": 168
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 15
+      },
+      "text": "先摆出一副找到了我的样子"
+    },
+    {
+      "nodeId": "p25_box_2",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 22
+      }
+    },
+    {
+      "nodeId": "p25_box_2_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 460
+        },
+        "1": {
+          "x": 15,
+          "y": 276
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 24
+      },
+      "text": "春原的玩笑（二）"
+    },
+    {
+      "nodeId": "p25_box_2_1",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 1
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 460
+        },
+        "1": {
+          "x": 375,
+          "y": 276
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 27
+      },
+      "text": "21日，有智代的陪同"
+    },
+    {
+      "nodeId": "p25_box_3",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 29
+      }
+    },
+    {
+      "nodeId": "p25_box_3_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 550
+        },
+        "1": {
+          "x": 15,
+          "y": 330
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 31
+      },
+      "text": "的确不错"
+    },
+    {
+      "nodeId": "p25_box_3_1",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 550
+        },
+        "1": {
+          "x": 735,
+          "y": 330
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 33
+      },
+      "text": "是这样吗",
+      "routeHints": "r|+未触发"
+    },
+    {
+      "nodeId": "p25_box_4",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 35
+      }
+    },
+    {
+      "nodeId": "p25_box_4_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 610
+        },
+        "1": {
+          "x": 15,
+          "y": 366
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 37
+      },
+      "text": "表演的情景（二）"
+    },
+    {
+      "nodeId": "p25_box_5",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 39
+      }
+    },
+    {
+      "nodeId": "p25_box_5_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 700
+        },
+        "1": {
+          "x": 15,
+          "y": 420
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 41
+      },
+      "text": "先自我介绍"
+    },
+    {
+      "nodeId": "p25_box_5_1",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 700
+        },
+        "1": {
+          "x": 255,
+          "y": 420
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 43
+      },
+      "text": "问候说『你好』"
+    },
+    {
+      "nodeId": "p25_box_5_2",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 2
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 700
+        },
+        "1": {
+          "x": 495,
+          "y": 420
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 45
+      },
+      "text": "先摆出一副找到了我的样子"
+    },
+    {
+      "nodeId": "p25_box_6",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 47
+      }
+    },
+    {
+      "nodeId": "p25_box_6_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 760
+        },
+        "1": {
+          "x": 735,
+          "y": 456
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 49
+      },
+      "text": "22日，表演的情景（一）"
+    },
+    {
+      "nodeId": "p25_box_7",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 51
+      }
+    },
+    {
+      "nodeId": "p25_box_7_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 850
+        },
+        "1": {
+          "x": 255,
+          "y": 510
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 53
+      },
+      "text": "先做自我介绍"
+    },
+    {
+      "nodeId": "p25_box_7_1",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 850
+        },
+        "1": {
+          "x": 495,
+          "y": 510
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 55
+      },
+      "text": "问候说『你好』"
+    },
+    {
+      "nodeId": "p25_box_7_2",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 2
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 850
+        },
+        "1": {
+          "x": 735,
+          "y": 510
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 57
+      },
+      "text": "先摆出一副找到了我的样子"
+    },
+    {
+      "nodeId": "p25_box_8",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 59
+      }
+    },
+    {
+      "nodeId": "p25_box_8_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 0
+      },
+      "kind": "Textbox_Block",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 910
+        },
+        "1": {
+          "x": 255,
+          "y": 546
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 61
+      },
+      "text": "B"
+    },
+    {
+      "nodeId": "p25_box_8_1",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 1
+      },
+      "kind": "Textbox_Block",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 910
+        },
+        "1": {
+          "x": 495,
+          "y": 546
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 65
+      },
+      "text": "A"
+    },
+    {
+      "nodeId": "p25_box_8_2",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 2
+      },
+      "kind": "Textbox_Block",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1225,
+          "y": 910
+        },
+        "1": {
+          "x": 735,
+          "y": 546
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 69
+      },
+      "text": "B"
+    },
+    {
+      "nodeId": "p25_box_9",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 80
+      }
+    },
+    {
+      "nodeId": "p25_box_9_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 1090
+        },
+        "1": {
+          "x": 15,
+          "y": 654
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 82
+      },
+      "text": "春原的玩笑（三）"
+    },
+    {
+      "nodeId": "p25_box_9_1",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 1
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1090
+        },
+        "1": {
+          "x": 495,
+          "y": 654
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 85
+      },
+      "text": "24日，有智代的陪同"
+    },
+    {
+      "nodeId": "p25_box_10",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "index": 10
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 87
+      }
+    },
+    {
+      "nodeId": "p25_box_10_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 1180
+        },
+        "1": {
+          "x": 315,
+          "y": 708
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 89
+      },
+      "text": "的确不错"
+    },
+    {
+      "nodeId": "p25_box_10_1",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1125,
+          "y": 1180
+        },
+        "1": {
+          "x": 675,
+          "y": 708
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 91
+      },
+      "text": "是这样吗？",
+      "routeHints": "r|+未触发"
+    },
+    {
+      "nodeId": "p25_box_11",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "index": 11
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 94
+      }
+    },
+    {
+      "nodeId": "p25_box_11_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 1240
+        },
+        "1": {
+          "x": 315,
+          "y": 744
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 96
+      },
+      "text": "23日，表演的情景（二）"
+    },
+    {
+      "nodeId": "p25_box_12",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "index": 12
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 98
+      }
+    },
+    {
+      "nodeId": "p25_box_12_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 125,
+          "y": 1330
+        },
+        "1": {
+          "x": 75,
+          "y": 798
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 100
+      },
+      "text": "先作自我介绍"
+    },
+    {
+      "nodeId": "p25_box_12_1",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 1330
+        },
+        "1": {
+          "x": 315,
+          "y": 798
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 102
+      },
+      "text": "问候说『你好』"
+    },
+    {
+      "nodeId": "p25_box_12_2",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 2
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 925,
+          "y": 1330
+        },
+        "1": {
+          "x": 555,
+          "y": 798
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 104
+      },
+      "text": "先摆出一副找到了我的样子"
+    },
+    {
+      "nodeId": "p25_box_13",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "index": 13
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 106
+      }
+    },
+    {
+      "nodeId": "p25_box_13_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 13,
+        "col": 0
+      },
+      "kind": "Textbox_Block",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 1390
+        },
+        "1": {
+          "x": 315,
+          "y": 834
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 108
+      },
+      "text": "A"
+    },
+    {
+      "nodeId": "p25_box_14",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "index": 14
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 118
+      }
+    },
+    {
+      "nodeId": "p25_box_14_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 0
+      },
+      "kind": "Textbox_Block",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 1570
+        },
+        "1": {
+          "x": 15,
+          "y": 942
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 120
+      },
+      "text": "A"
+    },
+    {
+      "nodeId": "p25_box_14_1",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1570
+        },
+        "1": {
+          "x": 375,
+          "y": 942
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 123
+      },
+      "text": "问候的附加惩罚"
+    },
+    {
+      "nodeId": "p25_box_15",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "index": 15
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 126
+      }
+    },
+    {
+      "nodeId": "p25_box_15_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1660
+        },
+        "1": {
+          "x": 135,
+          "y": 996
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 128
+      },
+      "text": "学嘴里先含上一口水再说"
+    },
+    {
+      "nodeId": "p25_box_15_1",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1660
+        },
+        "1": {
+          "x": 375,
+          "y": 996
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 130
+      },
+      "text": "每句话句尾都加上句『还有马桶盖』"
+    },
+    {
+      "nodeId": "p25_box_15_2",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 2
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 1660
+        },
+        "1": {
+          "x": 615,
+          "y": 996
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 132
+      },
+      "text": "学一石堂那样说话"
+    },
+    {
+      "nodeId": "p25_box_16",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "index": 16
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 139
+      }
+    },
+    {
+      "nodeId": "p25_box_16_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 16,
+        "col": 0
+      },
+      "kind": "Textbox_Block",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 1810
+        },
+        "1": {
+          "x": 15,
+          "y": 1086
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 141
+      },
+      "text": "B"
+    },
+    {
+      "nodeId": "p25_box_16_1",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 16,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1810
+        },
+        "1": {
+          "x": 375,
+          "y": 1086
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 144
+      },
+      "text": "自我介绍时的状态"
+    },
+    {
+      "nodeId": "p25_box_17",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "index": 17
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 147
+      }
+    },
+    {
+      "nodeId": "p25_box_17_0",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 17,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1900
+        },
+        "1": {
+          "x": 135,
+          "y": 1140
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 149
+      },
+      "text": "就像被回想场面占掉了好几卷的漫画"
+    },
+    {
+      "nodeId": "p25_box_17_1",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 17,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1900
+        },
+        "1": {
+          "x": 375,
+          "y": 1140
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 151
+      },
+      "text": "就像牺牲生命拯救了地球的宇航员"
+    },
+    {
+      "nodeId": "p25_box_17_2",
+      "page": 25,
+      "boxRef": {
+        "varName": "box",
+        "row": 17,
+        "col": 2
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 1900
+        },
+        "1": {
+          "x": 615,
+          "y": 1140
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 153
+      },
+      "text": "就像在站台分别的恋人"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p25_edge_8",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 8
+      }
+    },
+    {
+      "edgeId": "p25_edge_12",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 12
+      },
+      "from": "p25_box_1_0",
+      "to": "p25_box_0_1"
+    },
+    {
+      "edgeId": "p25_edge_14",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 14
+      },
+      "from": "p25_box_1_1",
+      "to": "p25_box_0_1"
+    },
+    {
+      "edgeId": "p25_edge_16",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 16
+      },
+      "from": "p25_box_1_2",
+      "to": "p25_box_0_1"
+    },
+    {
+      "edgeId": "p25_edge_18",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 340
+          },
+          {
+            "x": 400,
+            "y": 340
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 204
+          },
+          {
+            "x": 240,
+            "y": 204
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 18
+      },
+      "from": "p25_box_1_0",
+      "to": "p25_box_1_0"
+    },
+    {
+      "edgeId": "p25_edge_19",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 340
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 204
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 19
+      },
+      "from": "p25_box_1_1",
+      "to": "p25_box_1_1"
+    },
+    {
+      "edgeId": "p25_edge_20",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 340
+          },
+          {
+            "x": 1200,
+            "y": 340
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 204
+          },
+          {
+            "x": 720,
+            "y": 204
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 20
+      },
+      "from": "p25_box_1_2",
+      "to": "p25_box_1_2"
+    },
+    {
+      "edgeId": "p25_edge_21",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 340
+          },
+          {
+            "x": 800,
+            "y": 340
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 204
+          },
+          {
+            "x": 480,
+            "y": 204
+          }
+        ]
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 21
+      }
+    },
+    {
+      "edgeId": "p25_edge_28",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 28
+      }
+    },
+    {
+      "edgeId": "p25_edge_32",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 32
+      },
+      "from": "p25_box_3_0",
+      "to": "p25_box_2_1"
+    },
+    {
+      "edgeId": "p25_edge_34",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 34
+      },
+      "from": "p25_box_3_1",
+      "to": "p25_box_2_1"
+    },
+    {
+      "edgeId": "p25_edge_38",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 38
+      },
+      "from": "p25_box_4_0",
+      "to": "p25_box_3_0"
+    },
+    {
+      "edgeId": "p25_edge_42",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 42
+      },
+      "from": "p25_box_5_0",
+      "to": "p25_box_4_0"
+    },
+    {
+      "edgeId": "p25_edge_44",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 44
+      },
+      "from": "p25_box_5_1",
+      "to": "p25_box_4_0"
+    },
+    {
+      "edgeId": "p25_edge_46",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 46
+      },
+      "from": "p25_box_5_2",
+      "to": "p25_box_4_0"
+    },
+    {
+      "edgeId": "p25_edge_50",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 50
+      },
+      "from": "p25_box_6_0",
+      "to": "p25_box_3_1"
+    },
+    {
+      "edgeId": "p25_edge_54",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 54
+      },
+      "from": "p25_box_7_0",
+      "to": "p25_box_6_0"
+    },
+    {
+      "edgeId": "p25_edge_56",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 56
+      },
+      "from": "p25_box_7_1",
+      "to": "p25_box_6_0"
+    },
+    {
+      "edgeId": "p25_edge_58",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 58
+      },
+      "from": "p25_box_7_2",
+      "to": "p25_box_6_0"
+    },
+    {
+      "edgeId": "p25_edge_64",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 64
+      },
+      "from": "p25_box_8_0",
+      "to": "p25_box_7_0"
+    },
+    {
+      "edgeId": "p25_edge_68",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 68
+      },
+      "from": "p25_box_8_1",
+      "to": "p25_box_7_1"
+    },
+    {
+      "edgeId": "p25_edge_71",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 71
+      },
+      "from": "p25_box_8_2",
+      "to": "p25_box_7_2"
+    },
+    {
+      "edgeId": "p25_edge_73",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1000
+          },
+          {
+            "x": 200,
+            "y": 1000
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 600
+          },
+          {
+            "x": 120,
+            "y": 600
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 73
+      },
+      "from": "p25_box_5_0",
+      "to": "p25_box_5_0"
+    },
+    {
+      "edgeId": "p25_edge_74",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1000
+          },
+          {
+            "x": 200,
+            "y": 1000
+          },
+          {
+            "x": 200,
+            "y": 790
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 600
+          },
+          {
+            "x": 120,
+            "y": 600
+          },
+          {
+            "x": 120,
+            "y": 474
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 74
+      },
+      "from": "p25_box_5_1",
+      "to": "p25_box_5_1"
+    },
+    {
+      "edgeId": "p25_edge_75",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1000
+          },
+          {
+            "x": 200,
+            "y": 1000
+          },
+          {
+            "x": 200,
+            "y": 790
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 600
+          },
+          {
+            "x": 120,
+            "y": 600
+          },
+          {
+            "x": 120,
+            "y": 474
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 75
+      },
+      "from": "p25_box_5_2",
+      "to": "p25_box_5_2"
+    },
+    {
+      "edgeId": "p25_edge_76",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1000
+          },
+          {
+            "x": 1400,
+            "y": 1000
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 600
+          },
+          {
+            "x": 840,
+            "y": 600
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 76
+      },
+      "from": "p25_box_7_2",
+      "to": "p25_box_7_2"
+    },
+    {
+      "edgeId": "p25_edge_77",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1000
+          },
+          {
+            "x": 1400,
+            "y": 1000
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 600
+          },
+          {
+            "x": 840,
+            "y": 600
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 77
+      },
+      "from": "p25_box_7_1",
+      "to": "p25_box_7_1"
+    },
+    {
+      "edgeId": "p25_edge_78",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1000
+          },
+          {
+            "x": 1400,
+            "y": 1000
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 600
+          },
+          {
+            "x": 840,
+            "y": 600
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 78
+      },
+      "from": "p25_box_7_0",
+      "to": "p25_box_7_0"
+    },
+    {
+      "edgeId": "p25_edge_79",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1000
+          },
+          {
+            "x": 800,
+            "y": 1000
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 600
+          },
+          {
+            "x": 480,
+            "y": 600
+          }
+        ]
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 79
+      }
+    },
+    {
+      "edgeId": "p25_edge_86",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 86
+      }
+    },
+    {
+      "edgeId": "p25_edge_90",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1100,
+            "y": 1150
+          }
+        ],
+        "1": [
+          {
+            "x": 660,
+            "y": 690
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 90
+      },
+      "from": "p25_box_10_0",
+      "to": "p25_box_10_0"
+    },
+    {
+      "edgeId": "p25_edge_92",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 900,
+            "y": 1150
+          }
+        ],
+        "1": [
+          {
+            "x": 540,
+            "y": 690
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 92
+      },
+      "from": "p25_box_10_1",
+      "to": "p25_box_10_1"
+    },
+    {
+      "edgeId": "p25_edge_93",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 1150
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 690
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 93
+      },
+      "from": "p25_box_9_1",
+      "to": "p25_box_9_1"
+    },
+    {
+      "edgeId": "p25_edge_97",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 97
+      },
+      "from": "p25_box_11_0",
+      "to": "p25_box_10_0"
+    },
+    {
+      "edgeId": "p25_edge_101",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 101
+      },
+      "from": "p25_box_12_0",
+      "to": "p25_box_11_0"
+    },
+    {
+      "edgeId": "p25_edge_103",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 103
+      },
+      "from": "p25_box_12_1",
+      "to": "p25_box_11_0"
+    },
+    {
+      "edgeId": "p25_edge_105",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 105
+      },
+      "from": "p25_box_12_2",
+      "to": "p25_box_11_0"
+    },
+    {
+      "edgeId": "p25_edge_110",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 110
+      },
+      "from": "p25_box_13_0",
+      "to": "p25_box_12_1"
+    },
+    {
+      "edgeId": "p25_edge_111",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 111
+      }
+    },
+    {
+      "edgeId": "p25_edge_113",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 1480
+          },
+          {
+            "x": 1300,
+            "y": 1480
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 888
+          },
+          {
+            "x": 780,
+            "y": 888
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 113
+      },
+      "from": "p25_box_10_1",
+      "to": "p25_box_10_1"
+    },
+    {
+      "edgeId": "p25_edge_114",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 1480
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 888
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 114
+      },
+      "from": "p25_box_13_0",
+      "to": "p25_box_13_0"
+    },
+    {
+      "edgeId": "p25_edge_115",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 1480
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 888
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 115
+      },
+      "from": "p25_box_12_0",
+      "to": "p25_box_12_0"
+    },
+    {
+      "edgeId": "p25_edge_116",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 1480
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 888
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 116
+      },
+      "from": "p25_box_12_2",
+      "to": "p25_box_12_2"
+    },
+    {
+      "edgeId": "p25_edge_117",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 1480
+          },
+          {
+            "x": 1000,
+            "y": 1480
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 888
+          },
+          {
+            "x": 600,
+            "y": 888
+          }
+        ]
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 117
+      }
+    },
+    {
+      "edgeId": "p25_edge_124",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 124
+      }
+    },
+    {
+      "edgeId": "p25_edge_129",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 129
+      },
+      "from": "p25_box_15_0",
+      "to": "p25_box_14_1"
+    },
+    {
+      "edgeId": "p25_edge_131",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 131
+      },
+      "from": "p25_box_15_1",
+      "to": "p25_box_14_1"
+    },
+    {
+      "edgeId": "p25_edge_133",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 133
+      },
+      "from": "p25_box_15_2",
+      "to": "p25_box_14_1"
+    },
+    {
+      "edgeId": "p25_edge_135",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1720
+          },
+          {
+            "x": 400,
+            "y": 1720
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1032
+          },
+          {
+            "x": 240,
+            "y": 1032
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 135
+      },
+      "from": "p25_box_15_0",
+      "to": "p25_box_15_0"
+    },
+    {
+      "edgeId": "p25_edge_136",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1720
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1032
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 136
+      },
+      "from": "p25_box_15_1",
+      "to": "p25_box_15_1"
+    },
+    {
+      "edgeId": "p25_edge_137",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1720
+          },
+          {
+            "x": 1200,
+            "y": 1720
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1032
+          },
+          {
+            "x": 720,
+            "y": 1032
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 137
+      },
+      "from": "p25_box_15_2",
+      "to": "p25_box_15_2"
+    },
+    {
+      "edgeId": "p25_edge_138",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1720
+          },
+          {
+            "x": 800,
+            "y": 1720
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1032
+          },
+          {
+            "x": 480,
+            "y": 1032
+          }
+        ]
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 138
+      }
+    },
+    {
+      "edgeId": "p25_edge_145",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 145
+      }
+    },
+    {
+      "edgeId": "p25_edge_150",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 150
+      },
+      "from": "p25_box_17_0",
+      "to": "p25_box_16_1"
+    },
+    {
+      "edgeId": "p25_edge_152",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 152
+      },
+      "from": "p25_box_17_1",
+      "to": "p25_box_16_1"
+    },
+    {
+      "edgeId": "p25_edge_154",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 154
+      },
+      "from": "p25_box_17_2",
+      "to": "p25_box_16_1"
+    },
+    {
+      "edgeId": "p25_edge_156",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1960
+          },
+          {
+            "x": 400,
+            "y": 1960
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1176
+          },
+          {
+            "x": 240,
+            "y": 1176
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 156
+      },
+      "from": "p25_box_17_0",
+      "to": "p25_box_17_0"
+    },
+    {
+      "edgeId": "p25_edge_157",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1960
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1176
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 157
+      },
+      "from": "p25_box_17_1",
+      "to": "p25_box_17_1"
+    },
+    {
+      "edgeId": "p25_edge_158",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1960
+          },
+          {
+            "x": 1200,
+            "y": 1960
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1176
+          },
+          {
+            "x": 720,
+            "y": 1176
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 158
+      },
+      "from": "p25_box_17_2",
+      "to": "p25_box_17_2"
+    },
+    {
+      "edgeId": "p25_edge_159",
+      "page": 25,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1960
+          },
+          {
+            "x": 800,
+            "y": 1960
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1176
+          },
+          {
+            "x": 480,
+            "y": 1176
+          }
+        ]
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page25.js",
+        "page": 25,
+        "stmtIndex": 159
+      }
+    }
+  ],
+  "unknownStatements": 18,
+  "notes": [
+    "next"
+  ]
+}

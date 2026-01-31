@@ -1,0 +1,1785 @@
+{
+  "page": 29,
+  "sourceFile": "next/Data/page29.js",
+  "header": {
+    "route": "tomoyo",
+    "routeC": "坂上 智代",
+    "routeE": "Tomoyo Sakagami",
+    "dateC": "5月6日～5月11日",
+    "dateE": "May 6th~May 11th"
+  },
+  "footer": {
+    "page": 29
+  },
+  "nodes": [
+    {
+      "nodeId": "p29_box_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 2
+      }
+    },
+    {
+      "nodeId": "p29_box_0_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 190
+        },
+        "1": {
+          "x": 435,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 4
+      },
+      "text": "5月6日"
+    },
+    {
+      "nodeId": "p29_box_1",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 5
+      }
+    },
+    {
+      "nodeId": "p29_box_1_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 0
+      },
+      "kind": "Textbox_Selection_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 250
+        },
+        "1": {
+          "x": 435,
+          "y": 150
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 13
+      },
+      "text": "纷争之间的处理"
+    },
+    {
+      "nodeId": "p29_box_2",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 15
+      }
+    },
+    {
+      "nodeId": "p29_box_2_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 340
+        },
+        "1": {
+          "x": 315,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 17
+      },
+      "text": "插嘴说话"
+    },
+    {
+      "nodeId": "p29_box_2_1",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 925,
+          "y": 340
+        },
+        "1": {
+          "x": 555,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 19
+      },
+      "text": "保持沉默，交给智代处理"
+    },
+    {
+      "nodeId": "p29_box_3",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 21
+      }
+    },
+    {
+      "nodeId": "p29_box_3_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 430
+        },
+        "1": {
+          "x": 435,
+          "y": 258
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 23
+      },
+      "text": "6日，希望和智代的快乐能持续下去"
+    },
+    {
+      "nodeId": "p29_box_4",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 26
+      }
+    },
+    {
+      "nodeId": "p29_box_4_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 520
+        },
+        "1": {
+          "x": 315,
+          "y": 312
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 28
+      },
+      "text": "这样下去是不行的"
+    },
+    {
+      "nodeId": "p29_box_4_1",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 925,
+          "y": 520
+        },
+        "1": {
+          "x": 555,
+          "y": 312
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 30
+      },
+      "text": "就这样继续下去"
+    },
+    {
+      "nodeId": "p29_box_5",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 32
+      }
+    },
+    {
+      "nodeId": "p29_box_5_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 580
+        },
+        "1": {
+          "x": 315,
+          "y": 348
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 34
+      },
+      "text": "代替春原的要求"
+    },
+    {
+      "nodeId": "p29_box_6",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 36
+      }
+    },
+    {
+      "nodeId": "p29_box_6_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 670
+        },
+        "1": {
+          "x": 195,
+          "y": 402
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 38
+      },
+      "text": "不行",
+      "routeHints": "l|智代"
+    },
+    {
+      "nodeId": "p29_box_6_1",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 670
+        },
+        "1": {
+          "x": 435,
+          "y": 402
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 40
+      },
+      "text": "好的",
+      "routeHints": "r|智代"
+    },
+    {
+      "nodeId": "p29_box_7",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 42
+      }
+    },
+    {
+      "nodeId": "p29_box_7_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 730
+        },
+        "1": {
+          "x": 195,
+          "y": 438
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 44
+      },
+      "text": "5月11日"
+    },
+    {
+      "nodeId": "p29_box_8",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 46
+      }
+    },
+    {
+      "nodeId": "p29_box_8_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 0
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 760
+        },
+        "1": {
+          "x": 435,
+          "y": 456
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 48
+      },
+      "text": "智代 Bad Ending"
+    },
+    {
+      "nodeId": "p29_box_9",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 51
+      }
+    },
+    {
+      "nodeId": "p29_box_9_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 910
+        },
+        "1": {
+          "x": 495,
+          "y": 546
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 53
+      },
+      "text": "5月11日"
+    },
+    {
+      "nodeId": "p29_box_10",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 10
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 54
+      }
+    },
+    {
+      "nodeId": "p29_box_10_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 0
+      },
+      "kind": "Textbox_Selection_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 970
+        },
+        "1": {
+          "x": 495,
+          "y": 582
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 62
+      },
+      "text": "被踢飞过来的春原"
+    },
+    {
+      "nodeId": "p29_box_11",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 11
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 64
+      }
+    },
+    {
+      "nodeId": "p29_box_11_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1060
+        },
+        "1": {
+          "x": 375,
+          "y": 636
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 66
+      },
+      "text": "踢回去"
+    },
+    {
+      "nodeId": "p29_box_11_1",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 1060
+        },
+        "1": {
+          "x": 615,
+          "y": 636
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 68
+      },
+      "text": "避开"
+    },
+    {
+      "nodeId": "p29_box_12",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 12
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 70
+      }
+    },
+    {
+      "nodeId": "p29_box_12_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 0
+      },
+      "kind": "Textbox_Option_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1120
+        },
+        "1": {
+          "x": 375,
+          "y": 672
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 78
+      },
+      "text": "智代64HIT"
+    },
+    {
+      "nodeId": "p29_box_13",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 13
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 82
+      }
+    },
+    {
+      "nodeId": "p29_box_13_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 13,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1210
+        },
+        "1": {
+          "x": 495,
+          "y": 726
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 84
+      },
+      "text": "16日，宿舍走廊遇见美佐枝"
+    },
+    {
+      "nodeId": "p29_box_14",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 14
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 87
+      }
+    },
+    {
+      "nodeId": "p29_box_14_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1300
+        },
+        "1": {
+          "x": 375,
+          "y": 780
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 89
+      },
+      "text": "向她搭话"
+    },
+    {
+      "nodeId": "p29_box_14_1",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 1300
+        },
+        "1": {
+          "x": 615,
+          "y": 780
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 91
+      },
+      "text": "目送她离去",
+      "routeHints": "r|+未触发"
+    },
+    {
+      "nodeId": "p29_box_15",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 15
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 93
+      }
+    },
+    {
+      "nodeId": "p29_box_15_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 0
+      },
+      "kind": "Textbox_Selection_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1360
+        },
+        "1": {
+          "x": 375,
+          "y": 816
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 101
+      },
+      "text": "帮美佐枝找她的猫"
+    },
+    {
+      "nodeId": "p29_box_16",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 16
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 103
+      }
+    },
+    {
+      "nodeId": "p29_box_16_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 16,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1450
+        },
+        "1": {
+          "x": 255,
+          "y": 870
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 105
+      },
+      "text": "帮忙"
+    },
+    {
+      "nodeId": "p29_box_16_1",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 16,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1450
+        },
+        "1": {
+          "x": 495,
+          "y": 870
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 107
+      },
+      "text": "拒绝"
+    },
+    {
+      "nodeId": "p29_box_17",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 17
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 109
+      }
+    },
+    {
+      "nodeId": "p29_box_17_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 17,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1510
+        },
+        "1": {
+          "x": 255,
+          "y": 906
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 111
+      },
+      "text": "完成过美佐枝线"
+    },
+    {
+      "nodeId": "p29_box_18",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 18
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 113
+      }
+    },
+    {
+      "nodeId": "p29_box_18_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 18,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1600
+        },
+        "1": {
+          "x": 135,
+          "y": 960
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 115
+      },
+      "text": "是"
+    },
+    {
+      "nodeId": "p29_box_18_1",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 18,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1600
+        },
+        "1": {
+          "x": 375,
+          "y": 960
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 117
+      },
+      "text": "否"
+    },
+    {
+      "nodeId": "p29_box_19",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 19
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 119
+      }
+    },
+    {
+      "nodeId": "p29_box_19_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 19,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1660
+        },
+        "1": {
+          "x": 135,
+          "y": 996
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 121
+      },
+      "text": "美佐枝“光”获得"
+    },
+    {
+      "nodeId": "p29_box_20",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 20
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 123
+      }
+    },
+    {
+      "nodeId": "p29_box_20_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 20,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1810
+        },
+        "1": {
+          "x": 495,
+          "y": 1086
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 125
+      },
+      "text": "智代“光”获得"
+    },
+    {
+      "nodeId": "p29_box_21",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "index": 21
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 130
+      }
+    },
+    {
+      "nodeId": "p29_box_21_0",
+      "page": 29,
+      "boxRef": {
+        "varName": "box",
+        "row": 21,
+        "col": 0
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1870
+        },
+        "1": {
+          "x": 495,
+          "y": 1122
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 132
+      },
+      "text": "智代 Good Ending"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p29_edge_14",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 14
+      },
+      "from": "p29_box_1_0",
+      "to": "p29_box_0_0"
+    },
+    {
+      "edgeId": "p29_edge_18",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 18
+      },
+      "from": "p29_box_2_0",
+      "to": "p29_box_1_0"
+    },
+    {
+      "edgeId": "p29_edge_20",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 20
+      },
+      "from": "p29_box_2_1",
+      "to": "p29_box_1_0"
+    },
+    {
+      "edgeId": "p29_edge_24",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 24
+      },
+      "from": "p29_box_3_0",
+      "to": "p29_box_2_0"
+    },
+    {
+      "edgeId": "p29_edge_25",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 25
+      },
+      "from": "p29_box_3_0",
+      "to": "p29_box_2_1"
+    },
+    {
+      "edgeId": "p29_edge_29",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 29
+      },
+      "from": "p29_box_4_0",
+      "to": "p29_box_3_0"
+    },
+    {
+      "edgeId": "p29_edge_31",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 31
+      },
+      "from": "p29_box_4_1",
+      "to": "p29_box_3_0"
+    },
+    {
+      "edgeId": "p29_edge_35",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 35
+      },
+      "from": "p29_box_5_0",
+      "to": "p29_box_4_0"
+    },
+    {
+      "edgeId": "p29_edge_39",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 39
+      },
+      "from": "p29_box_6_0",
+      "to": "p29_box_5_0"
+    },
+    {
+      "edgeId": "p29_edge_41",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 41
+      },
+      "from": "p29_box_6_1",
+      "to": "p29_box_5_0"
+    },
+    {
+      "edgeId": "p29_edge_45",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 45
+      },
+      "from": "p29_box_7_0",
+      "to": "p29_box_6_0"
+    },
+    {
+      "edgeId": "p29_edge_49",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 49
+      },
+      "from": "p29_box_8_0",
+      "to": "p29_box_6_1"
+    },
+    {
+      "edgeId": "p29_edge_50",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 50
+      },
+      "from": "p29_box_8_0",
+      "to": "p29_box_4_1"
+    },
+    {
+      "edgeId": "p29_edge_63",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 63
+      },
+      "from": "p29_box_10_0",
+      "to": "p29_box_9_0"
+    },
+    {
+      "edgeId": "p29_edge_67",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 67
+      },
+      "from": "p29_box_11_0",
+      "to": "p29_box_10_0"
+    },
+    {
+      "edgeId": "p29_edge_69",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 69
+      },
+      "from": "p29_box_11_1",
+      "to": "p29_box_10_0"
+    },
+    {
+      "edgeId": "p29_edge_81",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 81
+      },
+      "from": "p29_box_12_0",
+      "to": "p29_box_11_0"
+    },
+    {
+      "edgeId": "p29_edge_85",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 85
+      },
+      "from": "p29_box_13_0",
+      "to": "p29_box_12_0"
+    },
+    {
+      "edgeId": "p29_edge_86",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 86
+      },
+      "from": "p29_box_13_0",
+      "to": "p29_box_11_1"
+    },
+    {
+      "edgeId": "p29_edge_90",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 90
+      },
+      "from": "p29_box_14_0",
+      "to": "p29_box_13_0"
+    },
+    {
+      "edgeId": "p29_edge_92",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 92
+      },
+      "from": "p29_box_14_1",
+      "to": "p29_box_13_0"
+    },
+    {
+      "edgeId": "p29_edge_102",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 102
+      },
+      "from": "p29_box_15_0",
+      "to": "p29_box_14_0"
+    },
+    {
+      "edgeId": "p29_edge_106",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 106
+      },
+      "from": "p29_box_16_0",
+      "to": "p29_box_15_0"
+    },
+    {
+      "edgeId": "p29_edge_108",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 108
+      },
+      "from": "p29_box_16_1",
+      "to": "p29_box_15_0"
+    },
+    {
+      "edgeId": "p29_edge_112",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 112
+      },
+      "from": "p29_box_17_0",
+      "to": "p29_box_16_0"
+    },
+    {
+      "edgeId": "p29_edge_116",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 116
+      },
+      "from": "p29_box_18_0",
+      "to": "p29_box_17_0"
+    },
+    {
+      "edgeId": "p29_edge_118",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 118
+      },
+      "from": "p29_box_18_1",
+      "to": "p29_box_17_0"
+    },
+    {
+      "edgeId": "p29_edge_122",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 122
+      },
+      "from": "p29_box_19_0",
+      "to": "p29_box_18_0"
+    },
+    {
+      "edgeId": "p29_edge_126",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1780
+          },
+          {
+            "x": 600,
+            "y": 1750
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1068
+          },
+          {
+            "x": 360,
+            "y": 1050
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 126
+      },
+      "from": "p29_box_20_0",
+      "to": "p29_box_19_0"
+    },
+    {
+      "edgeId": "p29_edge_127",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1780
+          },
+          {
+            "x": 600,
+            "y": 1750
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1068
+          },
+          {
+            "x": 360,
+            "y": 1050
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 127
+      },
+      "from": "p29_box_20_0",
+      "to": "p29_box_18_1"
+    },
+    {
+      "edgeId": "p29_edge_128",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1780
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1068
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 128
+      },
+      "from": "p29_box_20_0",
+      "to": "p29_box_16_1"
+    },
+    {
+      "edgeId": "p29_edge_129",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 129
+      },
+      "from": "p29_box_20_0",
+      "to": "p29_box_14_1"
+    },
+    {
+      "edgeId": "p29_edge_133",
+      "page": 29,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page29.js",
+        "page": 29,
+        "stmtIndex": 133
+      },
+      "from": "p29_box_21_0",
+      "to": "p29_box_20_0"
+    }
+  ],
+  "unknownStatements": 2,
+  "notes": [
+    "next"
+  ]
+}

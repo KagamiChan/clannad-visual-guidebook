@@ -1,0 +1,388 @@
+[
+  {
+    "dayKey": "04-14",
+    "label": "4月14日",
+    "sourcePages": [
+      1
+    ],
+    "nodeCount": 20,
+    "edgeCount": 9,
+    "crossDayEdgeCount": 0
+  },
+  {
+    "dayKey": "04-15",
+    "label": "4月15日",
+    "sourcePages": [
+      1,
+      2
+    ],
+    "nodeCount": 52,
+    "edgeCount": 41,
+    "crossDayEdgeCount": 4
+  },
+  {
+    "dayKey": "04-16",
+    "label": "4月16日",
+    "sourcePages": [
+      2,
+      3
+    ],
+    "nodeCount": 76,
+    "edgeCount": 41,
+    "crossDayEdgeCount": 1
+  },
+  {
+    "dayKey": "04-17",
+    "label": "4月17日",
+    "sourcePages": [
+      4,
+      5
+    ],
+    "nodeCount": 74,
+    "edgeCount": 59,
+    "crossDayEdgeCount": 0
+  },
+  {
+    "dayKey": "04-18",
+    "label": "4月18日",
+    "sourcePages": [
+      6,
+      7,
+      9
+    ],
+    "nodeCount": 161,
+    "edgeCount": 131,
+    "crossDayEdgeCount": 0
+  },
+  {
+    "dayKey": "04-19",
+    "label": "4月19日",
+    "sourcePages": [
+      8,
+      10,
+      11
+    ],
+    "nodeCount": 103,
+    "edgeCount": 101,
+    "crossDayEdgeCount": 0
+  },
+  {
+    "dayKey": "04-20",
+    "label": "4月20日",
+    "sourcePages": [
+      10,
+      12,
+      40
+    ],
+    "nodeCount": 48,
+    "edgeCount": 34,
+    "crossDayEdgeCount": 1
+  },
+  {
+    "dayKey": "04-21",
+    "label": "4月21日",
+    "sourcePages": [
+      12,
+      13,
+      14,
+      26,
+      40
+    ],
+    "nodeCount": 171,
+    "edgeCount": 149,
+    "crossDayEdgeCount": 2
+  },
+  {
+    "dayKey": "04-22",
+    "label": "4月22日",
+    "sourcePages": [
+      13,
+      15,
+      16,
+      17
+    ],
+    "nodeCount": 138,
+    "edgeCount": 104,
+    "crossDayEdgeCount": 1
+  },
+  {
+    "dayKey": "04-23",
+    "label": "4月23日",
+    "sourcePages": [
+      15,
+      18,
+      19,
+      40
+    ],
+    "nodeCount": 121,
+    "edgeCount": 79,
+    "crossDayEdgeCount": 5
+  },
+  {
+    "dayKey": "04-24",
+    "label": "4月24日",
+    "sourcePages": [
+      20,
+      21,
+      22,
+      31,
+      38
+    ],
+    "nodeCount": 162,
+    "edgeCount": 119,
+    "crossDayEdgeCount": 0
+  },
+  {
+    "dayKey": "04-25",
+    "label": "4月25日",
+    "sourcePages": [
+      21,
+      23,
+      27,
+      34,
+      37,
+      40,
+      41,
+      59
+    ],
+    "nodeCount": 148,
+    "edgeCount": 94,
+    "crossDayEdgeCount": 5
+  },
+  {
+    "dayKey": "04-26",
+    "label": "4月26日",
+    "sourcePages": [
+      23,
+      27,
+      34,
+      43,
+      51,
+      59,
+      60
+    ],
+    "nodeCount": 111,
+    "edgeCount": 69,
+    "crossDayEdgeCount": 7
+  },
+  {
+    "dayKey": "04-27",
+    "label": "4月27日",
+    "sourcePages": [
+      43,
+      44,
+      51,
+      60
+    ],
+    "nodeCount": 31,
+    "edgeCount": 29,
+    "crossDayEdgeCount": 11
+  },
+  {
+    "dayKey": "04-28",
+    "label": "4月28日",
+    "sourcePages": [
+      34,
+      43,
+      44,
+      51,
+      52,
+      60,
+      61
+    ],
+    "nodeCount": 113,
+    "edgeCount": 69,
+    "crossDayEdgeCount": 6
+  },
+  {
+    "dayKey": "04-29",
+    "label": "4月29日",
+    "sourcePages": [
+      41,
+      44,
+      52,
+      53,
+      61
+    ],
+    "nodeCount": 84,
+    "edgeCount": 46,
+    "crossDayEdgeCount": 5
+  },
+  {
+    "dayKey": "04-30",
+    "label": "4月30日",
+    "sourcePages": [
+      41,
+      44,
+      53
+    ],
+    "nodeCount": 24,
+    "edgeCount": 20,
+    "crossDayEdgeCount": 10
+  },
+  {
+    "dayKey": "05-01",
+    "label": "5月1日",
+    "sourcePages": [
+      34,
+      53,
+      54
+    ],
+    "nodeCount": 41,
+    "edgeCount": 12,
+    "crossDayEdgeCount": 5
+  },
+  {
+    "dayKey": "05-02",
+    "label": "5月2日",
+    "sourcePages": [
+      27,
+      44,
+      45,
+      54
+    ],
+    "nodeCount": 39,
+    "edgeCount": 15,
+    "crossDayEdgeCount": 7
+  },
+  {
+    "dayKey": "05-03",
+    "label": "5月3日",
+    "sourcePages": [
+      27,
+      28,
+      34,
+      35,
+      41,
+      45
+    ],
+    "nodeCount": 62,
+    "edgeCount": 21,
+    "crossDayEdgeCount": 9
+  },
+  {
+    "dayKey": "05-04",
+    "label": "5月4日",
+    "sourcePages": [
+      28,
+      35,
+      41
+    ],
+    "nodeCount": 23,
+    "edgeCount": 16,
+    "crossDayEdgeCount": 6
+  },
+  {
+    "dayKey": "05-05",
+    "label": "5月5日",
+    "sourcePages": [
+      28,
+      35,
+      41,
+      42,
+      54,
+      62
+    ],
+    "nodeCount": 66,
+    "edgeCount": 35,
+    "crossDayEdgeCount": 8
+  },
+  {
+    "dayKey": "05-06",
+    "label": "5月6日",
+    "sourcePages": [
+      28,
+      29,
+      54,
+      62
+    ],
+    "nodeCount": 38,
+    "edgeCount": 16,
+    "crossDayEdgeCount": 5
+  },
+  {
+    "dayKey": "05-07",
+    "label": "5月7日",
+    "sourcePages": [
+      35,
+      36
+    ],
+    "nodeCount": 53,
+    "edgeCount": 22,
+    "crossDayEdgeCount": 3
+  },
+  {
+    "dayKey": "05-08",
+    "label": "5月8日",
+    "sourcePages": [
+      42
+    ],
+    "nodeCount": 47,
+    "edgeCount": 23,
+    "crossDayEdgeCount": 3
+  },
+  {
+    "dayKey": "05-09",
+    "label": "5月9日",
+    "sourcePages": [
+      62
+    ],
+    "nodeCount": 8,
+    "edgeCount": 7,
+    "crossDayEdgeCount": 3
+  },
+  {
+    "dayKey": "05-10",
+    "label": "5月10日",
+    "sourcePages": [
+      54
+    ],
+    "nodeCount": 5,
+    "edgeCount": 4,
+    "crossDayEdgeCount": 0
+  },
+  {
+    "dayKey": "05-11",
+    "label": "5月11日",
+    "sourcePages": [
+      29,
+      45,
+      54,
+      55
+    ],
+    "nodeCount": 96,
+    "edgeCount": 35,
+    "crossDayEdgeCount": 8
+  },
+  {
+    "dayKey": "05-12",
+    "label": "5月12日",
+    "sourcePages": [
+      62,
+      63
+    ],
+    "nodeCount": 24,
+    "edgeCount": 3,
+    "crossDayEdgeCount": 2
+  },
+  {
+    "dayKey": "05-13",
+    "label": "5月13日",
+    "sourcePages": [
+      63
+    ],
+    "nodeCount": 8,
+    "edgeCount": 6,
+    "crossDayEdgeCount": 2
+  },
+  {
+    "dayKey": "05-16",
+    "label": "5月16日",
+    "sourcePages": [
+      63
+    ],
+    "nodeCount": 33,
+    "edgeCount": 17,
+    "crossDayEdgeCount": 3
+  }
+]

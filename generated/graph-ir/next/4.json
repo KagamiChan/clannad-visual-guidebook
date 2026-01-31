@@ -1,0 +1,1142 @@
+{
+  "page": 4,
+  "sourceFile": "next/Data/page4.js",
+  "header": {
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "4月16日（二）",
+    "dateE": "April 16th~Part 2"
+  },
+  "footer": {
+    "page": 4
+  },
+  "nodes": [
+    {
+      "nodeId": "p4_box_0",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 2
+      }
+    },
+    {
+      "nodeId": "p4_box_0_0",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 190
+        },
+        "1": {
+          "x": 495,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 4
+      },
+      "text": "15日，回想起庭院中的少女"
+    },
+    {
+      "nodeId": "p4_box_1",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 8
+      }
+    },
+    {
+      "nodeId": "p4_box_1_0",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 280
+        },
+        "1": {
+          "x": 315,
+          "y": 168
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 10
+      },
+      "text": "在意"
+    },
+    {
+      "nodeId": "p4_box_1_1",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1125,
+          "y": 280
+        },
+        "1": {
+          "x": 675,
+          "y": 168
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 12
+      },
+      "text": "不在意",
+      "routeHints": "r|+未触发"
+    },
+    {
+      "nodeId": "p4_box_2",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 15
+      }
+    },
+    {
+      "nodeId": "p4_box_2_0",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 340
+        },
+        "1": {
+          "x": 315,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 17
+      },
+      "text": "15日，面对泪水打转的椋"
+    },
+    {
+      "nodeId": "p4_box_3",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 19
+      }
+    },
+    {
+      "nodeId": "p4_box_3_0",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 430
+        },
+        "1": {
+          "x": 195,
+          "y": 258
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 21
+      },
+      "text": "道歉"
+    },
+    {
+      "nodeId": "p4_box_3_1",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 430
+        },
+        "1": {
+          "x": 435,
+          "y": 258
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 23
+      },
+      "text": "无视"
+    },
+    {
+      "nodeId": "p4_box_4",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 25
+      }
+    },
+    {
+      "nodeId": "p4_box_4_0",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 490
+        },
+        "1": {
+          "x": 435,
+          "y": 294
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 27
+      },
+      "text": "早晨对古河的约定"
+    },
+    {
+      "nodeId": "p4_box_5",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 29
+      }
+    },
+    {
+      "nodeId": "p4_box_5_0",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 580
+        },
+        "1": {
+          "x": 315,
+          "y": 348
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 31
+      },
+      "text": "跑去买",
+      "routeHints": "l|渚|风子"
+    },
+    {
+      "nodeId": "p4_box_5_1",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 925,
+          "y": 580
+        },
+        "1": {
+          "x": 555,
+          "y": 348
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 33
+      },
+      "text": "用不着那么做",
+      "routeHints": "r|渚|风子"
+    },
+    {
+      "nodeId": "p4_box_6",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 35
+      }
+    },
+    {
+      "nodeId": "p4_box_6_0",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 0
+      },
+      "kind": "Textbox_Selection_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 670
+        },
+        "1": {
+          "x": 195,
+          "y": 402
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 43
+      },
+      "text": "古河重新创立话剧社"
+    },
+    {
+      "nodeId": "p4_box_7",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 46
+      }
+    },
+    {
+      "nodeId": "p4_box_7_0",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 125,
+          "y": 760
+        },
+        "1": {
+          "x": 75,
+          "y": 456
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 48
+      },
+      "text": "让她一个人做",
+      "routeHints": "l|智代|胜平|美佐枝|-渚|-风子"
+    },
+    {
+      "nodeId": "p4_box_7_1",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 760
+        },
+        "1": {
+          "x": 315,
+          "y": 456
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 50
+      },
+      "text": "帮忙",
+      "routeHints": "r|-渚|-风子|智代|胜平|美佐枝"
+    },
+    {
+      "nodeId": "p4_box_8",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 52
+      }
+    },
+    {
+      "nodeId": "p4_box_8_0",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 820
+        },
+        "1": {
+          "x": 315,
+          "y": 492
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 54
+      },
+      "text": "古河的提议「住到我家来」"
+    },
+    {
+      "nodeId": "p4_box_9",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 56
+      }
+    },
+    {
+      "nodeId": "p4_box_9_0",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 910
+        },
+        "1": {
+          "x": 195,
+          "y": 546
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 58
+      },
+      "text": "怎么可以这样"
+    },
+    {
+      "nodeId": "p4_box_9_1",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 910
+        },
+        "1": {
+          "x": 435,
+          "y": 546
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 60
+      },
+      "text": "想这么做"
+    },
+    {
+      "nodeId": "p4_box_10",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "index": 10
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 62
+      }
+    },
+    {
+      "nodeId": "p4_box_10_0",
+      "page": 4,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1060
+        },
+        "1": {
+          "x": 495,
+          "y": 636
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 64
+      },
+      "text": "4月17日"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p4_edge_5",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 5
+      }
+    },
+    {
+      "edgeId": "p4_edge_11",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 900,
+            "y": 250
+          }
+        ],
+        "1": [
+          {
+            "x": 540,
+            "y": 150
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 11
+      },
+      "from": "p4_box_1_0",
+      "to": "p4_box_1_0"
+    },
+    {
+      "edgeId": "p4_edge_13",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 900,
+            "y": 250
+          }
+        ],
+        "1": [
+          {
+            "x": 540,
+            "y": 150
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 13
+      },
+      "from": "p4_box_1_1",
+      "to": "p4_box_1_1"
+    },
+    {
+      "edgeId": "p4_edge_14",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 250
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 150
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 14
+      },
+      "from": "p4_box_0_0",
+      "to": "p4_box_0_0"
+    },
+    {
+      "edgeId": "p4_edge_18",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 18
+      },
+      "from": "p4_box_2_0",
+      "to": "p4_box_1_0"
+    },
+    {
+      "edgeId": "p4_edge_22",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 22
+      },
+      "from": "p4_box_3_0",
+      "to": "p4_box_2_0"
+    },
+    {
+      "edgeId": "p4_edge_24",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 24
+      },
+      "from": "p4_box_3_1",
+      "to": "p4_box_2_0"
+    },
+    {
+      "edgeId": "p4_edge_28",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 28
+      },
+      "from": "p4_box_4_0",
+      "to": "p4_box_3_1"
+    },
+    {
+      "edgeId": "p4_edge_32",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 32
+      },
+      "from": "p4_box_5_0",
+      "to": "p4_box_4_0"
+    },
+    {
+      "edgeId": "p4_edge_34",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 34
+      },
+      "from": "p4_box_5_1",
+      "to": "p4_box_4_0"
+    },
+    {
+      "edgeId": "p4_edge_44",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 44
+      },
+      "from": "p4_box_6_0",
+      "to": "p4_box_5_0"
+    },
+    {
+      "edgeId": "p4_edge_45",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 45
+      },
+      "from": "p4_box_6_0",
+      "to": "p4_box_3_0"
+    },
+    {
+      "edgeId": "p4_edge_49",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 49
+      },
+      "from": "p4_box_7_0",
+      "to": "p4_box_6_0"
+    },
+    {
+      "edgeId": "p4_edge_51",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 51
+      },
+      "from": "p4_box_7_1",
+      "to": "p4_box_6_0"
+    },
+    {
+      "edgeId": "p4_edge_55",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 55
+      },
+      "from": "p4_box_8_0",
+      "to": "p4_box_7_1"
+    },
+    {
+      "edgeId": "p4_edge_59",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 59
+      },
+      "from": "p4_box_9_0",
+      "to": "p4_box_8_0"
+    },
+    {
+      "edgeId": "p4_edge_61",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 61
+      },
+      "from": "p4_box_9_1",
+      "to": "p4_box_8_0"
+    },
+    {
+      "edgeId": "p4_edge_65",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 1030
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 618
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 65
+      },
+      "from": "p4_box_10_0",
+      "to": "p4_box_10_0"
+    },
+    {
+      "edgeId": "p4_edge_67",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 1030
+          },
+          {
+            "x": 300,
+            "y": 1000
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 618
+          },
+          {
+            "x": 180,
+            "y": 600
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 67
+      },
+      "from": "p4_box_7_0",
+      "to": "p4_box_7_0"
+    },
+    {
+      "edgeId": "p4_edge_68",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 1000
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 600
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 68
+      },
+      "from": "p4_box_9_0",
+      "to": "p4_box_9_0"
+    },
+    {
+      "edgeId": "p4_edge_69",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 1000
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 600
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 69
+      },
+      "from": "p4_box_9_1",
+      "to": "p4_box_9_1"
+    },
+    {
+      "edgeId": "p4_edge_70",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 1030
+          },
+          {
+            "x": 1100,
+            "y": 1000
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 618
+          },
+          {
+            "x": 660,
+            "y": 600
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 70
+      },
+      "from": "p4_box_5_1",
+      "to": "p4_box_5_1"
+    },
+    {
+      "edgeId": "p4_edge_71",
+      "page": 4,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 1030
+          },
+          {
+            "x": 1300,
+            "y": 1030
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 618
+          },
+          {
+            "x": 780,
+            "y": 618
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page4.js",
+        "page": 4,
+        "stmtIndex": 71
+      },
+      "from": "p4_box_1_1",
+      "to": "p4_box_1_1"
+    }
+  ],
+  "unknownStatements": 3,
+  "notes": [
+    "next"
+  ]
+}

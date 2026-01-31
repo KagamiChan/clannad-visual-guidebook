@@ -1,0 +1,2070 @@
+{
+  "page": 9,
+  "sourceFile": "next/Data/page9.js",
+  "header": {
+    "route": "public",
+    "routeC": "公共路线",
+    "routeE": "Public Route",
+    "dateC": "4月18日（三）",
+    "dateE": "April 18th~Part 3"
+  },
+  "footer": {
+    "page": 9
+  },
+  "nodes": [
+    {
+      "nodeId": "p9_box_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 2
+      }
+    },
+    {
+      "nodeId": "p9_box_0_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 0
+      },
+      "kind": "Textbox_Block",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 190
+        },
+        "1": {
+          "x": 15,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 4
+      },
+      "text": "A"
+    },
+    {
+      "nodeId": "p9_box_0_1",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 190
+        },
+        "1": {
+          "x": 255,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 7
+      },
+      "text": "逃课时遇到春原"
+    },
+    {
+      "nodeId": "p9_box_1",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 10
+      }
+    },
+    {
+      "nodeId": "p9_box_1_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 280
+        },
+        "1": {
+          "x": 135,
+          "y": 168
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 12
+      },
+      "text": "吓他一下"
+    },
+    {
+      "nodeId": "p9_box_1_1",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 280
+        },
+        "1": {
+          "x": 375,
+          "y": 168
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 14
+      },
+      "text": "躲起来等他"
+    },
+    {
+      "nodeId": "p9_box_2",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 16
+      }
+    },
+    {
+      "nodeId": "p9_box_2_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 370
+        },
+        "1": {
+          "x": 255,
+          "y": 222
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 18
+      },
+      "text": "犹豫是否进入图书馆"
+    },
+    {
+      "nodeId": "p9_box_3",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 22
+      }
+    },
+    {
+      "nodeId": "p9_box_3_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 125,
+          "y": 460
+        },
+        "1": {
+          "x": 75,
+          "y": 276
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 24
+      },
+      "text": "回教室",
+      "routeHints": "l|琴美"
+    },
+    {
+      "nodeId": "p9_box_3_1",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 460
+        },
+        "1": {
+          "x": 435,
+          "y": 276
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 26
+      },
+      "text": "进入图书馆",
+      "routeHints": "r|琴美"
+    },
+    {
+      "nodeId": "p9_box_4",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 28
+      }
+    },
+    {
+      "nodeId": "p9_box_4_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 0
+      },
+      "kind": "Textbox_Selection_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 520
+        },
+        "1": {
+          "x": 435,
+          "y": 312
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 36
+      },
+      "text": "设法让琴美注意到自己"
+    },
+    {
+      "nodeId": "p9_box_5",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 38
+      }
+    },
+    {
+      "nodeId": "p9_box_5_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 610
+        },
+        "1": {
+          "x": 195,
+          "y": 366
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 40
+      },
+      "text": "翻动书页"
+    },
+    {
+      "nodeId": "p9_box_5_1",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 610
+        },
+        "1": {
+          "x": 435,
+          "y": 366
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 42
+      },
+      "text": "叫她名字"
+    },
+    {
+      "nodeId": "p9_box_5_2",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 2
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1125,
+          "y": 610
+        },
+        "1": {
+          "x": 675,
+          "y": 366
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 44
+      },
+      "text": "戳她脸蛋"
+    },
+    {
+      "nodeId": "p9_box_6",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 46
+      }
+    },
+    {
+      "nodeId": "p9_box_6_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 700
+        },
+        "1": {
+          "x": 435,
+          "y": 420
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 48
+      },
+      "text": "朋也内心的思索"
+    },
+    {
+      "nodeId": "p9_box_7",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 52
+      }
+    },
+    {
+      "nodeId": "p9_box_7_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 790
+        },
+        "1": {
+          "x": 315,
+          "y": 474
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 54
+      },
+      "text": "不能就这样不理她",
+      "routeHints": "l|琴美|-胜平"
+    },
+    {
+      "nodeId": "p9_box_7_1",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 925,
+          "y": 790
+        },
+        "1": {
+          "x": 555,
+          "y": 474
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 56
+      },
+      "text": "从此不再与她扯上关系",
+      "routeHints": "r|-胜平|琴美"
+    },
+    {
+      "nodeId": "p9_box_8",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 58
+      }
+    },
+    {
+      "nodeId": "p9_box_8_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 850
+        },
+        "1": {
+          "x": 315,
+          "y": 510
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 60
+      },
+      "text": "古河重新创立话剧社"
+    },
+    {
+      "nodeId": "p9_box_9",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 62
+      }
+    },
+    {
+      "nodeId": "p9_box_9_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 940
+        },
+        "1": {
+          "x": 195,
+          "y": 564
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 64
+      },
+      "text": "帮忙"
+    },
+    {
+      "nodeId": "p9_box_9_1",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 940
+        },
+        "1": {
+          "x": 435,
+          "y": 564
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 66
+      },
+      "text": "让她一个人做",
+      "routeHints": "r|+未触发"
+    },
+    {
+      "nodeId": "p9_box_10",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "index": 10
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 68
+      }
+    },
+    {
+      "nodeId": "p9_box_10_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 1000
+        },
+        "1": {
+          "x": 195,
+          "y": 600
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 70
+      },
+      "text": "琴美的邀请和古河的约定"
+    },
+    {
+      "nodeId": "p9_box_11",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "index": 11
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 72
+      }
+    },
+    {
+      "nodeId": "p9_box_11_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 1090
+        },
+        "1": {
+          "x": 195,
+          "y": 654
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 74
+      },
+      "text": "今天还和以前一样与渚一起吃",
+      "routeHints": "l|渚|-琴美|-智代"
+    },
+    {
+      "nodeId": "p9_box_11_1",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 1090
+        },
+        "1": {
+          "x": 435,
+          "y": 654
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 76
+      },
+      "text": "在这里和琴美一起吃",
+      "routeHints": "r|-琴美|-智代|渚"
+    },
+    {
+      "nodeId": "p9_box_12",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "index": 12
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 85
+      }
+    },
+    {
+      "nodeId": "p9_box_12_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 0
+      },
+      "kind": "Textbox_Block",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 25,
+          "y": 1330
+        },
+        "1": {
+          "x": 15,
+          "y": 798
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 87
+      },
+      "text": "B"
+    },
+    {
+      "nodeId": "p9_box_12_1",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 1
+      },
+      "kind": "Textbox_Option_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1330
+        },
+        "1": {
+          "x": 495,
+          "y": 798
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 96
+      },
+      "text": "逃课选择睡觉的地方"
+    },
+    {
+      "nodeId": "p9_box_13",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "index": 13
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 99
+      }
+    },
+    {
+      "nodeId": "p9_box_13_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 13,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1420
+        },
+        "1": {
+          "x": 375,
+          "y": 852
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 101
+      },
+      "text": "到那里去睡",
+      "routeHints": "l|有纪宁"
+    },
+    {
+      "nodeId": "p9_box_13_1",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 13,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 1025,
+          "y": 1420
+        },
+        "1": {
+          "x": 615,
+          "y": 852
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 103
+      },
+      "text": "还是回教室吧"
+    },
+    {
+      "nodeId": "p9_box_14",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "index": 14
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 105
+      }
+    },
+    {
+      "nodeId": "p9_box_14_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1480
+        },
+        "1": {
+          "x": 375,
+          "y": 888
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 107
+      },
+      "text": "下课后，走进资料室的女孩"
+    },
+    {
+      "nodeId": "p9_box_15",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "index": 15
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 109
+      }
+    },
+    {
+      "nodeId": "p9_box_15_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1570
+        },
+        "1": {
+          "x": 255,
+          "y": 942
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 111
+      },
+      "text": "再说几句话",
+      "routeHints": "l|有纪宁|-胜平"
+    },
+    {
+      "nodeId": "p9_box_15_1",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 15,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 825,
+          "y": 1570
+        },
+        "1": {
+          "x": 495,
+          "y": 942
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 113
+      },
+      "text": "离开",
+      "routeHints": "r|-胜平|有纪宁"
+    },
+    {
+      "nodeId": "p9_box_16",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "index": 16
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 115
+      }
+    },
+    {
+      "nodeId": "p9_box_16_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 16,
+        "col": 0
+      },
+      "kind": "Textbox_Selection_C",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 425,
+          "y": 1630
+        },
+        "1": {
+          "x": 255,
+          "y": 978
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 123
+      },
+      "text": "有纪宁离开后"
+    },
+    {
+      "nodeId": "p9_box_17",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "index": 17
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 125
+      }
+    },
+    {
+      "nodeId": "p9_box_17_0",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 17,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 225,
+          "y": 1720
+        },
+        "1": {
+          "x": 135,
+          "y": 1032
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 127
+      },
+      "text": "睡觉"
+    },
+    {
+      "nodeId": "p9_box_17_1",
+      "page": 9,
+      "boxRef": {
+        "varName": "box",
+        "row": 17,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 625,
+          "y": 1720
+        },
+        "1": {
+          "x": 375,
+          "y": 1032
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 129
+      },
+      "text": "回教室"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p9_edge_8",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 8
+      }
+    },
+    {
+      "edgeId": "p9_edge_13",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 13
+      },
+      "from": "p9_box_1_0",
+      "to": "p9_box_0_1"
+    },
+    {
+      "edgeId": "p9_edge_15",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 15
+      },
+      "from": "p9_box_1_1",
+      "to": "p9_box_0_1"
+    },
+    {
+      "edgeId": "p9_edge_19",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 19
+      },
+      "from": "p9_box_2_0",
+      "to": "p9_box_1_0"
+    },
+    {
+      "edgeId": "p9_edge_20",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 20
+      },
+      "from": "p9_box_2_0",
+      "to": "p9_box_1_1"
+    },
+    {
+      "edgeId": "p9_edge_21",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 430
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 258
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 21
+      },
+      "from": "p9_box_2_0",
+      "to": "p9_box_2_0"
+    },
+    {
+      "edgeId": "p9_edge_25",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 500,
+            "y": 430
+          }
+        ],
+        "1": [
+          {
+            "x": 300,
+            "y": 258
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 25
+      },
+      "from": "p9_box_3_0",
+      "to": "p9_box_3_0"
+    },
+    {
+      "edgeId": "p9_edge_27",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 500,
+            "y": 430
+          }
+        ],
+        "1": [
+          {
+            "x": 300,
+            "y": 258
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 27
+      },
+      "from": "p9_box_3_1",
+      "to": "p9_box_3_1"
+    },
+    {
+      "edgeId": "p9_edge_37",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 37
+      },
+      "from": "p9_box_4_0",
+      "to": "p9_box_3_1"
+    },
+    {
+      "edgeId": "p9_edge_41",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 41
+      },
+      "from": "p9_box_5_0",
+      "to": "p9_box_4_0"
+    },
+    {
+      "edgeId": "p9_edge_43",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 43
+      },
+      "from": "p9_box_5_1",
+      "to": "p9_box_4_0"
+    },
+    {
+      "edgeId": "p9_edge_45",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 45
+      },
+      "from": "p9_box_5_2",
+      "to": "p9_box_4_0"
+    },
+    {
+      "edgeId": "p9_edge_49",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 49
+      },
+      "from": "p9_box_6_0",
+      "to": "p9_box_5_0"
+    },
+    {
+      "edgeId": "p9_edge_50",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 50
+      },
+      "from": "p9_box_6_0",
+      "to": "p9_box_5_1"
+    },
+    {
+      "edgeId": "p9_edge_51",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 51
+      },
+      "from": "p9_box_6_0",
+      "to": "p9_box_5_2"
+    },
+    {
+      "edgeId": "p9_edge_55",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 55
+      },
+      "from": "p9_box_7_0",
+      "to": "p9_box_6_0"
+    },
+    {
+      "edgeId": "p9_edge_57",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 57
+      },
+      "from": "p9_box_7_1",
+      "to": "p9_box_6_0"
+    },
+    {
+      "edgeId": "p9_edge_61",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 61
+      },
+      "from": "p9_box_8_0",
+      "to": "p9_box_7_0"
+    },
+    {
+      "edgeId": "p9_edge_65",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 65
+      },
+      "from": "p9_box_9_0",
+      "to": "p9_box_8_0"
+    },
+    {
+      "edgeId": "p9_edge_67",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 67
+      },
+      "from": "p9_box_9_1",
+      "to": "p9_box_8_0"
+    },
+    {
+      "edgeId": "p9_edge_71",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 71
+      },
+      "from": "p9_box_10_0",
+      "to": "p9_box_9_0"
+    },
+    {
+      "edgeId": "p9_edge_75",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 75
+      },
+      "from": "p9_box_11_0",
+      "to": "p9_box_10_0"
+    },
+    {
+      "edgeId": "p9_edge_77",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 77
+      },
+      "from": "p9_box_11_1",
+      "to": "p9_box_10_0"
+    },
+    {
+      "edgeId": "p9_edge_79",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 900,
+            "y": 1210
+          },
+          {
+            "x": 300,
+            "y": 1210
+          }
+        ],
+        "1": [
+          {
+            "x": 540,
+            "y": 726
+          },
+          {
+            "x": 180,
+            "y": 726
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 79
+      },
+      "from": "p9_box_3_0",
+      "to": "p9_box_3_0"
+    },
+    {
+      "edgeId": "p9_edge_80",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 900,
+            "y": 1210
+          },
+          {
+            "x": 700,
+            "y": 1180
+          }
+        ],
+        "1": [
+          {
+            "x": 540,
+            "y": 726
+          },
+          {
+            "x": 420,
+            "y": 708
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 80
+      },
+      "from": "p9_box_11_0",
+      "to": "p9_box_11_0"
+    },
+    {
+      "edgeId": "p9_edge_81",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 900,
+            "y": 1210
+          },
+          {
+            "x": 700,
+            "y": 1180
+          }
+        ],
+        "1": [
+          {
+            "x": 540,
+            "y": 726
+          },
+          {
+            "x": 420,
+            "y": 708
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 81
+      },
+      "from": "p9_box_11_1",
+      "to": "p9_box_11_1"
+    },
+    {
+      "edgeId": "p9_edge_82",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 900,
+            "y": 1210
+          },
+          {
+            "x": 1100,
+            "y": 1030
+          }
+        ],
+        "1": [
+          {
+            "x": 540,
+            "y": 726
+          },
+          {
+            "x": 660,
+            "y": 618
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 82
+      },
+      "from": "p9_box_9_1",
+      "to": "p9_box_9_1"
+    },
+    {
+      "edgeId": "p9_edge_83",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 900,
+            "y": 1210
+          }
+        ],
+        "1": [
+          {
+            "x": 540,
+            "y": 726
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 83
+      },
+      "from": "p9_box_7_1",
+      "to": "p9_box_7_1"
+    },
+    {
+      "edgeId": "p9_edge_84",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 600,
+            "y": 1210
+          },
+          {
+            "x": 600,
+            "y": 1210
+          }
+        ],
+        "1": [
+          {
+            "x": 360,
+            "y": 726
+          },
+          {
+            "x": 360,
+            "y": 726
+          }
+        ]
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 84
+      }
+    },
+    {
+      "edgeId": "p9_edge_97",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 97
+      }
+    },
+    {
+      "edgeId": "p9_edge_102",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 102
+      },
+      "from": "p9_box_13_0",
+      "to": "p9_box_12_1"
+    },
+    {
+      "edgeId": "p9_edge_104",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 104
+      },
+      "from": "p9_box_13_1",
+      "to": "p9_box_12_1"
+    },
+    {
+      "edgeId": "p9_edge_108",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 108
+      },
+      "from": "p9_box_14_0",
+      "to": "p9_box_13_0"
+    },
+    {
+      "edgeId": "p9_edge_112",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 112
+      },
+      "from": "p9_box_15_0",
+      "to": "p9_box_14_0"
+    },
+    {
+      "edgeId": "p9_edge_114",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 114
+      },
+      "from": "p9_box_15_1",
+      "to": "p9_box_14_0"
+    },
+    {
+      "edgeId": "p9_edge_124",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 124
+      },
+      "from": "p9_box_16_0",
+      "to": "p9_box_15_0"
+    },
+    {
+      "edgeId": "p9_edge_128",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 128
+      },
+      "from": "p9_box_17_0",
+      "to": "p9_box_16_0"
+    },
+    {
+      "edgeId": "p9_edge_130",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 130
+      },
+      "from": "p9_box_17_1",
+      "to": "p9_box_16_0"
+    },
+    {
+      "edgeId": "p9_edge_132",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1840
+          },
+          {
+            "x": 600,
+            "y": 1810
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1104
+          },
+          {
+            "x": 360,
+            "y": 1086
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 132
+      },
+      "from": "p9_box_17_0",
+      "to": "p9_box_17_0"
+    },
+    {
+      "edgeId": "p9_edge_133",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1840
+          },
+          {
+            "x": 600,
+            "y": 1810
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1104
+          },
+          {
+            "x": 360,
+            "y": 1086
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 133
+      },
+      "from": "p9_box_17_1",
+      "to": "p9_box_17_1"
+    },
+    {
+      "edgeId": "p9_edge_134",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1840
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1104
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 134
+      },
+      "from": "p9_box_15_1",
+      "to": "p9_box_15_1"
+    },
+    {
+      "edgeId": "p9_edge_135",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 800,
+            "y": 1840
+          },
+          {
+            "x": 1200,
+            "y": 1840
+          }
+        ],
+        "1": [
+          {
+            "x": 480,
+            "y": 1104
+          },
+          {
+            "x": 720,
+            "y": 1104
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 135
+      },
+      "from": "p9_box_13_1",
+      "to": "p9_box_13_1"
+    },
+    {
+      "edgeId": "p9_edge_136",
+      "page": 9,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 1000,
+            "y": 1840
+          },
+          {
+            "x": 1000,
+            "y": 1840
+          }
+        ],
+        "1": [
+          {
+            "x": 600,
+            "y": 1104
+          },
+          {
+            "x": 600,
+            "y": 1104
+          }
+        ]
+      },
+      "decorative": true,
+      "source": {
+        "file": "next/Data/page9.js",
+        "page": 9,
+        "stmtIndex": 136
+      }
+    }
+  ],
+  "unknownStatements": 6,
+  "notes": [
+    "next"
+  ]
+}

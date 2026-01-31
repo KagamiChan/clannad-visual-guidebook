@@ -1,0 +1,1153 @@
+{
+  "page": 37,
+  "sourceFile": "next/Data/page37.js",
+  "header": {
+    "route": "kappei",
+    "routeC": "柊　胜平",
+    "routeE": "KappeiHiiragii",
+    "dateC": "4月25日～胜平",
+    "dateE": "April 25th~Kappei"
+  },
+  "footer": {
+    "page": 37
+  },
+  "nodes": [
+    {
+      "nodeId": "p37_box_0",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "index": 0
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 2
+      }
+    },
+    {
+      "nodeId": "p37_box_0_0",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 0,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 190
+        },
+        "1": {
+          "x": 435,
+          "y": 114
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 4
+      },
+      "text": "4月25日"
+    },
+    {
+      "nodeId": "p37_box_1",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "index": 1
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 5
+      }
+    },
+    {
+      "nodeId": "p37_box_1_0",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 1,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 250
+        },
+        "1": {
+          "x": 435,
+          "y": 150
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 7
+      },
+      "text": "23日，无聊的午后时光"
+    },
+    {
+      "nodeId": "p37_box_2",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "index": 2
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 9
+      }
+    },
+    {
+      "nodeId": "p37_box_2_0",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 340
+        },
+        "1": {
+          "x": 315,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 11
+      },
+      "text": "转换一下心情"
+    },
+    {
+      "nodeId": "p37_box_2_1",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 2,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 925,
+          "y": 340
+        },
+        "1": {
+          "x": 555,
+          "y": 204
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 13
+      },
+      "text": "睡觉",
+      "routeHints": "r|+未触发"
+    },
+    {
+      "nodeId": "p37_box_3",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "index": 3
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 15
+      }
+    },
+    {
+      "nodeId": "p37_box_3_0",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 3,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 400
+        },
+        "1": {
+          "x": 315,
+          "y": 240
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 17
+      },
+      "text": "走廊中第N次遇到风子"
+    },
+    {
+      "nodeId": "p37_box_4",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "index": 4
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 19
+      }
+    },
+    {
+      "nodeId": "p37_box_4_0",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 490
+        },
+        "1": {
+          "x": 195,
+          "y": 294
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 21
+      },
+      "text": "叫住她"
+    },
+    {
+      "nodeId": "p37_box_4_1",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 4,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 490
+        },
+        "1": {
+          "x": 435,
+          "y": 294
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 23
+      },
+      "text": "暂时不管她"
+    },
+    {
+      "nodeId": "p37_box_5",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "index": 5
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 25
+      }
+    },
+    {
+      "nodeId": "p37_box_5_0",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 5,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 550
+        },
+        "1": {
+          "x": 195,
+          "y": 330
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 27
+      },
+      "text": "风子大师（五）"
+    },
+    {
+      "nodeId": "p37_box_6",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "index": 6
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 31
+      }
+    },
+    {
+      "nodeId": "p37_box_6_0",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 6,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 670
+        },
+        "1": {
+          "x": 435,
+          "y": 402
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 33
+      },
+      "text": "胜平"
+    },
+    {
+      "nodeId": "p37_box_7",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "index": 7
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 37
+      }
+    },
+    {
+      "nodeId": "p37_box_7_0",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 7,
+        "col": 0
+      },
+      "kind": "Textbox_Date",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 820
+        },
+        "1": {
+          "x": 435,
+          "y": 492
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 39
+      },
+      "text": "胜平"
+    },
+    {
+      "nodeId": "p37_box_8",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "index": 8
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 40
+      }
+    },
+    {
+      "nodeId": "p37_box_8_0",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 8,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 880
+        },
+        "1": {
+          "x": 435,
+          "y": 528
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 42
+      },
+      "text": "无处可归的胜平"
+    },
+    {
+      "nodeId": "p37_box_9",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "index": 9
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 44
+      }
+    },
+    {
+      "nodeId": "p37_box_9_0",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 970
+        },
+        "1": {
+          "x": 315,
+          "y": 582
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 46
+      },
+      "text": "给他介绍住处",
+      "routeHints": "l|胜平"
+    },
+    {
+      "nodeId": "p37_box_9_1",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 9,
+        "col": 1
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 925,
+          "y": 970
+        },
+        "1": {
+          "x": 555,
+          "y": 582
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 48
+      },
+      "text": "的确...是没有办法啊...",
+      "routeHints": "r|胜平"
+    },
+    {
+      "nodeId": "p37_box_10",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "index": 10
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 50
+      }
+    },
+    {
+      "nodeId": "p37_box_10_0",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 10,
+        "col": 0
+      },
+      "kind": "Textbox_Condition",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 525,
+          "y": 1030
+        },
+        "1": {
+          "x": 315,
+          "y": 618
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 52
+      },
+      "text": "20日，野芳寻求帮手"
+    },
+    {
+      "nodeId": "p37_box_11",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "index": 11
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 54
+      }
+    },
+    {
+      "nodeId": "p37_box_11_0",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 0
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 1120
+        },
+        "1": {
+          "x": 195,
+          "y": 672
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 56
+      },
+      "text": "帮忙"
+    },
+    {
+      "nodeId": "p37_box_11_1",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 11,
+        "col": 1
+      },
+      "kind": "Textbox_Selection",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 1120
+        },
+        "1": {
+          "x": 435,
+          "y": 672
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 58
+      },
+      "text": "拒绝",
+      "routeHints": "r|+未触发"
+    },
+    {
+      "nodeId": "p37_box_12",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "index": 12
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 60
+      }
+    },
+    {
+      "nodeId": "p37_box_12_0",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 12,
+        "col": 0
+      },
+      "kind": "Textbox_Option",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 1180
+        },
+        "1": {
+          "x": 195,
+          "y": 708
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 62
+      },
+      "text": "胜平“光”获得"
+    },
+    {
+      "nodeId": "p37_box_13",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "index": 13
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 64
+      }
+    },
+    {
+      "nodeId": "p37_box_13_0",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 13,
+        "col": 0
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 725,
+          "y": 1210
+        },
+        "1": {
+          "x": 435,
+          "y": 726
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 66
+      },
+      "text": "公共 BAD ENDING"
+    },
+    {
+      "nodeId": "p37_box_14",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "index": 14
+      },
+      "kind": "Array",
+      "pixelPosBySizeSet": {},
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 69
+      }
+    },
+    {
+      "nodeId": "p37_box_14_0",
+      "page": 37,
+      "boxRef": {
+        "varName": "box",
+        "row": 14,
+        "col": 0
+      },
+      "kind": "Textbox_Quit",
+      "pixelPosBySizeSet": {
+        "0": {
+          "x": 325,
+          "y": 1240
+        },
+        "1": {
+          "x": 195,
+          "y": 744
+        }
+      },
+      "anchors": [],
+      "jumps": [],
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 71
+      },
+      "text": "胜平 GOOD ENDING"
+    }
+  ],
+  "edges": [
+    {
+      "edgeId": "p37_edge_8",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 8
+      },
+      "from": "p37_box_1_0",
+      "to": "p37_box_0_0"
+    },
+    {
+      "edgeId": "p37_edge_12",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 12
+      },
+      "from": "p37_box_2_0",
+      "to": "p37_box_1_0"
+    },
+    {
+      "edgeId": "p37_edge_14",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 14
+      },
+      "from": "p37_box_2_1",
+      "to": "p37_box_1_0"
+    },
+    {
+      "edgeId": "p37_edge_18",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 18
+      },
+      "from": "p37_box_3_0",
+      "to": "p37_box_2_0"
+    },
+    {
+      "edgeId": "p37_edge_22",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 22
+      },
+      "from": "p37_box_4_0",
+      "to": "p37_box_3_0"
+    },
+    {
+      "edgeId": "p37_edge_24",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 24
+      },
+      "from": "p37_box_4_1",
+      "to": "p37_box_3_0"
+    },
+    {
+      "edgeId": "p37_edge_30",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 30
+      },
+      "from": "p37_box_5_0",
+      "to": "p37_box_4_0"
+    },
+    {
+      "edgeId": "p37_edge_34",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 640
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 384
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 34
+      },
+      "from": "p37_box_6_0",
+      "to": "p37_box_5_0"
+    },
+    {
+      "edgeId": "p37_edge_35",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [
+          {
+            "x": 700,
+            "y": 640
+          }
+        ],
+        "1": [
+          {
+            "x": 420,
+            "y": 384
+          }
+        ]
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 35
+      },
+      "from": "p37_box_6_0",
+      "to": "p37_box_4_1"
+    },
+    {
+      "edgeId": "p37_edge_36",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 36
+      },
+      "from": "p37_box_6_0",
+      "to": "p37_box_2_1"
+    },
+    {
+      "edgeId": "p37_edge_43",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 43
+      },
+      "from": "p37_box_8_0",
+      "to": "p37_box_7_0"
+    },
+    {
+      "edgeId": "p37_edge_47",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 47
+      },
+      "from": "p37_box_9_0",
+      "to": "p37_box_8_0"
+    },
+    {
+      "edgeId": "p37_edge_49",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 49
+      },
+      "from": "p37_box_9_1",
+      "to": "p37_box_8_0"
+    },
+    {
+      "edgeId": "p37_edge_53",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 53
+      },
+      "from": "p37_box_10_0",
+      "to": "p37_box_9_0"
+    },
+    {
+      "edgeId": "p37_edge_57",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 57
+      },
+      "from": "p37_box_11_0",
+      "to": "p37_box_10_0"
+    },
+    {
+      "edgeId": "p37_edge_59",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 59
+      },
+      "from": "p37_box_11_1",
+      "to": "p37_box_10_0"
+    },
+    {
+      "edgeId": "p37_edge_63",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 63
+      },
+      "from": "p37_box_12_0",
+      "to": "p37_box_11_0"
+    },
+    {
+      "edgeId": "p37_edge_67",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 67
+      },
+      "from": "p37_box_13_0",
+      "to": "p37_box_11_1"
+    },
+    {
+      "edgeId": "p37_edge_68",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 68
+      },
+      "from": "p37_box_13_0",
+      "to": "p37_box_9_1"
+    },
+    {
+      "edgeId": "p37_edge_72",
+      "page": 37,
+      "waypointsBySizeSet": {
+        "0": [],
+        "1": []
+      },
+      "decorative": false,
+      "source": {
+        "file": "next/Data/page37.js",
+        "page": 37,
+        "stmtIndex": 72
+      },
+      "from": "p37_box_14_0",
+      "to": "p37_box_12_0"
+    }
+  ],
+  "unknownStatements": 2,
+  "notes": [
+    "next"
+  ]
+}
